@@ -1,19 +1,7 @@
-# Extraction of transaction data on FIO's transparent bank accounts
+# EXTRACTION OF TRANSACTION DATA ON FIO'S TRANSPARENT BANK ACCOUNTS
 
-# Source helper functions
-source("00_helper_functions.R")
-
-# Set constant variables
-dir_name <- "data"
-entity_name <- "fio"
-accounts_fio <- readRDS(file.path(dir_name, "list_of_monitored_accounts.rds"))[[entity_name]]
-start_date <- format(Sys.Date() - 8, "%d.%m.%Y")
-end_date <- format(Sys.Date(), "%d.%m.%Y")
-user_agent <- Sys.getenv("USER_AGENT")
-
-## Function for the extraction of the transparent bank accounts in FIO bank
+# Function for the extraction  --------------------------------------------
 get_fio_transactions <- function(accounts_fio, start_date, end_date, user_agent) {
-
   # How many bank accounts to be extracted?
   print(paste(length(accounts_fio), "bank account(s) selected, will run the function."))
 
@@ -21,8 +9,29 @@ get_fio_transactions <- function(accounts_fio, start_date, end_date, user_agent)
   transactions_list <- vector(mode = "list", length = length(accounts_fio)) %>% setNames(names(accounts_fio))
 
   for (i in seq_along(accounts_fio)) {
+    
+    chosen_user_agent <- sample(user_agent, 1)
+    
     # Read the source page of the transparent bank account
-    fio_tables <- read_html(paste0("https://ib.fio.cz/ib/transparent?a=", accounts_fio[i], "&f=", start_date, "&t=", end_date), user_agent = user_agent) %>%
+    fio_tables <- read_html(paste0("https://ib.fio.cz/ib/transparent?a=", accounts_fio[i], "&f=", start_date, "&t=", end_date),
+      encoding = "UTF-8",
+      add_headers(
+        "Accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        "Accept-Encoding" = "gzip, deflate, br",
+        "Accept-Language" = "en;q=0.9",
+        "Cache-Control" = "no-cache",
+        "Connection" = "keep-alive",
+        "Host" = "ib.fio.cz",
+        "Pragma" = "no-cache",
+        "Sec-Fetch-Dest" = "document",
+        "Sec-Fetch-Mode" = "navigate",
+        "Sec-Fetch-Site" = "none",
+        "Sec-Fetch-User" = "?1",
+        "Upgrade-Insecure-Requests" = "1",
+        "User-Agent" = chosen_user_agent
+      ),
+      user_agent(chosen_user_agent)
+    ) %>%
       html_table(header = TRUE, dec = ",")
 
     if (length(fio_tables) == 1) {
@@ -59,29 +68,10 @@ get_fio_transactions <- function(accounts_fio, start_date, end_date, user_agent)
       na_if("")
 
     print(paste(nrow(transactions_list[[names(accounts_fio)[i]]]), "transactions on the account of entity", names(accounts_fio)[i], "between", start_date, "and", end_date))
+
+    Sys.sleep(runif(1, 0.1, 1))
   }
 
   # Bind list to a dataset
   bind_rows(transactions_list)
 }
-
-
-
-# Running the function with inputs ----------------------------------------
-
-# Verify inputs specified above
-verify_fio_inputs(dir_name, entity_name, accounts_fio, start_date, end_date, user_agent)
-
-# Prepare output directories
-prepare_output_directories(dir_name, entity_name)
-
-# Get the most recent transactions
-transactions_df <- get_fio_transactions(accounts_fio,
-                                        start_date,
-                                        end_date,
-                                        user_agent)
-
-
-transactions_df_appended <- append_new_data(transactions_df, dir_name, entity_name, start_date, end_date)
-  
-save_merged_and_individual(transactions_df_appended, dir_name, entity_name)
