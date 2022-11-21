@@ -1,7 +1,7 @@
 # Loading the required R libraries ----------------------------------------
 
 # Package names
-packages <- c("dplyr", "data.table", "stringr", "jsonlite", "httr", "tidyr", "rvest")
+packages <- c("dplyr", "data.table", "stringr", "jsonlite", "httr", "tidyr", "rvest", "digest")
 
 # Install packages not yet installed
 installed_packages <- packages %in% rownames(installed.packages())
@@ -10,7 +10,7 @@ if (any(installed_packages == FALSE)) {
 }
 
 # Packages loading
-invisible(lapply(packages, library, character.only = TRUE))
+invisible(lapply(packages, function(package) suppressMessages(library(package, character.only = TRUE))))
 
 # Turn off scientific notation of numbers
 options(scipen = 999)
@@ -28,10 +28,10 @@ validate_date <- function(mydate, date_format = "%Y-%m-%d") {
 }
 
 # Prepare output directories -------------------------------------------
-prepare_output_directories <- function(dir_name, entity_name = NULL) {
+prepare_output_directories <- function(dir_name, bank_name = NULL) {
   stopifnot(
     is.character(dir_name),
-    is.character(entity_name) | is.null(entity_name)
+    is.character(bank_name) | is.null(bank_name)
   )
 
   # We have to create a desired directory, if one does not yet exist
@@ -42,13 +42,13 @@ prepare_output_directories <- function(dir_name, entity_name = NULL) {
     print("OK: Main output directory prepared.")
   }
 
-  if (is.null(entity_name)) {
+  if (is.null(bank_name)) {
     return("Entity not specified - will not create specific directory.")
   }
 
   # We have to create a desired directory, if one does not yet exist
-  if (!dir.exists(file.path(dir_name, entity_name))) {
-    dir.create(file.path(dir_name, entity_name))
+  if (!dir.exists(file.path(dir_name, bank_name))) {
+    dir.create(file.path(dir_name, bank_name))
   } else {
     print("Entity output directory already exists.")
     print("OK: Entity output directory prepared.")
@@ -56,9 +56,9 @@ prepare_output_directories <- function(dir_name, entity_name = NULL) {
   }
 
   # Repeat the check for subdirectory for individual account datasets
-  if (!dir.exists(file.path(dir_name, entity_name, "individual_accounts"))) {
-    dir.create(file.path(dir_name, entity_name, "individual_accounts"))
-  } else if (dir.exists(file.path(dir_name, entity_name, "individual_accounts"))) {
+  if (!dir.exists(file.path(dir_name, bank_name, "individual_accounts"))) {
+    dir.create(file.path(dir_name, bank_name, "individual_accounts"))
+  } else if (dir.exists(file.path(dir_name, bank_name, "individual_accounts"))) {
     print("Entity output subdirectory already exists.")
     print("OK: Entity output subdirectory prepared.")
     
@@ -112,57 +112,78 @@ initialize_user_agents <- function(dir_name, ...) {
 }
 
 # Append newly extracted data to the previous dataset (if it exists)
-append_new_data <- function(transactions_df, dir_name, entity_name, start_date, end_date) {
+append_new_data <- function(transactions_df, dir_name, bank_name, start_date=NULL, end_date=NULL) {
+  
+  if (dim(transactions_df)[1] != 0 & (is.null(start_date) | is.null(end_date))) {
+    start_date <- min(transactions_df$date)
+    end_date <- max(transactions_df$date)
+    print(paste("IMPORTANT: MIN and MAX date argument was not specified. Their value is taken from the combined values of the combined", toupper(bank_name), "bank dataset."))
+  }
+  
   # Only append the full dataset if there are valid records the selected period
   if (dim(transactions_df)[1] == 0) {
-    stop(paste("No transactions on any of the accounts at", toupper(entity_name), "between", format(as.Date(start_date), "%d.%m.%Y"), "and", format(as.Date(end_date), "%d.%m.%Y"), "- no need to append."))
+    stop(paste("No transactions on any of the accounts at", toupper(bank_name), "between", format(as.Date(start_date), "%d.%m.%Y"), "and", format(as.Date(end_date), "%d.%m.%Y"), "- no need to append."))
   }
 
   # How many transactions were gathered?
-  print(paste0(dim(transactions_df)[1], " transactions on the selected bank accounts at ", toupper(entity_name), " between ", format(as.Date(start_date), "%d.%m.%Y"), " and ", format(as.Date(end_date), "%d.%m.%Y"), "."))
+  print(paste0(dim(transactions_df)[1], " transactions on the selected bank accounts at ", toupper(bank_name), " between ", format(as.Date(start_date), "%d.%m.%Y"), " and ", format(as.Date(end_date), "%d.%m.%Y"), "."))
 
   # Load in the existing full dataset and merge with yesterday's new data
-  if (file.exists(file.path(dir_name, entity_name, paste0(entity_name, "_merged_data.rds")))) {
-    print(paste("Older", toupper(entity_name), "combined dataset already exists - it will be appended with new transactions."))
+  if (file.exists(file.path(dir_name, bank_name, paste0(bank_name, "_merged_data.rds")))) {
+    print(paste("Older", toupper(bank_name), "combined dataset already exists - it will be appended with new transactions."))
     transactions_df %>%
-      bind_rows(readRDS(file.path(dir_name, entity_name, paste0(entity_name, "_merged_data.rds")))) %>% # Append the existing dataset with new rows & delete duplicates
+      bind_rows(readRDS(file.path(dir_name, bank_name, paste0(bank_name, "_merged_data.rds")))) %>% # Append the existing dataset with new rows & delete duplicates
       distinct()
   }
 
-  print(paste("Combined dataset of", toupper(entity_name), "has", nrow(transactions_df), "records."))
+  print(paste("Combined dataset of", toupper(bank_name), "has", nrow(transactions_df), "records."))
 
   return(transactions_df)
 }
 
 
 # Save finished dataset in the merged form and as well as in individual form
-save_merged_and_individual <- function(transactions_df_appended, dir_name, entity_name) {
+save_merged_and_individual <- function(transactions_df_appended, dir_name, bank_name) {
   # Save full dataset again both in CSV and RDS
-  saveRDS(object = transactions_df_appended, file = file.path(dir_name, entity_name, paste0(entity_name, "_merged_data.rds")))
-  fwrite(x = transactions_df_appended, file = file.path(dir_name, entity_name, paste0(entity_name, "_merged_data.csv")))
+  saveRDS(object = transactions_df_appended, file = file.path(dir_name, bank_name, paste0(bank_name, "_merged_data.rds")))
+  fwrite(x = transactions_df_appended, file = file.path(dir_name, bank_name, paste0(bank_name, "_merged_data.csv")))
 
   # Split dataset to individual accounts
   split_transactions_df <- split(transactions_df_appended, transactions_df_appended$entity)
 
   # Write the dataset to chunks
   invisible(lapply(names(split_transactions_df), function(entity_df) {
-    fwrite(split_transactions_df[[entity_df]], file = file.path(dir_name, entity_name, "individual_accounts", paste0(names(split_transactions_df[entity_df]), ".csv")))
+    fwrite(split_transactions_df[[entity_df]], file = file.path(dir_name, bank_name, "individual_accounts", paste0(names(split_transactions_df[entity_df]), ".csv")))
   }))
+  
+  print(paste("Combined dataset and individual datasets of ", toupper(bank_name), "has been saved locally."))
+  
 }
+
+# Combine merged datasets of all the banks
+
+combine_merged_datasets <- function(dir_name, bank_names) {
+  
+  combined_dfs_list <- list.files(path = dir_name, pattern = paste0(bank_names, "_merged_data.rds", collapse = "|"), recursive = TRUE, full.names = TRUE)  
+  
+  lapply(combined_dfs_list, readRDS) %>% bind_rows()
+  
+}
+
 
 # FIO HELPER FUNCTIONS ----------------------------------------------------
 
 
 # Verify arguments for FIO inputs -----------------------------------------
 
-verify_fio_inputs <- function(dir_name, entity_name, accounts_fio, start_date, end_date, user_agent) {
+verify_fio_inputs <- function(dir_name, bank_name, bank_accounts, start_date, end_date, user_agent) {
   # Verify function's inputs
   stopifnot(
     is.character(dir_name),
-    is.character(entity_name),
-    !is.null(accounts_fio) & length(accounts_fio) >= 1,
-    is.character(start_date) & validate_date(start_date, "%d.%m.%Y"),
-    is.character(end_date) & validate_date(end_date, "%d.%m.%Y"),
+    is.character(bank_name),
+    !is.null(bank_accounts) & length(bank_accounts) >= 1,
+    is.character(start_date) & validate_date(start_date),
+    is.character(end_date) & validate_date(end_date),
     is.character(user_agent) & length(user_agent) >= 1
   )
 
@@ -173,11 +194,11 @@ verify_fio_inputs <- function(dir_name, entity_name, accounts_fio, start_date, e
 
 # Verify arguments for CSAS inputs -----------------------------------------
 
-verify_csas_inputs <- function(dir_name, entity_name, accounts_csas, page_rows, start_date, end_date, api_key, user_agent, sort, sort_direction) {
+verify_csas_inputs <- function(dir_name, bank_name, bank_accounts, page_rows, start_date, end_date, api_key, user_agent, sort, sort_direction) {
   stopifnot(
-    !is.null(accounts_csas) & length(accounts_csas) >= 1,
+    !is.null(bank_accounts) & length(bank_accounts) >= 1,
     is.character(dir_name),
-    is.character(entity_name),
+    is.character(bank_name),
     is.numeric(page_rows) & page_rows > 0,
     is.character(start_date) & validate_date(start_date),
     is.character(end_date) & validate_date(end_date),
@@ -230,11 +251,11 @@ verify_csas_api_key <- function(api_key, user_agent) {
 
 # CSOB HELPER FUNCTIONS -------------------------------------------------
 
-verify_csob_inputs <- function(dir_name, entity_name, accounts_csob, page_rows, start_date, end_date, temporary_cookie_csob, user_agent, sort, sort_direction) {
+verify_csob_inputs <- function(dir_name, bank_name, bank_accounts, page_rows, start_date, end_date, temporary_cookie_csob, user_agent, sort, sort_direction) {
   stopifnot(
-    !is.null(accounts_csob) & length(accounts_csob) >= 1,
+    !is.null(bank_accounts) & length(bank_accounts) >= 1,
     is.character(dir_name),
-    is.character(entity_name),
+    is.character(bank_name),
     is.numeric(page_rows) & page_rows > 0,
     is.character(start_date) & validate_date(start_date),
     is.character(end_date) & validate_date(end_date),
@@ -245,4 +266,47 @@ verify_csob_inputs <- function(dir_name, entity_name, accounts_csob, page_rows, 
   )
   
   print("All CSOB inputs should be OK.")
+}
+
+
+# KB HELPER FUNCTIONS -----------------------------------------------------
+
+get_kb_salt <- function(user_agent) {
+
+  chosen_user_agent <- sample(user_agent, 1)
+  
+  GET("https://www.kb.cz/js/app.min.js?d=20190626",
+                user_agent(chosen_user_agent),
+                add_headers(
+                  "Accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+                  "Accept-Encoding" = "gzip, deflate, br",
+                  "Accept-Language" = "en;q=0.6",
+                  "Cache-Control" = "no-cache",
+                  "Connection" = "keep-alive",
+                  "Host" = "www.kb.cz",
+                  "Pragma" = "no-cache",
+                  "Sec-Fetch-Dest" = "document",
+                  "Sec-Fetch-Mode" = "navigate",
+                  "Sec-Fetch-Site" = "none",
+                  "Sec-Fetch-User" = "?1",
+                  "Upgrade-Insecure-Requests" = "1",
+                  "User-Agent" = chosen_user_agent
+                )) %>% 
+    content(as = "text", encoding = "UTF-8") %>% 
+    str_extract(pattern = '(?<=n.salt=\")[a-zA-Z0-9-]+')
+  
+}
+
+
+verify_kb_inputs <- function(dir_name, bank_name, bank_accounts, skip_param, salt_kb, user_agent) {
+  stopifnot(
+    !is.null(bank_accounts) & length(bank_accounts) >= 1,
+    is.character(dir_name),
+    is.character(bank_name),
+    is.numeric(skip_param) & !(skip_param %% 50),
+    is.character(salt_kb) & nchar(salt_kb) >= 30,
+    is.character(user_agent) & length(user_agent) >= 1
+  )
+  
+  print("All KB inputs should be OK.")
 }

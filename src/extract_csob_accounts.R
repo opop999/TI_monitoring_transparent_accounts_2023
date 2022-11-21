@@ -1,19 +1,19 @@
 # EXTRACTION OF TRANSACTION DATA ON CSOB'S TRANSPARENT BANK ACCOUNTS
 
 # Function for extraction of the expense transparent bank accounts based in CSOB bank
-get_csob_transactions <- function(accounts_csob, dir_name, entity_name, page_rows, start_date, end_date, sort, sort_direction, user_agent, temporary_cookie_csob) {
+get_csob_transactions <- function(bank_accounts, dir_name, page_rows, start_date, end_date, sort, sort_direction, user_agent, temporary_cookie_csob) {
   # How many bank accounts to be extracted?
-  print(paste(length(accounts_csob), "bank account(s) selected, will run the function."))
+  print(paste(length(bank_accounts), "bank account(s) selected, will run the function."))
 
   # Create list which will be appended
   transactions_list <-
-    vector(mode = "list", length = length(accounts_csob)) %>% setNames(names(accounts_csob))
+    vector(mode = "list", length = length(bank_accounts)) %>% setNames(names(bank_accounts))
 
   # Loop to deal with more than one accounts
-  for (i in seq_along(accounts_csob)) {
+  for (i in seq_along(bank_accounts)) {
     chosen_user_agent <- sample(user_agent, 1)
 
-    transactions_list[[names(accounts_csob)[i]]] <- POST(
+    transactions_list[[names(bank_accounts)[i]]] <- POST(
       "https://www.csob.cz/et-npw-lta-view/api/detail/transactionList",
       body = sprintf("{
   \"accountList\": [
@@ -48,7 +48,7 @@ get_csob_transactions <- function(accounts_csob, dir_name, entity_name, page_row
     \"rowsPerPage\": %s,
     \"pageNumber\": 1
   }
-}", accounts_csob[i], start_date, end_date, sort, sort_direction, page_rows),
+}", bank_accounts[i], start_date, end_date, sort, sort_direction, page_rows),
       add_headers(
         "Accept" = "application/json, text/plain, */*",
         "Content-Type" = "application/json",
@@ -64,19 +64,19 @@ get_csob_transactions <- function(accounts_csob, dir_name, entity_name, page_row
       fromJSON(flatten = TRUE)
 
     # Extract the number of new records
-    nr_new_records <- transactions_list[[names(accounts_csob)[i]]][["paging"]][["recordCount"]]
+    nr_new_records <- transactions_list[[names(bank_accounts)[i]]][["paging"]][["recordCount"]]
 
     # Skip to next loop iteration if there are no returned transactions
     if (nr_new_records < 1) {
-      print(paste("No transactions on the account of entity", names(accounts_csob)[i], "between", format(as.Date(start_date), "%d.%m.%Y"), "and", format(as.Date(end_date), "%d.%m.%Y")))
+      print(paste("No transactions on the account of entity", names(bank_accounts)[i], "between", format(as.Date(start_date), "%d.%m.%Y"), "and", format(as.Date(end_date), "%d.%m.%Y")))
 
       # Replace with empty dataset so bind_row at the end is successful
-      transactions_list[[names(accounts_csob)[i]]] <- data.frame()
+      transactions_list[[names(bank_accounts)[i]]] <- data.frame()
 
       next
     }
 
-    transactions_list[[names(accounts_csob)[i]]] <- transactions_list[[names(accounts_csob)[i]]][["accountedTransaction"]] %>%
+    transactions_list[[names(bank_accounts)[i]]] <- transactions_list[[names(bank_accounts)[i]]][["accountedTransaction"]] %>%
       unite(
         col = message_for_recipient,
         c(
@@ -113,11 +113,11 @@ get_csob_transactions <- function(accounts_csob, dir_name, entity_name, page_row
           transactionTypeChoice.domesticPayment.symbols.specificSymbol
         ),
         currency = as.character(baseInfo.accountAmountData.currencyCode),
-        entity_name = names(accounts_csob)[i]
+        entity = names(bank_accounts)[i]
       ) %>%
       na_if("")
 
-    print(paste(nrow(transactions_list[[names(accounts_csob)[i]]]), "transactions on the account of entity", names(accounts_csob)[i], "between", format(as.Date(start_date), "%d.%m.%Y"), "and", format(as.Date(end_date), "%d.%m.%Y")))
+    print(paste(nrow(transactions_list[[names(bank_accounts)[i]]]), "transactions on the account of entity", names(bank_accounts)[i], "between", format(as.Date(start_date), "%d.%m.%Y"), "and", format(as.Date(end_date), "%d.%m.%Y")))
 
     Sys.sleep(runif(1, 5, 10))
   }
