@@ -206,11 +206,14 @@ transactions_df_appended <- append_new_data(transactions_df, dir_name, bank_name
 # Save as a merged dataset and a set of individual ones
 save_merged_and_individual(transactions_df_appended, dir_name, bank_name)
 
-# 7. Combine datasets -----------------------------------------------------
+# 7. Combine datasets to one and save -------------------------------------
+dir_name <- "data"
 
-bank_names <- names(readRDS(file.path(dir_name, "list_of_monitored_accounts.rds")))
+bank_names <-
+  names(readRDS(file.path(
+    dir_name, "list_of_monitored_accounts.rds"
+  )))
 
 combined_dataset <- combine_merged_datasets(dir_name, bank_names)
-                                
-                                
 
+save_combined_dataset(combined_dataset, dir_name)

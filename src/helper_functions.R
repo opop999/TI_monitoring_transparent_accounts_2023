@@ -28,7 +28,7 @@ validate_date <- function(mydate, date_format = "%Y-%m-%d") {
 }
 
 # Prepare output directories -------------------------------------------
-prepare_output_directories <- function(dir_name, bank_name = NULL) {
+prepare_output_directories <- function(dir_name, bank_name = NULL, individual_subfolders = TRUE) {
   stopifnot(
     is.character(dir_name),
     is.character(bank_name) | is.null(bank_name)
@@ -37,9 +37,10 @@ prepare_output_directories <- function(dir_name, bank_name = NULL) {
   # We have to create a desired directory, if one does not yet exist
   if (!dir.exists(file.path(dir_name))) {
     dir.create(file.path(dir_name))
+    print("OK: Main directory created.")
   } else {
-    print("Main output directory already exists.")
-    print("OK: Main output directory prepared.")
+    print("Main directory already exists.")
+    print("OK: Main directory prepared.")
   }
 
   if (is.null(bank_name)) {
@@ -49,21 +50,25 @@ prepare_output_directories <- function(dir_name, bank_name = NULL) {
   # We have to create a desired directory, if one does not yet exist
   if (!dir.exists(file.path(dir_name, bank_name))) {
     dir.create(file.path(dir_name, bank_name))
+    print("OK: Entity directory created.")
   } else {
-    print("Entity output directory already exists.")
-    print("OK: Entity output directory prepared.")
+    print("Entity directory already exists.")
+    print("OK: Entity directory prepared.")
     
   }
 
   # Repeat the check for subdirectory for individual account datasets
-  if (!dir.exists(file.path(dir_name, bank_name, "individual_accounts"))) {
+  if (individual_subfolders &
+      !dir.exists(file.path(dir_name, bank_name, "individual_accounts"))) {
     dir.create(file.path(dir_name, bank_name, "individual_accounts"))
-  } else if (dir.exists(file.path(dir_name, bank_name, "individual_accounts"))) {
-    print("Entity output subdirectory already exists.")
-    print("OK: Entity output subdirectory prepared.")
+    print("Entity subdirectory created.")
+  } else if (individual_subfolders &
+             dir.exists(file.path(dir_name, bank_name, "individual_accounts"))) {
+    print("Entity subdirectory already exists.")
+    print("OK: Entity subdirectory prepared.")
     
   }
-
+  
   print("OK: All output directories prepared.")
 }
 
@@ -161,12 +166,41 @@ save_merged_and_individual <- function(transactions_df_appended, dir_name, bank_
 }
 
 # Combine merged datasets of all the banks
-
 combine_merged_datasets <- function(dir_name, bank_names) {
   
   combined_dfs_list <- list.files(path = dir_name, pattern = paste0(bank_names, "_merged_data.rds", collapse = "|"), recursive = TRUE, full.names = TRUE)  
   
   lapply(combined_dfs_list, readRDS) %>% bind_rows()
+  
+}
+
+# Combine merged datasets of all the banks
+save_combined_dataset <- function(combined_dataset, dir_name, file_name = "all_banks_combined_dataset") {
+  
+  stopifnot(
+    is.data.frame(combined_dataset) & nrow(combined_dataset) >= 1,
+    is.character(dir_name) & length(dir_name) >= 1,
+    is.character(file_name) & length(file_name) >= 1
+  )
+  
+  saveRDS(object = combined_dataset, file = file.path(dir_name, paste0(file_name, ".rds")))
+
+  print("Combined dataset of bank transparent account transactions sucessfully saved.")
+  
+}
+
+load_combined_dataset <- function(dir_name, file_name = "all_banks_combined_dataset") {
+  
+  stopifnot(
+    is.character(dir_name) & length(dir_name) >= 1,
+    is.character(file_name) & length(file_name) >= 1
+  )
+  
+  df <- readRDS(file.path(dir_name, paste0(file_name, ".rds")))
+  
+  print("Combined dataset of bank transparent account transactions sucessfully loaded.")
+  
+  return(df)
   
 }
 
