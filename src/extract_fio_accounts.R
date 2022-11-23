@@ -1,5 +1,20 @@
 # EXTRACTION OF TRANSACTION DATA ON FIO'S TRANSPARENT BANK ACCOUNTS
 
+# Verify arguments for function inputs ------------------------------------
+verify_fio_inputs <- function(dir_name, bank_name, bank_accounts, start_date, end_date, user_agent) {
+
+    stopifnot(
+    is.character(dir_name),
+    is.character(bank_name),
+    !is.null(bank_accounts) && length(bank_accounts) >= 1,
+    is.character(start_date) && validate_date(start_date),
+    is.character(end_date) && validate_date(end_date),
+    is.character(user_agent) && length(user_agent) >= 1
+  )
+  
+  print("All FIO inputs should be OK.")
+}
+
 # Function for the extraction  --------------------------------------------
 get_fio_transactions <- function(bank_accounts, start_date, end_date, user_agent) {
   # How many bank accounts to be extracted?

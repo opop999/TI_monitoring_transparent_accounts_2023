@@ -1,42 +1,23 @@
-# 0. Source helper functions ----------------------------------------------
+# 0. Source helper functions and define constants -------------------------
 source("src/helper_functions.R")
 
 dir_name <- "data"
+start_date <- "2022-09-01"
+end_date <- as.character(Sys.Date())
+sub_dir_name <- "summary_tables"
 
-bank_name <- "summary_tables"
+# 1. Prepare output directories -------------------------------------------
+prepare_output_directories(dir_name, sub_dir_name, individual_subfolders = FALSE)
 
+# 2. Combine datasets of individual banks ---------------------------------
 combined_dataset <- load_combined_dataset(dir_name)
 
-prepare_output_directories(dir_name, bank_name, individual_subfolders = FALSE)
+# 3. Create four summarized datasets --------------------------------------
+total_spending <- create_total_summary(combined_dataset, start_date, end_date, type = "spend")
+time_spending <- create_time_series(combined_dataset, start_date, end_date, type = "spend")
 
+total_income <- create_total_summary(combined_dataset, start_date, end_date, type = "income")
+time_income <- create_time_series(combined_dataset, start_date, end_date, type = "income")
 
-
-# 2. Creating a summary table of a total spending since 1.1.2021
-total_spend_summary <- combined_dataset %>%
-  filter(amount < 0) %>%
-  transmute(date,
-            spend_million = round(abs(amount) / 1000000, digits = 3),
-            entity = as.factor(entity),
-            entity_id = as.numeric(entity)
-  ) %>%
-  group_by(entity, entity_id) %>%
-  summarise(total_spend_million = sum(spend_million)) %>%
-  arrange(desc(total_spend_million)) %>%
-  ungroup()
-
-# 3. Creating a summary table with cumulative spending per page throughout time
-time_summary <- combined_dataset %>%
-  filter(amount < 0) %>%
-  transmute(date,
-            spend_million = abs(amount) / 1000000,
-            entity = as.factor(entity),
-            entity_id = as.numeric(entity)
-  ) %>%
-  arrange(date) %>%
-  group_by(entity) %>%
-  mutate(cumulative_spend_million = cumsum(spend_million)) %>%
-  ungroup()
-
-
-
-
+# 4. Write summarized datasets locally ------------------------------------
+save_summarized_datasets(total_spending, time_spending, total_income, time_income, dir_name, sub_dir_name)

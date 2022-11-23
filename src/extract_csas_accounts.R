@@ -1,7 +1,63 @@
 # EXTRACTION OF TRANSACTION DATA ON CESKA SPORITELNA'S TRANSPARENT BANK ACCOUNTS
 
+# Verify arguments for function inputs ------------------------------------
+verify_csas_inputs <- function(dir_name, bank_name, bank_accounts, page_rows, start_date, end_date, api_key, user_agent, sort, sort_direction = c("DESC", "ASC")) {
+  stopifnot(
+    !is.null(bank_accounts) && length(bank_accounts) >= 1,
+    is.character(dir_name),
+    is.character(bank_name),
+    is.numeric(page_rows) && page_rows > 0,
+    is.character(start_date) && validate_date(start_date),
+    is.character(end_date) && validate_date(end_date),
+    is.character(api_key) && nchar(api_key) >= 1,
+    is.character(user_agent) && length(user_agent) >= 1,
+    is.character(sort) && nchar(sort) >= 1,
+    is.character(match.arg(sort_direction))
+  )
+
+  print("All CSAS inputs should be OK.")
+}
+
+# Verify that Ceska Sporitelna API key valid --------------------------------
+verify_csas_api_key <- function(api_key, user_agent) {
+  test_request <-
+    GET(
+      "https://api.csas.cz/webapi/api/v3/transparentAccounts/",
+      add_headers(
+        "Accept" = "application/json, text/plain, */*",
+        "Accept-Language" = "en;q=0.9",
+        "Cache-Control" = "no-cache",
+        "Connection" = "keep-alive",
+        "Origin" = "https://www.csas.cz",
+        "Pragma" = "no-cache",
+        "Referer" = "https://www.google.com/",
+        "Sec-Fetch-Dest" = "empty",
+        "Sec-Fetch-Mode" = "cors",
+        "Sec-Fetch-Site" = "same-site",
+        "Sec-GPC" = "1",
+        "User-Agent" = sample(user_agent, 1),
+        "Web-Api-Key" = api_key
+      )
+    )
+
+  if (status_code(test_request) == 200) {
+    print("API returned 200, provided API key should be valid.")
+  } else if (status_code(test_request) == 412) {
+    stop("API returned error 412, provided API key might be invalid.")
+  } else {
+    warning(
+      paste(
+        "API returned error",
+        status_code(test_request),
+        "with the following message:",
+        http_status(test_request)[["message"]]
+      )
+    )
+  }
+}
+
 # Function for the extraction  --------------------------------------------
-get_csas_transactions <- function(bank_accounts, dir_name, page_rows, start_date, end_date, sort, sort_direction, api_key, user_agent) {
+get_csas_transactions <- function(bank_accounts, dir_name, page_rows, start_date, end_date, sort, sort_direction = c("DESC", "ASC"), api_key, user_agent) {
   # How many bank accounts to be extracted?
   print(paste(length(bank_accounts), "bank account(s) selected, will run the function."))
 
@@ -37,7 +93,7 @@ get_csas_transactions <- function(bank_accounts, dir_name, page_rows, start_date
         ),
         user_agent(chosen_user_agent),
         query = list(
-          order = sort_direction,
+          order = match.arg(sort_direction),
           page = "0",
           size = page_rows,
           sort = sort,

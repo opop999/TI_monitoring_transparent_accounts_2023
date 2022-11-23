@@ -1,5 +1,46 @@
 # EXTRACTION OF TRANSACTION DATA ON KOMERCNI BANKA'S TRANSPARENT BANK ACCOUNTS
 
+# Get "Salt" - i.e. short token for full token generation -----------------
+get_kb_salt <- function(user_agent) {
+  chosen_user_agent <- sample(user_agent, 1)
+  
+  GET(
+    "https://www.kb.cz/js/app.min.js?d=20190626",
+    user_agent(chosen_user_agent),
+    add_headers(
+      "Accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+      "Accept-Encoding" = "gzip, deflate, br",
+      "Accept-Language" = "en;q=0.6",
+      "Cache-Control" = "no-cache",
+      "Connection" = "keep-alive",
+      "Host" = "www.kb.cz",
+      "Pragma" = "no-cache",
+      "Sec-Fetch-Dest" = "document",
+      "Sec-Fetch-Mode" = "navigate",
+      "Sec-Fetch-Site" = "none",
+      "Sec-Fetch-User" = "?1",
+      "Upgrade-Insecure-Requests" = "1",
+      "User-Agent" = chosen_user_agent
+    )
+  ) %>%
+    content(as = "text", encoding = "UTF-8") %>%
+    str_extract(pattern = '(?<=n.salt=\")[a-zA-Z0-9-]+')
+}
+
+# Verify arguments for function inputs ------------------------------------
+verify_kb_inputs <- function(dir_name, bank_name, bank_accounts, skip_param, salt_kb, user_agent) {
+  stopifnot(
+    !is.null(bank_accounts) && length(bank_accounts) >= 1,
+    is.character(dir_name),
+    is.character(bank_name),
+    is.numeric(skip_param) && !(skip_param %% 50),
+    is.character(salt_kb) && nchar(salt_kb) >= 30,
+    is.character(user_agent) && length(user_agent) >= 1
+  )
+  
+  print("All KB inputs should be OK.")
+}
+
 # Function for the extraction  --------------------------------------------
 get_kb_transactions <- function(bank_accounts, dir_name, skip_param, salt_kb, user_agent) {
   # How many bank accounts to be extracted?

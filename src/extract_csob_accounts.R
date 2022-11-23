@@ -1,6 +1,24 @@
 # EXTRACTION OF TRANSACTION DATA ON CSOB'S TRANSPARENT BANK ACCOUNTS
 
-# Function for extraction of the expense transparent bank accounts based in CSOB bank
+# Verify arguments for function inputs ------------------------------------
+verify_csob_inputs <- function(dir_name, bank_name, bank_accounts, page_rows, start_date, end_date, temporary_cookie_csob, user_agent, sort, sort_direction) {
+  stopifnot(
+    !is.null(bank_accounts) && length(bank_accounts) >= 1,
+    is.character(dir_name),
+    is.character(bank_name),
+    is.numeric(page_rows) && page_rows > 0,
+    is.character(start_date) && validate_date(start_date),
+    is.character(end_date) && validate_date(end_date),
+    is.character(temporary_cookie_csob) && nchar(temporary_cookie_csob) >= 10,
+    is.character(user_agent) && length(user_agent) >= 1,
+    is.character(sort) && nchar(sort) >= 1,
+    is.character(sort_direction) && sort_direction %in% c("ASC", "DESC")
+  )
+  
+  print("All CSOB inputs should be OK.")
+}
+
+# Function for the extraction  --------------------------------------------
 get_csob_transactions <- function(bank_accounts, dir_name, page_rows, start_date, end_date, sort, sort_direction, user_agent, temporary_cookie_csob) {
   # How many bank accounts to be extracted?
   print(paste(length(bank_accounts), "bank account(s) selected, will run the function."))
@@ -61,7 +79,8 @@ get_csob_transactions <- function(bank_accounts, dir_name, page_rows, start_date
       user_agent(chosen_user_agent), encode = "json"
     ) %>%
       content(as = "text") %>%
-      fromJSON(flatten = TRUE)
+      fromJSON(flatten = TRUE) %>% 
+      retry_call() # Repeat call several times, if API returned error
 
     # Extract the number of new records
     nr_new_records <- transactions_list[[names(bank_accounts)[i]]][["paging"]][["recordCount"]]
@@ -99,7 +118,7 @@ get_csob_transactions <- function(bank_accounts, dir_name, page_rows, start_date
         contra_account_number = as.numeric(
           transactionTypeChoice.domesticPayment.partyAccount.domesticAccount.accountNumber
         ),
-        contra_account_bankCode = as.numeric(
+        contra_account_bank_code = as.numeric(
           transactionTypeChoice.domesticPayment.partyAccount.domesticAccount.bankCode
         ),
         message_for_recipient = as.character(message_for_recipient),
