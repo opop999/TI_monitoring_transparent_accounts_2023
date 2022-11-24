@@ -196,7 +196,7 @@ save_merged_and_individual <- function(transactions_df_appended, dir_name, bank_
     fwrite(split_transactions_df[[entity_df]], file = file.path(dir_name, bank_name, "individual_accounts", paste0(names(split_transactions_df[entity_df]), ".csv")))
   }))
 
-  print(paste("Combined dataset and individual datasets of ", toupper(bank_name), "has been saved locally."))
+  print(paste("Combined dataset and individual datasets of", toupper(bank_name), "has been saved locally."))
 }
 
 # Combine merged datasets of all the banks

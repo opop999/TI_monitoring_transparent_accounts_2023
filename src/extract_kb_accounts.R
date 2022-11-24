@@ -28,11 +28,13 @@ get_kb_salt <- function(user_agent) {
 }
 
 # Verify arguments for function inputs ------------------------------------
-verify_kb_inputs <- function(dir_name, bank_name, bank_accounts, skip_param, salt_kb, user_agent) {
+verify_kb_inputs <- function(dir_name, bank_name, start_date, end_date, bank_accounts, skip_param, salt_kb, user_agent) {
   stopifnot(
     !is.null(bank_accounts) && length(bank_accounts) >= 1,
     is.character(dir_name),
     is.character(bank_name),
+    is.character(start_date) && validate_date(start_date),
+    is.character(end_date) && validate_date(end_date),
     is.numeric(skip_param) && !(skip_param %% 50),
     is.character(salt_kb) && nchar(salt_kb) >= 30,
     is.character(user_agent) && length(user_agent) >= 1
@@ -42,7 +44,7 @@ verify_kb_inputs <- function(dir_name, bank_name, bank_accounts, skip_param, sal
 }
 
 # Function for the extraction  --------------------------------------------
-get_kb_transactions <- function(bank_accounts, dir_name, skip_param, salt_kb, user_agent) {
+get_kb_transactions <- function(bank_accounts, dir_name, start_date, end_date, skip_param, salt_kb, user_agent) {
   # How many bank accounts to be extracted?
   print(paste(length(bank_accounts), "bank account(s) selected, will run the function."))
 
@@ -122,9 +124,10 @@ get_kb_transactions <- function(bank_accounts, dir_name, skip_param, salt_kb, us
             str_detect(notes, "Příchozí platba") ~ "Příchozí platba",
             str_detect(notes, "Poplatek") ~ "Poplatek",
             str_detect(notes, "Odchozí platba") ~ "Odchozí platba",
-            str_detect(notes, "Příchozí SEPA platba") ~ "Příchozí SEPA platba"
+            str_detect(notes, "Příchozí SEPA platba") ~ "Příchozí SEPA platba",
+            str_detect(notes, "Trvalý příkaz") ~ "Trvalý příkaz"
           ),
-          notes = str_squish(str_replace_all(str_remove_all(notes, "Příchozí platba|Poplatek|Odchozí platba|Příchozí SEPA platba"), "<br /><br />|<br /> <br />", "<br />"))
+          notes = str_squish(str_replace_all(str_remove_all(notes, "Příchozí platba|Poplatek|Odchozí platba|Příchozí SEPA platba|Trvalý příkaz"), "<br /><br />|<br /> <br />", "<br />"))
         ) %>%
         separate(notes, into = c("contra_account_name", "message_for_recipient"), sep = "<br />", fill = "right") %>%
         transmute(
@@ -159,5 +162,6 @@ get_kb_transactions <- function(bank_accounts, dir_name, skip_param, salt_kb, us
     print(paste(nrow(transactions_list[[names(bank_accounts)[o]]]), "transactions extracted for", names(bank_accounts)[o], "."))
   }
 
-  bind_rows(transactions_list)
+  bind_rows(transactions_list) %>% 
+    filter(date >= start_date & date <= end_date)
 }
