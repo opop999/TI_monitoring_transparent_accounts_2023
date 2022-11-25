@@ -1,9 +1,40 @@
 name: Automated extraction of political financing data
 
-# Controls when the action will run.
 on:
   schedule:
     - cron: '00 12 * * *'
   push:
     branches: main
 
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    container:
+      image: rocker/tidyverse:latest
+    steps:
+    - name: 1. Checkout
+      uses: actions/checkout@v3
+      with:
+        ref: main
+    - name: 2. Extract transaction data
+      env:
+          CSOB_COOKIE: ${{ secrets.CSOB_COOKIE }}
+          CSOB_COOKIE: ${{ secrets.CSOB_COOKIE }}
+      run: Rscript /src/01_extraction_workflow.R
+    - name: 3. Create summarized data
+      run: Rscript /src/02_summarization_workflow.R
+    - name: 4. Install necessary packages for dashboard
+      run: Rscript -e "install.packages(c('flexdashboard', 'plotly', 'htmlwidgets', 'reactable', 'reactablefmtr'), Ncpus = parallel::detectCores())"
+    - name: 5. Update dashboard for GitHub Pages
+      run: Rscript -e "rmarkdown::render('index.Rmd')"
+    - name: 6. Print information about the session
+      run: Rscript -e "sessionInfo()"
+    - name: 7. Commit newly updated files        
+      run: |
+        git config --global --add safe.directory /__w/TI_monitoring_transparent_accounts_2023/TI_monitoring_transparent_accounts_2023
+        git status
+        git config --global user.name "actions-user"
+        git config --global user.email "actions@github.com"
+        git add output/* index.html
+        git commit -am "GH Action $(date)"
+        git push origin main
