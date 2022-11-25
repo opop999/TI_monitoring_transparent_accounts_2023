@@ -8,7 +8,7 @@
 
 ## Analysis of Financing of Presidential Elections using transaction data from transparent bank account.
 
-### See [dashboard](https://opop999.github.io/TI_monitoring_transparent_accounts_2023/) with visualizations and [raw data](https://github.com/opop999/TI_monitoring_transparent_accounts_2023/tree/main/data).
+### See [dashboard](https://opop999.github.io/TI_monitoring_transparent_accounts_2023/) with visualizations and [raw data](https://github.com/opop999/TI_monitoring_transparent_accounts_2023/tree/main/output).
 
 ### For a previous similar workflow concerning the 2021 Czech legislative elections, please see its [repository](https://github.com/opop999/TI_monitoring_transparent_accounts_2021) and [dashboard](https://opop999.github.io/TI_monitoring_transparent_accounts_2021/).
 
