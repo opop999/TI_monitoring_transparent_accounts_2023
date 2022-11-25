@@ -1,7 +1,7 @@
 # EXTRACTION OF TRANSACTION DATA ON CESKA SPORITELNA'S TRANSPARENT BANK ACCOUNTS
 
 # Verify arguments for function inputs ------------------------------------
-verify_csas_inputs <- function(dir_name, bank_name, bank_accounts, page_rows, start_date, end_date, api_key, user_agent, sort, sort_direction = c("DESC", "ASC")) {
+verify_csas_inputs <- function(dir_name, bank_name, bank_accounts, page_rows, start_date, end_date, api_key, user_agent, sort = "processingDate", sort_direction = c("DESC", "ASC")) {
   stopifnot(
     !is.null(bank_accounts) && length(bank_accounts) >= 1,
     is.character(dir_name),
@@ -11,7 +11,7 @@ verify_csas_inputs <- function(dir_name, bank_name, bank_accounts, page_rows, st
     is.character(end_date) && validate_date(end_date),
     is.character(api_key) && nchar(api_key) >= 1,
     is.character(user_agent) && length(user_agent) >= 1,
-    is.character(sort) && nchar(sort) >= 1,
+    is.character(match.arg(sort)),
     is.character(match.arg(sort_direction))
   )
 
@@ -57,7 +57,7 @@ verify_csas_api_key <- function(api_key, user_agent) {
 }
 
 # Function for the extraction  --------------------------------------------
-get_csas_transactions <- function(bank_accounts, dir_name, page_rows, start_date, end_date, sort, sort_direction = c("DESC", "ASC"), api_key, user_agent) {
+get_csas_transactions <- function(bank_accounts, dir_name, page_rows, start_date, end_date, sort = "processingDate", sort_direction = c("DESC", "ASC"), api_key, user_agent) {
   # How many bank accounts to be extracted?
   print(paste(length(bank_accounts), "bank account(s) selected, will run the function."))
 
@@ -96,7 +96,7 @@ get_csas_transactions <- function(bank_accounts, dir_name, page_rows, start_date
           order = match.arg(sort_direction),
           page = "0",
           size = page_rows,
-          sort = sort,
+          sort = match.arg(sort),
           dateFrom = start_date,
           dateTo = end_date
         )

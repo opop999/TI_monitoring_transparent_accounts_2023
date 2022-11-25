@@ -1,7 +1,7 @@
 # EXTRACTION OF TRANSACTION DATA ON CSOB'S TRANSPARENT BANK ACCOUNTS
 
 # Verify arguments for function inputs ------------------------------------
-verify_csob_inputs <- function(dir_name, bank_name, bank_accounts, page_rows, start_date, end_date, temporary_cookie_csob, user_agent, sort, sort_direction) {
+verify_csob_inputs <- function(dir_name, bank_name, bank_accounts, page_rows, start_date, end_date, temporary_cookie_csob, user_agent, sort = "AccountingDate", sort_direction = c("DESC", "ASC")) {
   stopifnot(
     !is.null(bank_accounts) && length(bank_accounts) >= 1,
     is.character(dir_name),
@@ -11,15 +11,15 @@ verify_csob_inputs <- function(dir_name, bank_name, bank_accounts, page_rows, st
     is.character(end_date) && validate_date(end_date),
     is.character(temporary_cookie_csob) && nchar(temporary_cookie_csob) >= 10,
     is.character(user_agent) && length(user_agent) >= 1,
-    is.character(sort) && nchar(sort) >= 1,
-    is.character(sort_direction) && sort_direction %in% c("ASC", "DESC")
+    is.character(match.arg(sort)),
+    is.character(match.arg(sort_direction))
   )
   
   print("All CSOB inputs should be OK.")
 }
 
 # Function for the extraction  --------------------------------------------
-get_csob_transactions <- function(bank_accounts, dir_name, page_rows, start_date, end_date, sort, sort_direction, user_agent, temporary_cookie_csob) {
+get_csob_transactions <- function(bank_accounts, dir_name, page_rows, start_date, end_date, sort = "AccountingDate", sort_direction = c("DESC", "ASC"), user_agent, temporary_cookie_csob) {
   # How many bank accounts to be extracted?
   print(paste(length(bank_accounts), "bank account(s) selected, will run the function."))
 
@@ -66,7 +66,7 @@ get_csob_transactions <- function(bank_accounts, dir_name, page_rows, start_date
     \"rowsPerPage\": %s,
     \"pageNumber\": 1
   }
-}", bank_accounts[i], start_date, end_date, sort, sort_direction, page_rows),
+}", bank_accounts[i], start_date, end_date, match.arg(sort), match.arg(sort_direction), page_rows),
       add_headers(
         "Accept" = "application/json, text/plain, */*",
         "Content-Type" = "application/json",
