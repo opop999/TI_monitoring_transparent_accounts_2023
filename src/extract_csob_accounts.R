@@ -138,7 +138,7 @@ get_csob_transactions <- function(bank_accounts, dir_name, page_rows, start_date
 
     print(paste(nrow(transactions_list[[names(bank_accounts)[i]]]), "transactions on the account of entity", names(bank_accounts)[i], "between", format(as.Date(start_date), "%d.%m.%Y"), "and", format(as.Date(end_date), "%d.%m.%Y")))
 
-    Sys.sleep(runif(1, 5, 10))
+    Sys.sleep(runif(1, 30, 60))
   }
 
   # Bind list to a dataset
