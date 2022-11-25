@@ -26,6 +26,14 @@ For more information about the regulations regarding political financing in the 
 
 ### Selected transparent bank accounts:
 
-| **POLITICAL SUBJECT**  | **URL**                |
-|:-----------------------|:-----------------------|
-|                        |                        |
+| **CANDIDATE**   | **LINK**                                                        |
+|:----------------|:----------------------------------------------------------------|
+| Andrej Babiš    | <https://www.kb.cz/cs/transparentni-ucty/123-8794230217>        |
+| Jaroslav Bašta  | <https://ib.fio.cz/ib/transparent?a=2702310803>                 |
+| Pavel Fischer   | <https://www.csas.cz/cs/transparentni-ucty#/000000-4805949043>  |
+| Marek Hilšer    | <https://ib.fio.cz/ib/transparent?a=20182024>                   |
+| Danuše Nerudová | <https://www.csas.cz/cs/transparentni-ucty#/000000-4776908073/> |
+| Petr Pavel      | <https://ib.fio.cz/ib/transparent?a=2902252345>                 |
+| Denisa Rohanová | <https://www.kb.cz/cs/transparentni-ucty/123-7843850267>        |
+| Josef Středula  | <https://ib.fio.cz/ib/transparent?a=2602250487>                 |
+| Tomáš Zima      | <https://www.csas.cz/cs/transparentni-ucty#/000000-4758343013/> |
