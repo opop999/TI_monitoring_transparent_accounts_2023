@@ -19,7 +19,7 @@ jobs:
     - name: 2. Extract transaction data
       env:
           CSOB_COOKIE: ${{ secrets.CSOB_COOKIE }}
-          CSOB_COOKIE: ${{ secrets.CSOB_COOKIE }}
+          CS_TOKEN: ${{ secrets.CS_TOKEN }}
       run: Rscript /src/01_extraction_workflow.R
     - name: 3. Create summarized data
       run: Rscript /src/02_summarization_workflow.R
