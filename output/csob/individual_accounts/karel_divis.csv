@@ -1,0 +1,30 @@
+date,amount,type,contra_account_name,contra_account_number,contra_account_bank_code,message_for_recipient,ks,vs,ss,currency,entity
+2022-11-22,-2443741,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu a marketingove sluzby,,20221122,,CZK,karel_divis
+2022-11-22,-25352,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- tiskova konference,,20221122,,CZK,karel_divis
+2022-11-22,-92000,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- PR a soc.site,,20221122,,CZK,karel_divis
+2022-11-21,5000000,Incoming payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20221121,,CZK,karel_divis
+2022-11-21,-990000,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu a marketingove sluzby,,20221121,,CZK,karel_divis
+2022-11-17,2000,Incoming instant payment ,"Pakosta, Jaroslav",2200788719,2010,,,,,CZK,karel_divis
+2022-11-15,100000,Incoming instant payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20221115,,CZK,karel_divis
+2022-11-15,-122205.3,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu,,20221115,,CZK,karel_divis
+2022-10-27,550000,Incoming payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20221012,,CZK,karel_divis
+2022-10-27,-231080,Outgoing payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu a marketingove sluzby,,20221027,,CZK,karel_divis
+2022-10-27,-300000,Outgoing payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu a marketingove sluzby,,20221027,,CZK,karel_divis
+2022-10-13,-57000,Outgoing payment ,,111120232,5500,za organizaci prezidentske kampane- PR,,20221013,,CZK,karel_divis
+2022-10-12,150000,Incoming instant payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20221012,,CZK,karel_divis
+2022-10-12,-154099.15,Outgoing payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu,,20221012,,CZK,karel_divis
+2022-10-05,90.63,Incoming instant payment ,Jakub Janás,1012252963,6100,"Jakub Janás 15.3.1988 Palackého nám. 133, Skuteč",0,,,CZK,karel_divis
+2022-09-26,-27588,Outgoing payment ,,111120232,5500,za organizaci prezidentske kampane- propagace,,20220926,,CZK,karel_divis
+2022-09-15,-173299.75,Outgoing payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu,,20220915,,CZK,karel_divis
+2022-09-13,300000,Incoming instant payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20220913,,CZK,karel_divis
+2022-09-13,-57000,Outgoing payment ,,111120232,5500,za organizaci prezidentske kampane- PR,,20220913,,CZK,karel_divis
+2022-08-26,-95000,Outgoing payment ,,111120232,5500,za organizaci prezidentske kampane- tisk a vylep plakatu po CR,,20220826,,CZK,karel_divis
+2022-08-25,100000,Incoming instant payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20220825,,CZK,karel_divis
+2022-08-21,5,Incoming instant payment ,Pavel Dopita,1079811010,3030,dar,,,,CZK,karel_divis
+2022-08-15,250000,Incoming instant payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20220815,,CZK,karel_divis
+2022-08-15,-222694.15,Outgoing payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu,,20220815,,CZK,karel_divis
+2022-08-15,-57000,Outgoing payment ,,111120232,5500,za organizaci prezidentske kampane- PR,,20220815,,CZK,karel_divis
+2022-08-05,-20582.1,Outgoing payment ,,111120232,5500,za organizaci prezidentske kampane- propagace,,20220805,,CZK,karel_divis
+2022-07-15,100000,Incoming instant payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20220715,,CZK,karel_divis
+2022-07-15,-210890,Outgoing payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu,,20220715,,CZK,karel_divis
+2022-07-12,200000,Incoming instant payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20220712,,CZK,karel_divis

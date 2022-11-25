@@ -1,0 +1,9 @@
+id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
+000-31102022-060-060-001974004,2022-10-31,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
+225-26102022 10868050150775,2022-10-26,-39,Poplatek,,,CZK,0,898,706969014,denisa_rohanova
+000-30092022-060-060-002671036,2022-09-30,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
+225-26092022 10868050129213,2022-09-26,-39,Poplatek,,,CZK,0,898,706969014,denisa_rohanova
+000-31082022-060-060-001973392,2022-08-31,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
+225-26082022 10868050042837,2022-08-26,-39,Poplatek,,,CZK,0,898,706969014,denisa_rohanova
+225-25072022 10868050122292,2022-07-25,-39,Poplatek,,,CZK,0,898,706969014,denisa_rohanova
+361-02072022 1086 086143 100291,2022-07-04,10000,Příchozí platba,HALLEROVÁ ADRIANA,Jako žena a matka tří dětí vám věřím,CZK,1218,0,0,denisa_rohanova

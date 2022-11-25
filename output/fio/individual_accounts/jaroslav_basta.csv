@@ -1,0 +1,36 @@
+date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-11-24,500,CZK,Platba převodem uvnitř banky,"Chvojka, Petr",Petr Chvojka,,,,Petr Chvojka,jaroslav_basta
+2022-11-23,1872314.6,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-11-10,-2021182.33,CZK,Bezhotovostní platba,,Ostatní zálohy - poštovní služby 21 - roznáška inf. materiálů - Prezidentské volby 2023 pro prezidentskou kampaň Jaroslava Bašty,308,2022090775,,"Česká pošta, s.p. - roznáška inf. materiálů pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2022-11-10,-1355953.2,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty (100 ploch) prosinec 2022 (PS18136406/JV),,,,"BigMedia, spol. s r.o. pronájem reklamních ploch pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2022-11-09,1355953.2,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-11-09,2021182.33,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-11-08,100000,CZK,Bezhotovostní příjem,BAŠTA JAROSLAV,Jaroslav Bašta,0,480515,0,BAŠTA JAROSLAV,jaroslav_basta
+2022-11-04,-1200,CZK,Okamžitá odchozí platba,,Zajištění kartiček s fotografiemi - prezidentská kampaň Jaroslava Bašty,,,,Zajištění kartiček s fotografiemi - prezidentská kampaň Jaroslava Bašty - Ivana Říhová Jarkovská,jaroslav_basta
+2022-11-04,-43560,CZK,Bezhotovostní platba,,"2 bannery s oky 9,6 x 8,2 pro prezidentskou kampaň Jaroslava Bašty listopad 2022",,,,"BigMedia, spol. s r.o. reklamní materiály (bannery) pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2022-11-04,-2468732.75,CZK,Bezhotovostní platba,,pronájem reklamních panelů pro prezidentskou kampaň Jaroslava Bašty listopad 2022 (PS18136471/JV) 32 ploch,,,,"BigMedia, spol. s r.o. pronájem reklamních panelů pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2022-11-04,-28677,CZK,Bezhotovostní platba,,focení pro prezidentskou kampaň Jaroslava Bašty,,,,D & S Design Prague s.r.o. focení pro prezidentskou kampaň Jaroslava Bašty,jaroslav_basta
+2022-11-04,28677,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-11-04,-233009.7,CZK,Bezhotovostní platba,,pronájem reklamních panelů pro prezidentskou kampaň Jaroslava Bašty listopad 2022 (PL18136430/JV) LM 11,,,,"BigMedia, spol. s r.o. pronájem reklamních panelů pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2022-11-04,-15693.7,CZK,Bezhotovostní platba,,leták pro prezidentskou kampaň Jaroslava Bašty,,,,D & S Design Prague s.r.o. leták (graf. a DTP příprava) pro prezidentskou kampaň Jaroslava Bašty,jaroslav_basta
+2022-11-04,-93003.1,CZK,Bezhotovostní platba,,výroba OOH plakátů pro prezidentskou kampaň Jaroslava Bašty,,,,D & S Design Prague s.r.o. výroba OOH plakátů pro prezidentskou kampaň Jaroslava Bašty,jaroslav_basta
+2022-11-02,233009.7,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-11-02,43560,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-11-02,2468732.75,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-11-02,15693.7,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-11-02,93003.1,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-10-24,-885285,CZK,Bezhotovostní platba,,"UNIPRESS spol. s r.o., záloha na tisk letáků - prezidentská kampaň Jaroslav Bašta",,3020000063,,"UNIPRESS spol. s r.o., záloha na tisk letáků - prezidentská kampaň Jaroslav Bašta",jaroslav_basta
+2022-10-21,885285,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-10-06,-50,CZK,Poplatek,,Fotografie a logo Jaroslav Bašta,,,,Fotografie a logo Jaroslav Bašta,jaroslav_basta
+2022-10-06,-4000,CZK,Okamžitá odchozí platba,,Fotografie a logo Jaroslav Bašta,,1102022,,Olga Nema Fotografie a logo - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2022-10-06,-50,CZK,Poplatek,,Zakoupení webhostingu Jaroslav Bašt,,,,Zakoupení webhostingu Jaroslav Bašty,jaroslav_basta
+2022-10-06,-998.98,CZK,Platba převodem uvnitř banky,,Zakoupení webhostingu Jaroslav Bašt,,8102022,,Vladimíra Bondarenková Zakoupení webhostingu - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2022-10-06,-50,CZK,Poplatek,,FRIVA s.r.o. Spravování web stránek,,,,FRIVA s.r.o. Spravování web stránek,jaroslav_basta
+2022-10-06,-5000,CZK,Okamžitá odchozí platba,,FRIVA s.r.o. Spravování web stránek,8,202218,,FRIVA spol. s.r.o. Spravování webových stránek v měsíci 10/2022 - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2022-10-06,-50,CZK,Poplatek,,Zakoupení 5x domén -Jaroslava Bašty,,,,Zakoupení 5x domén -Jaroslava Bašty,jaroslav_basta
+2022-10-06,-1056.33,CZK,Platba převodem uvnitř banky,,Zakoupení 5x domén -Jaroslava Bašty,,7102022,,Vladimíra Bondarenková Zakoupení pěti domén prezidenstká kampaň Jaroslava Bašty,jaroslav_basta
+2022-10-06,-50,CZK,Poplatek,,FRIVA s.r.o.Tvorba webových stránek,,,,FRIVA s.r.o.Tvorba webových stránek,jaroslav_basta
+2022-10-06,-10000,CZK,Okamžitá odchozí platba,,FRIVA s.r.o.Tvorba webových stránek,8,202217,,FRIVA spol. s.r.o. Tvorba webových stránek www.jaroslavbastaprezident.cz,jaroslav_basta
+2022-09-23,-50,CZK,Poplatek,,Filip Mruzek,,,,"Filip Mruzek- Zprovoznění domén, webhostingu, databází - prezidentská kampaň Jaroslava Bašty",jaroslav_basta
+2022-09-23,-5000,CZK,Okamžitá odchozí platba,,Filip Mruzek,,2022065,,"Filip Mruzek Zprovoznění domén, webhostingu, databází - prezidentská kampaň Jaroslava Bašty",jaroslav_basta
+2022-09-16,100000,CZK,Bezhotovostní příjem,BAŠTA JAROSLAV,JAROSLAV BAŠTA,0,480515,0,BAŠTA JAROSLAV,jaroslav_basta

@@ -1,6 +1,6 @@
 # 0. Source helper functions and define constants -------------------------
 source("src/helper_functions.R")
-dir_name <- "data"
+dir_name <- "output"
 start_date <- as.character(Sys.Date() - 8)
 end_date <- as.character(Sys.Date())
 

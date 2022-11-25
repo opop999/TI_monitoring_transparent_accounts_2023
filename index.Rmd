@@ -4,10 +4,12 @@ author: "Ondrej Pekacek & TI CZ"
 date: "`r format(Sys.Date(),'%d. %m. %Y')`"
 output: 
   flexdashboard::flex_dashboard:
-    logo: "doc/logo_ti.png"
+    logo: "input/dashboard/logo_ti.png"
+    css: "input/dashboard/style.css"
     theme: readable
     includes:
-      in_header: "doc/header.html"
+      in_header: "input/dashboard/header.html"
+      after_body: "input/dashboard/after_body.html"
     orientation: columns
     vertical_layout: fill
     source_code: https://github.com/opop999/TI_monitoring_transparent_accounts_2023
@@ -20,15 +22,9 @@ output:
       - {title: "Data: CSOB", icon: "ion-cloud", href: "https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty"}
 ---
 
-```{css, echo=FALSE}
-.navbar-inverse {
-    background-color: #e8efff;
-}
-```
-
-```{js, echo=FALSE}
+```{js}
 // Add pull-left class to logo
-document.querySelector("span.navbar-logo").classList.add("pull-left")
+document.querySelector("span.navbar-logo").classList.add("pull-left");
 ```
 
 ```{r setup, include=FALSE}
@@ -48,7 +44,7 @@ if (any(installed_packages == FALSE)) {
 invisible(lapply(packages, library, character.only = TRUE))
 
 # Specify directory with datasets
-directory_datasets <- "data/summary_tables"
+directory_datasets <- "output/summary_tables"
   
 total_spending <- readRDS(file = file.path(directory_datasets, "total_spending.rds"))
 time_spending <- readRDS(file = file.path(directory_datasets, "time_spending.rds"))
@@ -124,7 +120,7 @@ plot_total_income <- ggplotly(
     mutate(
       entity = str_to_title(str_replace_all(entity, pattern = "_", replacement = " ")),
       entity = reorder(entity, total_income_million)
-    ) %>% 
+    ) %>%
     ggplot(aes(x = total_income_million, y = entity, fill = per_transaction_avg_income_thousand, text = paste(
           "Election candidate:",
           entity,
@@ -132,7 +128,7 @@ plot_total_income <- ggplotly(
          total_income_million, "million CZK",
          "<br>Per transaction avg income:",
          per_transaction_avg_income_thousand, "thousand CZK"
-         
+
         ))) +
     geom_col() +
     scale_x_continuous(
@@ -166,7 +162,7 @@ full_join(total_income, total_spending, by = "entity") %>%
   mutate(
   entity = str_to_title(str_replace_all(entity, pattern = "_", replacement = " ")),
     across(where(is.numeric), ~replace_na(.x, 0))
-  )  %>% 
+  )  %>%
   reactable(
     defaultPageSize = 15,
     theme = nytimes(),
@@ -193,7 +189,7 @@ Column {.tabset .mobile}
 <!-- Within theme, legend.position = "none" to avoid legend -->
 <!-- Plotly: extra FUNs turned off: config(displayModeBar = FALSE) -->
 
-### **SPENDING** 
+### **SPENDING**
 
 ```{r}
 ggplotly(
@@ -201,7 +197,7 @@ ggplotly(
     mutate(
       entity = str_to_title(str_replace_all(entity, pattern = "_", replacement = " ")),
       entity = reorder(entity, total_spend_million)
-    ) %>% 
+    ) %>%
     ggplot(aes(x = total_spend_million, y = entity, fill = per_transaction_avg_spend_thousand, text = paste(
           "Election candidate:",
           entity,
@@ -209,7 +205,7 @@ ggplotly(
          total_spend_million, "million CZK",
          "<br>Per transaction avg spend:",
          per_transaction_avg_spend_thousand, "thousand CZK"
-         
+
         ))) +
     geom_col() +
     scale_x_continuous(
@@ -233,7 +229,7 @@ ggplotly(
 ```
 
 
-### **INCOME** 
+### **INCOME**
 
 ```{r}
 ggplotly(
@@ -241,7 +237,7 @@ ggplotly(
     mutate(
       entity = str_to_title(str_replace_all(entity, pattern = "_", replacement = " ")),
       entity = reorder(entity, total_income_million)
-    ) %>% 
+    ) %>%
     ggplot(aes(x = total_income_million, y = entity, fill = per_transaction_avg_income_thousand, text = paste(
           "Election candidate:",
           entity,
@@ -249,7 +245,7 @@ ggplotly(
          total_income_million, "million CZK",
          "<br>Per transaction avg income:",
          per_transaction_avg_income_thousand, "thousand CZK"
-         
+
         ))) +
     geom_col() +
     scale_x_continuous(
@@ -279,7 +275,7 @@ full_join(total_income, total_spending, by = "entity") %>%
   mutate(
   entity = str_to_title(str_replace_all(entity, pattern = "_", replacement = " ")),
     across(where(is.numeric), ~replace_na(.x, 0))
-  )  %>% 
+  )  %>%
   reactable(
     defaultPageSize = 15,
     theme = nytimes(),
@@ -315,9 +311,9 @@ spend_over_time <- ggplotly(
       week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE)),
       cumulative_spend_million = round(cumulative_spend_million, digits = 3)
     ) %>%
-    group_by(entity, week) %>% 
-    summarise(end_of_week_million_spend = max(cumulative_spend_million)) %>% 
-    ungroup() %>% 
+    group_by(entity, week) %>%
+    summarise(end_of_week_million_spend = max(cumulative_spend_million)) %>%
+    ungroup() %>%
     ggplot(aes(x = week, y = end_of_week_million_spend, color = entity)) +
     geom_line() +
     geom_point(size = 0.8, aes(text = paste(
@@ -361,7 +357,7 @@ spend_over_time <- ggplotly(
     )),
   tooltip = "text"
 ) %>%
-  config(displaylogo = FALSE)  
+  config(displaylogo = FALSE)
 
 spend_over_time
 ```
@@ -374,9 +370,9 @@ spend_weekly <- ggplotly(
     mutate(
       entity = str_to_title(str_replace_all(entity, pattern = "_", replacement = " ")),
       week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE))) %>%
-    group_by(entity, week) %>% 
-    summarise(by_week_million_spend = sum(spend_million)) %>% 
-    ungroup() %>% 
+    group_by(entity, week) %>%
+    summarise(by_week_million_spend = sum(spend_million)) %>%
+    ungroup() %>%
     ggplot(aes(x = week, y = by_week_million_spend, fill = entity, text = paste(
       "Candidate:",
       entity,
@@ -419,7 +415,7 @@ spend_weekly <- ggplotly(
     )),
   tooltip = "text"
 ) %>%
-  config(displaylogo = FALSE)  
+  config(displaylogo = FALSE)
 
 spend_weekly
 ```
@@ -435,9 +431,9 @@ income_over_time <- ggplotly(
       week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE)),
       cumulative_income_million = round(cumulative_income_million, digits = 3)
     ) %>%
-    group_by(entity, week) %>% 
-    summarise(end_of_week_million_income = max(cumulative_income_million)) %>% 
-    ungroup() %>% 
+    group_by(entity, week) %>%
+    summarise(end_of_week_million_income = max(cumulative_income_million)) %>%
+    ungroup() %>%
     ggplot(aes(x = week, y = end_of_week_million_income, color = entity)) +
     geom_line() +
     geom_point(size = 0.8, aes(text = paste(
@@ -481,7 +477,7 @@ income_over_time <- ggplotly(
     )),
   tooltip = "text"
 ) %>%
-  config(displaylogo = FALSE)  
+  config(displaylogo = FALSE)
 
 income_over_time
 ```
@@ -494,9 +490,9 @@ income_weekly <- ggplotly(
     mutate(
       entity = str_to_title(str_replace_all(entity, pattern = "_", replacement = " ")),
       week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE))) %>%
-    group_by(entity, week) %>% 
-    summarise(by_week_million_income = sum(income_million)) %>% 
-    ungroup() %>% 
+    group_by(entity, week) %>%
+    summarise(by_week_million_income = sum(income_million)) %>%
+    ungroup() %>%
     ggplot(aes(x = week, y = by_week_million_income, fill = entity, text = paste(
       "Candidate:",
       entity,
@@ -539,7 +535,7 @@ income_weekly <- ggplotly(
     )),
   tooltip = "text"
 ) %>%
-  config(displaylogo = FALSE)  
+  config(displaylogo = FALSE)
 
 income_weekly
 ```
@@ -557,9 +553,9 @@ ggplotly(
       week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE)),
       cumulative_spend_million = round(cumulative_spend_million, digits = 3)
     ) %>%
-    group_by(entity, week) %>% 
-    summarise(end_of_week_million_spend = max(cumulative_spend_million)) %>% 
-    ungroup() %>% 
+    group_by(entity, week) %>%
+    summarise(end_of_week_million_spend = max(cumulative_spend_million)) %>%
+    ungroup() %>%
     ggplot(aes(x = week, y = end_of_week_million_spend, color = entity)) +
     geom_line() +
     geom_point(size = 0.8, aes(text = paste(
@@ -600,7 +596,7 @@ ggplotly(
              color = ""),
   tooltip = "text"
 ) %>%
-  config(displayModeBar = FALSE)  
+  config(displayModeBar = FALSE)
 ```
 
 ### **SPENDING WEEKLY**
@@ -611,9 +607,9 @@ ggplotly(
     mutate(
       entity = str_to_title(str_replace_all(entity, pattern = "_", replacement = " ")),
       week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE))) %>%
-    group_by(entity, week) %>% 
-    summarise(by_week_million_spend = sum(spend_million)) %>% 
-    ungroup() %>% 
+    group_by(entity, week) %>%
+    summarise(by_week_million_spend = sum(spend_million)) %>%
+    ungroup() %>%
     ggplot(aes(x = week, y = by_week_million_spend, fill = entity, text = paste(
       "Candidate:",
       entity,
@@ -653,7 +649,7 @@ ggplotly(
          fill = ""),
   tooltip = "text"
 ) %>%
-  config(displayModeBar = FALSE)  
+  config(displayModeBar = FALSE)
 
 ```
 
@@ -667,9 +663,9 @@ ggplotly(
       week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE)),
       cumulative_income_million = round(cumulative_income_million, digits = 3)
     ) %>%
-    group_by(entity, week) %>% 
-    summarise(end_of_week_million_income = max(cumulative_income_million)) %>% 
-    ungroup() %>% 
+    group_by(entity, week) %>%
+    summarise(end_of_week_million_income = max(cumulative_income_million)) %>%
+    ungroup() %>%
     ggplot(aes(x = week, y = end_of_week_million_income, color = entity)) +
     geom_line() +
     geom_point(size = 0.8, aes(text = paste(
@@ -710,7 +706,7 @@ ggplotly(
              color = ""),
   tooltip = "text"
 ) %>%
-  config(displayModeBar = FALSE)  
+  config(displayModeBar = FALSE)
 
 ```
 
@@ -722,9 +718,9 @@ ggplotly(
     mutate(
       entity = str_to_title(str_replace_all(entity, pattern = "_", replacement = " ")),
       week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE))) %>%
-    group_by(entity, week) %>% 
-    summarise(by_week_million_income = sum(income_million)) %>% 
-    ungroup() %>% 
+    group_by(entity, week) %>%
+    summarise(by_week_million_income = sum(income_million)) %>%
+    ungroup() %>%
     ggplot(aes(x = week, y = by_week_million_income, fill = entity, text = paste(
       "Candidate:",
       entity,
@@ -764,31 +760,8 @@ ggplotly(
          fill = ""),
   tooltip = "text"
 ) %>%
-  config(displayModeBar = FALSE)  
+  config(displayModeBar = FALSE)
 ```
-
-
-
-<!-- Using TsParticles -->
-<!-- <script src="https://cdn.jsdelivr.net/npm/tsparticles-preset-snow@2/tsparticles.preset.snow.bundle.min.js"></script> -->
-<!-- <script type="text/javascript"> -->
-
-<!-- (async () => { -->
-<!--   await tsParticles.load("tsparticles", { -->
-<!--       "background": { -->
-<!--         "color": "#0064ff", -->
-<!--         "image": "", -->
-<!--         "position": "50% 50%", -->
-<!--         "repeat": "no-repeat", -->
-<!--         "size": "cover" -->
-<!--     }, -->
-<!--     preset: "snow", -->
-<!--   }); -->
-<!-- })(); -->
-
-<!-- </script> -->
-
-
 
 
 

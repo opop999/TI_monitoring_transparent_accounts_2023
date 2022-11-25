@@ -1,0 +1,835 @@
+date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2022-11-24,849,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-23,0.01,CZK,Příchozí úhrada,1178,635180002,2800051998,Pavel Tr?ster,alkoholdrink.cz,danuse_nerudova
+2022-11-23,500,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-23,-255748.63,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0193181046/0300,"IČ: 27203719, propagační předměty",danuse_nerudova
+2022-11-23,-37510,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0183022906/0600,"IČ: 46978259, web vyznamenejzenu.cz a danusenerudova.cz",danuse_nerudova
+2022-11-22,500,CZK,Příchozí úhrada,1178,635180002,2800051998,"Patřičný, Martin",,danuse_nerudova
+2022-11-22,-5000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0279693544/0300,"Jan Tříska, koordinace sběru podpisů",danuse_nerudova
+2022-11-22,-7000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2101530763/2010,"IČ: 73773034, hudební produkce",danuse_nerudova
+2022-11-22,-600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0294109545/0300,"Václav Businský, sběr podpisů",danuse_nerudova
+2022-11-22,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Lucie Samková,,danuse_nerudova
+2022-11-22,-1860,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3115758093/0800,"Eliška Ambrožová, sběr podpisů",danuse_nerudova
+2022-11-22,-4080,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,670100-2216256805/6210,"Karolína Konečná, sběr podpisů",danuse_nerudova
+2022-11-22,-1900,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-5165440277/0100,"IČ: 70966206, pronájem prostor",danuse_nerudova
+2022-11-21,-4223,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2700963835/2010,"IČ: 04876881, pronájem AV techniky",danuse_nerudova
+2022-11-21,1100,CZK,Příchozí úhrada,1178,635180002,2800051998,KUCERA ZDENEK,,danuse_nerudova
+2022-11-21,-10049,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2600434151/2010,"IČ:01785575, distribuce novin",danuse_nerudova
+2022-11-21,-82759,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,670100-2203995721/6210,"IČ:14228521, koordinace podporovatelů",danuse_nerudova
+2022-11-21,-24181.85,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4826022001/5500,"IČ: 28977068, placky, propisky, bloky",danuse_nerudova
+2022-11-21,-17272.37,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-5846329339/0800,"IČ: 63990083, výroba bannerů a prezentačních systémů",danuse_nerudova
+2022-11-21,-90145,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0277974609/0300,"IČ: 02436736, bundy s potiskem",danuse_nerudova
+2022-11-21,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,670100-2215929457/6210,"IČ:17599458, koordinace sběru podpisů ",danuse_nerudova
+2022-11-21,-113885,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0000773345/5500,"IČ:03479455, náklady na setkání dobrovolníků 12.11.2022",danuse_nerudova
+2022-11-21,-4980,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4268538379/0800,"IČ: 25048694, výlep plakátů",danuse_nerudova
+2022-11-21,-908,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1186126369/0800,"IČ:27475689, pronájem prostor",danuse_nerudova
+2022-11-21,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000035-6741510267/0100,"IČ:87561930, koordinace sběru podpisů",danuse_nerudova
+2022-11-21,-4928,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4268538379/0800,"IČ: 25048694, výlep plakátů",danuse_nerudova
+2022-11-21,-7865,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2112255621/2700,"IČ: 46896686, pronájem technického vybavení",danuse_nerudova
+2022-11-21,-5068,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4268538379/0800,"IČ: 25048694, výlep plakátů",danuse_nerudova
+2022-11-21,-1440,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0300720771/0300,"Jan Rozum, sběr podpisů",danuse_nerudova
+2022-11-21,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1396220003/0800,"IČ:66452520, koordinace sběru podpisů",danuse_nerudova
+2022-11-21,-2979,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2900253248/2010,"IČ:62243519, vlajka ČR",danuse_nerudova
+2022-11-21,-960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0249103750/0300,"Jasmína Rücklová, sběr podpisů",danuse_nerudova
+2022-11-21,-40000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1387708648/2700,"IČ:29311241, PR služby",danuse_nerudova
+2022-11-21,-19600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2900311225/2010,"IČ: 07563540, mediální služby, copywriting",danuse_nerudova
+2022-11-21,-1320,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-2921990247/0100,"Vojtěch Stodola, sběr podpisů",danuse_nerudova
+2022-11-21,-240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-0434750247/0100,"Aneta Konečná, sběr podpisů",danuse_nerudova
+2022-11-21,-540,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2908548163/0800,"Eva Martinová, sběr podpisů",danuse_nerudova
+2022-11-21,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-7548780227/0100,"IČ: 17129508, koordinace sběru podpisů",danuse_nerudova
+2022-11-21,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,MIROSLAV BROKL,"NERUDOVÁ, PLATBA",danuse_nerudova
+2022-11-21,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,I.F. Consulting,,danuse_nerudova
+2022-11-21,-18150,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-9468885001/5500,"IČ: 03539075, pronájem prostor",danuse_nerudova
+2022-11-20,80000,CZK,Příchozí úhrada,1178,635180002,2800051998,Beránková Kateřina,,danuse_nerudova
+2022-11-20,-50000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0949949028/5500,"IČ:26168685, reklama Sklik",danuse_nerudova
+2022-11-19,1200,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-18,2000,CZK,Příchozí úhrada,1178,635180002,2800051998,Koněv Maxim,,danuse_nerudova
+2022-11-18,20000,CZK,Příchozí úhrada,1178,635180002,2800051998,Michal Šorejs,,danuse_nerudova
+2022-11-18,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.16.11.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 18.11.2022částka v Kč:         149.00,danuse_nerudova
+2022-11-18,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.16.11.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 18.11.2022částka v Kč:         149.00,danuse_nerudova
+2022-11-18,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.16.11.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 18.11.2022částka v Kč:         149.00,danuse_nerudova
+2022-11-18,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.16.11.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 18.11.2022částka v Kč:         149.00,danuse_nerudova
+2022-11-18,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.16.11.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 18.11.2022částka v Kč:         149.00,danuse_nerudova
+2022-11-18,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.16.11.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 18.11.2022částka v Kč:         149.00,danuse_nerudova
+2022-11-18,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.16.11.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 18.11.2022částka v Kč:         149.00,danuse_nerudova
+2022-11-18,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.16.11.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 18.11.2022částka v Kč:         149.00,danuse_nerudova
+2022-11-18,15000,CZK,Příchozí úhrada,1178,635180002,2800051998,VOTRUBA ONDREJ,"Budouci presidentce, ktera nenizatizena minulosti a bude fungovatjako moralni vzor. Hodne stesti!",danuse_nerudova
+2022-11-18,500,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-18,100,CZK,Příchozí úhrada,1178,635180002,2800051998,BEZNOSKA MARTIN,,danuse_nerudova
+2022-11-18,250000,CZK,Příchozí úhrada,1178,635180002,2800051998,BERGMANN DANIEL,Danuše Nerudová - prezidentka 2023,danuse_nerudova
+2022-11-18,0.01,CZK,Příchozí úhrada,1178,635180002,2800051998,Pavel Tr?ster,alkoholdrink.cz,danuse_nerudova
+2022-11-18,500,CZK,Příchozí úhrada,1178,635180002,2800051998,"Hošinský, Miloš",držim palce :),danuse_nerudova
+2022-11-17,-1015,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.15.11.2022CZ  Praha 2         COMGATE*rafoshCZK      1015.00 d.zúč. 17.11.2022částka v Kč:        1015.00,danuse_nerudova
+2022-11-17,0.01,CZK,Příchozí úhrada,1178,635180002,2800051998,Pavel Tr?ster,alkoholdrink.cz,danuse_nerudova
+2022-11-16,-3630,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0193181046/0300,"IČ: 27203719, výroba etiket",danuse_nerudova
+2022-11-16,-32549,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0377426001/5500,"IČ:68566476, náklady moderování debat",danuse_nerudova
+2022-11-16,-921,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2078590011/3030,"Zdeněk Šerý, cestovné",danuse_nerudova
+2022-11-16,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0252433048/0300,"Barbora Červenková, koordinace sběru podpisů",danuse_nerudova
+2022-11-16,500000,CZK,Příchozí úhrada,1178,635180002,2800051998,ALUKOV A.S.,dar. - Alukov a.s.,danuse_nerudova
+2022-11-16,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,WARS GROUP CZ S.R.O.,,danuse_nerudova
+2022-11-16,-4510.68,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.14.11.2022SK  BRATISLAVA      SLI DOEUR       180.29 d.přep.14.11.2022180.29 kurz EUR 25.019,danuse_nerudova
+2022-11-16,200000,CZK,Příchozí úhrada,1178,635180002,2800051998,ITS PRIVATE INVESTME,,danuse_nerudova
+2022-11-16,2000,CZK,Příchozí úhrada,1178,635180002,2800051998,SEPEK JAN,,danuse_nerudova
+2022-11-15,100000,CZK,Příchozí úhrada,1178,635180002,2800051998,"Kyjovský Milan, JUDr",Dar kampaň,danuse_nerudova
+2022-11-15,50000,CZK,Příchozí úhrada,1178,635180002,2800051998,Eva Bendíková,,danuse_nerudova
+2022-11-15,10000,CZK,Příchozí úhrada,1178,635180002,2800051998,JIRANEK TOMAS,Tomáš Jiránek,danuse_nerudova
+2022-11-15,-5013,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4268538379/0800,"IČ: 25048694, výlep plakátů",danuse_nerudova
+2022-11-15,-900,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2078590011/3030,"Zdeněk Šerý, sběr podpisů",danuse_nerudova
+2022-11-15,50750,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-15,-5067,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4268538379/0800,"IČ: 25048694, výlep plakátů",danuse_nerudova
+2022-11-15,-1020,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0294305597/0300,"Ondřej Bartoš, sběr podpisů",danuse_nerudova
+2022-11-15,500000,CZK,Příchozí úhrada,1178,635180002,2800051998,BORKOVEC PETR,"Danuše Nerudová, podpora Danuše Nerudová",danuse_nerudova
+2022-11-15,500,CZK,Příchozí úhrada,1178,635180002,2800051998,VILT LUKAS,,danuse_nerudova
+2022-11-15,100000,CZK,Příchozí úhrada,1178,635180002,2800051998,FABRIKA 1861 S.R.O.,FABRIKA 1861 DAR Nerudová PREZIDENTKA,danuse_nerudova
+2022-11-15,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1130998010/3030,"Iveta Friedelová, koordinace sběru podpisů",danuse_nerudova
+2022-11-14,30000,CZK,Příchozí úhrada,1178,635180002,2800051998,"GRAPECARE LTD, organ",,danuse_nerudova
+2022-11-14,50000,CZK,Příchozí úhrada,1178,635180002,2800051998,KUROVSKY ONDREJ,Danuše Nerudová - prezidentka 2023,danuse_nerudova
+2022-11-14,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1505769012/3030,"Helena Šuranská, koordinace sběru podpisů",danuse_nerudova
+2022-11-14,-1240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0285212364/0300,"Jitka Štorková, sběr podpisů",danuse_nerudova
+2022-11-14,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2101175335/2010,"Veronika Vystavělová, koordinace sběru podpisů",danuse_nerudova
+2022-11-14,-171815,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2600434151/2010,"IČ:01785575, tisk novin",danuse_nerudova
+2022-11-14,-1560,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3155449113/0800,"Erika Kubálková, sběr podpisů",danuse_nerudova
+2022-11-14,-600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0215309347/0300,"Sabina Holásek, sběr podpisů",danuse_nerudova
+2022-11-14,-960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-7838524002/5500,"Matouš Pokorný, sběr podpisů",danuse_nerudova
+2022-11-14,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0203932289/0600,"IČ:09832017, koordinace sběru podpisů ",danuse_nerudova
+2022-11-14,-15484,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1177827083/0800,"IČ: 76526313, organizace akcí a fundraising",danuse_nerudova
+2022-11-14,-5.04,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0055550309/0800,"IČ: 04235452, poplatek platební brána",danuse_nerudova
+2022-11-14,-2160,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000078-1318100217/0100,"Veronika Burgerová, sběr podpisů",danuse_nerudova
+2022-11-14,-1200,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1894022018/3030,"Natálie Vorlická, sběr podpisů",danuse_nerudova
+2022-11-14,-12100,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2679521193/0800,"IČ:44080697, koordinace sběru podpisů",danuse_nerudova
+2022-11-14,100000,CZK,Příchozí úhrada,1178,635180002,2800051998,"Šulcová Miroslava,ml",,danuse_nerudova
+2022-11-14,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,MRAZKOVA MARTINA,,danuse_nerudova
+2022-11-14,6150,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-14,30000,CZK,Příchozí úhrada,1178,635180002,2800051998,"SULKO, S.R.O.",,danuse_nerudova
+2022-11-13,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Jan Hanousek,,danuse_nerudova
+2022-11-13,100,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-12,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing.Černý Jan,,danuse_nerudova
+2022-11-12,-544.5,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.10.11.2022CZ  https://copyg   GOPAY  *COPYGECZK       544.50 d.zúč. 12.11.2022částka v Kč:         544.50,danuse_nerudova
+2022-11-12,750,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-12,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Lenka Kotková,,danuse_nerudova
+2022-11-11,-18540,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000035-6741510267/0100,"IČ: 87561930, Koordinace sběru podpisů",danuse_nerudova
+2022-11-11,-1183163,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0000000908/5500,"IČ: 27883299, logistika petiční kampaně",danuse_nerudova
+2022-11-11,-96800,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2401021688/2010,"IČ: 06023231, řízení digitální komunikace",danuse_nerudova
+2022-11-11,-6655,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2112255621/2700,"IČ: 46896686, pronájem prostor",danuse_nerudova
+2022-11-11,100,CZK,Příchozí úhrada,1178,635180002,2800051998,DOUBRAVA JAN,,danuse_nerudova
+2022-11-11,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Veronika Dostálová,,danuse_nerudova
+2022-11-11,-484000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3568672399/0800,"IČ:03299937, nákup reklamního prostoru",danuse_nerudova
+2022-11-11,-36300,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3568672399/0800,"IČ:03299937, PR služby",danuse_nerudova
+2022-11-10,2000,CZK,Příchozí úhrada,1178,635180002,2800051998,Mgr.Dvořák Josef,"Naděje...je jistota, že něco má smysl - bez ohledu na to, jak to dopadne. A dopadne to dobře. Hodně sil!",danuse_nerudova
+2022-11-10,15750,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-10,-61600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000035-4902100287/0100,"IČ:07625375, správa sociálních sítí",danuse_nerudova
+2022-11-10,-121000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-5740680227/0100,"IČ:87358590, Produkční zázemí, produkce a koordinace kampaně ",danuse_nerudova
+2022-11-10,-4300,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0188742080/0300,"IČ:71192557, pronájem prostor",danuse_nerudova
+2022-11-10,-21600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1637980012/3030,"IČ:17657661, grafické práce",danuse_nerudova
+2022-11-10,-3960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0001209551/0100,"IČ: 45534276, ubytování",danuse_nerudova
+2022-11-10,-12100,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-9468885001/5500,"IČ:03539075, pronájem prostor",danuse_nerudova
+2022-11-10,-367840,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-5674048329/0800,"IČ:27593690,strategie, průzkumy, kreativa, grafické a reklamní služby",danuse_nerudova
+2022-11-10,-89000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0219784444/0300,"IČ:05731488, produkce, protokol",danuse_nerudova
+2022-11-10,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,BEZNOSKA MARTIN,Hodně štěstí. Poražte toho STBáka !,danuse_nerudova
+2022-11-10,-21538,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4826022001/5500,"IČ:28977068, výroba placek",danuse_nerudova
+2022-11-10,-70800,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1020141227/6100,"IČ:71977767, administrativa",danuse_nerudova
+2022-11-10,-480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0188606206/0600,"Viktorie Kádnerová, sběr podpisů",danuse_nerudova
+2022-11-10,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4791965033/0800,"IČ:06334130, správa sociálních sítí",danuse_nerudova
+2022-11-10,2000,CZK,Příchozí úhrada,1178,635180002,2800051998,DIATKOVA IVANA,"Ivana DiatkováMoc Vám fandím a věřím, že výsledekbude skvělý !!!",danuse_nerudova
+2022-11-10,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Oppelt Šimon,Danuše Nerudová,danuse_nerudova
+2022-11-09,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Milan Fryčka,Držíme palce,danuse_nerudova
+2022-11-09,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing.Kopejtko Martin,Ať se daří!,danuse_nerudova
+2022-11-09,150000,CZK,Příchozí úhrada,1178,635180002,2800051998,"RP SESTAJOVICE, S.R.",Dar - Prezident Nerudová D.,danuse_nerudova
+2022-11-09,250,CZK,Příchozí úhrada,1178,635180002,2800051998,David Kostura,,danuse_nerudova
+2022-11-09,500,CZK,Příchozí úhrada,1178,635180002,2800051998,BELECOVA PATRICIE,Pro budoucí prezidentku!,danuse_nerudova
+2022-11-09,100,CZK,Příchozí úhrada,1178,635180002,2800051998,Peruth Roland,Pro skvělou paní prezidentku,danuse_nerudova
+2022-11-09,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Jakub Štěpánek,na boj proti všem komunistům sveta,danuse_nerudova
+2022-11-09,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Adam Blišťan,,danuse_nerudova
+2022-11-09,250,CZK,Příchozí úhrada,1178,635180002,2800051998,BENES JIRI,pro demokratickou a slušnou kandidátku,danuse_nerudova
+2022-11-09,-700,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-8294260751/6100,"Petr Urban, sběr podpisů",danuse_nerudova
+2022-11-09,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Jan Kuchař,,danuse_nerudova
+2022-11-09,-2400,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000035-1621840277/0100,"Johana Franzová, sběr podpisů",danuse_nerudova
+2022-11-09,-60600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2600902576/2010,"IČ:70331189, produkční služby, eventy, fundraising",danuse_nerudova
+2022-11-09,-1320,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-4834020217/0100,"Štěpán Kavka, sběr podpisů",danuse_nerudova
+2022-11-09,-50000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000107-1441170237/0100,"IČ:11940565, mediální PR služby",danuse_nerudova
+2022-11-09,-3440,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0100393657/0300,"IČ:47114983, poštovné",danuse_nerudova
+2022-11-09,-480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1903365013/0800,"Jaroslav Szentiványi, sběr podpisů",danuse_nerudova
+2022-11-09,-5868.5,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2101444160/2010,"IČ: 07155794, správa a optimalizace sociálních sítí",danuse_nerudova
+2022-11-09,-45839,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-7173506001/5500,"IČ:88862178, logistické služby",danuse_nerudova
+2022-11-09,-240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4618345033/0800,"Simona Šilhavá, sběr podpisů",danuse_nerudova
+2022-11-09,-360,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4305511053/0800,"Anna Ingrid Machalová, sběr podpisů",danuse_nerudova
+2022-11-09,-840,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0283905175/0300,"Filip Jordán, sběr podpisů",danuse_nerudova
+2022-11-09,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Seidl Jan,,danuse_nerudova
+2022-11-09,50,CZK,Příchozí úhrada,1178,635180002,2800051998,JAKUB SVANDRLIK,"DANUSHE, WOW ROFL OLOL",danuse_nerudova
+2022-11-09,500,CZK,Příchozí úhrada,1178,635180002,2800051998,HAVRANEC LADISLAV,,danuse_nerudova
+2022-11-09,500000,CZK,Příchozí úhrada,1178,635180002,2800051998,Červinka Jan,,danuse_nerudova
+2022-11-09,9500,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-09,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Jaromír Resl,Hodně štěstí,danuse_nerudova
+2022-11-08,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0193701566/0300,"IČ:06651721, koordinace sběru podpisů",danuse_nerudova
+2022-11-08,-240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1142934014/3030,"Lukáš Kučera, sběr podpisů",danuse_nerudova
+2022-11-08,100,CZK,Příchozí úhrada,1178,635180002,2800051998,PETR ZAVADIL,Fandím!,danuse_nerudova
+2022-11-08,250,CZK,Příchozí úhrada,1178,635180002,2800051998,LUKAS LIBOR,,danuse_nerudova
+2022-11-08,2000,CZK,Příchozí úhrada,1178,635180002,2800051998,Soukal Josef,,danuse_nerudova
+2022-11-08,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Radek Veselý,,danuse_nerudova
+2022-11-08,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,PaedDr.Maršálková Ja,,danuse_nerudova
+2022-11-08,-714.39,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0055550202/0800,"IČ:04235452, poplatek platební brána",danuse_nerudova
+2022-11-08,-37000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1020667421/6100,"IČ:05371481, produkce",danuse_nerudova
+2022-11-08,-30000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2863579133/0800,"IČ: 11951761, fundraising",danuse_nerudova
+2022-11-08,-360,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4594050053/0800,"Karolína Nguyen, sběr podpisů",danuse_nerudova
+2022-11-08,-1080,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2834442023/0800,"Natálie Sedláková, sběr podpisů",danuse_nerudova
+2022-11-08,-960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0198537013/0800,"Václav Čáp, sběr podpisů",danuse_nerudova
+2022-11-08,-963,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2724007063/0800,"Zdeněk Ředina, cestovné",danuse_nerudova
+2022-11-08,-949,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2400807590/2010,"Karel Šuranský, cestovné",danuse_nerudova
+2022-11-08,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-7548780227/0100,"IČ: 17129508, Koordinace sběru podpisů",danuse_nerudova
+2022-11-08,-12000,CZK,Výběr hotovosti z bankomatu ČS,1178,635180002,2800051998,-,"XXXXXXXXXXXX7023 d.tran.08.11.2022146  Praha 3           ČS, TáboritCZK      12000.00 d.zúč.08.11.2022částka v Kč:      12000.00",danuse_nerudova
+2022-11-08,500000,CZK,Příchozí úhrada,1178,635180002,2800051998,"JAVOŘICE, A.S.",,danuse_nerudova
+2022-11-08,200000,CZK,Příchozí úhrada,1178,635180002,2800051998,PentaGen s.r.o.,,danuse_nerudova
+2022-11-08,2000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-08,250000,CZK,Příchozí úhrada,1178,635180002,2800051998,"RP SESTAJOVICE, S.R.",dar Prezident - Nerudová D.,danuse_nerudova
+2022-11-08,250,CZK,Příchozí úhrada,1178,635180002,2800051998,BUTOVICOVA KATERINA,Hodně štěstí přeji!!,danuse_nerudova
+2022-11-08,100,CZK,Příchozí úhrada,1178,635180002,2800051998,SITAŘ ROBIN,,danuse_nerudova
+2022-11-08,10000,CZK,Příchozí úhrada,1178,635180002,2800051998,RNDr. Martin Strauch,,danuse_nerudova
+2022-11-08,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Brebera Stanislav,Ať sa daří,danuse_nerudova
+2022-11-08,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Jarmila Zámečníková,,danuse_nerudova
+2022-11-08,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,Kozák Petr,... aby zvítězila slušnost nad buranstvím !,danuse_nerudova
+2022-11-08,-720,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0275387670/0300,"Adéla Fialová, sběr podpisů",danuse_nerudova
+2022-11-08,-960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1044287183/0800,"Romana Římalová, sběr podpisů",danuse_nerudova
+2022-11-08,-1180,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0300530804/0300,"Petr Vilímek, sběr podpisů",danuse_nerudova
+2022-11-08,-48941,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0251848866/0600," IČ:17472318, produkce výjezdů",danuse_nerudova
+2022-11-08,-40000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0273336407/0300,"IČ:8269254, fotografické služby",danuse_nerudova
+2022-11-08,100,CZK,Příchozí úhrada,1178,635180002,2800051998,RYŠÁNEK JAKUB,Držím palce!,danuse_nerudova
+2022-11-08,-480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1029758178/6100,"Richard Fukač, sběr podpisů",danuse_nerudova
+2022-11-08,-240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0193620694/0300,"Milan Faist, sběr podpisů",danuse_nerudova
+2022-11-08,20000,CZK,Příchozí úhrada,1178,635180002,2800051998,Beránková Kateřina,,danuse_nerudova
+2022-11-07,5000000,CZK,Příchozí úhrada,1178,635180002,2800051998,MORAVEC INVEST S.R.O,"Večer jsem dostal syna. Zaslouží sivlast s budoucností, kde prezidentbude demokrat. Po 20 letech zmaruje tu naděje co slušnost spojuje",danuse_nerudova
+2022-11-07,-60000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0256320534/0300,"IČ:14368102, koordinace kampaně",danuse_nerudova
+2022-11-07,-2420,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0277974609/0300,"IČ:02436736, vzorek větrovka",danuse_nerudova
+2022-11-07,-56990,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0237245671/0300,"IČ:71372563, koordinace dobrovolníků",danuse_nerudova
+2022-11-07,-3000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2113286016/2700,"IČ:09030212, fotoreportáž",danuse_nerudova
+2022-11-07,-70000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2100348249/2010,"IČ:06457835, správa sociálních sítí",danuse_nerudova
+2022-11-07,-1560,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2400807590/2010,"Karel Šuranský, sběr podpisů",danuse_nerudova
+2022-11-07,-2520,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1128679002/2700,"Lukáš Koudelka, sběr podpisů",danuse_nerudova
+2022-11-07,-1260,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2702237183/2010,"Tereza Bolečková, sběr podpisů",danuse_nerudova
+2022-11-07,-1860,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2801292911/2010,"Petr Měřínský, sběr podpisů",danuse_nerudova
+2022-11-07,-3720,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0287918782/0300,"Pavel Konečný, sběr podpisů",danuse_nerudova
+2022-11-07,-2460,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1962789019/3030,"Patrik Belka, sběr podpisů",danuse_nerudova
+2022-11-07,-780,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4636519033/0800,"Ján Žaludko, sběr podpisů",danuse_nerudova
+2022-11-07,-1080,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2891083063/0800,"Aneta Navrátilová, sběr podpisů",danuse_nerudova
+2022-11-07,-960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3044216173/0800,"Alice Strnadelová, sběr podpisů",danuse_nerudova
+2022-11-07,-240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0221089555/0600,"Adéla Fastová, sběr podpisů",danuse_nerudova
+2022-11-07,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Richard Chotváč,Mate na to ! Drzim palce,danuse_nerudova
+2022-11-07,-2340,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2724007063/0800,"Zdeněk Ředina, sběr podpisů",danuse_nerudova
+2022-11-07,-3000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0273132228/0300,"Ivana Hronková, sběr podpisů",danuse_nerudova
+2022-11-07,-4660,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4029177043/0800,"Hana Boubelíková, sběr podpisů",danuse_nerudova
+2022-11-07,-6760,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2114252678/2700,"Václav Veselý, sběr podpisů",danuse_nerudova
+2022-11-07,500000,CZK,Příchozí úhrada,1178,635180002,2800051998,JECHOVA MARTINA,Dar na podporu demokratické kandidátky,danuse_nerudova
+2022-11-07,5000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-07,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Jaroslava Skoumalová,jsem s Vámi,danuse_nerudova
+2022-11-06,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Petr Štaif,,danuse_nerudova
+2022-11-05,5600,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-04,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Krejcarová Olga,Krejcarová olga,danuse_nerudova
+2022-11-04,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Jana Šimková,Pevné nervy,danuse_nerudova
+2022-11-04,50000,CZK,Příchozí úhrada,1178,635180002,2800051998,SMIDL VLADIMIR,Dar,danuse_nerudova
+2022-11-04,250,CZK,Příchozí úhrada,1178,635180002,2800051998,TOTH ALES,,danuse_nerudova
+2022-11-04,22500,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-04,250,CZK,Příchozí úhrada,1178,635180002,2800051998,"Šteflová, Svatava",,danuse_nerudova
+2022-11-03,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,ŠONKA PETR,,danuse_nerudova
+2022-11-03,-2660,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1317268018/3030,"Jakub Kraus, sběr podpisů",danuse_nerudova
+2022-11-03,-1140,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0280295658/0300,"Dagmar Mikešová, sběr podpisů",danuse_nerudova
+2022-11-03,-2580,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4258110002/5500,"Beata Červinková, sběr podpisů",danuse_nerudova
+2022-11-03,-1000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1844842018/3030,"Anna Marie Vondráková, sběr podpisů",danuse_nerudova
+2022-11-03,-740,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0246156662/0300,"Adam Kaun, sběr podpisů",danuse_nerudova
+2022-11-03,-460,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1317921005/2700,"Tereza Kučerová, sběr podpisů",danuse_nerudova
+2022-11-03,-840,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2011482016/3030,"Petra Štrausová, sběr podpisů",danuse_nerudova
+2022-11-03,2000,CZK,Příchozí úhrada,1178,635180002,2800051998,KHELER JIRI,Dar Danuse Nerudova,danuse_nerudova
+2022-11-03,-240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1608811017/3030,"Petr Kučera, sběr podpisu",danuse_nerudova
+2022-11-03,-960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-5308260207/0100,"Michaela Pirklová, sběr podpisů",danuse_nerudova
+2022-11-03,-680,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-2377400257/0100,"Lucie Kohoutová, sběr podpisů",danuse_nerudova
+2022-11-03,-760,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0243665920/0600,"Lenka Konopová, sběr podpisů",danuse_nerudova
+2022-11-03,-940,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2601504481/2010,"Karolína Glosová, sběr podpisů",danuse_nerudova
+2022-11-03,-800,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2276617019/3030,"Eliška Mária Gheorgheová, sběr podpisů",danuse_nerudova
+2022-11-03,-2400,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-5343170207/0100,"Agáta Bendová, sběr podpisů",danuse_nerudova
+2022-11-03,-580,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0229364873/0600,"Adéla Švecová, sběr podpisů",danuse_nerudova
+2022-11-03,-620,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4059756003/0800,"Václav Kopunek, sběr podpisů",danuse_nerudova
+2022-11-03,-420,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4059756003/0800,"Michaela Hájková, sběr podpisů",danuse_nerudova
+2022-11-03,-1000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4069221053/0800,"Jana Kuncová, sběr podpisů",danuse_nerudova
+2022-11-03,-1680,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0302717891/0300,"Matyáš Ciupa, sběr podpisů",danuse_nerudova
+2022-11-03,-1600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1128679002/2700,"Lukáš Koudelka, sběr podpisů",danuse_nerudova
+2022-11-03,-6000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0273858109/0300,"IČ:42189977, koordinace sběru podpisů",danuse_nerudova
+2022-11-03,-6470.92,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.01.11.2022IE  Dublin          Google GSUITE_EUR       256.64 d.přep.01.11.2022256.64 kurz EUR 25.214,danuse_nerudova
+2022-11-03,100,CZK,Příchozí úhrada,1178,635180002,2800051998,Mazáč Milan,Mazáč,danuse_nerudova
+2022-11-03,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,HALDA JOSEF,,danuse_nerudova
+2022-11-03,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing.Vavroš Bogdan,drzime palce,danuse_nerudova
+2022-11-03,500,CZK,Příchozí úhrada,1178,635180002,2800051998,"Kalusová, Hana",držím pěsti,danuse_nerudova
+2022-11-03,8751,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-03,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,POLMOVA MARTINA,držím palce,danuse_nerudova
+2022-11-03,500,CZK,Příchozí úhrada,1178,635180002,2800051998,ZDARILOVA LUDMILA,,danuse_nerudova
+2022-11-03,20000,CZK,Příchozí úhrada,1178,635180002,2800051998,"Ketner Vladimír,Ing.",Vladimír Ketner,danuse_nerudova
+2022-11-03,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Ušák Petr,Dar od Petr Ušák,danuse_nerudova
+2022-11-03,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Hlinka Vlastimil,"Máte mou podporu. Vlastimil Hlinka,Dolní Břežany",danuse_nerudova
+2022-11-03,-1780,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,670100-2208734598/6210,"Denisa Janešíková, sběr podpisů",danuse_nerudova
+2022-11-03,-480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-7324040633/5500,"Tereza Krbcová, sběr podpisů",danuse_nerudova
+2022-11-03,-3860,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0197721177/0300,"Tadeáš Helešic, sběr podpisů",danuse_nerudova
+2022-11-03,-2570,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3150939033/0800,"Petr Panák, sběr podpisů",danuse_nerudova
+2022-11-03,-840,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2302323656/2010,"Matěj Šeffl, sběr podpisů",danuse_nerudova
+2022-11-03,-600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3034081113/0800,"Klára Ambrožová, sběr podpisů",danuse_nerudova
+2022-11-03,-3880,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000107-7332270287/0100,"Kateřina Doubková, sběr podpisů",danuse_nerudova
+2022-11-03,-1760,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1020338302/6100,"Jiří Bouček, sběr podpisů",danuse_nerudova
+2022-11-03,-1100,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4129157023/0800,"Eliška Měřínská, sběr podpisů",danuse_nerudova
+2022-11-02,1,CZK,Příchozí úhrada,1178,635180002,2800051998,Daniel Závorka,,danuse_nerudova
+2022-11-02,500,CZK,Příchozí úhrada,1178,635180002,2800051998,ČIVRNÁ IRENA,,danuse_nerudova
+2022-11-02,-440,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0198978919/0600,"Sára Žabenská, sběr podpisů",danuse_nerudova
+2022-11-02,-900,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-8294490864/6100,"Milan Hurtuk, sběr podpisů",danuse_nerudova
+2022-11-02,-700,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000115-0581740217/0100,"Kristýna Kalanošová, sběr podpisů",danuse_nerudova
+2022-11-02,-860,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3185626053/0800,"Dominik Edward Martin, sběr podpisů",danuse_nerudova
+2022-11-02,-640,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4488859043/0800,"Denisa Svrčinová, sběr podpisů",danuse_nerudova
+2022-11-02,-920,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1847462010/3030,"Adam Andruško, sběr podpisů",danuse_nerudova
+2022-11-02,-820,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2600897228/2010,"Renata Machýlová, sběr podpisů",danuse_nerudova
+2022-11-02,-1460,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-4938170287/0100,"Lukáš Dihel, sběr podpisů",danuse_nerudova
+2022-11-02,-240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0302658625/0300,"Matěj Hájek, sběr podpisů",danuse_nerudova
+2022-11-02,-1460,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-5828670277/0100,"Anežka Peterová, sběr podpisů",danuse_nerudova
+2022-11-02,-1800,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1530975002/2700,"Vojtěch Mirga, sběr podpisů",danuse_nerudova
+2022-11-02,-1200,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4373821053/0800,"Aneta Bulišová, sběr podpisů",danuse_nerudova
+2022-11-02,-1320,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1932314012/3030,"Sára Kupcová, sběr podpisů",danuse_nerudova
+2022-11-02,10000,CZK,Příchozí úhrada,1178,635180002,2800051998,PETR KROUL,Dar Danuse Nerudova,danuse_nerudova
+2022-11-02,200,CZK,Příchozí úhrada,1178,635180002,2800051998,KVETON MARTIN,,danuse_nerudova
+2022-11-02,2000,CZK,Příchozí úhrada,1178,635180002,2800051998,FLOWER COMPANY S.R.O,,danuse_nerudova
+2022-11-02,2000000,CZK,Příchozí úhrada,1178,635180002,2800051998,FAIEREISL PAVEL,Pro lepší Česko!,danuse_nerudova
+2022-11-02,100,CZK,Příchozí úhrada,1178,635180002,2800051998,KRÁLÍČKOVÁ MICHAEL,,danuse_nerudova
+2022-11-02,-886.58,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.31.10.2022IE  DUBLIN          WWW.MAILERLITEEUR        35.09 d.přep.31.10.202235.09 kurz EUR 25.266,danuse_nerudova
+2022-11-02,5450,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-02,-30250,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0194403464/0300,"IČ:75718243, produkce petiční kampaně",danuse_nerudova
+2022-11-01,2000,CZK,Příchozí úhrada,1178,635180002,2800051998,Martin Šťastný,Martin Šťastný,danuse_nerudova
+2022-11-01,0,CZK,Cena za vedení účtu,1178,635180002,2800051998,,,danuse_nerudova
+2022-11-01,25000,CZK,Příchozí úhrada,1178,635180002,2800051998,Jiří Grund,,danuse_nerudova
+2022-11-01,500,CZK,Příchozí úhrada,1178,635180002,2800051998,"Kroc, Pavel",Pavel Kroc,danuse_nerudova
+2022-11-01,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Dalibor Jeleček,,danuse_nerudova
+2022-11-01,10000,CZK,Příchozí úhrada,1178,635180002,2800051998,Laštůvka Igor,,danuse_nerudova
+2022-11-01,50000,CZK,Příchozí úhrada,1178,635180002,2800051998,MOTEJLKOVA SILVIE,Danuše Nerudová prezidentka 2023,danuse_nerudova
+2022-11-01,500,CZK,Příchozí úhrada,1178,635180002,2800051998,KRÁL MILOŠ,,danuse_nerudova
+2022-11-01,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Blanka Collis,,danuse_nerudova
+2022-11-01,250,CZK,Příchozí úhrada,1178,635180002,2800051998,PLISEK JAN,Prezident,danuse_nerudova
+2022-11-01,2000,CZK,Příchozí úhrada,1178,635180002,2800051998,Lukáš Basík,,danuse_nerudova
+2022-11-01,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,POPLŠTEJN MILAN,,danuse_nerudova
+2022-11-01,500,CZK,Příchozí úhrada,1178,635180002,2800051998,MOTYCKOVA VERA,,danuse_nerudova
+2022-11-01,10000,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing. Monika Kavanová,Dar pro prezidentskou kampan DanuseNerudové  -  Monika Kavanová,danuse_nerudova
+2022-11-01,111,CZK,Příchozí úhrada,1178,635180002,2800051998,Šárka Eisenhammerová,,danuse_nerudova
+2022-11-01,-11927.14,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.30.10.2022IE  fb.me/ads       ADS*FYM7WKFXK2CZK     11927.14 d.zúč. 01.11.2022částka v Kč:       11927.14,danuse_nerudova
+2022-11-01,500,CZK,Příchozí úhrada,1178,635180002,2800051998,PATOCKA BRONISLAV,,danuse_nerudova
+2022-11-01,14850,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-01,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,SKRANKA LUDEK,Děkujeme Vám,danuse_nerudova
+2022-11-01,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,DANISZOVÁ GABRIELA,Děkujeme a držíme pěsti. U nás máte 5 hladů jistých!!!,danuse_nerudova
+2022-11-01,500,CZK,Příchozí úhrada,1178,635180002,2800051998,PROKEŠ OLDŘICH,Oldřich Prokeš,danuse_nerudova
+2022-11-01,100,CZK,Příchozí úhrada,1178,635180002,2800051998,Tadlík Ondřej,Zlomte vaz!,danuse_nerudova
+2022-11-01,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,HOĎÁNEK JAKUB,,danuse_nerudova
+2022-11-01,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Petr Lozan,,danuse_nerudova
+2022-11-01,-25,CZK,Poskytnutí debetní karty,1178,635180002,2800051998,-,,danuse_nerudova
+2022-11-01,500,CZK,Příchozí úhrada,1178,635180002,2800051998,JANÁČEK JAROSLA,,danuse_nerudova
+2022-10-31,500000,CZK,Příchozí úhrada,1178,635180002,2800051998,JECH PETR,SB: 31.10.2022/8:47:50 0644534946,danuse_nerudova
+2022-10-31,-15730,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1387919939/2700,"IČ:09839194, tvorba videa",danuse_nerudova
+2022-10-31,12,CZK,Příchozí úhrada,1178,635180002,2800051998,Lenka Zemková,,danuse_nerudova
+2022-10-31,2000,CZK,Příchozí úhrada,1178,635180002,2800051998,CHYTROVA ALICE,D. Nerudová,danuse_nerudova
+2022-10-31,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing.Velička Jan,,danuse_nerudova
+2022-10-31,20000,CZK,Příchozí úhrada,1178,635180002,2800051998,"Mgr.Havlová Adéla,LL","Dar na kampaň, držím palce:)",danuse_nerudova
+2022-10-31,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing.Orságová Irena,,danuse_nerudova
+2022-10-31,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,"Hůla, Milan","...s láskou, v radosti a k uzdravení všehomíra...",danuse_nerudova
+2022-10-31,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Kamila Scott,,danuse_nerudova
+2022-10-31,50,CZK,Příchozí úhrada,1178,635180002,2800051998,Gerlichová Jarmila,,danuse_nerudova
+2022-10-31,100000,CZK,Příchozí úhrada,1178,635180002,2800051998,Vladimír Fichtner,Prejeme hodne stesti a tesime se nabudoucnost s prezidentkou Nerudovou,danuse_nerudova
+2022-10-31,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Rataj Zdenko,dárek,danuse_nerudova
+2022-10-31,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,VALIGURA LUKÁŠ,Danuše Nerudová,danuse_nerudova
+2022-10-31,111,CZK,Příchozí úhrada,1178,635180002,2800051998,HROMEK PETR,,danuse_nerudova
+2022-10-31,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Emil Tuchyňa,,danuse_nerudova
+2022-10-31,10600,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-31,-3600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1200799018/2700,"Ondřej Majkus, sběr podpisů",danuse_nerudova
+2022-10-31,2000,CZK,Příchozí úhrada,1178,635180002,2800051998,KALAB JAROSLAV,Kalab,danuse_nerudova
+2022-10-30,-3480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0258379484/0300,"Romana Mimrová, sběr podpisů",danuse_nerudova
+2022-10-30,-2760,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2432777015/3030,"Samuel Švidrnoch, sběr podpisů",danuse_nerudova
+2022-10-30,-2640,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1348251024/3030,"Vendula Compelová, sběr podpisů",danuse_nerudova
+2022-10-30,-1820,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2908548163/0800,"Eva Irene Martinová, sběr podpisů",danuse_nerudova
+2022-10-30,-7500,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000019-2213260227/0100,"IČ:15111482, účetní zpracování",danuse_nerudova
+2022-10-30,-360,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0302792605/0300,"Vojtěch Pánek, sběr podpisů",danuse_nerudova
+2022-10-30,-540,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000086-7049120267/0100,"Michaela Přecechtělová, sběr podpisů",danuse_nerudova
+2022-10-30,-240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-8479615002/5500,"Petr Měsíček, sběr podpisů",danuse_nerudova
+2022-10-30,-600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0287310355/0300,"Markéta Somolová, sběr podpisů",danuse_nerudova
+2022-10-30,-360,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3062976133/0800,"Hana Růžičková, sběr podpisů",danuse_nerudova
+2022-10-30,-4140,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2131190018/3030,"Klára Plachá, sběr podpisů",danuse_nerudova
+2022-10-30,500,CZK,Příchozí úhrada,1178,635180002,2800051998,SŮVA DANIEL,,danuse_nerudova
+2022-10-30,-3480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0310429961/0300,"Monika Bilíková, sběr podpisů",danuse_nerudova
+2022-10-30,-360,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-7355013953/5500,"Lucie Šestáková, sběr podpisů",danuse_nerudova
+2022-10-30,-2400,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0235993983/0600,"Kateřina Reková, sběr podpisů",danuse_nerudova
+2022-10-30,-960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2061606013/3030,"Karla Magdaléna Hyrníková, sběr podpisů",danuse_nerudova
+2022-10-30,-4320,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0208134833/0600,"Karel Cepko, sběr podpisů",danuse_nerudova
+2022-10-30,-1560,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3001098023/0800,"Gabriela Šebestová, sběr podpisů",danuse_nerudova
+2022-10-30,-2040,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-2664880257/0100,"Ester Plačková, sběr podpisů",danuse_nerudova
+2022-10-30,-2280,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2163868014/3030,"Ema Hudečková, sběr podpisů",danuse_nerudova
+2022-10-30,-1440,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2742567013/0800,"Barbora Budayová, sběr podpisů",danuse_nerudova
+2022-10-30,-920,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2799523193/0800,"Marek Slonina, sběr podpisů",danuse_nerudova
+2022-10-30,-1200,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2600897228/2010,"Petra Brodová, sběr podpisů",danuse_nerudova
+2022-10-30,-8470,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0183779378/0300,"IČ:24727741, zápůjčka vozidla",danuse_nerudova
+2022-10-30,-6280,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0252433048/0300,"Barbora Červenková, koordinace sběru podpisů",danuse_nerudova
+2022-10-30,-240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1962789019/3030,"Patrik Belka, sběr podpisů",danuse_nerudova
+2022-10-30,-10900,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1083204133/0800,"Marek Gajoš, sběr podpisů",danuse_nerudova
+2022-10-30,-890,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2900848647/2010,"IČ: 04341783, tvorba křížovky",danuse_nerudova
+2022-10-30,-3000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1488408011/3030,"IČ:03001776, grafické práce",danuse_nerudova
+2022-10-30,-5000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0279693544/0300,"Jan Tříska, koordinace sběru podpisů",danuse_nerudova
+2022-10-30,-3617.9,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0183022906/0600,"IČ:46978259, web www.vyznamenejzenu.cz",danuse_nerudova
+2022-10-30,-5940,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0238021039/0300,"Martin Remeš, sběr podpisů",danuse_nerudova
+2022-10-30,-3540,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2400185111/2010,"Eva Šanovcová, sběr podpisů",danuse_nerudova
+2022-10-30,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000115-2809500287/0100,"Lukáš Bechyně, koordinace sběru podpisů",danuse_nerudova
+2022-10-30,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Miroslava Buchbauero,,danuse_nerudova
+2022-10-30,-25000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,670100-2215929457/6210,"IČ:17599458, Produkce petiční kampaně",danuse_nerudova
+2022-10-30,-1200,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3204601143/0800,"Pavel Kelich, sběr podpisů",danuse_nerudova
+2022-10-30,-360,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0261984650/0300,"Anežka Kotoučová, sběr podpisů",danuse_nerudova
+2022-10-30,-360,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4618345033/0800,"Simona Šilhavá, sběr podpisů",danuse_nerudova
+2022-10-30,-600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3292819002/5500,"Eliška Trojanová, sběr podpisů",danuse_nerudova
+2022-10-30,-480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0289564236/0300,"Lucie Paslerová, sběr podpisů",danuse_nerudova
+2022-10-30,-1200,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0203883819/0600,"Michaela Zádová, sběr podpisů",danuse_nerudova
+2022-10-28,1650,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-26,100000,CZK,Příchozí úhrada,1178,635180002,2800051998,BUZKOVÁ PETRA,Petra Buzková a Josef Kotrba,danuse_nerudova
+2022-10-26,-1133.77,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.24.10.2022CZ  Brand s nad L   COMGATE*obalykCZK      1133.77 d.zúč. 26.10.2022částka v Kč:        1133.77,danuse_nerudova
+2022-10-26,250,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-25,2000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-24,350,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing. Jiří Böhm,,danuse_nerudova
+2022-10-24,50,CZK,Příchozí úhrada,1178,635180002,2800051998,VACLAV MARES,"DANUŠE NERUDOVÁ, PLATBA",danuse_nerudova
+2022-10-24,250,CZK,Příchozí úhrada,1178,635180002,2800051998,KREJCAR VÁCLAV,,danuse_nerudova
+2022-10-24,-3840,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0291985750/0300,"Monika Netušilová, sběr podpisů",danuse_nerudova
+2022-10-24,-7260,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-6444850257/0100,"IČ:10777814, přepravní služby",danuse_nerudova
+2022-10-24,-10135,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2600434151/2010,"IČ:01785575, informační letáky",danuse_nerudova
+2022-10-24,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,670100-2215929457/6210,"IČ:17599458, koordinace sběru podpisů",danuse_nerudova
+2022-10-24,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2101175335/2010,"Veronika Vystavělová, koordinace sběru podpisů",danuse_nerudova
+2022-10-24,-5215.1,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-5846329339/0800,"IČ:63990083, banner",danuse_nerudova
+2022-10-24,-21869.59,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-5846329339/0800,"IČ:63990083, promostolky ",danuse_nerudova
+2022-10-24,-7260,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0183022906/0600,"IČ:46978259, webové stránky danusenerudova.cz",danuse_nerudova
+2022-10-24,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1505769012/3030,"Helena Šuranská, koordinace sběru podpisů",danuse_nerudova
+2022-10-23,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing. Jindřich Husák,,danuse_nerudova
+2022-10-23,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.21.10.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 23.10.2022částka v Kč:         109.00,danuse_nerudova
+2022-10-22,2000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-21,-4680,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3165312153/0800,"Helena Trávníčková, sběr podpisů",danuse_nerudova
+2022-10-21,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1130998010/3030,"Iveta Friedlová, koordinace sběru podpisů",danuse_nerudova
+2022-10-21,500000,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing. Jan Řežáb,Dar na kampaň Danuše Nerudové,danuse_nerudova
+2022-10-21,-4739.57,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4826022001/5500,"IČ:28977068, propagační vizitky",danuse_nerudova
+2022-10-21,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,CERVENKA ROMAN,,danuse_nerudova
+2022-10-21,-840,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3115758093/0800,"Eliška Ambrožová, sběr podpisů",danuse_nerudova
+2022-10-21,-240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2601504481/2010,"Karolína Glosová, sběr podpisů",danuse_nerudova
+2022-10-21,100000,CZK,Příchozí úhrada,1178,635180002,2800051998,DVOŘÁKOVÁ JITKA,at se dal dari,danuse_nerudova
+2022-10-21,-12100,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3440996319/0800,"IČ:44080697, koordinace sběru podpisů",danuse_nerudova
+2022-10-20,50000,CZK,Příchozí úhrada,1178,635180002,2800051998,"Zychová, Kateřina",Dar - Kateřina Zychová,danuse_nerudova
+2022-10-19,2000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-18,250,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-18,2000,CZK,Příchozí úhrada,1178,635180002,2800051998,PharmDr.Kučerová Han,,danuse_nerudova
+2022-10-17,5000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-17,250,CZK,Příchozí úhrada,1178,635180002,2800051998,MgA.Drábek Petr,Prezidentka 2023,danuse_nerudova
+2022-10-16,3000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-15,-121000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-5740680227/0100,"IČ:87358590, produkční zázemí, produkce a koordinace",danuse_nerudova
+2022-10-15,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1396220003/0800,"IČ: 66452520, sběr podpisů",danuse_nerudova
+2022-10-15,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0203932289/0600,"IČ:09832017, sběr podpisů",danuse_nerudova
+2022-10-15,-518,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0100393657/0300,"IČ:47114983, poštovné",danuse_nerudova
+2022-10-15,-45760,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-7173506001/5500,"IČ:88862178, logistické služby",danuse_nerudova
+2022-10-15,-90000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2600902576/2010,"IČ:70331189, produkční služby, eventy, fundraising",danuse_nerudova
+2022-10-15,-1470,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0300530804/0300,"Petr Vilímek, sběr podpisů",danuse_nerudova
+2022-10-15,750,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-15,-480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-2377400257/0100,"Lucie Kohoutová, sběr podpisů",danuse_nerudova
+2022-10-14,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,MUDr. Beáta Hauser,dar Beata Hauser,danuse_nerudova
+2022-10-14,500000,CZK,Příchozí úhrada,1178,635180002,2800051998,VALOVA JAROSLAVA,Danuše Nerudová prezidentka,danuse_nerudova
+2022-10-13,250,CZK,Příchozí úhrada,1178,635180002,2800051998,KASPAROVA JULIE,,danuse_nerudova
+2022-10-13,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Šafrová Olga,"Danuše Nerudová, Moje prezidentka.",danuse_nerudova
+2022-10-13,-79,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.11.10.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 13.10.2022částka v Kč:          79.00,danuse_nerudova
+2022-10-13,100,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-12,-1362,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.10.10.2022CZ  Prague          AlzaCZK      1362.00 d.zúč. 12.10.2022částka v Kč:        1362.00,danuse_nerudova
+2022-10-11,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Drbohlav Tomáš,,danuse_nerudova
+2022-10-11,-40000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0273336407/0300,"IČ:8269254, Fotografické služby",danuse_nerudova
+2022-10-11,-169400,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2500207971/2010,"IČ:66452759, strategické poradenství",danuse_nerudova
+2022-10-11,-82774,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,670100-2203995721/6210,"IČ:14228521, koordinace podporovatelů",danuse_nerudova
+2022-10-10,-30250,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0103470304/2250,"IČ:09617477, IT služby",danuse_nerudova
+2022-10-10,-218,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0055550202/0800,"IČ:04235452, poplatek platební brána",danuse_nerudova
+2022-10-10,-50000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000107-1441170237/0100,"IČ:11940565, mediální PR služby",danuse_nerudova
+2022-10-10,-124731,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0219784444/0300,"IČ:05731488, produkce, protokol",danuse_nerudova
+2022-10-10,-2371.6,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4826022001/5500,"IČ: 28977068, placky",danuse_nerudova
+2022-10-10,-2000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2901816970/2010,"IČ:01758926, fotoreportáž",danuse_nerudova
+2022-10-10,-36300,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3568672399/0800,"IČ:03299937, PR služby",danuse_nerudova
+2022-10-10,-498,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2724007063/0800,"Zdeněk Ředina, cestovné",danuse_nerudova
+2022-10-10,500000,CZK,Příchozí úhrada,1178,635180002,2800051998,NERUDOVÁ DANUŠE,Vlastní vklad do kampaně,danuse_nerudova
+2022-10-10,3000,CZK,Příchozí úhrada,1178,635180002,2800051998,ŠANDOVÁ MARKÉTA,,danuse_nerudova
+2022-10-09,-79,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.07.10.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 09.10.2022částka v Kč:          79.00,danuse_nerudova
+2022-10-09,-79,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.07.10.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 09.10.2022částka v Kč:          79.00,danuse_nerudova
+2022-10-09,-79,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.07.10.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 09.10.2022částka v Kč:          79.00,danuse_nerudova
+2022-10-09,-79,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.07.10.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 09.10.2022částka v Kč:          79.00,danuse_nerudova
+2022-10-09,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Kubíček Martin,"prezidentka 2023, fandíme",danuse_nerudova
+2022-10-09,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.07.10.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 09.10.2022částka v Kč:         149.00,danuse_nerudova
+2022-10-09,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.07.10.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 09.10.2022částka v Kč:         109.00,danuse_nerudova
+2022-10-09,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.07.10.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 09.10.2022částka v Kč:         109.00,danuse_nerudova
+2022-10-09,6000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-09,-79,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.07.10.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 09.10.2022částka v Kč:          79.00,danuse_nerudova
+2022-10-08,100000,CZK,Příchozí úhrada,1178,635180002,2800051998,KARPÍŠEK TOMÁŠ,,danuse_nerudova
+2022-10-08,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Eliška Velkoborská,,danuse_nerudova
+2022-10-07,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Lenka Merglová Pánko,"buďte statečná, čekají Vás strašnévěci",danuse_nerudova
+2022-10-07,250,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-07,1000000,CZK,Příchozí úhrada,1178,635180002,2800051998,Zdeněk Rýzner,Prezidentka 2023,danuse_nerudova
+2022-10-06,250,CZK,Příchozí úhrada,1178,635180002,2800051998,PAVEL KUBA,Platba,danuse_nerudova
+2022-10-06,-4200,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1200799018/2700,"Ondřej Majkus, sběr podpisů",danuse_nerudova
+2022-10-06,100,CZK,Příchozí úhrada,1178,635180002,2800051998,HEŘMÁNKOVÁ KATEŘIN,,danuse_nerudova
+2022-10-06,50,CZK,Příchozí úhrada,1178,635180002,2800051998,Petr Urban,,danuse_nerudova
+2022-10-06,50000,CZK,Příchozí úhrada,1178,635180002,2800051998,BABISOVA VERA,Věra a Peter Babišovi,danuse_nerudova
+2022-10-05,-360,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0289564236/0300,"Lucie Paslerová, sběr podpisů",danuse_nerudova
+2022-10-05,10000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-05,-25000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2302113608/2010,"IČ:73303127, produkce petiční kampaně",danuse_nerudova
+2022-10-05,-1440,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0235993983/0600,"Kateřina Reková, sběr podpisů",danuse_nerudova
+2022-10-05,-1440,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1348251024/3030,"Vendula Compelová, sběr podpisů",danuse_nerudova
+2022-10-05,-1080,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2163868014/3030,"Ema Hudečková, sběr podpisů",danuse_nerudova
+2022-10-05,-60000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000035-4902100287/0100,"IČ:07625375, správa sociálních sítí",danuse_nerudova
+2022-10-05,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2302113608/2010,"IČO:73303127, sběr podpisů",danuse_nerudova
+2022-10-05,250,CZK,Příchozí úhrada,1178,635180002,2800051998,PRIBRAMSKY JAN,,danuse_nerudova
+2022-10-05,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Andrea Šimková,,danuse_nerudova
+2022-10-05,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Jiří Kubík,,danuse_nerudova
+2022-10-04,21000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-04,-2520,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2891083063/0800,"Aneta Navrátilová, sběr podpisů",danuse_nerudova
+2022-10-04,-600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2724007063/0800,"Zdeněk Ředina, sběr podpisů",danuse_nerudova
+2022-10-04,-70000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2100348249/2010,"IČ:06457835, správa sociálních sítí",danuse_nerudova
+2022-10-04,-60000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0256320534/0300,"IČ:14368102, koordinace kampaně",danuse_nerudova
+2022-10-04,-72600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2401021688/2010,"IČ:06023231, řízení digitální komunikace",danuse_nerudova
+2022-10-04,-33983,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0251848866/0600,"IČ:17472318, produkce výjezdů",danuse_nerudova
+2022-10-04,-70000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1020141227/6100,"IČ:71977767, administrativa",danuse_nerudova
+2022-10-04,-30000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2863579133/0800,"IČ: 11951761, fundraising",danuse_nerudova
+2022-10-04,-62380.1,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-5846329339/0800,"IČ:63990083, promostolky na petiční místa",danuse_nerudova
+2022-10-04,-17908,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2101444160/2010,"IČ: 07155794, správa a optimalizace sociálních sítí",danuse_nerudova
+2022-10-04,-526,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4409281053/0800,"Filip Valášek, cestovné",danuse_nerudova
+2022-10-04,-37000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1020667421/6100,"IČ: 05371481, produkce",danuse_nerudova
+2022-10-04,-60000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2801477430/2010,"IČ:07311516, správa sociálních sítí",danuse_nerudova
+2022-10-04,-38865,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0237245671/0300,"IČ: 71372563, koordinace dobrovolníků",danuse_nerudova
+2022-10-03,-6046.02,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.01.10.2022IE  Dublin          Google GSUITE_EUR       239.20 d.přep.01.10.2022239.20 kurz EUR 25.276,danuse_nerudova
+2022-10-03,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,HAVEL LUDĚK,Držím palce!,danuse_nerudova
+2022-10-03,250,CZK,Příchozí úhrada,1178,635180002,2800051998,HAVELKOVA KATERINA,,danuse_nerudova
+2022-10-03,250,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-10-02,-886.93,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.30.09.2022IE  DUBLIN          WWW.MAILERLITEEUR        35.09 d.přep.30.09.202235.09 kurz EUR 25.276,danuse_nerudova
+2022-10-01,-8373.14,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.29.09.2022IE  fb.me/ads       FACEBK *6DUMZHCZK      8373.14 d.zúč. 01.10.2022částka v Kč:        8373.14,danuse_nerudova
+2022-10-01,-3111,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.29.09.2022CZ  Prague          AlzaCZK      3111.00 d.zúč. 01.10.2022částka v Kč:        3111.00,danuse_nerudova
+2022-10-01,0,CZK,Cena za vedení účtu,1178,635180002,2800051998,,,danuse_nerudova
+2022-10-01,-25,CZK,Poskytnutí debetní karty,1178,635180002,2800051998,-,,danuse_nerudova
+2022-10-01,1350,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-30,-4920,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0198978919/0600,"Sára Žabenská, sběr podpisů",danuse_nerudova
+2022-09-30,-960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1847462010/3030,"Adam Andruško, sběr podpisů",danuse_nerudova
+2022-09-30,-1920,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4373821053/0800,"Aneta Bulišová, sběr podpisů",danuse_nerudova
+2022-09-30,100,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-30,-600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-7355013953/5500,"Lucie Šestáková, sběr podpisů",danuse_nerudova
+2022-09-30,-6240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2908548163/0800,"Eva Irene Martinová, sběr podpisů",danuse_nerudova
+2022-09-30,-22.58,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.28.09.2022IE  DUBLIN          WWW.MAILERLITEEUR         0.89 d.přep.28.09.20220.89 kurz EUR 25.369,danuse_nerudova
+2022-09-30,-1440,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0258379484/0300,"Romana Mimrová, sběr podpisů",danuse_nerudova
+2022-09-29,-20000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1387708648/2700,"IČ:29311241, PR služby ",danuse_nerudova
+2022-09-29,-10000,CZK,Výběr hotovosti z bankomatu ČS,1178,635180002,2800051998,-,"XXXXXXXXXXXX7023 d.tran.28.09.2022146  Praha 3           ČS, TáboritCZK      10000.00 d.zúč.29.09.2022částka v Kč:      10000.00",danuse_nerudova
+2022-09-29,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.27.09.2022IE  fb.me/ads       FACEBK *VGN5BJCZK     24200.00 d.zúč. 29.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-29,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.27.09.2022IE  fb.me/ads       FACEBK *BNRWAJCZK     24200.00 d.zúč. 29.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-29,-30613,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0183022906/0600,"IČ:46978259, webové stránky danusenerudova.cz",danuse_nerudova
+2022-09-29,-480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0221089555/0600,"Adéla Fastová, sběr podpisů",danuse_nerudova
+2022-09-29,-1200,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0238021039/0300,"Martin Remeš, sběr podpisů",danuse_nerudova
+2022-09-29,-8470,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0183779378/0300,"IČ:24727741, zápůjčka vozidla",danuse_nerudova
+2022-09-29,-273.46,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0034175028/5500,"IČ:25115804, internetová doména",danuse_nerudova
+2022-09-28,10000,CZK,Příchozí úhrada,1178,635180002,2800051998,"Ing.Šedivý Jan,CSc.",Anna & Jan Sedivy,danuse_nerudova
+2022-09-28,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.27.09.2022IE  fb.me/ads       FACEBK *R97HZJCZK     24200.00 d.zúč. 28.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-28,120,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-28,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.09.2022IE  fb.me/ads       FACEBK *9QN3MKCZK     24200.00 d.zúč. 28.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-28,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.09.2022IE  fb.me/ads       FACEBK *Y5CGSHCZK     24200.00 d.zúč. 28.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-27,-600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0246156662/0300,"Adam Kaun, sběr podpisů",danuse_nerudova
+2022-09-27,-3060,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2801292911/2010,"Petr Měřínský, sběr podpisů",danuse_nerudova
+2022-09-27,-480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4636519033/0800,"Ján Žaludko, sběr podpisů",danuse_nerudova
+2022-09-27,-1500,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,670100-2216256805/6210,"Karolína Konečná, sběr podpisů",danuse_nerudova
+2022-09-27,-1080,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0287918782/0300,"Pavel Konečný, sběr podpisů",danuse_nerudova
+2022-09-27,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.25.09.2022IE  fb.me/ads       FACEBK *4HFZZHCZK     24200.00 d.zúč. 27.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-27,-240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0261984650/0300,"Anežka Kotoučová, sběr podpisů",danuse_nerudova
+2022-09-27,-360,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3204601143/0800,"Pavel Kelich, sběr podpisů",danuse_nerudova
+2022-09-27,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.09.2022IE  fb.me/ads       FACEBK *G9JW9JCZK     24200.00 d.zúč. 27.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-27,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.25.09.2022IE  fb.me/ads       FACEBK *6PMUGJCZK     24200.00 d.zúč. 27.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-27,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.25.09.2022IE  fb.me/ads       FACEBK *5B6GXGCZK     24200.00 d.zúč. 27.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-27,-1080,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2702237183/2010,"Tereza Bolečková, sběr podpisů",danuse_nerudova
+2022-09-26,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.24.09.2022IE  fb.me/ads       FACEBK *V6GC8JCZK     24200.00 d.zúč. 26.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-26,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.24.09.2022IE  fb.me/ads       FACEBK *7WDTCJCZK     24200.00 d.zúč. 26.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-26,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.24.09.2022IE  fb.me/ads       FACEBK *H53T8JCZK     24200.00 d.zúč. 26.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-26,30000,CZK,Příchozí úhrada,1178,635180002,2800051998,"SULKO, S.R.O.",,danuse_nerudova
+2022-09-26,-600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2276617019/3030,"Eliška Mária Gheorgheová, sběr podpisů",danuse_nerudova
+2022-09-26,250000,CZK,Příchozí úhrada,1178,635180002,2800051998,Zapletalová Kateřina,Danuše Nerudová,danuse_nerudova
+2022-09-26,1500,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-26,-6720,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2908548163/0800,"Eva Irene Martinová, sběr podpisů",danuse_nerudova
+2022-09-25,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Romana Nová,,danuse_nerudova
+2022-09-25,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.23.09.2022IE  fb.me/ads       FACEBK *3NNTTHCZK     24200.00 d.zúč. 25.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-25,1000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-23,-79,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.21.09.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 23.09.2022částka v Kč:          79.00,danuse_nerudova
+2022-09-23,-24200,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.21.09.2022IE  fb.me/ads       FACEBK *4JNUGKCZK     24200.00 d.zúč. 23.09.2022částka v Kč:       24200.00,danuse_nerudova
+2022-09-23,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.21.09.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 23.09.2022částka v Kč:         109.00,danuse_nerudova
+2022-09-22,10000,CZK,Příchozí úhrada,1178,635180002,2800051998,KUČERA MARTIN,Danuse Narudova,danuse_nerudova
+2022-09-22,-1200,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2400185111/2010,"Eva Šanovcová, sběr podpisů",danuse_nerudova
+2022-09-22,-5880,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1017375882/6100,"Pavel Jeřábek, sběr podpisů",danuse_nerudova
+2022-09-22,-480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1044287183/0800,"Romana Římalová, sběr podpisů",danuse_nerudova
+2022-09-22,-79,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.20.09.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 22.09.2022částka v Kč:          79.00,danuse_nerudova
+2022-09-22,-720,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0275387670/0300,"Adéla Fialová, sběr podpisů",danuse_nerudova
+2022-09-22,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.20.09.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 22.09.2022částka v Kč:         109.00,danuse_nerudova
+2022-09-21,-7986,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0271848943/0300,"IČ:49287541, tisk plakátů",danuse_nerudova
+2022-09-21,-4260,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1317268018/3030,"Jakub Kraus, sběr podpisů",danuse_nerudova
+2022-09-21,-5520,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2131190018/3030,"Klára Plachá, sběr podpisů",danuse_nerudova
+2022-09-21,-1565,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.19.09.2022CZ  Prague          AlzaCZK      1565.00 d.zúč. 21.09.2022částka v Kč:        1565.00,danuse_nerudova
+2022-09-21,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.19.09.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 21.09.2022částka v Kč:         109.00,danuse_nerudova
+2022-09-21,-79,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.19.09.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 21.09.2022částka v Kč:          79.00,danuse_nerudova
+2022-09-21,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.19.09.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 21.09.2022částka v Kč:         109.00,danuse_nerudova
+2022-09-21,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.19.09.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 21.09.2022částka v Kč:         109.00,danuse_nerudova
+2022-09-20,-1800,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000086-7049120267/0100,"Michaela Přecechtělová, sběr podpisů",danuse_nerudova
+2022-09-20,-1800,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2110012028/2700,"Kateřina Bílková, sběr podpisů",danuse_nerudova
+2022-09-20,-600,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2201601848/2010,"Martin Mrázek, sběr podpisů",danuse_nerudova
+2022-09-20,-2040,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0240345358/0600,"Daniel Kotlár, sběr podpisů",danuse_nerudova
+2022-09-20,-1456,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2078590011/3030,"Zdeněk Šerý, cestovné",danuse_nerudova
+2022-09-20,-1740,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000035-1621840277/0100,"Johana Franzová, sběr podpisů",danuse_nerudova
+2022-09-20,-1200,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2078590011/3030,"Zdeněk Šerý, sběr podpisů",danuse_nerudova
+2022-09-20,-480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2901677894/2010,"Týna Khazalová, sběr podpisů",danuse_nerudova
+2022-09-20,-1320,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0302792605/0300,"Vojtěch Pánek, sběr podpisů",danuse_nerudova
+2022-09-19,-38115,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2500207971/2010,"IČ:66452759, strategické poradenství",danuse_nerudova
+2022-09-19,-240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0229364873/0600,"Adéla Švecová, sběr podpisů",danuse_nerudova
+2022-09-19,-660,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0193620694/0300,"Milan Faist, sběr podpisů",danuse_nerudova
+2022-09-19,-660,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1142934014/3030,"Lukáš Kučera, sběr podpisů",danuse_nerudova
+2022-09-19,-2340,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2724007063/0800,"Zdeněk Ředina, sběr podpisů",danuse_nerudova
+2022-09-19,-1020,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0261984650/0300,"Anežka Kotoučová, sběr podpisů",danuse_nerudova
+2022-09-19,-3120,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4636519033/0800,"Ján Žaludko, sběr podpisů",danuse_nerudova
+2022-09-19,-20000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1387708648/2700,"IČ:29311241, PR služby",danuse_nerudova
+2022-09-19,500000,CZK,Příchozí úhrada,1178,635180002,2800051998,HLADKY.LEGAL advokát,Dar HLADKY.LEGAL,danuse_nerudova
+2022-09-19,100000,CZK,Příchozí úhrada,1178,635180002,2800051998,ING. DANA BEROVA,Dana Bérová,danuse_nerudova
+2022-09-19,-7020,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0197721177/0300,"Tadeáš Helešic, sběr podpisů",danuse_nerudova
+2022-09-19,-3900,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000107-7332270287/0100,"Kateřina Doubková, sběr podpisů",danuse_nerudova
+2022-09-19,-1560,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4029177043/0800,"Hana Boubelíková, sběr podpisů",danuse_nerudova
+2022-09-19,-3240,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3150939033/0800,"Petr Panák, sběr podpisů",danuse_nerudova
+2022-09-19,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Josef Červenec,,danuse_nerudova
+2022-09-18,1000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-18,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing.Zámorská Ladisla,,danuse_nerudova
+2022-09-17,5000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-16,-840,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3204601143/0800,"Pavel Kelich, sběr podpisů",danuse_nerudova
+2022-09-16,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Lenka Hýbl,,danuse_nerudova
+2022-09-16,-920,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2679521193/0800,"Jitka Trpělková, cestovné",danuse_nerudova
+2022-09-16,-5640,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2801292911/2010,"Petr Měřínský, sběr podpisů",danuse_nerudova
+2022-09-16,-4500,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0287918782/0300,"Pavel Konečný, sběr podpisů",danuse_nerudova
+2022-09-16,-2280,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0287843899/0300,"David Novák, sběr podpisů",danuse_nerudova
+2022-09-16,-960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2702237183/2010,"Tereza Bolečková, sběr podpisů",danuse_nerudova
+2022-09-16,-1440,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,670100-2216256805/6210,"Karolína Konečná, sběr podpisů",danuse_nerudova
+2022-09-16,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Pavla Štěpánková,prezidentka,danuse_nerudova
+2022-09-16,-2880,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1970214012/3030,"Jakub Foltýn, sběr podpisů",danuse_nerudova
+2022-09-16,-2280,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000107-3651890207/0100,"Lucie Urbančíková, sběr podpisů",danuse_nerudova
+2022-09-16,-360,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0221089555/0600,"Adéla Fastová, sběr podpisů",danuse_nerudova
+2022-09-15,-3960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0258379484/0300,"Romana Mimrová, sběr podpisů",danuse_nerudova
+2022-09-15,-7320,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4373821053/0800,"Aneta Bulišová, sběr podpisů",danuse_nerudova
+2022-09-15,1837,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-15,-300,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0229364873/0600,"Adéla Švecová, sběr podpisů",danuse_nerudova
+2022-09-15,-1320,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-7355013953/5500,"Lucie Šestáková, sběr podpisů",danuse_nerudova
+2022-09-14,-43618,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2602105554/2010,"IČ:14143046, cateringové služby",danuse_nerudova
+2022-09-14,-6960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-6424637002/5500,"Drahoslav Červenka, sběr podpisů",danuse_nerudova
+2022-09-14,-1680,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0198978919/0600,"Sára Žabenská, sběr podpisů",danuse_nerudova
+2022-09-14,-5040,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1847462010/3030,"Adam Andruško, sběr podpisů",danuse_nerudova
+2022-09-14,100000,CZK,Příchozí úhrada,1178,635180002,2800051998,MUCHNA VÁCLAV,"Prezidentka Nerudova, podpora liberalni demokracie",danuse_nerudova
+2022-09-14,-960,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-4834020217/0100,"Štěpán Kavka, sběr podpisů",danuse_nerudova
+2022-09-14,-1440,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1608811017/3030,"Petr Kučera, sběr podpisů",danuse_nerudova
+2022-09-14,-480,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2011482016/3030,"Petra Štrausová, sběr podpisů",danuse_nerudova
+2022-09-14,-3840,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0291985750/0300,"Monika Netušilová, sběr podpisů",danuse_nerudova
+2022-09-14,-1560,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0243665920/0600,"Lenka Konopová, sběr podpisů",danuse_nerudova
+2022-09-13,-471,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2724007063/0800,"Ředina, cestovné, Danuše Nerudová",danuse_nerudova
+2022-09-13,-767,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2101175335/2010,"Vystavělová, cestovné, Danuše Nerudová",danuse_nerudova
+2022-09-13,250,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-13,-1050,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2002083881/2010,"IČ:14037017, regál",danuse_nerudova
+2022-09-13,-742,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0203932289/0600,"Lukáš Eršil, poštovné, cestovné, Danuše Nerudová",danuse_nerudova
+2022-09-12,-40000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,670100-2203995721/6210,"IČ:14228521, koordinace podporovatelů",danuse_nerudova
+2022-09-12,-36300,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2401021688/2010,"IČ:06023231, digitální komunikace",danuse_nerudova
+2022-09-12,-10000,CZK,Výběr hotovosti z bankomatu ČS,1178,635180002,2800051998,-,"XXXXXXXXXXXX7023 d.tran.12.09.2022416  Praha 1           ČS, VáclavsCZK      10000.00 d.zúč.12.09.2022částka v Kč:      10000.00",danuse_nerudova
+2022-09-12,100000,CZK,Příchozí úhrada,1178,635180002,2800051998,DVOŘÁKOVÁ JITKA,drzim palce !,danuse_nerudova
+2022-09-12,-6800,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1457517012/3030,"IČ:04318595, potisk tašek",danuse_nerudova
+2022-09-12,-1000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0217480957/0300,"IČ:08212236, fotoreportáž",danuse_nerudova
+2022-09-12,-29340,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0237245671/0300,"IČ:71372563, koordinace dobrovolníků",danuse_nerudova
+2022-09-12,-20000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-6328493379/0800,"IČ:17348820, fotoreportáže",danuse_nerudova
+2022-09-12,-387,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0100393657/0300,"IČ:47114983, poštovné",danuse_nerudova
+2022-09-12,-188.5,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0055550202/0800,"IČ:04235452, poplatek platební brána",danuse_nerudova
+2022-09-12,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0078251707/5500,"IČ:08022348, fotoreportáže",danuse_nerudova
+2022-09-11,5500,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-08,-6130,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2113286016/2700,"IČ:09030212, fotoreportáže",danuse_nerudova
+2022-09-08,-32670,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0277974609/0300,"IČ:02436736, trička s potiskem",danuse_nerudova
+2022-09-08,-35000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2600902576/2010,"IČ:70331189, fundraising",danuse_nerudova
+2022-09-08,-50000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0219784444/0300,"IČ:05731488, produkce, protokol",danuse_nerudova
+2022-09-08,-20500,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0273336407/0300,"IČ:8269254, fotoreportáže",danuse_nerudova
+2022-09-08,-35000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2100348249/2010,"IČ:06457835, správa sociálních sítí",danuse_nerudova
+2022-09-08,-30000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1020141227/6100,"IČ:71977767, administrativa",danuse_nerudova
+2022-09-08,-60500,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-5740680227/0100,"IČ:87358590, konzultace a produkce kampaně",danuse_nerudova
+2022-09-08,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1321832064/3030,"IČ:09471944, fotoreportáž",danuse_nerudova
+2022-09-08,-15000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2863579133/0800,"IČ: 11951761, fundraising",danuse_nerudova
+2022-09-08,-40000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0256320534/0300,"IČ:14368102, koordinace kampaně",danuse_nerudova
+2022-09-08,-30000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2801477430/2010,"IČ:07311516, správa sociálních sítí",danuse_nerudova
+2022-09-08,-18500,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1020667421/6100,"IČ:05371481, produkční činnost",danuse_nerudova
+2022-09-08,-500,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1797094028/3030,"Vrácení daru Jiří Dejmek 26.07.2022 - neúplné údaje, Vrácení daru Jiří Dejmek 26.07.2022 - neúplné údaje",danuse_nerudova
+2022-09-08,-30000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000035-4902100287/0100,"IČ:07625375, správa sociálních sítí",danuse_nerudova
+2022-09-07,2000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-07,80000,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing. Karel Obluk PhD,Prispevek na prezidentskou kampan,danuse_nerudova
+2022-09-06,-8470,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0183779378/0300,"IČ:24727741, zápůjčka vozidla",danuse_nerudova
+2022-09-06,1000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-06,-325.49,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0034175028/5500,"IČ:25115804, údržba domény",danuse_nerudova
+2022-09-05,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Jakub Holobrádek,Potrebujeme inspirativni a citlivouprezidentku,danuse_nerudova
+2022-09-05,750000,CZK,Příchozí úhrada,1178,635180002,2800051998,"Kozelek, Tomáš",,danuse_nerudova
+2022-09-04,2500,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-09-03,-5352.44,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.01.09.2022IE  Dublin          Google GSUITE_EUR       212.02 d.přep.01.09.2022212.02 kurz EUR 25.245,danuse_nerudova
+2022-09-03,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing.Merhaut Jan,,danuse_nerudova
+2022-09-02,5783,CZK,Příchozí úhrada,1178,635180002,2800051998,AirMarketing.cz s.r.,MOSSAD - EVERY DAY WITH YOU - Cohen57,danuse_nerudova
+2022-09-02,-459.14,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.31.08.2022IE  DUBLIN          WWW.MAILERLITEEUR        18.15 d.přep.31.08.202218.15 kurz EUR 25.297,danuse_nerudova
+2022-09-02,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing.Velička Jan,,danuse_nerudova
+2022-09-01,10000,CZK,Příchozí úhrada,1178,635180002,2800051998,Adam Šoukal,prezidentka,danuse_nerudova
+2022-09-01,-8107,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.30.08.2022IE  fb.me/ads       FACEBK *CAGN9HCZK      8107.00 d.zúč. 01.09.2022částka v Kč:        8107.00,danuse_nerudova
+2022-09-01,0,CZK,Cena za vedení účtu,1178,635180002,2800051998,,,danuse_nerudova
+2022-09-01,-25,CZK,Poskytnutí debetní karty,1178,635180002,2800051998,-,,danuse_nerudova
+2022-09-01,5000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-31,50000,CZK,Příchozí úhrada,1178,635180002,2800051998,Oliver Dlouhý,,danuse_nerudova
+2022-08-30,500000,CZK,Příchozí úhrada,1178,635180002,2800051998,ALUKOV A.S.,dar - Alukov a.s.,danuse_nerudova
+2022-08-29,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Vladimír Prekop,,danuse_nerudova
+2022-08-29,3000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-28,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 28.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-28,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.08.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 28.08.2022částka v Kč:         149.00,danuse_nerudova
+2022-08-28,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 28.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-28,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 28.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-28,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 28.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-28,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 28.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-28,-79,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.08.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 28.08.2022částka v Kč:          79.00,danuse_nerudova
+2022-08-28,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 28.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-27,-79,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.24.08.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 27.08.2022částka v Kč:          79.00,danuse_nerudova
+2022-08-27,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.24.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 27.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-27,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.24.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 27.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-27,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.24.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 27.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-27,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.24.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 27.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-27,700,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-27,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.24.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 27.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-26,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Filip Kouřil,,danuse_nerudova
+2022-08-26,-8943.52,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000107-1904600257/0100,"IČ:29312973, psací podložka, kartonová taška, Danuše Nerudová",danuse_nerudova
+2022-08-25,-2166,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0005955682/0800,"www.taskahned.cz, IČ:27947807, tašky",danuse_nerudova
+2022-08-25,-41765.03,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-5846329339/0800,"IČ:63990083, stolky na petiční místa",danuse_nerudova
+2022-08-24,2000000,CZK,Příchozí úhrada,1178,635180002,2800051998,INEXAD s.r.o.,Inexad podpora kampaňe,danuse_nerudova
+2022-08-24,-892,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0002171532/0800,"alza.cz, IČ:27082440, podložka na psaní",danuse_nerudova
+2022-08-23,-24200,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-3568672399/0800,"IČ:03299937, PR služby",danuse_nerudova
+2022-08-23,-994.93,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0055550309/0800,"IČ:04235452, vratka platební brána",danuse_nerudova
+2022-08-23,-17071.29,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-5846329339/0800,"IČ:63990083, bannery",danuse_nerudova
+2022-08-22,-387,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0002171532/0800,"alza.cz, IČ:27082440, podložka na psaní",danuse_nerudova
+2022-08-22,20000,CZK,Příchozí úhrada,1178,635180002,2800051998,"Ketner Vladimír,Ing.",Vladimír Ketner,danuse_nerudova
+2022-08-22,20000,CZK,Příchozí úhrada,1178,635180002,2800051998,"SULKO, S.R.O.",,danuse_nerudova
+2022-08-21,500,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-21,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.19.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 21.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-20,-845,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.19.08.2022CZ  Prague          AlzaCZK       845.00 d.zúč. 20.08.2022částka v Kč:         845.00,danuse_nerudova
+2022-08-20,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.18.08.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 20.08.2022částka v Kč:         149.00,danuse_nerudova
+2022-08-20,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Mgr.Renzová Radoslav,Danuše Nerudová prezidentkou,danuse_nerudova
+2022-08-20,-79,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.18.08.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 20.08.2022částka v Kč:          79.00,danuse_nerudova
+2022-08-19,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Antonín Zajíček,pro paní prezidentku,danuse_nerudova
+2022-08-18,350,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-18,-8438,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0002171532/0800,"alza.cz, IČ:27082440, mikrofon",danuse_nerudova
+2022-08-18,-159,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0002171532/0800,"alza.cz, IČ:27082440, podložka na psaní",danuse_nerudova
+2022-08-16,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,Mgr.Paludová Jana,,danuse_nerudova
+2022-08-15,-9680,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-4826022001/5500,"IČ:28977068, polep aut",danuse_nerudova
+2022-08-15,1000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-15,500,CZK,Příchozí úhrada,1178,635180002,2800051998,KASPARKOVA HANA,prezidentka,danuse_nerudova
+2022-08-15,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,ONDREJ SRAMEK,"DANUSE, DANUSE NARUDOVA PREZIDENTKA",danuse_nerudova
+2022-08-14,749,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-14,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.10.08.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 14.08.2022částka v Kč:         149.00,danuse_nerudova
+2022-08-14,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.12.08.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 14.08.2022částka v Kč:         149.00,danuse_nerudova
+2022-08-14,-615,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.12.08.2022CZ  Prague          AlzaCZK       615.00 d.zúč. 14.08.2022částka v Kč:         615.00,danuse_nerudova
+2022-08-14,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.09.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 14.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-14,500,CZK,Příchozí úhrada,1178,635180002,2800051998,STANISLAV KLÁPŠTĚ,prezidentka 2023,danuse_nerudova
+2022-08-14,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.09.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 14.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-13,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.10.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 13.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-13,-119,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.10.08.2022CZ  Praha - Liben   ZasilkovnaCZK       119.00 d.zúč. 13.08.2022částka v Kč:         119.00,danuse_nerudova
+2022-08-13,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.10.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 13.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-13,-712,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.11.08.2022CZ  Prague          AlzaCZK       712.00 d.zúč. 13.08.2022částka v Kč:         712.00,danuse_nerudova
+2022-08-13,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.09.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 13.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-13,-149,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.10.08.2022CZ  Praha - Liben   ZasilkovnaCZK       149.00 d.zúč. 13.08.2022částka v Kč:         149.00,danuse_nerudova
+2022-08-13,-896,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.11.08.2022CZ  Prague          AlzaCZK       896.00 d.zúč. 13.08.2022částka v Kč:         896.00,danuse_nerudova
+2022-08-13,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.09.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 13.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-12,250,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-12,-30000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000035-4902100287/0100,"IČ:07625375, správa sociálních sítí",danuse_nerudova
+2022-08-11,250,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-11,100000,CZK,Příchozí úhrada,1178,635180002,2800051998,INFRAM A.S.,,danuse_nerudova
+2022-08-11,-61408,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2500207971/2010,"IČ:66452759, strategické poradenství",danuse_nerudova
+2022-08-11,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.09.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 11.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-11,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.09.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 11.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-11,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.09.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 11.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-11,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.09.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 11.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-11,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.09.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 11.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-11,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.09.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 11.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-11,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.09.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 11.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-10,-35000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2600902576/2010,"IČ:70331189, fundraising",danuse_nerudova
+2022-08-10,-30000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,670100-2203995721/6210,"IČ:14228521, koordinace podporovatelů",danuse_nerudova
+2022-08-10,-13500,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2113286016/2700,"IČ:09030212, fotoreportáž",danuse_nerudova
+2022-08-10,250,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-10,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Filip Beringer,kampan Nerudova,danuse_nerudova
+2022-08-10,-1028,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.08.08.2022CZ  Prague          AlzaCZK      1028.00 d.zúč. 10.08.2022částka v Kč:        1028.00,danuse_nerudova
+2022-08-10,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.08.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 10.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-09,-30000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2801477430/2010,"IČ:07311516, správa sociálních sítí",danuse_nerudova
+2022-08-09,500,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-09,500,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-09,-583,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.07.08.2022CZ  Prague          AlzaCZK       583.00 d.zúč. 09.08.2022částka v Kč:         583.00,danuse_nerudova
+2022-08-08,500,CZK,Příchozí úhrada,1178,635180002,2800051998,SKOPEK LUKAS,,danuse_nerudova
+2022-08-08,-25000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0256320534/0300,"IČ:14368102, koordinace kampaně",danuse_nerudova
+2022-08-08,-370.92,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0055550202/0800,"IČ:04235452, poplatek platební brána",danuse_nerudova
+2022-08-08,10,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-08,250,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-08,500,CZK,Příchozí úhrada,1178,635180002,2800051998,NĚMEC LUKÁŠ,,danuse_nerudova
+2022-08-07,50,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-07,500,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-06,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.04.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 06.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-06,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.04.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 06.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-06,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.04.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 06.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-06,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.04.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 06.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-06,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.04.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 06.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-06,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.04.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 06.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-06,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.04.08.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 06.08.2022částka v Kč:         109.00,danuse_nerudova
+2022-08-06,2850,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-05,-181500,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0000000908/5500,"IČ:27883299, logistika petičních stánků",danuse_nerudova
+2022-08-05,-45000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0219784444/0300,"IČ:05731488, produkce, protokol",danuse_nerudova
+2022-08-05,-36300,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2401021688/2010,"IČ:06023231, digitální komunikace",danuse_nerudova
+2022-08-05,-25000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1020141227/6100,"IČ:71977767, administrativa",danuse_nerudova
+2022-08-05,-17000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2863579133/0800,"IČ:11951761, fundraising",danuse_nerudova
+2022-08-05,-978,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0100393657/0300,"IČ:47114983, poštovné",danuse_nerudova
+2022-08-05,500,CZK,Příchozí úhrada,1178,635180002,2800051998,IVANA KOZMINOVA,"DANUŠE NERUDOVA, PLATBA",danuse_nerudova
+2022-08-05,-35000,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2100348249/2010,"IČ:06457835, správa sociálních sítí",danuse_nerudova
+2022-08-05,-18500,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-1020667421/6100,"IČ:05371481, produkce",danuse_nerudova
+2022-08-05,-148406.5,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0183022906/0600,"IČ:46978259, web danusenerudova.cz",danuse_nerudova
+2022-08-05,-492,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.03.08.2022CZ  Prague          AlzaCZK       492.00 d.zúč. 05.08.2022částka v Kč:         492.00,danuse_nerudova
+2022-08-05,1000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-05,-60500,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000123-5740680227/0100,"IČ:87358590, konzultace a produkce kampaně",danuse_nerudova
+2022-08-04,3000,CZK,Příchozí úhrada,1178,635180002,2800051998,Pediatr MUDr. Holý s,Pediatr MUDr.Holy s.r.o,danuse_nerudova
+2022-08-04,250,CZK,Příchozí úhrada,1178,635180002,2800051998,BRACH PAVEL,,danuse_nerudova
+2022-08-03,29750,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-03,-5274.67,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.01.08.2022IE  Dublin          Google GSUITE_EUR       208.00 d.přep.01.08.2022208.00 kurz EUR 25.359,danuse_nerudova
+2022-08-02,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing.Procházka Tomáš,,danuse_nerudova
+2022-08-02,100,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-08-02,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Jan Šlancar,,danuse_nerudova
+2022-08-02,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,Tereza Smužová,držím palce,danuse_nerudova
+2022-08-01,-19078.08,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.30.07.2022IE  fb.me/ads       FACEBK *MW7NGGCZK     19078.08 d.zúč. 01.08.2022částka v Kč:       19078.08,danuse_nerudova
+2022-08-01,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,JUNEK PAVEL,přání je konečně být hrdý na svéhoprezidenta tedy prezidentku :),danuse_nerudova
+2022-08-01,0,CZK,Cena za vedení účtu,1178,635180002,2800051998,,,danuse_nerudova
+2022-08-01,-25,CZK,Poskytnutí debetní karty,1178,635180002,2800051998,-,,danuse_nerudova
+2022-08-01,1000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-07-31,1050,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-07-30,1000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-07-29,500,CZK,Příchozí úhrada,1178,635180002,2800051998,BRHLIK JAN,"Jan Brhlik, Melnik",danuse_nerudova
+2022-07-29,99,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-07-28,7000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-07-28,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.07.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 28.07.2022částka v Kč:         109.00,danuse_nerudova
+2022-07-28,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.07.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 28.07.2022částka v Kč:         109.00,danuse_nerudova
+2022-07-28,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.26.07.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 28.07.2022částka v Kč:         109.00,danuse_nerudova
+2022-07-27,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.25.07.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 27.07.2022částka v Kč:         109.00,danuse_nerudova
+2022-07-27,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.21.07.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 27.07.2022částka v Kč:         109.00,danuse_nerudova
+2022-07-27,1000,CZK,Příchozí úhrada,1178,635180002,2800051998,HAVKO ROMAN,,danuse_nerudova
+2022-07-27,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.25.07.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 27.07.2022částka v Kč:         109.00,danuse_nerudova
+2022-07-27,2000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-07-27,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Filip Jelínek,,danuse_nerudova
+2022-07-26,250,CZK,Příchozí úhrada,1178,635180002,2800051998,LEVITOVA IVANA,,danuse_nerudova
+2022-07-26,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Jiří Dejmek,,danuse_nerudova
+2022-07-26,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Ing.Ostrožný Ivo,,danuse_nerudova
+2022-07-26,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,"Nadhajský, Jaromír",,danuse_nerudova
+2022-07-24,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.19.07.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 24.07.2022částka v Kč:         109.00,danuse_nerudova
+2022-07-23,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.21.07.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 23.07.2022částka v Kč:         109.00,danuse_nerudova
+2022-07-23,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.21.07.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 23.07.2022částka v Kč:         109.00,danuse_nerudova
+2022-07-23,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.21.07.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 23.07.2022částka v Kč:         109.00,danuse_nerudova
+2022-07-23,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Jakub Vránek,,danuse_nerudova
+2022-07-23,250,CZK,Příchozí úhrada,1178,635180002,2800051998,Kalocsai Dominik,,danuse_nerudova
+2022-07-23,-109,CZK,Platba kartou,1178,635180002,2800051998,-,XXXXXXXXXXXX7023 d.tran.21.07.2022CZ  Praha - Liben   ZasilkovnaCZK       109.00 d.zúč. 23.07.2022částka v Kč:         109.00,danuse_nerudova
+2022-07-21,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,MILAN SIGID,"DANUŠE NERUDOVÁ, PŘEVOD PROSTŘEDKŮ",danuse_nerudova
+2022-07-19,490000,CZK,Příchozí úhrada,1178,635180002,2800051998,Kala Alexandra,"DN= empatie, ucta, vzdelani",danuse_nerudova
+2022-07-15,-1191,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-0100393657/0300,"IČ:47114983, poštovné",danuse_nerudova
+2022-07-15,50,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-07-14,-1500,CZK,Tuzemská odchozí úhrada,1178,635180002,2800051998,000000-2801449368/2010,"IČ:88049809, fotoreportáž, IČ:88049809, fotoreportáž",danuse_nerudova
+2022-07-14,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Mgr.Kubíček Jan,,danuse_nerudova
+2022-07-13,5000,CZK,Příchozí úhrada,1178,635180002,2800051998,PhDr.Fialková Lenka,,danuse_nerudova
+2022-07-13,500,CZK,Příchozí úhrada,1178,635180002,2800051998,Anna Vacková,,danuse_nerudova
+2022-07-13,0.36,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-07-11,250,CZK,Příchozí úhrada,1178,635180002,2800051998,MARTIN LAZNOVSKY,"DANUSE NERUDOVA, PLATBA",danuse_nerudova
+2022-07-07,990.07,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2800051998,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-07-04,1.66,CZK,Úhrada z automatického zápočtu,1178,635180002,2800051998,Nerudová Danuše,,danuse_nerudova
+2022-07-04,424938.29,CZK,Příchozí úhrada,1178,635180002,2800051998,"Nerudová, Danuše","Danuše Nerudová, zůstatek předvolebního TÚ, viz danusenerudova.cz",danuse_nerudova

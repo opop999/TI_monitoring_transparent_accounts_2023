@@ -1,0 +1,34 @@
+date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-11-16,-30250,CZK,Okamžitá odchozí platba,,,,22210241,,,tomas_brezina
+2022-11-16,-30250,CZK,Okamžitá odchozí platba,,,,22209225,,,tomas_brezina
+2022-11-03,-289274,CZK,Bezhotovostní platba,,,,7701010760,,,tomas_brezina
+2022-11-03,-2171808,CZK,Bezhotovostní platba,,,,7701010761,,,tomas_brezina
+2022-11-01,2000000,CZK,Bezhotovostní příjem,Ing. Tomáš Březina,,0,311022,,Ing. Tomáš Březina,tomas_brezina
+2022-10-25,2000,CZK,Okamžitá příchozí platba,Bujok Dominik,,0,,,Bujok Dominik,tomas_brezina
+2022-09-28,-12100,CZK,Platba převodem uvnitř banky,,,,20222661,,,tomas_brezina
+2022-09-28,-569000,CZK,Bezhotovostní platba,,,,13,,,tomas_brezina
+2022-09-22,-60500,CZK,Okamžitá odchozí platba,,,,229023,,,tomas_brezina
+2022-09-14,-83490,CZK,Okamžitá odchozí platba,,,,2302200688,,,tomas_brezina
+2022-09-12,-30250,CZK,Okamžitá odchozí platba,,,,22208017,,,tomas_brezina
+2022-09-12,-30250,CZK,Okamžitá odchozí platba,,,,22208238,,,tomas_brezina
+2022-09-12,-6050,CZK,Platba převodem uvnitř banky,,,,20222825,,,tomas_brezina
+2022-09-12,-5554068,CZK,Bezhotovostní platba,,,,7701010229,,,tomas_brezina
+2022-09-12,6900000,CZK,Platba převodem uvnitř banky,"Ing. Březina, Tomáš",,,570221,,,tomas_brezina
+2022-08-26,1000,CZK,Platba převodem uvnitř banky,"Ing. Linkesch, Leo",Ing. Tomáš Březina,,9,,Ing. Tomáš Březina,tomas_brezina
+2022-08-25,2000,CZK,Bezhotovostní příjem,FUNKE MARIE,Hodně síly a zdraví!,,0,,FUNKE MARIE,tomas_brezina
+2022-08-19,100,CZK,Bezhotovostní příjem,SEMERAD JAKUB,podporuji vás na prezidenta,,0,,SEMERAD JAKUB,tomas_brezina
+2022-08-09,-6050,CZK,Platba převodem uvnitř banky,,,,20222811,,,tomas_brezina
+2022-08-04,-18150,CZK,Platba převodem uvnitř banky,,,,20222712,,,tomas_brezina
+2022-08-04,-33275,CZK,Okamžitá odchozí platba,,,,120220002,,,tomas_brezina
+2022-07-29,-18453,CZK,Okamžitá odchozí platba,,,,2022141,,,tomas_brezina
+2022-07-29,-24503,CZK,Okamžitá odchozí platba,,,,2022140,,,tomas_brezina
+2022-07-29,-24503,CZK,Okamžitá odchozí platba,,,,2022139,,,tomas_brezina
+2022-07-29,-6050,CZK,Platba převodem uvnitř banky,,,,20222647,,,tomas_brezina
+2022-07-25,-21659,CZK,Okamžitá odchozí platba,,,,2022138,,,tomas_brezina
+2022-07-25,-22869,CZK,Okamžitá odchozí platba,,,,2022137,,,tomas_brezina
+2022-07-25,-30250,CZK,Okamžitá odchozí platba,,,,22207172,,,tomas_brezina
+2022-07-25,-6050,CZK,Platba převodem uvnitř banky,,,,20222616,,,tomas_brezina
+2022-07-25,-6050,CZK,Platba převodem uvnitř banky,,,,20222624,,,tomas_brezina
+2022-07-10,-30250,CZK,Okamžitá odchozí platba,,,,1492022,,,tomas_brezina
+2022-07-10,-30250,CZK,Okamžitá odchozí platba,,,,1502022,,,tomas_brezina
+2022-07-07,-12100,CZK,Platba převodem uvnitř banky,,,,20222336,,,tomas_brezina

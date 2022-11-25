@@ -1,0 +1,9 @@
+.navbar-inverse {
+    background-color: #e8efff;
+}
+
+#tsparticles {
+    z-index: 1;
+    position: relative;
+    top: 0;
+}

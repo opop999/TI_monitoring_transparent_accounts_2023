@@ -1,7 +1,7 @@
 # 0. Source helper functions and define constants -------------------------
 source("src/helper_functions.R")
 
-dir_name <- "data"
+dir_name <- "output"
 start_date <- "2022-07-01"
 end_date <- as.character(Sys.Date())
 sub_dir_name <- "summary_tables"

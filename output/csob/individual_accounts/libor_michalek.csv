@@ -1,0 +1,135 @@
+date,amount,type,contra_account_name,contra_account_number,contra_account_bank_code,message_for_recipient,ks,vs,ss,currency,entity
+2022-11-24,-20820,Outgoing instant payment ,,213264835,600,Haines IČ 76230929 řízení kampaně-říjen,,352022,,CZK,libor_michalek
+2022-11-24,-7000,Outgoing instant payment ,,2800174307,2010,Absolute Film Design IČ 49684825natáčení video rozhovorů,,221102,,CZK,libor_michalek
+2022-11-24,-18000,Outgoing instant payment ,,1480516173,800,"Beneš IČ 2851342, koordinace sběrupodpisů- Morava",,2002022,,CZK,libor_michalek
+2022-11-21,-301017.8,Outgoing payment ,,435101210237,100,"HB Media, IČ 28930185, programat.reklama, online reklama FB, INST",,20220149,,CZK,libor_michalek
+2022-11-11,1000,Incoming instant payment ,Vintrová Renáta,825143153,800,"Renáta Vintrová,7.7.1977,Libušina 163, Kněževes u Rakovníka 27001",0,,,CZK,libor_michalek
+2022-11-09,-13431,Outgoing instant payment ,,2801954620,2010,Endpoint Digital IČ 10664921sociální sítě-říjen,,2201050,,CZK,libor_michalek
+2022-11-04,-25000,Outgoing instant payment ,,2801954620,2010,"Endpoint Dig.IČ10664921, vývoj webdoplatek",,2201046,,CZK,libor_michalek
+2022-11-03,1000,Incoming instant payment ,Macáková Petra,1868310163,800,"Petra Macáková, Beroun",0,1,,CZK,libor_michalek
+2022-11-01,1000,Incoming payment ,Šejbová Lenka,4278633003,800,Lenka Šejbová 16.12. 1959,0,,,CZK,libor_michalek
+2022-10-31,1000,Incoming payment ,FRANTISEK SIMORDA,6701002201660350,6210,MICHÁLEK NA HRAD!  (ALE LIDI JSOU NEPOUČITELNÝ),,,,CZK,libor_michalek
+2022-10-31,-135,Payment card fee ,,,,,,,,CZK,libor_michalek
+2022-10-27,-46995,Outgoing payment ,,2801954620,2010,"Endpoint IČ10664921, vývoj webu 1.s",308,2211001,,CZK,libor_michalek
+2022-10-27,-2880,Outgoing payment ,,2500104331,2010,KMS IČ 00539147,558,222081,,CZK,libor_michalek
+2022-10-26,1000,Incoming instant payment ,"Lamrová, Marie",2500020701,2010,"příspěvek na Tvoje výdaje, spojenés kandidaturou",,,,CZK,libor_michalek
+2022-10-23,2500,Incoming payment ,FOUSEK JAN,112718201,300,Milada Fousková; 23.11.1973;Jihlava,,731123,,CZK,libor_michalek
+2022-10-23,2500,Incoming payment ,FOUSEK JAN,112718201,300,Jan Fousek; 10.02.1971;Jihlava,,710210,,CZK,libor_michalek
+2022-10-21,150000,Incoming instant payment ,Ing.Vala Aleš,2325883023,800,,0,,,CZK,libor_michalek
+2022-10-20,150000,Incoming instant payment ,Anděl Miroslav,2998258193,800,Miroslav a Svetlana,0,,,CZK,libor_michalek
+2022-10-18,300,Incoming instant payment ,Mgr.Vitoušková Jana,1436342073,800,"Jana Vitoušková, 3.5. 1978, Řevnice",0,,,CZK,libor_michalek
+2022-10-17,500,Incoming payment ,MARCELA LANIKOVA,6701002206156230,6210,"MARCELA LÁNÍKOVÁ, 25.4.1964, PRAHA9",,,,CZK,libor_michalek
+2022-10-14,1000,Incoming instant payment ,Jakeš Milan,1163569183,800,"Milan Jakeš, 20.2.1974, 370 01 Planá",0,,,CZK,libor_michalek
+2022-10-14,-22800,Outgoing instant payment ,,213264835,600,"Andrea Haines IČ 76230929, řízeníkampaně_září",,312022,,CZK,libor_michalek
+2022-10-14,-39930,Outgoing instant payment ,,2801954620,2010,"Endpoint Dig. IČ 10664921, sociálnísítě-září",308,2201044,,CZK,libor_michalek
+2022-10-13,3000,Incoming instant payment ,"Ondrášek, Petr",2000143887,2010,"Petr Ondrášek, 2.6.1953, Kutná Hora",,,,CZK,libor_michalek
+2022-10-10,1000,Incoming instant payment ,Vintrová Renáta,825143153,800,"Renáta Vintrová,7.7.1977,Libušina 163, Kněževes u Rakovníka 27001",0,,,CZK,libor_michalek
+2022-10-10,1000,Incoming payment ,KAFKOVA MARKETA,110008839,300,,,,,CZK,libor_michalek
+2022-10-10,5000,Incoming payment ,POTFAJOVÁ JOSEFA,357590890227,100,"Josefa Potfajová, 25.11.1964, Praha",0,,,CZK,libor_michalek
+2022-10-09,1000,Incoming instant payment ,"Čihulka, Jiří",2700132185,2010,"Jiří Čihulka, 7.3.1972, Turnov",,,,CZK,libor_michalek
+2022-10-09,250,Incoming instant payment ,Hana Kotlářová,1027225247,6100,Hana Kotlářová 20. 3. 1989 Liberec,0,,,CZK,libor_michalek
+2022-10-09,5000,Incoming instant payment ,"My Father's House, z",2600468896,2010,"My Fathers House z.s., Výšinka 994,51101 Turnov, IČO 02058847",,,,CZK,libor_michalek
+2022-10-08,10000,Incoming payment ,KACIREK MILOS,573137223,300,"Miloš Kačírek, 31.12.1964, Praha 14",,,,CZK,libor_michalek
+2022-10-07,500,Incoming instant payment ,"Zahradníčková, Hana",2300242430,2010,"Hana Zahradníčková, nar. 22.9. 1955, Česká Lípa",,,,CZK,libor_michalek
+2022-10-07,10000,Incoming payment ,HORACKOVA MICHAELA,218107396,300,,,,,CZK,libor_michalek
+2022-10-07,5000,Incoming payment ,POSPÍŠIL RADEK,198204410227,100,Radek Pospíšil 25.9.1970 Pardubice,0,,,CZK,libor_michalek
+2022-10-07,1000,Incoming payment ,SYBOVA PETRA,153029285,300,"Petra Sýbová, 19.8.1979, Česká Lípa",,,,CZK,libor_michalek
+2022-10-03,1000,Incoming payment ,Šejbová Lenka,4278633003,800,Lenka Šejbová 16.12. 1959,0,,,CZK,libor_michalek
+2022-10-03,1000,Incoming instant payment ,Macáková Petra,1868310163,800,Petra Macáková,0,1,,CZK,libor_michalek
+2022-10-03,10000,Incoming payment ,BONDAROVÁ RENATA,1013950237,100,"14.07.1974,Olešná u Rak.",0,,,CZK,libor_michalek
+2022-09-30,-6518.8,Outgoing payment ,,2000112685,2010,TAEDA IČ 28613279_balónky,,20221112,,CZK,libor_michalek
+2022-09-30,-1159,Outgoing payment ,,5144454389,800,4Leaders IČ 28144708_tyčky_balonky,,1575663,,CZK,libor_michalek
+2022-09-27,300,Incoming instant payment ,Mgr.Vitoušková Jana,1436342073,800,"Jana Vitoušková, 3. 5. 1978, Řevnice",0,,,CZK,libor_michalek
+2022-09-26,300,Incoming instant payment ,"Šmírová, Eva",2600390160,2010,"nar. 8.11.1974, trvalý pobyt Jablůnka, 756 23",,,,CZK,libor_michalek
+2022-09-21,300,Incoming instant payment ,"Hloušek, Petr",2501894224,2010,"Petr Hloušek, datum narození,7.4. 1975, trvalý pobyt Praha 7",,,,CZK,libor_michalek
+2022-09-19,-30855,Outgoing payment ,,2801954620,2010,Endpoint Digital_tvorba webdesignu,,10664921,,CZK,libor_michalek
+2022-09-19,-24166.1,Outgoing payment ,,435101210237,100,HB Media_IČ 28930185_tisk letáků,,20220127,,CZK,libor_michalek
+2022-09-19,-13552,Outgoing payment ,,2801954620,2010,Endpoint Digi_sociální sítě_srpen,,10664921,,CZK,libor_michalek
+2022-09-13,300,Incoming instant payment ,Helena Beštová,4765557001,5500,21091985 Praha,,,,CZK,libor_michalek
+2022-09-13,1000,Incoming instant payment ,Vintrová Renáta,825143153,800,"Renáta Vintrová,7.7.1977,Libušina 163, Kněževes u Rakovníka 27001",0,,,CZK,libor_michalek
+2022-09-10,10000,Incoming instant payment ,DRAHOTA DAVID,289587972,300,"David Drahota, 31.8.1978, Praha 2",,,,CZK,libor_michalek
+2022-09-09,2500,Incoming payment ,POPULOVA GABRIELA,181716779,300,"23.03.1945, Praha 8",,,,CZK,libor_michalek
+2022-09-09,500,Incoming payment ,MARCELA LANIKOVA,6701002206156230,6210,"MARCELA LÁNÍKOVÁ, 25.4.1964, PRAHA9",,,,CZK,libor_michalek
+2022-09-09,10000,Incoming instant payment ,Ing.Krajník Tomáš,432132103,800,"Tomáš Krajník, 31.3.1963, ČeskáLípa",0,,,CZK,libor_michalek
+2022-09-08,5000,Incoming payment ,POSPÍŠIL RADEK,198204410227,100,Radek Pospíšil 25.9.1970 Pardubice,0,,,CZK,libor_michalek
+2022-09-07,1000,Incoming instant payment ,Mgr. Lenka Valihrach,1406197477,5500,"Valihrachová Lenka, 14.6.1974, Čebín",,,,CZK,libor_michalek
+2022-09-07,500,Incoming instant payment ,"Marek, Jiří",2400765765,2010,,,,,CZK,libor_michalek
+2022-09-06,300,Incoming payment ,MIXÁNEK LUKÁŠ,276144990207,100,"Lukáš Mixánek, 3.3.1984, Turnov",0,,,CZK,libor_michalek
+2022-09-06,10000,Incoming instant payment ,Eliška Rosalie Michá,1324375014,3030,"Eliška Rosalie Michálková, 11.1.1993, Hostivice",,,,CZK,libor_michalek
+2022-09-06,-11369.25,SEPA Payment outgoing in EUR within EU/EEA ,,,,,,,,CZK,libor_michalek
+2022-09-06,-10143,Outgoing payment ,,213264835,600,"Haines IČ 76230929, řízení kampaně",,282022,,CZK,libor_michalek
+2022-09-02,1000,Incoming payment ,Pavel Prchal,1014704054,6100,"Pavel Prchal,19.6.1968, Havl.Brod",,,,CZK,libor_michalek
+2022-09-01,1000,Incoming payment ,Šejbová Lenka,4278633003,800,Lenka Šejbová 16.12. 1959,0,,,CZK,libor_michalek
+2022-08-31,-6244,Outgoing payment ,,2300941186,2010,"Aga24 IČ 03730689, skládací stoly",,101428311,,CZK,libor_michalek
+2022-08-31,10000,Incoming instant payment ,Ing.Kochan Miroslav,271151003,800,"20. 7. 1958, Jihlava",298,777,,CZK,libor_michalek
+2022-08-29,1300,Incoming payment ,KOSTRBOVÁ IVA,195491770247,100,"Iva Kostrbová, nar.31.10.1961,Mnichovice",0,,,CZK,libor_michalek
+2022-08-29,1000,Incoming instant payment ,GERŽA JIŘÍ,154532229,600,"Jiří Gerža, 2.8.1971, Třebíč",,,,CZK,libor_michalek
+2022-08-27,300,Incoming payment ,MERHULIKOVA LENKA,192190936,300,podpora kandidatury...,,,,CZK,libor_michalek
+2022-08-26,500,Incoming instant payment ,Radka Weberová,1395015016,3030,"Díky Bohu! Brno, 5.2.1975",,,,CZK,libor_michalek
+2022-08-26,300,Incoming instant payment ,Mgr.Vitoušková Jana,1436342073,800,"Jana Vitoušková, 3.5. 1978, Řevnice",0,,,CZK,libor_michalek
+2022-08-24,2000,Incoming payment ,Roiková Karin,2103656773,2700,"Karin Roiková, 19.5.1969",,,,CZK,libor_michalek
+2022-08-24,500,Incoming instant payment ,Rykl Jáchym,4709662093,800,"22.4.1996 Velké Přílepy, Dar naprez. kampaň",0,,,CZK,libor_michalek
+2022-08-24,1000,Incoming payment ,JAN SELNEKOVIC,6701002201701010,6210,"DAR NA PREZIDENTSKOU KAMPAŇ, JAN SELNEKOVIČ, 17.6.1981, NÁDRAŽNÍ 345,NOVÉ MĚSTO POD SMRKEM",,,,CZK,libor_michalek
+2022-08-24,20000,Incoming payment ,BÁLEK MIROSLAV,1076514590287,100,"Miroslav + Hana Bálkovi, /22.12.1960, 1.2.1962/ Praha 5 - DAR",0,601222,1234,CZK,libor_michalek
+2022-08-23,-42830,Outgoing payment ,,2700354044,2010,Plotbase IČ 45674515_bannery,,303663,,CZK,libor_michalek
+2022-08-23,300,Incoming instant payment ,"Přikryl, Zbyněk",2500090953,2010,"Zbyněk Přikryl, 15.3.1976, Jaroměřice n/R",,,,CZK,libor_michalek
+2022-08-23,5000,Incoming instant payment ,Ing.Kybast Ondrej,522446093,800,"Ing.Ondrej Kybast - 22.7.1963; Babice 251 01, Okružní 247",0,,,CZK,libor_michalek
+2022-08-23,300,Incoming payment ,MEZLOVÁ JOLANA,207449155,600,15.7. 1966 Opava,,,,CZK,libor_michalek
+2022-08-23,3600,Incoming instant payment ,Petr Hrdina,4971098002,5500,"Petr Hrdina, 30.12.1967, Praha 3",,,,CZK,libor_michalek
+2022-08-22,-7834.75,Outgoing payment ,,2801954620,2010,"Endpoint IČ 10664921, foto služby",,2201031,,CZK,libor_michalek
+2022-08-22,-7260,Outgoing payment ,,2801954620,2010,Endpoint IČ 10664921 tvorba leták,,2201032,,CZK,libor_michalek
+2022-08-19,500,Incoming payment ,MARCELA LANIKOVA,6701002206156230,6210,"MARCELA LÁNÍKOVÁ, 25.4.1964, PRAHA9",,,,CZK,libor_michalek
+2022-08-19,500,Incoming instant payment ,Kult Bohuslav,39705163,800,"Naděžda Kultová, 23.5.1945 , Liberec 25 - dar pro presidentskou kampaňLM",0,,,CZK,libor_michalek
+2022-08-19,500,Incoming instant payment ,Kult Bohuslav,39705163,800,"Bohuslav Kult, 4.3.1949, Liberec 25- dar pro presidentskou kampaň LM",0,,,CZK,libor_michalek
+2022-08-19,-23031,Outgoing payment ,,213264835,600,"A. Haines IČ 76230929, řízení kamp.",,222022,,CZK,libor_michalek
+2022-08-19,-1728,Outgoing payment ,,302205001,5500,Webglobe IČ 26159708 webhosting,,2299085826,,CZK,libor_michalek
+2022-08-18,300,Incoming payment ,KOLÁČEK LIBOR,511271910297,100,Libor Koláček 3.12.1964 Pětihosty,0,,,CZK,libor_michalek
+2022-08-18,2000,Incoming instant payment ,Bosman Pavel,369692043,800,"Pavel Bosman, 25.5.1966, Cheb3",0,,,CZK,libor_michalek
+2022-08-18,1500,Incoming payment ,KAREL HAVLICEK,6701002207799730,6210,PŘEVOD PROSTŘEDKŮ,,,,CZK,libor_michalek
+2022-08-17,-25712.5,Outgoing payment ,,2801954620,2010,END_POINT_10664921_vizuál_identita,,2201030,,CZK,libor_michalek
+2022-08-15,3000,Incoming payment ,Karnoltová Zuzana,2113976658,2700,"Zuzana Karnoltová, 4.3.1994, Mělník",,,,CZK,libor_michalek
+2022-08-12,4000,Incoming payment ,LIŠKOVÁ ANNA,359300120267,100,"ANNA LIŠKOVÁ, 10.08.1998, RABÍ, RABÍ č.p. 58, okr. KLATOVY",0,,,CZK,libor_michalek
+2022-08-12,500,Incoming instant payment ,"Konvalinka, Jan",2902101846,2010,"Jan Konvalinka, 9.12.1979, Brno",,,,CZK,libor_michalek
+2022-08-12,3000,Incoming payment ,Karnoltová Hana,2108852677,2700,"Hana Karnoltová, 28.9.2001, Mělník",,,,CZK,libor_michalek
+2022-08-11,1000,Incoming instant payment ,Vintrová Renáta,825143153,800,,0,,,CZK,libor_michalek
+2022-08-11,10000,Incoming instant payment ,BRADOVÁ MARCELA,213435171,600,"Marcela Bradová, 12.01.1987, Lednice",,,,CZK,libor_michalek
+2022-08-10,-49280,Outgoing payment ,,2300941186,2010,"AGA24, Český Těšín -nůžkové stánky",,101424324,,CZK,libor_michalek
+2022-08-10,2000,Incoming instant payment ,Mirek Jarolím,1653240065,3030,"Mirek Jarolím,  12.4.1991, Praha 13",,,,CZK,libor_michalek
+2022-08-08,100000,Incoming payment ,POSPÍŠIL RADEK,198204410227,100,Radek Pospíšil 25.9.1970 Pardubice,0,,,CZK,libor_michalek
+2022-08-05,5000,Incoming instant payment ,Ing.Breník Přemysl,144183053,800,brenik pro libora michalka,0,,,CZK,libor_michalek
+2022-08-05,-1210,Outgoing payment ,,275791585,5500,Logosign_polepy stánků,308,22171316,,CZK,libor_michalek
+2022-08-05,-3500,Outgoing payment ,HANA BROŽKOVÁ,197776282,300,Brožková_fotografické_služby,308,20220041,,CZK,libor_michalek
+2022-08-05,-3630,Outgoing payment ,,2834886329,800,Grafotechna_P13_letáčky_viziky,308,220100604,,CZK,libor_michalek
+2022-08-05,50000,Incoming instant payment ,Anděl Miroslav,2998258193,800,Andělovi dar,0,,,CZK,libor_michalek
+2022-08-04,-2904,Outgoing payment ,,2100817615,2010,"FILM21, OVA, dotáčka videospot",,22010013,,CZK,libor_michalek
+2022-08-04,3000,Incoming instant payment ,Ing.Šimmer Petr,523649183,800,"Vlasta Šimmerová, 25.5.1955, Litvínov",0,,,CZK,libor_michalek
+2022-08-02,2000,Incoming payment ,VACLAVIKOVA EVA,198798328,300,"Eva Václavíková, Svojkov 47153,6.3.1967",,,,CZK,libor_michalek
+2022-08-01,1000,Incoming payment ,Šejbová Lenka,4278633003,800,Lenka Šejbová 16.12. 1959,0,,,CZK,libor_michalek
+2022-08-01,5000,Incoming instant payment ,"Loula, David",2300210228,2010,"David Loula, 20.2.1974, V. Mestec",,,,CZK,libor_michalek
+2022-08-01,10000,Incoming instant payment ,Úhelný Kámen,2700046156,2010,"Úhelný Kámen, 7. Května 7, 26561883",,,,CZK,libor_michalek
+2022-07-30,1000,Incoming payment ,KREJCI DANIEL,106115359,300,Daniel Krejčí 17.6.1968 Libavské Údolí 112 Kynšperk nad hří 35751,,,,CZK,libor_michalek
+2022-07-29,3000,Incoming instant payment ,Markupová Dagmar,49841003,800,Dagmar Markupová 10.12.1952 PletenýÚjezd 128,0,,,CZK,libor_michalek
+2022-07-25,500,Incoming payment ,MARCELA LANIKOVA,6701002206156230,6210,"MARCELA LÁNÍKOVÁ, 25.4.1964, PRAHA9",,,,CZK,libor_michalek
+2022-07-25,1000,Incoming instant payment ,Nývlt Miroslav,468562113,800,miroslav nyvlt 21 02 1954 cvikov,0,,,CZK,libor_michalek
+2022-07-23,30000,Incoming instant payment ,Lukáš Michálek,1324380016,3030,"Lukáš Michálek, 9.12.1994, Hostivice",,,,CZK,libor_michalek
+2022-07-23,50000,Incoming instant payment ,VIZE PRO ČESKO,227547967,600,VIZE pro Česko_Modřínová 496_Chýně_IČ 07301600,,,,CZK,libor_michalek
+2022-07-20,4500,Incoming instant payment ,Lukáš Michálek,1324380016,3030,"Lukáš Michálek, 9.12.1994, Hostivice",,,,CZK,libor_michalek
+2022-07-15,10000,Incoming payment ,MICHÁLEK DAVID,2103008194,2700,"David Michalek, 8.1.1991, Praha 2",,,,CZK,libor_michalek
+2022-07-14,5000,Incoming instant payment ,Mgr.Markupová Pavla,768274113,800,"Pavla Markupová, 14.9.1973, PletenýÚjezd",0,,,CZK,libor_michalek
+2022-07-13,3000,Incoming instant payment ,Marie Zárubová,1179878001,5500,Marie Zárubová 8.2.1950 Česká Lípa,308,777999229,,CZK,libor_michalek
+2022-07-13,200,Incoming payment ,BURDA ZDENEK,161247899,300,"Petra Burdová 18.9.1975, Duchcov",,,,CZK,libor_michalek
+2022-07-12,2000,Incoming payment ,HLAVKOVA JIRINA,676632243,300,"Jiřina Hlávková,2.10.1957Česká Lípa",,,,CZK,libor_michalek
+2022-07-07,500,Incoming payment ,MARCELA LANIKOVA,6701002206156230,6210,"MARCELA LÁNÍKOVÁ, 25.4.1964, PRAHA9",,,,CZK,libor_michalek
+2022-07-07,-500,Outgoing payment ,,468562113,800,Vratka daru bez zákon. náležitostiNývlt Miroslav,,,,CZK,libor_michalek
+2022-07-07,-26620,Outgoing payment ,,2100817615,2010,"FILM21 s.r.o., Ostrava, IČ 04126025propagační volební videospot",308,22010012,,CZK,libor_michalek
+2022-07-07,-11991,Outgoing payment ,,213264835,600,"Andrea Haines, Vidov, tvorba webuwww.srdceprospravedlnost.cz",,202022,,CZK,libor_michalek
+2022-07-07,-13425.98,SEPA Payment outgoing in EUR within EU/EEA ,,,,,,,,CZK,libor_michalek
+2022-07-07,1000,Incoming payment ,BEDNAŘÍKOVÁ OLGA,279580100227,100,"Olga Bednaříková, 22.04.1978, Brno",0,,,CZK,libor_michalek
+2022-07-05,500,Incoming instant payment ,Nývlt Miroslav,468562113,800,,0,,,CZK,libor_michalek
+2022-07-04,5000,Incoming payment ,ONDRACEK LUBOMIR,102086650,300,Lubomír Ondráček 28. 12. 1962 Za Vodárnou 33 Praha 8,,,,CZK,libor_michalek
+2022-07-04,-5000,Outgoing payment ,Ing. LUBOMÍR ONDRÁČEK,102086650,300,Vratka daru bez zákon. náležitostíLubomír Ondráček,,,,CZK,libor_michalek
+2022-07-03,5000,Incoming payment ,ONDRACEK LUBOMIR,102086650,300,Podpora prezidentské kampaně LiboraMichálka,,,,CZK,libor_michalek
+2022-07-01,5000,Incoming payment ,VACLAVIKOVA EVA,198798328,300,"Eva Václavíková 6.3.1967, Svojkov",,,,CZK,libor_michalek
+2022-07-01,-5000,Outgoing payment ,,2000040896,2010,Vratka daru bez zákon. náležitostíJan Ptáček,,,,CZK,libor_michalek
+2022-07-01,5000,Incoming instant payment ,"Zahradníčková, Hana",2300242430,2010,"Hana Zahradníčková, nar. 22.9. 1955, Česká Lípa",,,,CZK,libor_michalek
+2022-07-01,5000,Incoming instant payment ,"Ptáček, Jan",2000040896,2010,"Jan Ptáček, 23.12.1979, Kly",,0,,CZK,libor_michalek

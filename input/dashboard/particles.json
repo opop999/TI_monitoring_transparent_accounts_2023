@@ -1,0 +1,69 @@
+{
+  "duration": {"min": 10, "max": 13},
+  "fpsLimit": 60,
+  "interactivity": {
+    "events": {
+      "onClick": {
+        "enable": false,
+        "mode": "push"
+      },
+      "onHover": {
+        "enable": false,
+        "mode": "repulse"
+      }
+    },
+    "modes": {
+      "push": {
+        "quantity": 6
+      },
+      "repulse": {
+        "distance": 50
+      }
+    }
+  },
+  "particles": {
+    "color": {
+      "value": "#fff"
+    },
+    "move": {
+      "direction": "bottom",
+      "enable": true,
+      "outModes": "out",
+      "speed": {"min": 1, "max": 2}
+    },
+    "number": {
+      "density": {
+        "area": 800,
+        "enable": true
+      },
+      "value": 350
+    },
+    "opacity": {
+      "value": {"min": 0.1, "max": 0.7},
+      "animation": {
+          "destroy": "min",
+          "enable": true,
+          "speed": 5,
+          "startValue": "max",
+          "sync": false
+        }
+    },
+    "shape": {
+      "type": "circle"
+    },
+    "size": {
+      "value": {"min": 8, "max": 13}
+    },
+    "wobble": {
+      "distance": 10,
+      "enable": true,
+      "speed": 10
+    },
+    "zIndex": {
+      "value": {
+        "max": 100,
+        "min": 0
+      }
+    }
+  }
+}
