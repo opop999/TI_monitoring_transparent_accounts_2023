@@ -1,0 +1,9 @@
+name: Automated extraction of political financing data
+
+# Controls when the action will run.
+on:
+  schedule:
+    - cron: '00 12 * * *'
+  push:
+    branches: main
+
