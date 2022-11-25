@@ -1386,6 +1386,7 @@ karel_divis,2022-08-05,Outgoing payment ,-20582.1,CZK,za organizaci prezidentske
 karel_divis,2022-07-15,Incoming instant payment ,100000,CZK,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",Mgr. Karel Diviš,317255001,5500,20220715,558,
 karel_divis,2022-07-15,Outgoing payment ,-210890,CZK,za organizaci prezidentske kampane- sber podpisu,,111120232,5500,20220715,,
 karel_divis,2022-07-12,Incoming instant payment ,200000,CZK,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",Mgr. Karel Diviš,317255001,5500,20220712,558,
+petr_pavel,2022-11-25,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,,,
 petr_pavel,2022-11-25,Karetní transakce,-24200,CZK,"Nákup: FACEBK WMKHEJXQ32, fb.me/ads, IE, dne 24.11.2022, částka  24200.00 CZK Nákup: FACEBK WMKHEJXQ32, fb.me/ads, IE, dne 24.11.2022, částka  24200.00 CZK",,,,7999,,
 petr_pavel,2022-11-25,Okamžitá příchozí platba,5000,CZK,drzim palce Ing.Vendrová Renata,Ing.Vendrová Renata,,,,0,
 petr_pavel,2022-11-25,Okamžitá příchozí platba,10000,CZK,DAR NA KAMPAŇ GENERÁLA PAVLA Ing.Váňa Jan,Ing.Váňa Jan,,,,0,
@@ -1450,6 +1451,7 @@ petr_pavel,2022-11-17,Karetní transakce,-24200,CZK,"Nákup: FACEBK TEXYKH3R32, 
 petr_pavel,2022-11-17,Okamžitá příchozí platba,100,CZK,dar na kampaň generála Pavla Bc. Lukáš Rejnek,Bc. Lukáš Rejnek,,,,,
 petr_pavel,2022-11-17,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,,,
 petr_pavel,2022-11-17,Okamžitá příchozí platba,100000,CZK,f.špaček Mgr. František Špače,Mgr. František Špače,,,,308,
+marek_hilser,2022-11-25,Okamžitá příchozí platba,0.01,CZK,alkoholdrink cz Pavel Tr?ster,Pavel Tr?ster,,,,,
 marek_hilser,2022-11-25,Okamžitá příchozí platba,500,CZK,"David Rabas, 30.08.1990, Dobřany 334 41 Rabas David",Rabas David,,,,0,
 marek_hilser,2022-11-24,Okamžitá příchozí platba,0.01,CZK,alkoholdrink cz Pavel Tr?ster,Pavel Tr?ster,,,,,
 marek_hilser,2022-11-24,Platba převodem uvnitř banky,-1000,CZK,On-line reklama,,,,2908386340,,43
@@ -1461,6 +1463,7 @@ marek_hilser,2022-11-18,Okamžitá příchozí platba,0.01,CZK,alkoholdrink cz P
 marek_hilser,2022-11-18,Okamžitá odchozí platba,-6048.79,CZK,Faktura 2022079 - nástroj pro on-line reklamu,,,,2022079,,
 marek_hilser,2022-11-18,Okamžitá odchozí platba,-5000,CZK,Faktura 15 - správa sociálních sítí - říjen 2022,,,,15,,
 marek_hilser,2022-11-17,Okamžitá příchozí platba,0.01,CZK,alkoholdrink cz Pavel Tr?ster,Pavel Tr?ster,,,,,
+josef_stredula,2022-11-25,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,5632,,
 josef_stredula,2022-11-25,Bezhotovostní příjem,200000,CZK,Richard Benysek- dar BENÝŠEK RICHARD,BENÝŠEK RICHARD,,,6709300257,0,0
 josef_stredula,2022-11-24,Poplatek,-1,CZK,SMS upozornění na +420******707,,,,,,
 josef_stredula,2022-11-24,Poplatek,-1,CZK,SMS upozornění na +420******111,,,,,,
@@ -2944,6 +2947,19 @@ karel_janecek,2022-11-24,Příchozí platba,0.01,CZK,"Nutno podotknout, ze vozim
 karel_janecek,2022-11-24,Příchozí platba,0.01,CZK,!!!!!!!!!!!!!!!! zajem medii je opravdu obrovsky!!!!!!!!,Ondřej Mužík,,,0,0,0
 karel_janecek,2022-11-23,Příchozí platba,1806336,CZK,Vklad do kampaně,JANEČEK KAREL,,,0,0,0
 karel_janecek,2022-11-23,Odchozí platba,-1806336,CZK,Vklad do kampaně,,,,0,0,0
+andrej_babis,2022-11-25,Příchozí platba,0.1,CZK,"Šmejde, patříš do pekla za ten covidový koncentrák, za oblbování lidí a za devastaci ČR",Jan Kolář,,,0,0,0
+andrej_babis,2022-11-25,Příchozí platba,0.01,CZK,"NA SILÁŽ A GRANULE PRO KRMENÍ VOLIČŮ, KTEŘÍ TO ŽEROU","Mgr.Novák Vít,MBA",,,0,0,0
+andrej_babis,2022-11-25,Příchozí platba,0.01,CZK,"Bóu. Bóu. Co je Andy? Bóu. Bóu. Co je Andy? Čau já jsem Andy a fórky dělám rád, když se můžeš zasmát, je to prima věc. Začne to zcela nevině",NESLEHA MAREK,,,0,0,0
+andrej_babis,2022-11-25,Příchozí platba,0.01,CZK,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,Pavel Tr?ster,,,0,0,0
+andrej_babis,2022-11-25,Příchozí platba,0.66,CZK,Před spravedlností Prchal !!,Jan Pavel,,,2091954,0,0
+andrej_babis,2022-11-25,Příchozí platba,0.66,CZK,"reklamuji tousťaku od Penamu. Má příliš tvrdou kůrku, chtělo by to novou dotaci na novou linku s novou, vylepšenou recepturou.",Jan Pavel,,,2091954,0,0
+andrej_babis,2022-11-25,Příchozí platba,0.66,CZK,"Já Vám to s radostí hodím! doufám, že si to taky hodíte <3",Jan Pavel,,,2091954,0,0
+andrej_babis,2022-11-25,Příchozí platba,100,CZK,na pozitivní kampaň,Martin Nikodém,,,0,0,0
+andrej_babis,2022-11-25,Příchozí platba,0.01,CZK,"Prispevek na cestu stopem zpet na Slovensko. Stan se, Andreji, prezidentem tam. My tu mame dost problemu i bez tebe.","Khol, Vladimír",,,0,0,0
+andrej_babis,2022-11-25,Příchozí platba,0.01,CZK,Na vyškrtnutí z evidence agentů STB,Ing.Študent Vladimír,,,0,0,0
+andrej_babis,2022-11-25,Příchozí platba,0.01,CZK,vykur mi fanfulina,ARNOT FRANTIŠEK,,,0,0,0
+andrej_babis,2022-11-25,Příchozí platba,0.01,CZK,"Lháři, podvodníkovi, generátoru nahodnych slov, udavači a důvodu 20.000 mrtvých v době pandemie na tepláky na Mírov",Ing.Štěpánek Jan,,,0,0,0
+andrej_babis,2022-11-25,Příchozí platba,0.01,CZK,Make Bureš Slovak Again!!!,ABRHÁM ONDŘEJ,,,0,0,0
 andrej_babis,2022-11-25,Příchozí platba,0.01,CZK,Panu Babišovi na koblihe,Vladimír Lukeš,,,0,0,0
 andrej_babis,2022-11-25,Odchozí platba,-15,CZK,"Dekuji za podporu, vazim si ji.",,,,20221125,558,0
 andrej_babis,2022-11-25,Odchozí platba,-50,CZK,"Dekuji za podporu, vazim si ji.",,,,20221125,558,0

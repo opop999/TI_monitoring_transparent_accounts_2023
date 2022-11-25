@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-11-25,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2022-11-25,-24200,CZK,Karetní transakce,,"Nákup: FACEBK WMKHEJXQ32, fb.me/ads, IE, dne 24.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK WMKHEJXQ32, fb.me/ads, IE, dne 24.11.2022, částka  24200.00 CZK",petr_pavel
 2022-11-25,5000,CZK,Okamžitá příchozí platba,Ing.Vendrová Renata,drzim palce,0,,,Ing.Vendrová Renata,petr_pavel
 2022-11-25,10000,CZK,Okamžitá příchozí platba,Ing.Váňa Jan,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Ing.Váňa Jan,petr_pavel
@@ -63,6 +64,7 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-11-17,100,CZK,Okamžitá příchozí platba,Bc. Lukáš Rejnek,dar na kampaň generála Pavla,,,,Bc. Lukáš Rejnek,petr_pavel
 2022-11-17,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2022-11-17,100000,CZK,Okamžitá příchozí platba,Mgr. František Špače,f.špaček,308,,,Mgr. František Špače,petr_pavel
+2022-11-25,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-11-25,500,CZK,Okamžitá příchozí platba,Rabas David,"David Rabas, 30.08.1990, Dobřany 334 41",0,,,Rabas David,marek_hilser
 2022-11-24,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-11-24,-1000,CZK,Platba převodem uvnitř banky,,,,2908386340,43,On-line reklama,marek_hilser
@@ -74,6 +76,7 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-11-18,-6048.79,CZK,Okamžitá odchozí platba,,,,2022079,,Faktura 2022079 - nástroj pro on-line reklamu,marek_hilser
 2022-11-18,-5000,CZK,Okamžitá odchozí platba,,,,15,,Faktura 15 - správa sociálních sítí - říjen 2022,marek_hilser
 2022-11-17,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-11-25,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-11-25,200000,CZK,Bezhotovostní příjem,BENÝŠEK RICHARD,Richard Benysek- dar,0,6709300257,0,BENÝŠEK RICHARD,josef_stredula
 2022-11-24,-1,CZK,Poplatek,,SMS upozornění na +420******707,,,,,josef_stredula
 2022-11-24,-1,CZK,Poplatek,,SMS upozornění na +420******111,,,,,josef_stredula

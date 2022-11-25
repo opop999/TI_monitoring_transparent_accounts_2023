@@ -7,6 +7,19 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 361-24112022 1086 086142 502499,2022-11-24,0.01,Příchozí platba,Ondřej Mužík,!!!!!!!!!!!!!!!! zajem medii je opravdu obrovsky!!!!!!!!,CZK,0,0,0,karel_janecek
 001-23112022 1602 602010 879401,2022-11-23,1806336,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-23112022 1602 602012 896811,2022-11-23,-1806336,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
+361-25112022 1086 086148 504192,2022-11-25,0.1,Příchozí platba,Jan Kolář,"Šmejde, patříš do pekla za ten covidový koncentrák, za oblbování lidí a za devastaci ČR",CZK,0,0,0,andrej_babis
+361-25112022 1086 086143 104124,2022-11-25,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","NA SILÁŽ A GRANULE PRO KRMENÍ VOLIČŮ, KTEŘÍ TO ŽEROU",CZK,0,0,0,andrej_babis
+361-25112022 1086 086146 504104,2022-11-25,0.01,Příchozí platba,NESLEHA MAREK,"Bóu. Bóu. Co je Andy? Bóu. Bóu. Co je Andy? Čau já jsem Andy a fórky dělám rád, když se můžeš zasmát, je to prima věc. Začne to zcela nevině",CZK,0,0,0,andrej_babis
+361-25112022 1086 086150 504087,2022-11-25,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+361-25112022 1086 086149 104071,2022-11-25,0.66,Příchozí platba,Jan Pavel,Před spravedlností Prchal !!,CZK,2091954,0,0,andrej_babis
+361-25112022 1086 086146 504058,2022-11-25,0.66,Příchozí platba,Jan Pavel,"reklamuji tousťaku od Penamu. Má příliš tvrdou kůrku, chtělo by to novou dotaci na novou linku s novou, vylepšenou recepturou.",CZK,2091954,0,0,andrej_babis
+361-25112022 1086 086143 104042,2022-11-25,0.66,Příchozí platba,Jan Pavel,"Já Vám to s radostí hodím! doufám, že si to taky hodíte <3",CZK,2091954,0,0,andrej_babis
+361-25112022 1086 086144 104012,2022-11-25,100,Příchozí platba,Martin Nikodém,na pozitivní kampaň,CZK,0,0,0,andrej_babis
+361-25112022 1086 086147 504003,2022-11-25,0.01,Příchozí platba,"Khol, Vladimír","Prispevek na cestu stopem zpet na Slovensko. Stan se, Andreji, prezidentem tam. My tu mame dost problemu i bez tebe.",CZK,0,0,0,andrej_babis
+361-25112022 1086 086149 103968,2022-11-25,0.01,Příchozí platba,Ing.Študent Vladimír,Na vyškrtnutí z evidence agentů STB,CZK,0,0,0,andrej_babis
+001-25112022 1602 602011 718571,2022-11-25,0.01,Příchozí platba,ARNOT FRANTIŠEK,vykur mi fanfulina,CZK,0,0,0,andrej_babis
+361-25112022 1086 086148 103830,2022-11-25,0.01,Příchozí platba,Ing.Štěpánek Jan,"Lháři, podvodníkovi, generátoru nahodnych slov, udavači a důvodu 20.000 mrtvých v době pandemie na tepláky na Mírov",CZK,0,0,0,andrej_babis
+001-25112022 1602 602023 544051,2022-11-25,0.01,Příchozí platba,ABRHÁM ONDŘEJ,Make Bureš Slovak Again!!!,CZK,0,0,0,andrej_babis
 361-25112022 1086 086149 103255,2022-11-25,0.01,Příchozí platba,Vladimír Lukeš,Panu Babišovi na koblihe,CZK,0,0,0,andrej_babis
 001-25112022 1602 602014 089601,2022-11-25,-15,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
 001-25112022 1602 602013 089591,2022-11-25,-50,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
