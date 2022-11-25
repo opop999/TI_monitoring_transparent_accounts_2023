@@ -1,6 +1,6 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-[![Automated Tranparen Bank Account Extraction](https://github.com/opop999/TI_monitoring_transparent_accounts_2023/actions/workflows/docker.yml/badge.svg)](https://github.com/opop999/TI_monitoring_transparent_accounts_2023/actions/workflows/docker.yml)
+[![Automated Transparent Bank Account Extraction](https://github.com/opop999/TI_monitoring_transparent_accounts_2023/actions/workflows/docker.yml/badge.svg)](https://github.com/opop999/TI_monitoring_transparent_accounts_2023/actions/workflows/docker.yml)
 
 [![Logo TI](https://www.transparentnivolby.cz/hrad2023/wp-content/themes/prezident2023/images/logo2023.svg)](https://www.transparentnivolby.cz/hrad2023/)
 
