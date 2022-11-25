@@ -8,7 +8,7 @@ source("src/helper_functions.R")
 dir_name <- "output"
 bank_name <- "kb"
 bank_accounts <- readRDS(file.path(dir_name, "list_of_monitored_accounts.rds"))[[bank_name]]
-skip_param <- 5000 # The total number of records equals skip_param + 50
+skip_param <- 250 # The total number of records equals skip_param + 50
 start_date <- as.character(Sys.Date() - 8)
 end_date <- as.character(Sys.Date())
 user_agent <- readRDS(file.path(dir_name, "user_agents.rds"))
