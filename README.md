@@ -2,6 +2,8 @@
 
 [![Automated Transparent Bank Account Extraction](https://github.com/opop999/TI_monitoring_transparent_accounts_2023/actions/workflows/transparent_account_transactions_extract.yml/badge.svg)](https://github.com/opop999/TI_monitoring_transparent_accounts_2023/actions/workflows/transparent_account_transactions_extract.yml)
 
+[![GitHub Pages](https://github.com/opop999/TI_monitoring_transparent_accounts_2023/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/opop999/TI_monitoring_transparent_accounts_2023/actions/workflows/pages/pages-build-deployment)
+
 [![Logo TI](https://www.transparentnivolby.cz/hrad2023/wp-content/themes/prezident2023/images/logo2023.svg)](https://www.transparentnivolby.cz/hrad2023/)
 
 # Transparency International (CZ) election monitoring: <br> [2023 Czech presidential elections](https://www.transparentnivolby.cz/hrad2023/)
