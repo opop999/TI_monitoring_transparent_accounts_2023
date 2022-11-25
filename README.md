@@ -14,7 +14,8 @@
 
 ------------------------------------------------------------------------
 
-**For more information about the regulations regarding political financing in the Czech Republic, including the use of the transparent bank accounts, see the [following TI report](https://www.transparency.cz/wp-content/uploads/Vymetal_PoliticalFinancingCZ_212FINAL.pdf):**
+For more information about the regulations regarding political financing in the Czech Republic, including the use of the transparent bank accounts, see [this TI report](https://www.transparency.cz/wp-content/uploads/Vymetal_PoliticalFinancingCZ_212FINAL.pdf).
+
 ------------------------------------------------------------------------
 
 **Data updated 1x day until the elections.**
