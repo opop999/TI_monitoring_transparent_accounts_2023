@@ -116,8 +116,8 @@ retry_call <- function(expr,
                        isError = function(x) {
                          inherits(x, "try-error")
                        },
-                       maxErrors = 3,
-                       sleep = 60) {
+                       maxErrors = 4,
+                       sleep = 110) {
   attempts <- 0
   retval <- try(eval.parent(substitute(expr)), silent = TRUE)
   while (isError(retval)) {

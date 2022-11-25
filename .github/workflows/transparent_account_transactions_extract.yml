@@ -22,9 +22,9 @@ jobs:
       env:
           CSOB_COOKIE: ${{ secrets.CSOB_COOKIE }}
           CS_TOKEN: ${{ secrets.CS_TOKEN }}
-      run: Rscript src/01_extraction_workflow.R
+      run: Rscript ./src/01_extraction_workflow.R
     - name: 3. Create summarized data
-      run: Rscript src/02_summarization_workflow.R
+      run: Rscript ./src/02_summarization_workflow.R
     - name: 4. Install necessary packages for dashboard
       run: Rscript -e "install.packages(c('flexdashboard', 'plotly', 'htmlwidgets', 'reactable', 'reactablefmtr'), Ncpus = parallel::detectCores())"
     - name: 5. Update dashboard for GitHub Pages
