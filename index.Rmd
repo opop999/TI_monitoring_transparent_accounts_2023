@@ -4,7 +4,7 @@ author: "Ondrej Pekacek & TI CZ"
 date: "`r format(Sys.Date(),'%d. %m. %Y')`"
 output: 
   flexdashboard::flex_dashboard:
-    logo: "input/dashboard/logo_ti.png"
+    logo: "input/dashboard/logo_ti.svg"
     css: "input/dashboard/style.css"
     theme: readable
     includes:
@@ -14,17 +14,18 @@ output:
     vertical_layout: fill
     source_code: https://github.com/opop999/TI_monitoring_transparent_accounts_2023
     navbar:
-      - {title: "Project", icon: "ion-information-circled", href: "https://www.transparentnivolby.cz/"}
       - {title: "Author", icon: "ion-social-linkedin", href: "https://www.linkedin.com/in/ondrej-pekacek"}
-      - {title: "Data: FIO", icon: "ion-cloud", href: "https://www.fio.cz/bankovni-sluzby/bankovni-ucty/transparentni-ucet/vypis-transparentnich-uctu"}
-      - {title: "Data: CSAS", icon: "ion-cloud", href: "https://www.csas.cz/cs/transparentni-ucty#/"}
-      - {title: "Data: KB", icon: "ion-cloud", href: "https://www.kb.cz/cs/transparentni-ucty"}
-      - {title: "Data: CSOB", icon: "ion-cloud", href: "https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty"}
+      - {title: "Data", icon: "ion-cloud", href: "https://github.com/opop999/TI_monitoring_transparent_accounts_2023/blob/master/README.md"}
+      - {title: "Project", icon: "ion-information-circled", href: "https://www.transparentnivolby.cz/hrad2023/"}
+
 ---
 
 ```{js}
 // Add pull-left class to logo
 document.querySelector("span.navbar-logo").classList.add("pull-left");
+// Add link wrapper to logo
+$("span.navbar-logo").wrap('<a href="https://www.transparentnivolby.cz/hrad2023/">');
+
 ```
 
 ```{r setup, include=FALSE}
@@ -55,7 +56,7 @@ time_income <- readRDS(file = file.path(directory_datasets, "time_income.rds"))
 election_date <- as.Date("2023-01-27")
 
 # Graph zoom date end & beginning
-start_date <- as.Date("2022-08-01")
+start_date <- as.Date("2022-07-01")
 end_date <- as.Date("2023-01-27")
 
 # May be used if individual export added

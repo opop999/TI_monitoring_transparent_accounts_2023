@@ -116,8 +116,8 @@ retry_call <- function(expr,
                        isError = function(x) {
                          inherits(x, "try-error")
                        },
-                       maxErrors = 5,
-                       sleep = 30) {
+                       maxErrors = 3,
+                       sleep = 60) {
   attempts <- 0
   retval <- try(eval.parent(substitute(expr)), silent = TRUE)
   while (isError(retval)) {
@@ -167,14 +167,14 @@ append_new_data <- function(transactions_df, dir_name, bank_name, start_date = N
   # Load in the existing full dataset and merge with yesterday's new data
   if (file.exists(file.path(dir_name, bank_name, paste0(bank_name, "_merged_data.rds")))) {
     print(paste("Older", toupper(bank_name), "combined dataset already exists - it will be appended with new transactions."))
-    transactions_df %>%
+    transactions_df_appended <- transactions_df %>%
       bind_rows(readRDS(file.path(dir_name, bank_name, paste0(bank_name, "_merged_data.rds")))) %>% # Append the existing dataset with new rows & delete duplicates
       distinct()
   }
 
-  print(paste("Combined dataset of", toupper(bank_name), "has", nrow(transactions_df), "records."))
+  print(paste("Combined dataset of", toupper(bank_name), "has", nrow(transactions_df_appended), "records."))
 
-  return(transactions_df)
+  return(transactions_df_appended)
 }
 
 
@@ -226,8 +226,9 @@ save_combined_dataset <- function(combined_dataset, dir_name, file_name = "all_b
     is.character(file_name) && length(file_name) >= 1
   )
 
-  saveRDS(object = combined_dataset, file = file.path(dir_name, paste0(file_name, ".rds")))
-
+  saveRDS(combined_dataset, file.path(dir_name, paste0(file_name, ".rds")))
+  fwrite(combined_dataset, file.path(dir_name, paste0(file_name, ".csv")))
+  
   print("Combined dataset of bank transparent account transactions sucessfully saved.")
 }
 
@@ -294,18 +295,15 @@ create_total_summary <-
   }
 
 # Combine merged datasets of all the banks
-save_summarized_datasets <- function(total_spending, time_spending, total_income, time_income, dir_name, sub_dir_name) {
+save_summarized_datasets <- function(datasets = c("total_spending", "time_spending", "total_income", "time_income"), dir_name, sub_dir_name) {
   stopifnot(
-    is.data.frame(total_spending),
-    is.data.frame(time_spending),
-    is.data.frame(total_income),
-    is.data.frame(time_income)
+    sapply(datasets, function(df) {is.data.frame(get(df))}, USE.NAMES = FALSE)
   )
 
-  saveRDS(total_spending, file.path(dir_name, sub_dir_name, "total_spending.rds"))
-  saveRDS(time_spending, file.path(dir_name, sub_dir_name, "time_spending.rds"))
-  saveRDS(total_income, file.path(dir_name, sub_dir_name, "total_income.rds"))
-  saveRDS(time_income, file.path(dir_name, sub_dir_name, "time_income.rds"))
+  invisible(lapply(datasets, function(df) {
+    saveRDS(get(df), file.path(dir_name, sub_dir_name, paste0(df, ".rds")))
+    fwrite(get(df), file.path(dir_name, sub_dir_name, paste0(df, ".csv")))
+     }))
 
   print("Summarized datasets of bank transactions sucessfully saved.")
 }

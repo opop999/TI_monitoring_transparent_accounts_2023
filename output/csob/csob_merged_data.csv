@@ -3,6 +3,12 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bank_c
 2022-11-24,-7000,Outgoing instant payment ,,2800174307,2010,Absolute Film Design IČ 49684825natáčení video rozhovorů,,221102,,CZK,libor_michalek
 2022-11-24,-18000,Outgoing instant payment ,,1480516173,800,"Beneš IČ 2851342, koordinace sběrupodpisů- Morava",,2002022,,CZK,libor_michalek
 2022-11-21,-301017.8,Outgoing payment ,,435101210237,100,"HB Media, IČ 28930185, programat.reklama, online reklama FB, INST",,20220149,,CZK,libor_michalek
+2022-11-22,-2443741,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu a marketingove sluzby,,20221122,,CZK,karel_divis
+2022-11-22,-25352,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- tiskova konference,,20221122,,CZK,karel_divis
+2022-11-22,-92000,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- PR a soc.site,,20221122,,CZK,karel_divis
+2022-11-21,5000000,Incoming payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20221121,,CZK,karel_divis
+2022-11-21,-990000,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu a marketingove sluzby,,20221121,,CZK,karel_divis
+2022-11-17,2000,Incoming instant payment ,"Pakosta, Jaroslav",2200788719,2010,,,,,CZK,karel_divis
 2022-11-11,1000,Incoming instant payment ,Vintrová Renáta,825143153,800,"Renáta Vintrová,7.7.1977,Libušina 163, Kněževes u Rakovníka 27001",0,,,CZK,libor_michalek
 2022-11-09,-13431,Outgoing instant payment ,,2801954620,2010,Endpoint Digital IČ 10664921sociální sítě-říjen,,2201050,,CZK,libor_michalek
 2022-11-04,-25000,Outgoing instant payment ,,2801954620,2010,"Endpoint Dig.IČ10664921, vývoj webdoplatek",,2201046,,CZK,libor_michalek
@@ -133,12 +139,6 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bank_c
 2022-07-01,-5000,Outgoing payment ,,2000040896,2010,Vratka daru bez zákon. náležitostíJan Ptáček,,,,CZK,libor_michalek
 2022-07-01,5000,Incoming instant payment ,"Zahradníčková, Hana",2300242430,2010,"Hana Zahradníčková, nar. 22.9. 1955, Česká Lípa",,,,CZK,libor_michalek
 2022-07-01,5000,Incoming instant payment ,"Ptáček, Jan",2000040896,2010,"Jan Ptáček, 23.12.1979, Kly",,0,,CZK,libor_michalek
-2022-11-22,-2443741,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu a marketingove sluzby,,20221122,,CZK,karel_divis
-2022-11-22,-25352,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- tiskova konference,,20221122,,CZK,karel_divis
-2022-11-22,-92000,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- PR a soc.site,,20221122,,CZK,karel_divis
-2022-11-21,5000000,Incoming payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20221121,,CZK,karel_divis
-2022-11-21,-990000,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu a marketingove sluzby,,20221121,,CZK,karel_divis
-2022-11-17,2000,Incoming instant payment ,"Pakosta, Jaroslav",2200788719,2010,,,,,CZK,karel_divis
 2022-11-15,100000,Incoming instant payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20221115,,CZK,karel_divis
 2022-11-15,-122205.3,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane- sber podpisu,,20221115,,CZK,karel_divis
 2022-10-27,550000,Incoming payment ,Mgr. Karel Diviš,317255001,5500,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",558,20221012,,CZK,karel_divis

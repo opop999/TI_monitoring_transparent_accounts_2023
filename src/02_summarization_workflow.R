@@ -5,6 +5,7 @@ dir_name <- "output"
 start_date <- "2022-07-01"
 end_date <- as.character(Sys.Date())
 sub_dir_name <- "summary_tables"
+datasets <- c("total_spending", "time_spending", "total_income", "time_income")
 
 # 1. Prepare output directories -------------------------------------------
 prepare_output_directories(dir_name, sub_dir_name, individual_subfolders = FALSE)
@@ -20,4 +21,4 @@ total_income <- create_total_summary(combined_dataset, start_date, end_date, typ
 time_income <- create_time_series(combined_dataset, start_date, end_date, type = "income")
 
 # 4. Write summarized datasets locally ------------------------------------
-save_summarized_datasets(total_spending, time_spending, total_income, time_income, dir_name, sub_dir_name)
+save_summarized_datasets(datasets, dir_name, sub_dir_name)

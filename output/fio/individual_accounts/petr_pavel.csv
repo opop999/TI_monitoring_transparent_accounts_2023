@@ -1,4 +1,16 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-11-25,-24200,CZK,Karetní transakce,,"Nákup: FACEBK WMKHEJXQ32, fb.me/ads, IE, dne 24.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK WMKHEJXQ32, fb.me/ads, IE, dne 24.11.2022, částka  24200.00 CZK",petr_pavel
+2022-11-25,5000,CZK,Okamžitá příchozí platba,Ing.Vendrová Renata,drzim palce,0,,,Ing.Vendrová Renata,petr_pavel
+2022-11-25,10000,CZK,Okamžitá příchozí platba,Ing.Váňa Jan,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Ing.Váňa Jan,petr_pavel
+2022-11-25,50,CZK,Okamžitá příchozí platba,ADAM VOTÍPKA,DAR NA KAMPAŇ GENERÁLA PAVLA       PS: Dezo je plešoun,,,,ADAM VOTÍPKA,petr_pavel
+2022-11-25,0.01,CZK,Okamžitá příchozí platba,Adam Hrubý,"Pro agenta Pávka, který udělá první poslední, aby synové našich matek šli na frontu",,,,Adam Hrubý,petr_pavel
+2022-11-25,70000,CZK,Bezhotovostní příjem,SPUR A.S.,"DAR-volební kampaň prezident ČRSPUR a.s., CZ46900098",0,46900098,0,SPUR A.S.,petr_pavel
+2022-11-25,50000,CZK,Platba převodem uvnitř banky,"Ing. Vokurka, Jan",Dar,,,,Dar,petr_pavel
+2022-11-25,1000,CZK,Okamžitá příchozí platba,Hůrka Martin,Držím palce!!!,0,,,Hůrka Martin,petr_pavel
+2022-11-25,300000,CZK,Bezhotovostní příjem,SÝKORA JAN,Jan Sýkora - dar,,,,SÝKORA JAN,petr_pavel
+2022-11-24,-440,CZK,Okamžitá odchozí platba,,,,,,"IČ: 69219672, produkční náklady",petr_pavel
+2022-11-24,-24200,CZK,Karetní transakce,,"Nákup: FACEBK AWRUZH7Q32, fb.me/ads, IE, dne 23.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK AWRUZH7Q32, fb.me/ads, IE, dne 23.11.2022, částka  24200.00 CZK",petr_pavel
+2022-11-24,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2022-11-24,50000,CZK,Bezhotovostní příjem,KAMLER ROMAN,Dar kampaň gen. Pavel od Romana Kamlera,308,24112022,0,KAMLER ROMAN,petr_pavel
 2022-11-24,0.01,CZK,Bezhotovostní příjem,HONSA FRANTISEK,THE ONLY GOOD COMMUNIST IS A DEADCOMUNIST,,0,,HONSA FRANTISEK,petr_pavel
 2022-11-24,1000,CZK,Okamžitá příchozí platba,Ing. Martina Němcová,Dar na kampan generala Pavla,,,,Ing. Martina Němcová,petr_pavel
@@ -260,7 +272,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-10-31,50000,CZK,Bezhotovostní příjem,DOSTÁL JAN,Příspěvek na kampaň,0,0,0,DOSTÁL JAN,petr_pavel
 2022-10-31,250000,CZK,Bezhotovostní příjem,SKOPAL VÍTĚZSLAV,Dar na kampaň generála Pavla,,9,,SKOPAL VÍTĚZSLAV,petr_pavel
 2022-10-31,20028,CZK,Bezhotovostní příjem,Votruba Michael Jan,Dar na kampan generala Pavla,,,,Votruba Michael Jan,petr_pavel
-2022-10-31,1000,CZK,Bezhotovostní příjem,VESECKA NADEZDA,,,29102022,,VESECKA NADEZDA,petr_pavel
 2022-10-31,1000,CZK,Bezhotovostní příjem,VESECKA NADEZDA,,,29102022,,VESECKA NADEZDA,petr_pavel
 2022-10-31,1000000,CZK,Bezhotovostní příjem,MICHAL ŠLEMR,,0,0,0,MICHAL ŠLEMR,petr_pavel
 2022-10-30,-735.68,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
@@ -608,7 +619,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-10-06,-269,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
 2022-10-06,-537,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
 2022-10-06,-1236,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
-2022-10-06,-269,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
 2022-10-06,500,CZK,Okamžitá příchozí platba,Adam Sobotka,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,Adam Sobotka,petr_pavel
 2022-10-06,2000,CZK,Okamžitá příchozí platba,MUDr.Ryba Svatopluk,MUDr. Svatopluk a Marie Rybovi,0,,,MUDr.Ryba Svatopluk,petr_pavel
 2022-10-06,5000,CZK,Bezhotovostní příjem,NĚMEČEK JIŘÍ,DAR NA KAMPAŇ GENERÁLA PAVLA,0,0,0,NĚMEČEK JIŘÍ,petr_pavel
@@ -797,11 +807,8 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-10-01,-262,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
 2022-10-01,-400,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
 2022-10-01,-85,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
-2022-10-01,-85,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
-2022-10-01,-50,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
 2022-10-01,-50,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
 2022-10-01,-170,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
-2022-10-01,-65,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
 2022-10-01,-65,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
 2022-10-01,-783.9,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
 2022-10-01,-765,CZK,Bezhotovostní platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
@@ -1025,7 +1032,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-09-08,-2600,CZK,Okamžitá odchozí platba,,,308,2022000061,8448621,"IČ: 13961268, tisk",petr_pavel
 2022-09-08,-2600,CZK,Okamžitá odchozí platba,,,,,,"IČ: 69219672, produkční náklady",petr_pavel
 2022-09-08,2000,CZK,Okamžitá příchozí platba,Bartošová Martina,,0,,,Bartošová Martina,petr_pavel
-2022-09-08,5000,CZK,Bezhotovostní příjem,ZIZKA KAREL,Dar na kampan generala Pavla,,0,,ZIZKA KAREL,petr_pavel
 2022-09-08,5000,CZK,Bezhotovostní příjem,ZIZKA KAREL,Dar na kampan generala Pavla,,0,,ZIZKA KAREL,petr_pavel
 2022-09-08,999,CZK,Okamžitá příchozí platba,Ondrašík Pavel,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Ondrašík Pavel,petr_pavel
 2022-09-08,2000,CZK,Okamžitá příchozí platba,Jiří Vondruška,Máte můj hlas!! děkuji!,,,,Jiří Vondruška,petr_pavel
