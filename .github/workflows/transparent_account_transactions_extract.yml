@@ -16,22 +16,33 @@ jobs:
       uses: actions/checkout@v3
       with:
         ref: main
-    - name: test
-      run: ls -l -R
-    - name: 2. Extract transaction data
+    - name: 2. Prepare accounts
+      run: Rscript ./src/workflow_preparation.R
+    - name: 3a. Extract CSOB
       env:
           CSOB_COOKIE: ${{ secrets.CSOB_COOKIE }}
+      run: Rscript ./src/workflow_csob.R
+    - name: 3b. Extract CSAS
+      env:
           CS_TOKEN: ${{ secrets.CS_TOKEN }}
-      run: Rscript ./src/01_extraction_workflow.R
-    - name: 3. Create summarized data
-      run: Rscript ./src/02_summarization_workflow.R
-    - name: 4. Install necessary packages for dashboard
+      run: Rscript ./src/workflow_csas.R 
+    - name: 3c. Extract FIO
+      run: Rscript ./src/workflow_fio.R       
+    - name: 3d. Extract KB
+      run: Rscript ./src/workflow_kb.R
+    - name: 3e. Extract RB
+      run: Rscript ./src/workflow_rb.R     
+    - name: 4. Merge and combine extracted data
+      run: Rscript ./src/workflow_combination.R           
+    - name: 5. Create summarized data
+      run: Rscript ./src/workflow_summarization.R
+    - name: 6. Install necessary packages for dashboard
       run: Rscript -e "install.packages(c('flexdashboard', 'plotly', 'htmlwidgets', 'reactable', 'reactablefmtr'), Ncpus = parallel::detectCores())"
-    - name: 5. Update dashboard for GitHub Pages
+    - name: 7. Update dashboard for GitHub Pages
       run: Rscript -e "rmarkdown::render('index.Rmd')"
-    - name: 6. Print information about the session
+    - name: 8. Print information about the session
       run: Rscript -e "sessionInfo()"
-    - name: 7. Commit newly updated files        
+    - name: 9. Commit newly updated files        
       run: |
         git config --global --add safe.directory /__w/TI_monitoring_transparent_accounts_2023/TI_monitoring_transparent_accounts_2023
         git status
