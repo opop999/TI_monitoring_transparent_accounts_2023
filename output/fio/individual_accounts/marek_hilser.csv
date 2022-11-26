@@ -1,4 +1,11 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-11-26,1000,CZK,Okamžitá příchozí platba,Otakar Hypš,"otakar hyps, 31 8 1988, hradec kralove",,,,Otakar Hypš,marek_hilser
+2022-11-26,-1000,CZK,Karetní transakce,,"Nákup: FACEBK KAGP9HXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.11.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK KAGP9HXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.11.2022, částka  1000.00 CZK",marek_hilser
+2022-11-26,1000,CZK,Okamžitá příchozí platba,Petr Ogurčák,,,,,Petr Ogurčák,marek_hilser
+2022-11-26,500,CZK,Platba převodem uvnitř banky,"Ing.arch. Myslivec, Tomáš","Tomáš Myslivec, 1.2.1965, Liberec",,,,"Tomáš Myslivec, 1.2.1965, Liberec",marek_hilser
+2022-11-25,800,CZK,Platba převodem uvnitř banky,"Pavlíček, Martin","Martin Pavlicek, 22.03.1988, Brno",,,,"Martin Pavlicek, 22.03.1988, Brno",marek_hilser
+2022-11-25,2000,CZK,Okamžitá příchozí platba,Eliáš Slunečko,,,,,Eliáš Slunečko,marek_hilser
+2022-11-25,200,CZK,Okamžitá příchozí platba,Jakub Vodák,,,,,Jakub Vodák,marek_hilser
 2022-11-25,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-11-25,500,CZK,Okamžitá příchozí platba,Rabas David,"David Rabas, 30.08.1990, Dobřany 334 41",0,,,Rabas David,marek_hilser
 2022-11-24,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser

@@ -1,4 +1,10 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-11-26,-24200,CZK,Karetní transakce,,"Nákup: FACEBK LFMRBHXP32, fb.me/ads, IE, dne 25.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK LFMRBHXP32, fb.me/ads, IE, dne 25.11.2022, částka  24200.00 CZK",petr_pavel
+2022-11-26,500,CZK,Okamžitá příchozí platba,Řeha Petr,Hodně štěstí,0,,,Řeha Petr,petr_pavel
+2022-11-26,-4598,CZK,Platba převodem uvnitř banky,,,,2022368,,"IČ: 29060460, pronájem techniky",petr_pavel
+2022-11-26,-1955,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2022-11-26,-63948.5,CZK,Okamžitá odchozí platba,,,308,222051180,,"IČ: 26819953, placky",petr_pavel
+2022-11-25,1000,CZK,Platba převodem uvnitř banky,Prague office Development s.r.o.,Adam Hrubý (viz níže) je hlupák,,,,Adam Hrubý (viz níže) je hlupák,petr_pavel
 2022-11-25,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2022-11-25,-24200,CZK,Karetní transakce,,"Nákup: FACEBK WMKHEJXQ32, fb.me/ads, IE, dne 24.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK WMKHEJXQ32, fb.me/ads, IE, dne 24.11.2022, částka  24200.00 CZK",petr_pavel
 2022-11-25,5000,CZK,Okamžitá příchozí platba,Ing.Vendrová Renata,drzim palce,0,,,Ing.Vendrová Renata,petr_pavel
