@@ -8,7 +8,6 @@ on:
 
 jobs:
   extract:
-    if: success() || failure()
     runs-on: ubuntu-latest
     container:
       image: rocker/tidyverse:latest
@@ -24,6 +23,7 @@ jobs:
           CSOB_COOKIE: ${{ secrets.CSOB_COOKIE }}
       run: Rscript ./src/workflow_csob.R
     - name: 3b. Extract CSAS
+      if: success() || failure()
       env:
           CS_TOKEN: ${{ secrets.CS_TOKEN }}
       run: Rscript ./src/workflow_csas.R 
