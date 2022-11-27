@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-11-27,500,CZK,Platba převodem uvnitř banky,"Roleník, Jan",,,,,,petr_pavel
 2022-11-26,-24200,CZK,Karetní transakce,,"Nákup: FACEBK LFMRBHXP32, fb.me/ads, IE, dne 25.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK LFMRBHXP32, fb.me/ads, IE, dne 25.11.2022, částka  24200.00 CZK",petr_pavel
 2022-11-26,500,CZK,Okamžitá příchozí platba,Řeha Petr,Hodně štěstí,0,,,Řeha Petr,petr_pavel
 2022-11-26,-4598,CZK,Platba převodem uvnitř banky,,,,2022368,,"IČ: 29060460, pronájem techniky",petr_pavel

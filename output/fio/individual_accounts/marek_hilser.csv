@@ -1,4 +1,6 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-11-27,1000,CZK,Okamžitá příchozí platba,Ing. Radovan Bobek,"Radovan Bobek,  20.12.1967, Habří, Řehlovice",,,,Ing. Radovan Bobek,marek_hilser
+2022-11-26,250,CZK,Okamžitá příchozí platba,Eva Klánová,,,,,Eva Klánová,marek_hilser
 2022-11-26,1000,CZK,Okamžitá příchozí platba,Otakar Hypš,"otakar hyps, 31 8 1988, hradec kralove",,,,Otakar Hypš,marek_hilser
 2022-11-26,-1000,CZK,Karetní transakce,,"Nákup: FACEBK KAGP9HXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.11.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK KAGP9HXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.11.2022, částka  1000.00 CZK",marek_hilser
 2022-11-26,1000,CZK,Okamžitá příchozí platba,Petr Ogurčák,,,,,Petr Ogurčák,marek_hilser
