@@ -28,22 +28,31 @@ jobs:
           CS_TOKEN: ${{ secrets.CS_TOKEN }}
       run: Rscript ./src/workflow_csas.R 
     - name: 3c. Extract FIO
+      if: success() || failure()    
       run: Rscript ./src/workflow_fio.R       
     - name: 3d. Extract KB
+      if: success() || failure()
       run: Rscript ./src/workflow_kb.R
     - name: 3e. Extract RB
+      if: success() || failure()
       run: Rscript ./src/workflow_rb.R     
     - name: 4. Merge and combine extracted data
+      if: success() || failure()
       run: Rscript ./src/workflow_combination.R           
     - name: 5. Create summarized data
+      if: success() || failure()
       run: Rscript ./src/workflow_summarization.R
     - name: 6. Install necessary packages for dashboard
+      if: success() || failure()
       run: Rscript -e "install.packages(c('flexdashboard', 'plotly', 'htmlwidgets', 'reactable', 'reactablefmtr'), Ncpus = parallel::detectCores())"
     - name: 7. Update dashboard for GitHub Pages
+      if: success() || failure()
       run: Rscript -e "rmarkdown::render('index.Rmd')"
     - name: 8. Print information about the session
+      if: success() || failure()
       run: Rscript -e "sessionInfo()"
-    - name: 9. Commit newly updated files        
+    - name: 9. Commit newly updated files    
+      if: success() || failure()
       run: |
         git config --global --add safe.directory /__w/TI_monitoring_transparent_accounts_2023/TI_monitoring_transparent_accounts_2023
         git status
