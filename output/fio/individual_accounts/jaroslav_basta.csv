@@ -1,4 +1,6 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-11-27,-10000,CZK,Okamžitá odchozí platba,,FRIVA s.r.o.správa webových stránek,8,202223,,FRIVA spol. s.r.o. správa webových stránek www.jaroslavbastaprezident.cz,jaroslav_basta
+2022-11-27,-1872314.6,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty (104 ploch) leden 2023 (PS18136407/JV),,,,"BigMedia, spol. s r.o. pronájem reklamních ploch pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
 2022-11-24,500,CZK,Platba převodem uvnitř banky,"Chvojka, Petr",Petr Chvojka,,,,Petr Chvojka,jaroslav_basta
 2022-11-23,1872314.6,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2022-11-10,-2021182.33,CZK,Bezhotovostní platba,,Ostatní zálohy - poštovní služby 21 - roznáška inf. materiálů - Prezidentské volby 2023 pro prezidentskou kampaň Jaroslava Bašty,308,2022090775,,"Česká pošta, s.p. - roznáška inf. materiálů pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta

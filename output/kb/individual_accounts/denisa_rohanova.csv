@@ -1,4 +1,14 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
+120-20221125 T02AR0HQC0AIJ,2022-11-28,20,Příchozí platba,PAVEL MENCIK,VOLBA PREZIDENTA ČESKÉ REPUBLIKY 2023,CZK,0,0,0,denisa_rohanova
+361-26112022 1086 086145 500512,2022-11-28,0.01,Příchozí platba,Karel Kolář,Máte ráda fyziku? https://fykos.cz https://fyziklani.cz,CZK,42,0,0,denisa_rohanova
+361-26112022 1086 086151 500594,2022-11-28,1000,Příchozí platba,Křížová Bohuslava,"Děkuji Vám za vše, co pro nás všechny děláte, paní Deniso.",CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086150 106169,2022-11-28,0.1,Příchozí platba,Martin Legnavský,Vážená paní/slečno Křížová velice si vážíme vaší podpory. Šéf volebního štábu Martin Legnavský.,CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086143 106193,2022-11-28,0.1,Příchozí platba,Martin Legnavský,"Vážený pane Koláři, cituji D. Rohanovou /Dle zákonu akce a reakce: Děláte velice záslužné akce a reakcí je vzdělaná populace.ú M. Legnavský",CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086146 106285,2022-11-28,0.1,Příchozí platba,Martin Legnavský,"Dobrý den Pavle, velice si vážíme Vaše daru. Váš dar využijeme na boj o hrad ;-). M.Legnavský",CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086149 506809,2022-11-28,12000,Příchozí platba,NADACNI FOND UPART,Dar na kampaň Denisy Rohanové,CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086150 107315,2022-11-28,0.01,Příchozí platba,Martin Legnavský,Nadačnímu fondu upArt a lidem děkujeme.,CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086143 109215,2022-11-28,7400,Příchozí platba,People 4 jobs s.r.o.,Dar na kampaň Denisy Rohanové,CZK,11111,0,0,denisa_rohanova
+225-28112022 10868050024774,2022-11-28,-39,Poplatek,,,CZK,0,898,706969014,denisa_rohanova
 000-31102022-060-060-001974004,2022-10-31,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
 225-26102022 10868050150775,2022-10-26,-39,Poplatek,,,CZK,0,898,706969014,denisa_rohanova
 000-30092022-060-060-002671036,2022-09-30,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
