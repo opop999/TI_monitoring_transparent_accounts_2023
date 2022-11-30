@@ -1,4 +1,19 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-11-30,1000,CZK,Bezhotovostní příjem,ČÁSTKA VIKTOR,Dar na kampan generala Pavla,0,0,0,ČÁSTKA VIKTOR,petr_pavel
+2022-11-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-11-30,-579,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2022-11-30,-510,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2022-11-30,-575,CZK,Okamžitá odchozí platba,,,,,,"IČ: 86586513, produkční náklady",petr_pavel
+2022-11-30,-1686748,CZK,Platba převodem uvnitř banky,,,,20220171,,"IČ: 07323841, mediální náklady",petr_pavel
+2022-11-30,-742468.1,CZK,Platba převodem uvnitř banky,,,,20220165,,"IČ: 07323841, inzerce",petr_pavel
+2022-11-30,-2288,CZK,Bezhotovostní platba,,,,2022008,,"Marhoul Václav, moderování",petr_pavel
+2022-11-30,-14883,CZK,Platba převodem uvnitř banky,,,,20220145,,"IČ: 07323841, bannery",petr_pavel
+2022-11-30,4000,CZK,Bezhotovostní příjem,NAVRATILOVA JITKA,502023,225,0,,NAVRATILOVA JITKA,petr_pavel
+2022-11-30,100,CZK,Okamžitá příchozí platba,Ing.Čihák Matouš,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Ing.Čihák Matouš,petr_pavel
+2022-11-29,300,CZK,Platba převodem uvnitř banky,"Buršík, Radomír",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2022-11-29,200,CZK,Okamžitá příchozí platba,Lenka Urdabaevová,,,,,Lenka Urdabaevová,petr_pavel
+2022-11-29,-24200,CZK,Karetní transakce,,"Nákup: FACEBK QKBJJHFQ32, fb.me/ads, IE, dne 28.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK QKBJJHFQ32, fb.me/ads, IE, dne 28.11.2022, částka  24200.00 CZK",petr_pavel
+2022-11-29,100,CZK,Okamžitá příchozí platba,SOCHA JIŘÍ,Dar na kampan generala Pavla,,,,SOCHA JIŘÍ,petr_pavel
 2022-11-29,300000,CZK,Bezhotovostní příjem,Nadační fond TECHNOL,DAR NA KAMPAŇ GENERÁLA PAVLA,558,27336085,,Nadační fond TECHNOL,petr_pavel
 2022-11-29,20000,CZK,Bezhotovostní příjem,"Equifarm, s.r.o.",DAR NA KAMPAŇ GENERÁLA PAVLA,,28340132,,"Equifarm, s.r.o.",petr_pavel
 2022-11-29,10000,CZK,Platba převodem uvnitř banky,"Hulicius, Eduard",,,,,,petr_pavel

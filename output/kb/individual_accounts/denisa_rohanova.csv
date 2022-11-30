@@ -1,4 +1,15 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
+361-30112022 1086 086149 502377,2022-11-30,1000,Příchozí platba,Valášek Martin,Dar na kampaň Denisy Rohanové,CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086149 101976,2022-11-30,0.01,Příchozí platba,Martin Legnavský,"Pane Martine, jdeme do toho a budeme dělat průvan ;-) Děkujeme Vám.",CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086150 501971,2022-11-30,0.01,Příchozí platba,Martin Legnavský,"Pane Milane, budeme bojovat za každého v ČR a nevzdáme to. Děkujeme Vám.",CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086149 501757,2022-11-30,0.01,Příchozí platba,Martin Legnavský,Pane Vlastimile za Denisu a tým Vám děkujeme.,CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086142 501747,2022-11-30,0.01,Příchozí platba,Martin Legnavský,Chtěl bych Vám Pavle touto cestou za svěřenou důvěru velice poděkovat.,CZK,0,0,0,denisa_rohanova
+120-20221129 264353674,2022-11-30,1000,Příchozí platba,Miroslav Svatoš,Denisa for Prezident 2023,CZK,0,9,0,denisa_rohanova
+001-30112022 1602 602019 876531,2022-11-30,200,Příchozí platba,ŠINDLER ROBERT,Robert Šindler Don Quichotte sváděl podobný boj a nedat vám hlas bych se styděl,CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086146 100208,2022-11-30,2000,Příchozí platba,Salač Dalibor,,CZK,0,0,0,denisa_rohanova
+001-29112022 1602 602029 311681,2022-11-29,500,Příchozí platba,JACKO MARTIN,Upoutala jste moji pozornost. Udelat poradny pruvan v politice se da i v kampani. Tak do toho!,CZK,0,0,0,denisa_rohanova
+001-29112022 1602 602008 892741,2022-11-29,5000,Příchozí platba,ANDRŠ MILAN,Dar na kampaň Milan Andrš,CZK,0,0,0,denisa_rohanova
+361-29112022 1086 086149 504176,2022-11-29,200,Příchozí platba,Kubovec Vlastimil,,CZK,0,0,0,denisa_rohanova
 120-20221125 T02AR0HQC0AIJ,2022-11-28,20,Příchozí platba,PAVEL MENCIK,VOLBA PREZIDENTA ČESKÉ REPUBLIKY 2023,CZK,0,0,0,denisa_rohanova
 361-26112022 1086 086145 500512,2022-11-28,0.01,Příchozí platba,Karel Kolář,Máte ráda fyziku? https://fykos.cz https://fyziklani.cz,CZK,42,0,0,denisa_rohanova
 361-26112022 1086 086151 500594,2022-11-28,1000,Příchozí platba,Křížová Bohuslava,"Děkuji Vám za vše, co pro nás všechny děláte, paní Deniso.",CZK,0,0,0,denisa_rohanova

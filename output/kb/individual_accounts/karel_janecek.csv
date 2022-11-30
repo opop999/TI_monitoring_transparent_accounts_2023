@@ -1,7 +1,7 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
+001-29112022 1602 602036 882811,2022-11-29,-0.02,Odchozí platba,,"VÁŽENÝ PANE, PAN JANECEK NIKOMU NEDLUZI.",CZK,0,0,0,karel_janecek
 001-29112022 1602 602006 911371,2022-11-29,-1032192,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-29112022 1602 602000 882821,2022-11-29,-0.02,Odchozí platba,,ZAVAZEK JE SPOLECNOSTI AD-RIDERS.,CZK,0,0,0,karel_janecek
-001-29112022 1602 602036 882811,2022-11-29,-0.02,Odchozí platba,,"VÁŽENÝ PANE, PAN JANECEK NIKOMU NEDLUZI.",CZK,0,0,0,karel_janecek
 001-28112022 1602 602004 240461,2022-11-28,-2100000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-25112022 1602 602027 694091,2022-11-25,5225472,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-25112022 1602 602031 723361,2022-11-25,-2100000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek

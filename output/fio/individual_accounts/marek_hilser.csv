@@ -1,4 +1,9 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-11-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-11-30,2000,CZK,Okamžitá příchozí platba,Lucie Burišin,"Lucie Burisin, 20.9.1980, Praha",,,,Lucie Burišin,marek_hilser
+2022-11-29,300,CZK,Okamžitá příchozí platba,František Novotný,"František Novotný, 10.7.1996, Praha",,,,František Novotný,marek_hilser
+2022-11-29,-1000,CZK,Karetní transakce,,"Nákup: FACEBK PF97HHBJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.11.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK PF97HHBJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.11.2022, částka  1000.00 CZK",marek_hilser
+2022-11-29,10000,CZK,Okamžitá příchozí platba,"Doc.Ing.Horák Jakub,","Jakub Horák, 24.10.1979, Sruby",0,,,"Doc.Ing.Horák Jakub,",marek_hilser
 2022-11-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-11-28,1000,CZK,Okamžitá příchozí platba,Vlasta Kovalčíková L,"Vlasta Kovalčíková Lindová, 2.1.1965, Plzeň",,,,Vlasta Kovalčíková L,marek_hilser
 2022-11-28,-1000,CZK,Karetní transakce,,"Nákup: FACEBK QZ9TGJPJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.11.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK QZ9TGJPJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.11.2022, částka  1000.00 CZK",marek_hilser
