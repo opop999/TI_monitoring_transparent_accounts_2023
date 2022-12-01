@@ -1,5 +1,8 @@
 {
-  "duration": {"min": 10, "max": 13},
+  "duration": {
+    "min": 10,
+    "max": 13
+  },
   "fpsLimit": 60,
   "interactivity": {
     "events": {
@@ -8,7 +11,7 @@
         "mode": "push"
       },
       "onHover": {
-        "enable": false,
+        "enable": true,
         "mode": "repulse"
       }
     },
@@ -29,30 +32,39 @@
       "direction": "bottom",
       "enable": true,
       "outModes": "out",
-      "speed": {"min": 1, "max": 2}
+      "speed": {
+        "min": 1,
+        "max": 2
+      }
     },
     "number": {
       "density": {
         "area": 800,
         "enable": true
       },
-      "value": 350
+      "value": 500
     },
     "opacity": {
-      "value": {"min": 0.1, "max": 0.7},
+      "value": {
+        "min": 0.2,
+        "max": 0.7
+      },
       "animation": {
-          "destroy": "min",
-          "enable": true,
-          "speed": 5,
-          "startValue": "max",
-          "sync": false
-        }
+        "destroy": "min",
+        "enable": true,
+        "speed": 1,
+        "startValue": "max",
+        "sync": false
+      }
     },
     "shape": {
       "type": "circle"
     },
     "size": {
-      "value": {"min": 8, "max": 13}
+      "value": {
+        "min": 7,
+        "max": 14
+      }
     },
     "wobble": {
       "distance": 10,
@@ -65,5 +77,37 @@
         "min": 0
       }
     }
-  }
+  },
+  "responsive": [
+    {
+      "maxWidth": 992,
+      "options": {
+        "particles": {
+          "number": {
+            "value": 300
+          }
+        }
+      }
+    },
+    {
+      "maxWidth": 768,
+      "options": {
+        "particles": {
+          "number": {
+            "value": 200
+          }
+        }
+      }
+    },
+    {
+      "maxWidth": 576,
+      "options": {
+        "particles": {
+          "number": {
+            "value": 100
+          }
+        }
+      }
+    }
+  ]
 }
