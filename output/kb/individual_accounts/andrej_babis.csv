@@ -1,14 +1,29 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
-361-30112022 1086 086144 102599,2022-11-30,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","30 TISIC MRTVYCH POD VEDENIM AGENTA BURESE - BEST IN COVID, VZPOMINAME!",CZK,0,0,0,andrej_babis
-361-30112022 1086 086145 102564,2022-11-30,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA ŠROT A KOBLIHY PRO VEPŘOHLAVÉ VOLIČE,CZK,0,0,0,andrej_babis
-361-30112022 1086 086143 502298,2022-11-30,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
-361-30112022 1086 086151 101929,2022-11-30,0.69,Příchozí platba,Fafl Miroslav,"na rtenku do lochu, at se aspon libis",CZK,0,0,0,andrej_babis
-361-30112022 1086 086150 501701,2022-11-30,0.01,Příchozí platba,Milan Šmíd,"Schillerová je přírodní blondýna, přísahá Babiš na zdraví svých dětí.",CZK,25085,666,0,andrej_babis
-120-20221130 2148062626,2022-11-30,0.01,Příchozí platba,Josef Sadílek,"STBÁKU BUREŠI, OSTUDO ČR! PREZIDENTEM NEBUDEŠ! NIKDY!",CZK,0,0,0,andrej_babis
-120-20221130 2139697188,2022-11-30,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+361-01122022 1086 086145 502853,2022-12-01,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA DALŠÍ ÚNOSY NA KRYM PRO NEJVĚTŠÍHO KUNDIDÁTA,CZK,0,0,0,andrej_babis
+120-20221130 TIBD020032936,2022-12-01,0.01,Příchozí platba,MIKA ROMAN,Táhni Bureši,CZK,0,0,0,andrej_babis
+361-01122022 1086 086151 501935,2022-12-01,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+120-20221201 2139699347,2022-12-01,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221201 2148084728,2022-12-01,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221201 2167646652,2022-12-01,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš můj hlas nedostane!,CZK,0,0,0,andrej_babis
+361-01122022 1086 086150 501427,2022-12-01,0.01,Příchozí platba,"Illek, Jan","Na Mírov Bureši, na Mírov!!",CZK,0,0,0,andrej_babis
+120-20221201 00733806469,2022-12-01,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+361-01122022 1086 086149 100024,2022-12-01,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",PRO RUSKÉ MAFIÁNY A DALŠÍ ÚNOSY NAKRYM,CZK,0,0,0,andrej_babis
 120-20221130 2139682114,2022-11-30,0.01,Příchozí platba,Jarmila Holušová,pro zloděje a lháře na kurz češtiny,CZK,0,0,0,andrej_babis
+120-20221130 T02AR0HQFE1FL,2022-11-30,0.01,Příchozí platba,ALENA BELONOZNIKOVA,ANDREJOVI NA KURZ ČEŠTINY,CZK,0,0,0,andrej_babis
+001-30112022 1602 602007 999731,2022-11-30,-100,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221130,558,0,andrej_babis
+001-30112022 1602 602004 999701,2022-11-30,-114.4,Odchozí platba,,"odvod do statniho rozpoctu, nevyzadane platby",CZK,20221130,558,0,andrej_babis
 120-20221130 00733388705,2022-11-30,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 361-30112022 1086 086147 500622,2022-11-30,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš vloni označil ruSSký teroristický útok ve Vrběticích za pouhý útok na zboží. Bureš nemůže a nesmí být prezidentem!,CZK,0,0,0,andrej_babis
+361-30112022 1086 086150 501701,2022-11-30,0.01,Příchozí platba,Milan Šmíd,"Schillerová je přírodní blondýna, přísahá Babiš na zdraví svých dětí.",CZK,25085,666,0,andrej_babis
+361-30112022 1086 086151 101929,2022-11-30,0.69,Příchozí platba,Fafl Miroslav,"na rtenku do lochu, at se aspon libis",CZK,0,0,0,andrej_babis
+361-30112022 1086 086143 502298,2022-11-30,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+361-30112022 1086 086145 102564,2022-11-30,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA ŠROT A KOBLIHY PRO VEPŘOHLAVÉ VOLIČE,CZK,0,0,0,andrej_babis
+361-30112022 1086 086144 102599,2022-11-30,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","30 TISIC MRTVYCH POD VEDENIM AGENTA BURESE - BEST IN COVID, VZPOMINAME!",CZK,0,0,0,andrej_babis
+361-30112022 1086 086151 103782,2022-11-30,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","NA NOVE BAZENY VE VILACH NA RIVIERE, PRO VERNE FIZLY A ESTEBAKY",CZK,0,0,0,andrej_babis
+361-30112022 1086 086146 104115,2022-11-30,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA PODPORU ESTÉBÁCKÉHO HNOJENÍ ČESKÉ REPUBLIKY,CZK,0,0,0,andrej_babis
+120-20221130 2148062626,2022-11-30,0.01,Příchozí platba,Josef Sadílek,"STBÁKU BUREŠI, OSTUDO ČR! PREZIDENTEM NEBUDEŠ! NIKDY!",CZK,0,0,0,andrej_babis
+120-20221130 2139697188,2022-11-30,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+001-30112022 1602 602005 999711,2022-11-30,-1000,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221130,558,0,andrej_babis
 120-20221129 2141168660,2022-11-29,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
 361-29112022 1086 086144 100314,2022-11-29,1,Příchozí platba,FUKSA IGOR,na vlak do Plzně,CZK,2023,0,0,andrej_babis
 361-29112022 1086 086148 100332,2022-11-29,1,Příchozí platba,Rebeka Fuksová,Pro Andyho Bambiány na netopyre,CZK,2023,0,0,andrej_babis

@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-01,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-11-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-11-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-11-28,20000,CZK,Okamžitá příchozí platba,Bošek Ondřej,podpora občanského kandidáta,0,9610310149,,Bošek Ondřej,josef_stredula

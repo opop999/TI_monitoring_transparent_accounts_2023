@@ -1,4 +1,24 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-01,50000,CZK,Bezhotovostní příjem,"PARTR, SPOL. S R.O.",,558,60728515,0,"PARTR, SPOL. S R.O.",petr_pavel
+2022-12-01,1000,CZK,Okamžitá příchozí platba,Ing. Milan Honeš,Dar na kampan generala Pavla,,,,Ing. Milan Honeš,petr_pavel
+2022-12-01,1000000,CZK,Bezhotovostní příjem,DEDEK DALIBOR,,,0,,DEDEK DALIBOR,petr_pavel
+2022-12-01,-3993,CZK,Okamžitá odchozí platba,,,308,501224076,,"IČ: 26707039, tisk",petr_pavel
+2022-12-01,-24600,CZK,Okamžitá odchozí platba,,,,20220003,,"IČ: 17474591, doprava",petr_pavel
+2022-12-01,-2796,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-01,-145,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-01,-122,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-01,-311,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-01,-2312,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-01,-767,CZK,Okamžitá odchozí platba,,,,,,"IČ: 88010520, produkční náklady",petr_pavel
+2022-12-01,7777.77,CZK,Bezhotovostní příjem,WALOSZEK JINDŘICH,"dar na kampaň generála Pavla - Heňo, Zelené Město",0,73542484,0,WALOSZEK JINDŘICH,petr_pavel
+2022-12-01,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-01,250000,CZK,Bezhotovostní příjem,SKOPAL VÍTĚZSLAV,Dar na kampaň generála Pavla,,9,,SKOPAL VÍTĚZSLAV,petr_pavel
+2022-12-01,50000,CZK,Okamžitá příchozí platba,Martin Lupa,,,,,Martin Lupa,petr_pavel
+2022-12-01,-8349,CZK,Bezhotovostní platba,,,,320220494,,"IČ: 27733823, web",petr_pavel
+2022-12-01,-44912.78,CZK,Bezhotovostní platba,,,,103001583,,"IČ: 26197740, nájem",petr_pavel
+2022-12-01,1000,CZK,Bezhotovostní příjem,"Hartley Dagmar,RNDr.",Dar na kampan generala Pavla,0,,,"Hartley Dagmar,RNDr.",petr_pavel
+2022-12-01,5000,CZK,Bezhotovostní příjem,ORASKÁ IRENA,Dar na kampaň generála Pavla,0,0,0,ORASKÁ IRENA,petr_pavel
+2022-11-30,500,CZK,Okamžitá příchozí platba,Eva Vaníčková,Dar na kampaň generála Pavla,,,,Eva Vaníčková,petr_pavel
 2022-11-30,1000,CZK,Bezhotovostní příjem,ČÁSTKA VIKTOR,Dar na kampan generala Pavla,0,0,0,ČÁSTKA VIKTOR,petr_pavel
 2022-11-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2022-11-30,-579,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
