@@ -1,47 +1,144 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
-001-25112022 1602 602031 723361,2022-11-25,-2100000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
+000-30112022-060-060-001065753,2022-11-30,-144,Poplatek,,,CZK,0,0,0,karel_janecek
+001-29112022 1602 602036 882811,2022-11-29,-0.02,Odchozí platba,,"VÁŽENÝ PANE, PAN JANECEK NIKOMU NEDLUZI.",CZK,0,0,0,karel_janecek
+001-29112022 1602 602006 911371,2022-11-29,-1032192,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
+001-29112022 1602 602000 882821,2022-11-29,-0.02,Odchozí platba,,ZAVAZEK JE SPOLECNOSTI AD-RIDERS.,CZK,0,0,0,karel_janecek
+001-28112022 1602 602004 240461,2022-11-28,-2100000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-25112022 1602 602027 694091,2022-11-25,5225472,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
+001-25112022 1602 602031 723361,2022-11-25,-2100000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 361-24112022 1086 086144 102463,2022-11-24,0.01,Příchozí platba,Ondřej Mužík,"Dobry den, psal jsem Vam dotaz, nikdo neodepisuje. Ma flotila ma polepy na vozech. Bohuzel Vas team nehodla platit. Polud neuhradite",CZK,0,0,0,karel_janecek
 361-24112022 1086 086147 102470,2022-11-24,0.01,Příchozí platba,Ondřej Mužík,dluh do patku 25.11.2022 budu nucen kontaktovat media. Budete mit peknou reklamu a zadarmo.,CZK,0,0,0,karel_janecek
 361-24112022 1086 086148 502469,2022-11-24,0.01,Příchozí platba,Ondřej Mužík,"Nutno podotknout, ze vozime na vozech Vas face.",CZK,0,0,0,karel_janecek
 361-24112022 1086 086142 502499,2022-11-24,0.01,Příchozí platba,Ondřej Mužík,!!!!!!!!!!!!!!!! zajem medii je opravdu obrovsky!!!!!!!!,CZK,0,0,0,karel_janecek
 001-23112022 1602 602010 879401,2022-11-23,1806336,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-23112022 1602 602012 896811,2022-11-23,-1806336,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
-361-25112022 1086 086148 504192,2022-11-25,0.1,Příchozí platba,Jan Kolář,"Šmejde, patříš do pekla za ten covidový koncentrák, za oblbování lidí a za devastaci ČR",CZK,0,0,0,andrej_babis
-361-25112022 1086 086143 104124,2022-11-25,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","NA SILÁŽ A GRANULE PRO KRMENÍ VOLIČŮ, KTEŘÍ TO ŽEROU",CZK,0,0,0,andrej_babis
-361-25112022 1086 086146 504104,2022-11-25,0.01,Příchozí platba,NESLEHA MAREK,"Bóu. Bóu. Co je Andy? Bóu. Bóu. Co je Andy? Čau já jsem Andy a fórky dělám rád, když se můžeš zasmát, je to prima věc. Začne to zcela nevině",CZK,0,0,0,andrej_babis
-361-25112022 1086 086150 504087,2022-11-25,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
-361-25112022 1086 086149 104071,2022-11-25,0.66,Příchozí platba,Jan Pavel,Před spravedlností Prchal !!,CZK,2091954,0,0,andrej_babis
-361-25112022 1086 086146 504058,2022-11-25,0.66,Příchozí platba,Jan Pavel,"reklamuji tousťaku od Penamu. Má příliš tvrdou kůrku, chtělo by to novou dotaci na novou linku s novou, vylepšenou recepturou.",CZK,2091954,0,0,andrej_babis
-361-25112022 1086 086143 104042,2022-11-25,0.66,Příchozí platba,Jan Pavel,"Já Vám to s radostí hodím! doufám, že si to taky hodíte <3",CZK,2091954,0,0,andrej_babis
-361-25112022 1086 086144 104012,2022-11-25,100,Příchozí platba,Martin Nikodém,na pozitivní kampaň,CZK,0,0,0,andrej_babis
-361-25112022 1086 086147 504003,2022-11-25,0.01,Příchozí platba,"Khol, Vladimír","Prispevek na cestu stopem zpet na Slovensko. Stan se, Andreji, prezidentem tam. My tu mame dost problemu i bez tebe.",CZK,0,0,0,andrej_babis
-361-25112022 1086 086149 103968,2022-11-25,0.01,Příchozí platba,Ing.Študent Vladimír,Na vyškrtnutí z evidence agentů STB,CZK,0,0,0,andrej_babis
-001-25112022 1602 602011 718571,2022-11-25,0.01,Příchozí platba,ARNOT FRANTIŠEK,vykur mi fanfulina,CZK,0,0,0,andrej_babis
-361-25112022 1086 086148 103830,2022-11-25,0.01,Příchozí platba,Ing.Štěpánek Jan,"Lháři, podvodníkovi, generátoru nahodnych slov, udavači a důvodu 20.000 mrtvých v době pandemie na tepláky na Mírov",CZK,0,0,0,andrej_babis
-001-25112022 1602 602023 544051,2022-11-25,0.01,Příchozí platba,ABRHÁM ONDŘEJ,Make Bureš Slovak Again!!!,CZK,0,0,0,andrej_babis
-361-25112022 1086 086149 103255,2022-11-25,0.01,Příchozí platba,Vladimír Lukeš,Panu Babišovi na koblihe,CZK,0,0,0,andrej_babis
-001-25112022 1602 602014 089601,2022-11-25,-15,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
-001-25112022 1602 602013 089591,2022-11-25,-50,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
+361-01122022 1086 086145 502853,2022-12-01,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA DALŠÍ ÚNOSY NA KRYM PRO NEJVĚTŠÍHO KUNDIDÁTA,CZK,0,0,0,andrej_babis
+120-20221130 TIBD020032936,2022-12-01,0.01,Příchozí platba,MIKA ROMAN,Táhni Bureši,CZK,0,0,0,andrej_babis
+361-01122022 1086 086151 501935,2022-12-01,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+120-20221201 2139699347,2022-12-01,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221201 2148084728,2022-12-01,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221201 2167646652,2022-12-01,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš můj hlas nedostane!,CZK,0,0,0,andrej_babis
+361-01122022 1086 086150 501427,2022-12-01,0.01,Příchozí platba,"Illek, Jan","Na Mírov Bureši, na Mírov!!",CZK,0,0,0,andrej_babis
+120-20221201 00733806469,2022-12-01,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+361-01122022 1086 086149 100024,2022-12-01,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",PRO RUSKÉ MAFIÁNY A DALŠÍ ÚNOSY NAKRYM,CZK,0,0,0,andrej_babis
+120-20221130 2139682114,2022-11-30,0.01,Příchozí platba,Jarmila Holušová,pro zloděje a lháře na kurz češtiny,CZK,0,0,0,andrej_babis
+120-20221130 T02AR0HQFE1FL,2022-11-30,0.01,Příchozí platba,ALENA BELONOZNIKOVA,ANDREJOVI NA KURZ ČEŠTINY,CZK,0,0,0,andrej_babis
+001-30112022 1602 602007 999731,2022-11-30,-100,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221130,558,0,andrej_babis
+001-30112022 1602 602004 999701,2022-11-30,-114.4,Odchozí platba,,"odvod do statniho rozpoctu, nevyzadane platby",CZK,20221130,558,0,andrej_babis
+120-20221130 00733388705,2022-11-30,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+361-30112022 1086 086147 500622,2022-11-30,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš vloni označil ruSSký teroristický útok ve Vrběticích za pouhý útok na zboží. Bureš nemůže a nesmí být prezidentem!,CZK,0,0,0,andrej_babis
+361-30112022 1086 086150 501701,2022-11-30,0.01,Příchozí platba,Milan Šmíd,"Schillerová je přírodní blondýna, přísahá Babiš na zdraví svých dětí.",CZK,25085,666,0,andrej_babis
+361-30112022 1086 086151 101929,2022-11-30,0.69,Příchozí platba,Fafl Miroslav,"na rtenku do lochu, at se aspon libis",CZK,0,0,0,andrej_babis
+361-30112022 1086 086143 502298,2022-11-30,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+361-30112022 1086 086145 102564,2022-11-30,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA ŠROT A KOBLIHY PRO VEPŘOHLAVÉ VOLIČE,CZK,0,0,0,andrej_babis
+361-30112022 1086 086144 102599,2022-11-30,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","30 TISIC MRTVYCH POD VEDENIM AGENTA BURESE - BEST IN COVID, VZPOMINAME!",CZK,0,0,0,andrej_babis
+361-30112022 1086 086151 103782,2022-11-30,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","NA NOVE BAZENY VE VILACH NA RIVIERE, PRO VERNE FIZLY A ESTEBAKY",CZK,0,0,0,andrej_babis
+361-30112022 1086 086146 104115,2022-11-30,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA PODPORU ESTÉBÁCKÉHO HNOJENÍ ČESKÉ REPUBLIKY,CZK,0,0,0,andrej_babis
+120-20221130 2148062626,2022-11-30,0.01,Příchozí platba,Josef Sadílek,"STBÁKU BUREŠI, OSTUDO ČR! PREZIDENTEM NEBUDEŠ! NIKDY!",CZK,0,0,0,andrej_babis
+120-20221130 2139697188,2022-11-30,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+001-30112022 1602 602005 999711,2022-11-30,-1000,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221130,558,0,andrej_babis
+120-20221129 2141168660,2022-11-29,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+361-29112022 1086 086144 100314,2022-11-29,1,Příchozí platba,FUKSA IGOR,na vlak do Plzně,CZK,2023,0,0,andrej_babis
+361-29112022 1086 086148 100332,2022-11-29,1,Příchozí platba,Rebeka Fuksová,Pro Andyho Bambiány na netopyre,CZK,2023,0,0,andrej_babis
+361-29112022 1086 086151 100383,2022-11-29,1,Příchozí platba,Matěj Střálka,na lubrikacni gel do vezeni. at ti to hezky cvachta Andy,CZK,0,0,0,andrej_babis
+361-29112022 1086 086148 100411,2022-11-29,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",DO KAPSY UMAŠTĚNÉ OD DOTACÍ,CZK,0,0,0,andrej_babis
+361-29112022 1086 086142 100485,2022-11-29,0.01,Příchozí platba,Bohumír Kodrle,Na Čapi hnizdo,CZK,0,0,0,andrej_babis
+361-29112022 1086 086145 100509,2022-11-29,0.01,Příchozí platba,Aleš Severa,"Volím Danuši, nebo Pavla :-) Nikoli lháře Babiše.",CZK,0,0,0,andrej_babis
+361-29112022 1086 086151 100950,2022-11-29,0.01,Příchozí platba,Aleš Matýsek,SRABE,CZK,0,0,0,andrej_babis
+361-29112022 1086 086142 101153,2022-11-29,0.01,Příchozí platba,Leoš Kašpar,"Na oslavu zrušení práskačské StBákem založené loterie.Práskal jsem v EET co to šlo,slíbená auťáke nevyhrál.Další lež! Kdopak v nich jezdí?",CZK,0,0,0,andrej_babis
+361-29112022 1086 086151 501661,2022-11-29,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA ŽRÁDLO PRO ANOBYTEK - AŤ ZASE SNĚŽÍ A NEJEN V MARKETINGU,CZK,0,0,0,andrej_babis
+361-29112022 1086 086144 101780,2022-11-29,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+361-29112022 1086 086142 102602,2022-11-29,0.01,Příchozí platba,Josef Sadílek,Bez estébáka Bureše bude v Česku líp.,CZK,0,0,0,andrej_babis
+361-29112022 1086 086149 102676,2022-11-29,0.01,Příchozí platba,ZELENÝ MIROSLAV,"Ano, bude líp, bez Stbáka u koryt",CZK,9,0,0,andrej_babis
+361-29112022 1086 086146 102998,2022-11-29,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",SPOLUŽÁKOVI Z LEKCÍ ČEŠTINY A NEJVĚTŠÍMU KUNDIDÁTOVI NA PRASIDENTA POSÍLÁ MLHA,CZK,0,0,0,andrej_babis
+361-29112022 1086 086148 503471,2022-11-29,0.01,Příchozí platba,Martin Bayer,Mam te ty hajzle estebacka uz plny zuby.Nemuzu te ani videt a slyset to tvoje krakorani. Patris do kriminalu vc.konfiskace majetku.,CZK,666,13,0,andrej_babis
+361-29112022 1086 086142 503859,2022-11-29,0.01,Příchozí platba,"Burian, Aleš","Na odškodnění dětí, až je zase zakleknou a zmlátí ty tvý vypatlaný gorily STBáku Bureši !!!",CZK,0,0,0,andrej_babis
+361-29112022 1086 086150 504407,2022-11-29,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","NA ŠROT PRO VEPŘOVÉ HLAVY, KTEŘÍ TĚ BUDOU VOLIT, I KDYBYS STŘÍLEL KOJENCE",CZK,0,0,0,andrej_babis
+120-20221128 T02AR0HQDS3RR,2022-11-29,0.01,Příchozí platba,ALENA BELONOZNIKOVA,"ANDREJI,KUP SI TEPLÁKE. BUDEŠ JE POTŘEBOVAT!!!",CZK,0,0,0,andrej_babis
+120-20221129 00732952985,2022-11-29,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+120-20221129 2147244110,2022-11-29,0.01,Příchozí platba,Milan Vilím,Tahni kryple,CZK,0,0,0,andrej_babis
+120-20221129 T02AR0HQE33PM,2022-11-29,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221129 PR00000014510,2022-11-29,0.11,Příchozí platba,KOUBEK TOMAS,Estébákovi na papuče do kriminálu,CZK,0,0,0,andrej_babis
+120-20221129 T02AR0HQE33PL,2022-11-29,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221129 2148058405,2022-11-29,0.01,Příchozí platba,Josef Sadílek,"STBÁK, PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221128 00732419172,2022-11-28,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+120-20221128 0032944196960,2022-11-28,0.01,Příchozí platba,"Charvát, Jaroslav","Andreji, jdi do haje a zabal to! Nemas sanci. Nechcem te tu!",CZK,0,0,0,andrej_babis
+120-20221128 T02AR0HQD2CE3,2022-11-28,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
+120-20221128 2148081741,2022-11-28,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+001-28112022 1602 602007 196091,2022-11-28,0.24,Příchozí SEPA platba,JAKUB LESZKO,BUDU VOLIT DANUSE NERUDOVOU,CZK,0,6020000000,2644136712,andrej_babis
+001-26112022 1602 602009 911401,2022-11-28,0.01,Příchozí platba,MAZANEC JAN,"Prodám levně 20 ks dřevěných sloupků (ideální na plot), ohoblované, sražené hrany - 125 x 125 x 1800 mm. Pelhřimovsko: 775269206",CZK,0,0,0,andrej_babis
+001-28112022 1602 602029 826941,2022-11-28,1,Příchozí platba,VENCLÍK VLADIMÍR,"Andreji, drzim palce, jsi muj favorit. Za muj hlas mi koupis karbonove rafky na kolo.",CZK,0,0,0,andrej_babis
+120-20221128 2141166830,2022-11-28,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221125 CSI8586531460,2022-11-28,2,Příchozí platba,ZPS PZSUN 1236 (CZK),221124-B8L2Z7515 Na zatepleni obytnakuFrom Daniel Skok Transfer,CZK,2211199865,558,0,andrej_babis
+001-27112022 1602 602022 277681,2022-11-28,100,Příchozí platba,HARNOL JAN,"Vsem vysiracum a trotlum co se boji o koryta a A. Babiše, všem co lížou prdel v 5mrdce Fialy. 100 tis.zálohy,exekuce, chudobu na vas.M.Jakes",CZK,0,0,0,andrej_babis
+120-20221128 2148083403,2022-11-28,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221127 0032941749424,2022-11-28,0.01,Příchozí platba,"Charvát, Jaroslav","Andreji, jdi do haje a zabal to! Nemas sanci. Nechcem te tu!",CZK,0,0,0,andrej_babis
+001-26112022 1602 602035 295611,2022-11-28,0.01,Příchozí platba,PODANÝ ZDENĚK,Burešovi dodatečně ke kulatinám,CZK,25085,0,0,andrej_babis
+361-26112022 1086 086151 500295,2022-11-28,0.01,Příchozí platba,Krutílek Tomáš,"TK Lháři,stbákovi prohnilému,kterýšel politiky,aby ovládal více lidí.Patříš do vězení,už se tam na tebetěší budoucí spoluvězni sráči :P",CZK,0,0,0,andrej_babis
+361-26112022 1086 086149 100588,2022-11-28,0.01,Příchozí platba,Schindler Jan,"Buresi nemas odvahu jit do debaty s ostatnimi kandidaty, protože by te rozcuplovali a nekteri volici by mohli prozrit, ze? Tahni domu!",CZK,0,0,0,andrej_babis
+361-26112022 1086 086149 100909,2022-11-28,0.01,Příchozí platba,Josef Sadílek,Proč Bureš odmítá účast v debatách s ostatními prezidentskými kandidáty je jasné. NEMÁ NA TO A BOJÍ SE!!!,CZK,0,0,0,andrej_babis
+361-27112022 1086 086147 104382,2022-11-28,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",30 TISIC MRTVYCH DIKY VEDENI PODTATRANSKEHO LHARE A ZLODEJE - BEST OFCOVID,CZK,0,0,0,andrej_babis
+361-27112022 1086 086144 104389,2022-11-28,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",VRATKA OD MAFIE ZA UNOS SYNA NA RUSKY KRYM,CZK,0,0,0,andrej_babis
+361-28112022 1086 086146 504820,2022-11-28,5,Příchozí platba,Bodyová Edita,Prosím o pomoc i já invalida 3 st.děkuji srdečně,CZK,0,0,0,andrej_babis
+361-28112022 1086 086147 505096,2022-11-28,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA POMOC PŘI LIKVIDACI ČESKÉ KRAJINY - JEŠTĚ VÍCE PESTICIDŮ A CHEMIE DO ŘEK A POLÍ!,CZK,0,0,0,andrej_babis
+361-28112022 1086 086151 105213,2022-11-28,0.01,Příchozí platba,"Hubáček, Aleš","Motýle a včele, jdi už Bureši do p.dele. https://100lzi.cz/",CZK,0,0,0,andrej_babis
+361-28112022 1086 086150 105686,2022-11-28,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+361-28112022 1086 086150 506921,2022-11-28,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA PODPORU RUSKO-CINSKYCH KAMOSU -PRASKACU A DALSICH VLASTIZRADNYCH AKTIVIT,CZK,0,0,0,andrej_babis
+361-28112022 1086 086143 508714,2022-11-28,0.1,Příchozí platba,Jan Kolář,"Babiš, Nerudová, Fischer, Středula, Pavel: všichni Aspen Institut, stejná pakáž",CZK,0,0,0,andrej_babis
+361-28112022 1086 086143 109751,2022-11-28,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",DOTACE MILIARDÁŘI-ZLODĚJI NA CHLEBA PRO PENAM - AŤ SE DÁ KONEČNĚ ZASEŽRÁT,CZK,0,0,0,andrej_babis
+361-28112022 1086 086149 509755,2022-11-28,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA NOVOU AUTOBIOGRAFII NEJSLAVNĚJŠÍHO SLOVENSKÉHO ESTÉBÁKA,CZK,0,0,0,andrej_babis
+120-20221128 T02AR0HQD2CE0,2022-11-28,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221128 2141160988,2022-11-28,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221125 PR00000437601,2022-11-28,0.01,Příchozí platba,BUDINA JAN,Táhni Bureši,CZK,0,0,0,andrej_babis
+120-20221128 T02AR0HQD2CDR,2022-11-28,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221125 PR00000442048,2022-11-28,0.01,Příchozí platba,HAVEL RADEK,"Pro STBaka na lekce češtiny. Chápu,ze ho Mára radši nenechá blekotat .",CZK,0,0,0,andrej_babis
+120-20221128 PR00000206647,2022-11-28,0.01,Příchozí platba,HAVEL RADEK,"Pro STBaka na lekce češtiny. Chápu,ze ho Mára radši nenechá blekotat .",CZK,0,0,0,andrej_babis
+120-20221126 0032939143545,2022-11-28,0.01,Příchozí platba,"Charvát, Jaroslav","Andreji, jdi do haje a zabal to! Nemas sanci. Nechcem te tu!",CZK,0,0,0,andrej_babis
+120-20221128 2141165093,2022-11-28,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221128 2148080514,2022-11-28,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM ČR? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221128 2162191400,2022-11-28,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš můj hlas v prezidentských volbách nedostane!,CZK,0,0,0,andrej_babis
+001-25112022 1602 602008 089541,2022-11-25,-123,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
 001-25112022 1602 602012 089581,2022-11-25,-100,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
 001-25112022 1602 602009 089551,2022-11-25,-10000,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
 001-25112022 1602 602011 089571,2022-11-25,-500,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
 001-25112022 1602 602010 089561,2022-11-25,-5000,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
-001-25112022 1602 602007 089531,2022-11-25,-3312.13,Odchozí platba,,"odvod do statniho rozpoctu, nevyzadane platby",CZK,20221125,558,0,andrej_babis
-001-25112022 1602 602008 089541,2022-11-25,-123,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
-001-25112022 1602 602005 089511,2022-11-25,-171.72,Odchozí platba,,"odvod do statniho rozpoctu, nevyzadane platby",CZK,20221125,558,0,andrej_babis
-361-25112022 1086 086146 102909,2022-11-25,0.01,Příchozí platba,Tkadlec Petr,na teplake,CZK,0,0,0,andrej_babis
-361-25112022 1086 086149 502859,2022-11-25,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","NA KOBLIHE PRO PRCALE, SITLERE, A DALSI ANOHAJLZLIKE",CZK,0,0,0,andrej_babis
-120-20221125 T02AR0HQBADCM,2022-11-25,0.01,Příchozí platba,ONDREJ MACH,NA VÁNOČNÍ DÁREKY,CZK,0,0,0,andrej_babis
-120-20221125 0032933714206,2022-11-25,0.01,Příchozí platba,"Charvát, Jaroslav","Andreji, jdi do haje a zabal to! Nemas sanci. Nechcem te tu!",CZK,0,0,0,andrej_babis
-120-20221125 T02AR0HQB7LNJ,2022-11-25,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
-120-20221125 T02AR0HQB7LNH,2022-11-25,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
-120-20221125 2139700843,2022-11-25,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
-120-20221125 2148085901,2022-11-25,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
-361-25112022 1086 086145 101030,2022-11-25,0.01,Příchozí platba,Česnek Jan,"Drahý STBáku, lháři a podvodníku. Věřím ve spravedlnost našich soudů, proto posílám příspěvěk na tepláky nebo ešus hodící se na Mírově.",CZK,0,0,0,andrej_babis
 120-20221125 00731841548,2022-11-25,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
-361-25112022 1086 086143 500174,2022-11-25,0.01,Příchozí platba,"Rezek, Milan",komunistický STBák by rád prezidentem : = ) nauč se česky,CZK,0,0,0,andrej_babis
+001-25112022 1602 602014 089601,2022-11-25,-15,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
+120-20221125 0032933714206,2022-11-25,0.01,Příchozí platba,"Charvát, Jaroslav","Andreji, jdi do haje a zabal to! Nemas sanci. Nechcem te tu!",CZK,0,0,0,andrej_babis
+001-25112022 1602 602011 718571,2022-11-25,0.01,Příchozí platba,ARNOT FRANTIŠEK,vykur mi fanfulina,CZK,0,0,0,andrej_babis
 001-25112022 1602 602012 834801,2022-11-25,0.01,Příchozí platba,BECHA PAVEL,"estébácký hajzle Bureši, kup si trochu odvahy jít do politických debat",CZK,0,0,0,andrej_babis
+361-25112022 1086 086143 500174,2022-11-25,0.01,Příchozí platba,"Rezek, Milan",komunistický STBák by rád prezidentem : = ) nauč se česky,CZK,0,0,0,andrej_babis
+361-25112022 1086 086145 101030,2022-11-25,0.01,Příchozí platba,Česnek Jan,"Drahý STBáku, lháři a podvodníku. Věřím ve spravedlnost našich soudů, proto posílám příspěvěk na tepláky nebo ešus hodící se na Mírově.",CZK,0,0,0,andrej_babis
+361-25112022 1086 086149 502859,2022-11-25,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","NA KOBLIHE PRO PRCALE, SITLERE, A DALSI ANOHAJLZLIKE",CZK,0,0,0,andrej_babis
+361-25112022 1086 086146 102909,2022-11-25,0.01,Příchozí platba,Tkadlec Petr,na teplake,CZK,0,0,0,andrej_babis
+361-25112022 1086 086149 103255,2022-11-25,0.01,Příchozí platba,Vladimír Lukeš,Panu Babišovi na koblihe,CZK,0,0,0,andrej_babis
+361-25112022 1086 086148 103830,2022-11-25,0.01,Příchozí platba,Ing.Štěpánek Jan,"Lháři, podvodníkovi, generátoru nahodnych slov, udavači a důvodu 20.000 mrtvých v době pandemie na tepláky na Mírov",CZK,0,0,0,andrej_babis
+361-25112022 1086 086149 103968,2022-11-25,0.01,Příchozí platba,Ing.Študent Vladimír,Na vyškrtnutí z evidence agentů STB,CZK,0,0,0,andrej_babis
+361-25112022 1086 086147 504003,2022-11-25,0.01,Příchozí platba,"Khol, Vladimír","Prispevek na cestu stopem zpet na Slovensko. Stan se, Andreji, prezidentem tam. My tu mame dost problemu i bez tebe.",CZK,0,0,0,andrej_babis
+361-25112022 1086 086144 104012,2022-11-25,100,Příchozí platba,Martin Nikodém,na pozitivní kampaň,CZK,0,0,0,andrej_babis
+361-25112022 1086 086143 104042,2022-11-25,0.66,Příchozí platba,Jan Pavel,"Já Vám to s radostí hodím! doufám, že si to taky hodíte <3",CZK,2091954,0,0,andrej_babis
+361-25112022 1086 086146 504058,2022-11-25,0.66,Příchozí platba,Jan Pavel,"reklamuji tousťaku od Penamu. Má příliš tvrdou kůrku, chtělo by to novou dotaci na novou linku s novou, vylepšenou recepturou.",CZK,2091954,0,0,andrej_babis
+361-25112022 1086 086149 104071,2022-11-25,0.66,Příchozí platba,Jan Pavel,Před spravedlností Prchal !!,CZK,2091954,0,0,andrej_babis
+361-25112022 1086 086150 504087,2022-11-25,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+361-25112022 1086 086146 504104,2022-11-25,0.01,Příchozí platba,NESLEHA MAREK,"Bóu. Bóu. Co je Andy? Bóu. Bóu. Co je Andy? Čau já jsem Andy a fórky dělám rád, když se můžeš zasmát, je to prima věc. Začne to zcela nevině",CZK,0,0,0,andrej_babis
+361-25112022 1086 086143 104124,2022-11-25,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","NA SILÁŽ A GRANULE PRO KRMENÍ VOLIČŮ, KTEŘÍ TO ŽEROU",CZK,0,0,0,andrej_babis
+361-25112022 1086 086148 504192,2022-11-25,0.1,Příchozí platba,Jan Kolář,"Šmejde, patříš do pekla za ten covidový koncentrák, za oblbování lidí a za devastaci ČR",CZK,0,0,0,andrej_babis
+361-25112022 1086 086147 104351,2022-11-25,0.01,Příchozí platba,"Rezek, Milan",trestně stíhanému STBákovy,CZK,0,0,0,andrej_babis
+361-25112022 1086 086150 504347,2022-11-25,0.01,Příchozí platba,HAVEL RADEK,"Pro STBaka na lekce češtiny. Chápu, ze ho Mára radši nenechá blekotat.",CZK,0,0,0,andrej_babis
+361-25112022 1086 086142 504398,2022-11-25,1000,Příchozí platba,LBCC Real Estate and,Děkuji panu Babišovi za podporu dostupného bydlení. Velmi si toho všichni vážíme. Děkujeme!,CZK,0,0,0,andrej_babis
+361-25112022 1086 086146 504529,2022-11-25,0.01,Příchozí platba,"Klapal, Julián","Na cukr na koblihy,aby byli ovečky napapané a mohl jste si spokojeně chrochtat u koryta",CZK,0,0,0,andrej_babis
+361-25112022 1086 086142 504624,2022-11-25,0.01,Příchozí platba,Ing.Klucký Karel,Zlodeji a podvodnikovi na teplaky a motyle,CZK,0,0,0,andrej_babis
+361-25112022 1086 086145 104684,2022-11-25,0.1,Příchozí platba,SMETAK LUKAS,"Pro srabáka, který nemá koule na to chodit do debat. Snad skončí v propadlišti dějin i s Márou..",CZK,0,0,0,andrej_babis
+361-25112022 1086 086150 504841,2022-11-25,0.02,Příchozí platba,ZDENĚK HAHN,Děkuji Herr Babišovi. JE TO VÁLEC.,CZK,0,0,0,andrej_babis
+120-20221125 2139700843,2022-11-25,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+001-25112022 1602 602005 089511,2022-11-25,-171.72,Odchozí platba,,"odvod do statniho rozpoctu, nevyzadane platby",CZK,20221125,558,0,andrej_babis
+120-20221125 2148085901,2022-11-25,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+001-25112022 1602 602023 544051,2022-11-25,0.01,Příchozí platba,ABRHÁM ONDŘEJ,Make Bureš Slovak Again!!!,CZK,0,0,0,andrej_babis
+001-25112022 1602 602013 089591,2022-11-25,-50,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
+001-25112022 1602 602007 089531,2022-11-25,-3312.13,Odchozí platba,,"odvod do statniho rozpoctu, nevyzadane platby",CZK,20221125,558,0,andrej_babis
+120-20221125 T02AR0HQB7LNH,2022-11-25,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221125 T02AR0HQB7LNJ,2022-11-25,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
+120-20221125 T02AR0HQBADCM,2022-11-25,0.01,Příchozí platba,ONDREJ MACH,NA VÁNOČNÍ DÁREKY,CZK,0,0,0,andrej_babis
 120-20221124 2139699346,2022-11-24,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
 120-20221124 0032927968117,2022-11-24,0.01,Příchozí platba,"Charvát, Jaroslav","Andreji, jdi do haje a zabal to! Nemas sanci. Nechcem te tu!",CZK,0,0,0,andrej_babis
 361-24112022 1086 086151 500794,2022-11-24,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","VÝCHODNÍMU LHÁŘI, ZLODĚJI,DEFRAUDANTOVI A PRÁSKAČI NA KOBLIHEPRO VYGUMOVANÉ KOKOTE",CZK,0,0,0,andrej_babis
@@ -56,6 +153,28 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 361-23112022 1086 086143 505250,2022-11-23,0.01,Příchozí platba,CECH MARTIN,"Hňupe,už podruhé kvůli tobě půjdu k volbám.A doufám,že tě za Čapí hnízdo zavřou.Zloději čobolský",CZK,0,0,0,andrej_babis
 120-20221123 2139697187,2022-11-23,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
 120-20221123 2139682113,2022-11-23,0.01,Příchozí platba,Jarmila Holušová,pro zloděje a lháře na kurz češtiny,CZK,0,0,0,andrej_babis
+001-30112022 1602 602019 876531,2022-11-30,200,Příchozí platba,ŠINDLER ROBERT,Robert Šindler Don Quichotte sváděl podobný boj a nedat vám hlas bych se styděl,CZK,0,0,0,denisa_rohanova
+000-30112022-060-060-001971545,2022-11-30,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086146 100208,2022-11-30,2000,Příchozí platba,Salač Dalibor,,CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086142 501747,2022-11-30,0.01,Příchozí platba,Martin Legnavský,Chtěl bych Vám Pavle touto cestou za svěřenou důvěru velice poděkovat.,CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086149 501757,2022-11-30,0.01,Příchozí platba,Martin Legnavský,Pane Vlastimile za Denisu a tým Vám děkujeme.,CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086150 501971,2022-11-30,0.01,Příchozí platba,Martin Legnavský,"Pane Milane, budeme bojovat za každého v ČR a nevzdáme to. Děkujeme Vám.",CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086149 101976,2022-11-30,0.01,Příchozí platba,Martin Legnavský,"Pane Martine, jdeme do toho a budeme dělat průvan ;-) Děkujeme Vám.",CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086149 502377,2022-11-30,1000,Příchozí platba,Valášek Martin,Dar na kampaň Denisy Rohanové,CZK,0,0,0,denisa_rohanova
+120-20221129 264353674,2022-11-30,1000,Příchozí platba,Miroslav Svatoš,Denisa for Prezident 2023,CZK,0,9,0,denisa_rohanova
+001-29112022 1602 602029 311681,2022-11-29,500,Příchozí platba,JACKO MARTIN,Upoutala jste moji pozornost. Udelat poradny pruvan v politice se da i v kampani. Tak do toho!,CZK,0,0,0,denisa_rohanova
+001-29112022 1602 602008 892741,2022-11-29,5000,Příchozí platba,ANDRŠ MILAN,Dar na kampaň Milan Andrš,CZK,0,0,0,denisa_rohanova
+361-29112022 1086 086149 504176,2022-11-29,200,Příchozí platba,Kubovec Vlastimil,,CZK,0,0,0,denisa_rohanova
+120-20221125 T02AR0HQC0AIJ,2022-11-28,20,Příchozí platba,PAVEL MENCIK,VOLBA PREZIDENTA ČESKÉ REPUBLIKY 2023,CZK,0,0,0,denisa_rohanova
+361-26112022 1086 086145 500512,2022-11-28,0.01,Příchozí platba,Karel Kolář,Máte ráda fyziku? https://fykos.cz https://fyziklani.cz,CZK,42,0,0,denisa_rohanova
+361-26112022 1086 086151 500594,2022-11-28,1000,Příchozí platba,Křížová Bohuslava,"Děkuji Vám za vše, co pro nás všechny děláte, paní Deniso.",CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086150 106169,2022-11-28,0.1,Příchozí platba,Martin Legnavský,Vážená paní/slečno Křížová velice si vážíme vaší podpory. Šéf volebního štábu Martin Legnavský.,CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086143 106193,2022-11-28,0.1,Příchozí platba,Martin Legnavský,"Vážený pane Koláři, cituji D. Rohanovou /Dle zákonu akce a reakce: Děláte velice záslužné akce a reakcí je vzdělaná populace.ú M. Legnavský",CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086146 106285,2022-11-28,0.1,Příchozí platba,Martin Legnavský,"Dobrý den Pavle, velice si vážíme Vaše daru. Váš dar využijeme na boj o hrad ;-). M.Legnavský",CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086149 506809,2022-11-28,12000,Příchozí platba,NADACNI FOND UPART,Dar na kampaň Denisy Rohanové,CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086150 107315,2022-11-28,0.01,Příchozí platba,Martin Legnavský,Nadačnímu fondu upArt a lidem děkujeme.,CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086143 109215,2022-11-28,7400,Příchozí platba,People 4 jobs s.r.o.,Dar na kampaň Denisy Rohanové,CZK,11111,0,0,denisa_rohanova
+225-28112022 10868050024774,2022-11-28,-39,Poplatek,,,CZK,0,898,706969014,denisa_rohanova
 120-20221122 T02AR0HQ8GKJ0,2022-11-22,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
 120-20221122 2141168659,2022-11-22,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
 120-20221121 PR00001161489,2022-11-22,0.01,Příchozí platba,SLAVIK JAROSLAV,"Jeden Husák Čechům stačil, Bureši!!!",CZK,0,0,0,andrej_babis

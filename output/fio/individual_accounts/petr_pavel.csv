@@ -1,4 +1,96 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-01,50000,CZK,Bezhotovostní příjem,"PARTR, SPOL. S R.O.",,558,60728515,0,"PARTR, SPOL. S R.O.",petr_pavel
+2022-12-01,1000,CZK,Okamžitá příchozí platba,Ing. Milan Honeš,Dar na kampan generala Pavla,,,,Ing. Milan Honeš,petr_pavel
+2022-12-01,1000000,CZK,Bezhotovostní příjem,DEDEK DALIBOR,,,0,,DEDEK DALIBOR,petr_pavel
+2022-12-01,-3993,CZK,Okamžitá odchozí platba,,,308,501224076,,"IČ: 26707039, tisk",petr_pavel
+2022-12-01,-24600,CZK,Okamžitá odchozí platba,,,,20220003,,"IČ: 17474591, doprava",petr_pavel
+2022-12-01,-2796,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-01,-145,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-01,-122,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-01,-311,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-01,-2312,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-01,-767,CZK,Okamžitá odchozí platba,,,,,,"IČ: 88010520, produkční náklady",petr_pavel
+2022-12-01,7777.77,CZK,Bezhotovostní příjem,WALOSZEK JINDŘICH,"dar na kampaň generála Pavla - Heňo, Zelené Město",0,73542484,0,WALOSZEK JINDŘICH,petr_pavel
+2022-12-01,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-01,250000,CZK,Bezhotovostní příjem,SKOPAL VÍTĚZSLAV,Dar na kampaň generála Pavla,,9,,SKOPAL VÍTĚZSLAV,petr_pavel
+2022-12-01,50000,CZK,Okamžitá příchozí platba,Martin Lupa,,,,,Martin Lupa,petr_pavel
+2022-12-01,-8349,CZK,Bezhotovostní platba,,,,320220494,,"IČ: 27733823, web",petr_pavel
+2022-12-01,-44912.78,CZK,Bezhotovostní platba,,,,103001583,,"IČ: 26197740, nájem",petr_pavel
+2022-12-01,1000,CZK,Bezhotovostní příjem,"Hartley Dagmar,RNDr.",Dar na kampan generala Pavla,0,,,"Hartley Dagmar,RNDr.",petr_pavel
+2022-12-01,5000,CZK,Bezhotovostní příjem,ORASKÁ IRENA,Dar na kampaň generála Pavla,0,0,0,ORASKÁ IRENA,petr_pavel
+2022-11-30,500,CZK,Okamžitá příchozí platba,Eva Vaníčková,Dar na kampaň generála Pavla,,,,Eva Vaníčková,petr_pavel
+2022-11-30,1000,CZK,Bezhotovostní příjem,ČÁSTKA VIKTOR,Dar na kampan generala Pavla,0,0,0,ČÁSTKA VIKTOR,petr_pavel
+2022-11-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-11-30,-579,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2022-11-30,-510,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2022-11-30,-575,CZK,Okamžitá odchozí platba,,,,,,"IČ: 86586513, produkční náklady",petr_pavel
+2022-11-30,-1686748,CZK,Platba převodem uvnitř banky,,,,20220171,,"IČ: 07323841, mediální náklady",petr_pavel
+2022-11-30,-742468.1,CZK,Platba převodem uvnitř banky,,,,20220165,,"IČ: 07323841, inzerce",petr_pavel
+2022-11-30,-2288,CZK,Bezhotovostní platba,,,,2022008,,"Marhoul Václav, moderování",petr_pavel
+2022-11-30,-14883,CZK,Platba převodem uvnitř banky,,,,20220145,,"IČ: 07323841, bannery",petr_pavel
+2022-11-30,4000,CZK,Bezhotovostní příjem,NAVRATILOVA JITKA,502023,225,0,,NAVRATILOVA JITKA,petr_pavel
+2022-11-30,100,CZK,Okamžitá příchozí platba,Ing.Čihák Matouš,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Ing.Čihák Matouš,petr_pavel
+2022-11-29,300,CZK,Platba převodem uvnitř banky,"Buršík, Radomír",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2022-11-29,200,CZK,Okamžitá příchozí platba,Lenka Urdabaevová,,,,,Lenka Urdabaevová,petr_pavel
+2022-11-29,-24200,CZK,Karetní transakce,,"Nákup: FACEBK QKBJJHFQ32, fb.me/ads, IE, dne 28.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK QKBJJHFQ32, fb.me/ads, IE, dne 28.11.2022, částka  24200.00 CZK",petr_pavel
+2022-11-29,100,CZK,Okamžitá příchozí platba,SOCHA JIŘÍ,Dar na kampan generala Pavla,,,,SOCHA JIŘÍ,petr_pavel
+2022-11-29,300000,CZK,Bezhotovostní příjem,Nadační fond TECHNOL,DAR NA KAMPAŇ GENERÁLA PAVLA,558,27336085,,Nadační fond TECHNOL,petr_pavel
+2022-11-29,20000,CZK,Bezhotovostní příjem,"Equifarm, s.r.o.",DAR NA KAMPAŇ GENERÁLA PAVLA,,28340132,,"Equifarm, s.r.o.",petr_pavel
+2022-11-29,10000,CZK,Platba převodem uvnitř banky,"Hulicius, Eduard",,,,,,petr_pavel
+2022-11-29,0.01,CZK,Platba převodem uvnitř banky,"Kohout, Lukáš","Ať žije KSČ. Heslo, kterým žije tento člověk",,,,"Ať žije KSČ. Heslo, kterým žije tento člověk",petr_pavel
+2022-11-29,0.1,CZK,Platba převodem uvnitř banky,"Kohout, Lukáš","Ať žije KSČ. Heslo, kterým žije tento člověk",,,,"Ať žije KSČ. Heslo, kterým žije tento člověk",petr_pavel
+2022-11-29,20000,CZK,Okamžitá příchozí platba,Jiří Slezák,Dar na kampan generala Pavla,,,,Jiří Slezák,petr_pavel
+2022-11-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-11-29,-1200,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-29,800,CZK,Bezhotovostní příjem,ROŠTOK RADEK,,,,,ROŠTOK RADEK,petr_pavel
+2022-11-28,-14050,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-488,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-5180,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-874,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-417.9,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-600,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-527,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-1700.6,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-305,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-790,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-490,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-214,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-281,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-308,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-291,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-246,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-357,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-470,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-285,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-198.99,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-11-28,-811,CZK,Okamžitá odchozí platba,,,,,,"IČ: 87556669, produkční náklady",petr_pavel
+2022-11-28,-65,CZK,Okamžitá odchozí platba,,,,,,"IČ: 61274925, produkční náklady",petr_pavel
+2022-11-28,-1160,CZK,Okamžitá odchozí platba,,,,,,"IČ: 61274925, produkční náklady",petr_pavel
+2022-11-28,2000,CZK,Okamžitá příchozí platba,Krekáň Stanislav,,0,,,Krekáň Stanislav,petr_pavel
+2022-11-28,25000,CZK,Okamžitá příchozí platba,RNDr.Illnerová Helen,illnerova drzte se,0,,,RNDr.Illnerová Helen,petr_pavel
+2022-11-28,5000,CZK,Platba převodem uvnitř banky,"Valenta, Miroslav",DAR NA KAMPAŇ GENERÁLA PAVLA,,,,DAR NA KAMPAŇ GENERÁLA PAVLA,petr_pavel
+2022-11-28,-1047,CZK,Okamžitá odchozí platba,,,,,,"IČ: 88010520, produkční náklady",petr_pavel
+2022-11-28,-43,CZK,Okamžitá odchozí platba,,,,,,"IČ: 88010520, produkční náklady",petr_pavel
+2022-11-28,-460,CZK,Okamžitá odchozí platba,,,,,,"IČ: 88010520, produkční náklady",petr_pavel
+2022-11-28,-258,CZK,Okamžitá odchozí platba,,,,,,"IČ: 88010520, produkční náklady",petr_pavel
+2022-11-28,-63,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
+2022-11-28,1000,CZK,Bezhotovostní příjem,ZDENEK LEMPERA,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,ZDENEK LEMPERA,petr_pavel
+2022-11-28,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-11-28,2000,CZK,Bezhotovostní příjem,TŮMA JAN,dar na volební kampaň - Tůma,0,0,0,TŮMA JAN,petr_pavel
+2022-11-28,1,CZK,Bezhotovostní příjem,KLIMECKÝ DANIEL,Prispevek pro lhare a agenta k jeho stotisicove vysluze.,,,,KLIMECKÝ DANIEL,petr_pavel
+2022-11-28,20000,CZK,Bezhotovostní příjem,"RP consultants, s.r.",Dar na kampan generala Pavla,,,,"RP consultants, s.r.",petr_pavel
+2022-11-28,-7999.65,CZK,Bezhotovostní platba,,,,20220143,,"IČ: 26457644, licence",petr_pavel
+2022-11-28,260.01,CZK,Okamžitá příchozí platba,David Forman,"Tak hlavně, ať tam není Babiš a Nerudová. A ty na sobě pracuj, abys vskutku měl tu důvěru oprávněně..",,108,,David Forman,petr_pavel
+2022-11-28,200,CZK,Bezhotovostní příjem,MILAN VASEK,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,MILAN VASEK,petr_pavel
+2022-11-27,100000,CZK,Okamžitá příchozí platba,Ing. Tomaš Janeček,Ivana a Tomas Janeckovi,,,,Ing. Tomaš Janeček,petr_pavel
+2022-11-27,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 5LZ74HTQ32, fb.me/ads, IE, dne 26.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 5LZ74HTQ32, fb.me/ads, IE, dne 26.11.2022, částka  24200.00 CZK",petr_pavel
+2022-11-27,500,CZK,Platba převodem uvnitř banky,"Roleník, Jan",,,,,,petr_pavel
+2022-11-26,-24200,CZK,Karetní transakce,,"Nákup: FACEBK LFMRBHXP32, fb.me/ads, IE, dne 25.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK LFMRBHXP32, fb.me/ads, IE, dne 25.11.2022, částka  24200.00 CZK",petr_pavel
+2022-11-26,500,CZK,Okamžitá příchozí platba,Řeha Petr,Hodně štěstí,0,,,Řeha Petr,petr_pavel
+2022-11-26,-4598,CZK,Platba převodem uvnitř banky,,,,2022368,,"IČ: 29060460, pronájem techniky",petr_pavel
+2022-11-26,-1955,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2022-11-26,-63948.5,CZK,Okamžitá odchozí platba,,,308,222051180,,"IČ: 26819953, placky",petr_pavel
+2022-11-25,1000,CZK,Platba převodem uvnitř banky,Prague office Development s.r.o.,Adam Hrubý (viz níže) je hlupák,,,,Adam Hrubý (viz níže) je hlupák,petr_pavel
 2022-11-25,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2022-11-25,-24200,CZK,Karetní transakce,,"Nákup: FACEBK WMKHEJXQ32, fb.me/ads, IE, dne 24.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK WMKHEJXQ32, fb.me/ads, IE, dne 24.11.2022, částka  24200.00 CZK",petr_pavel
 2022-11-25,5000,CZK,Okamžitá příchozí platba,Ing.Vendrová Renata,drzim palce,0,,,Ing.Vendrová Renata,petr_pavel

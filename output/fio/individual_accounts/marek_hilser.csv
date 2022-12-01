@@ -1,4 +1,30 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-01,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-12-01,-1500,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 30.11.2022, částka  1500.00 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 30.11.2022, částka  1500.00 CZK",marek_hilser
+2022-12-01,-105.51,CZK,Karetní transakce,,"Nákup: FACEBK 5JE5TJTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.11.2022, částka  105.51 CZK",,5298,,"Nákup: FACEBK 5JE5TJTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.11.2022, částka  105.51 CZK",marek_hilser
+2022-11-30,-1000,CZK,Karetní transakce,,"Nákup: FACEBK ZVF3PHKJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.11.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK ZVF3PHKJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.11.2022, částka  1000.00 CZK",marek_hilser
+2022-11-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-11-30,2000,CZK,Okamžitá příchozí platba,Lucie Burišin,"Lucie Burisin, 20.9.1980, Praha",,,,Lucie Burišin,marek_hilser
+2022-11-29,300,CZK,Okamžitá příchozí platba,František Novotný,"František Novotný, 10.7.1996, Praha",,,,František Novotný,marek_hilser
+2022-11-29,-1000,CZK,Karetní transakce,,"Nákup: FACEBK PF97HHBJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.11.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK PF97HHBJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.11.2022, částka  1000.00 CZK",marek_hilser
+2022-11-29,10000,CZK,Okamžitá příchozí platba,"Doc.Ing.Horák Jakub,","Jakub Horák, 24.10.1979, Sruby",0,,,"Doc.Ing.Horák Jakub,",marek_hilser
+2022-11-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-11-28,1000,CZK,Okamžitá příchozí platba,Vlasta Kovalčíková L,"Vlasta Kovalčíková Lindová, 2.1.1965, Plzeň",,,,Vlasta Kovalčíková L,marek_hilser
+2022-11-28,-1000,CZK,Karetní transakce,,"Nákup: FACEBK QZ9TGJPJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.11.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK QZ9TGJPJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.11.2022, částka  1000.00 CZK",marek_hilser
+2022-11-28,1000,CZK,Bezhotovostní příjem,MICHALA LAUSMANOVA,PŘEVOD PROSTŘEDKŮ,,,,MICHALA LAUSMANOVA,marek_hilser
+2022-11-28,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-11-28,333,CZK,Bezhotovostní příjem,STUDENÝ PETR,"hodně štěstí v kampani, arg. tangona hrad",0,0,0,STUDENÝ PETR,marek_hilser
+2022-11-28,500,CZK,Bezhotovostní příjem,ZAMOROVA JANA,Jana Zamorova 22.3.1968 Praha,,0,,ZAMOROVA JANA,marek_hilser
+2022-11-27,-1000,CZK,Karetní transakce,,"Nákup: FACEBK 6KEYYGXH62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.11.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK 6KEYYGXH62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.11.2022, částka  1000.00 CZK",marek_hilser
+2022-11-27,1000,CZK,Okamžitá příchozí platba,Ing. Radovan Bobek,"Radovan Bobek,  20.12.1967, Habří, Řehlovice",,,,Ing. Radovan Bobek,marek_hilser
+2022-11-26,250,CZK,Okamžitá příchozí platba,Eva Klánová,,,,,Eva Klánová,marek_hilser
+2022-11-26,1000,CZK,Okamžitá příchozí platba,Otakar Hypš,"otakar hyps, 31 8 1988, hradec kralove",,,,Otakar Hypš,marek_hilser
+2022-11-26,-1000,CZK,Karetní transakce,,"Nákup: FACEBK KAGP9HXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.11.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK KAGP9HXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.11.2022, částka  1000.00 CZK",marek_hilser
+2022-11-26,1000,CZK,Okamžitá příchozí platba,Petr Ogurčák,,,,,Petr Ogurčák,marek_hilser
+2022-11-26,500,CZK,Platba převodem uvnitř banky,"Ing.arch. Myslivec, Tomáš","Tomáš Myslivec, 1.2.1965, Liberec",,,,"Tomáš Myslivec, 1.2.1965, Liberec",marek_hilser
+2022-11-25,800,CZK,Platba převodem uvnitř banky,"Pavlíček, Martin","Martin Pavlicek, 22.03.1988, Brno",,,,"Martin Pavlicek, 22.03.1988, Brno",marek_hilser
+2022-11-25,2000,CZK,Okamžitá příchozí platba,Eliáš Slunečko,,,,,Eliáš Slunečko,marek_hilser
+2022-11-25,200,CZK,Okamžitá příchozí platba,Jakub Vodák,,,,,Jakub Vodák,marek_hilser
 2022-11-25,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-11-25,500,CZK,Okamžitá příchozí platba,Rabas David,"David Rabas, 30.08.1990, Dobřany 334 41",0,,,Rabas David,marek_hilser
 2022-11-24,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser

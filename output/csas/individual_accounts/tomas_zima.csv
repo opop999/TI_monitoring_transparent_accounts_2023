@@ -1,4 +1,9 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2022-12-01,-0.12,CZK,Daň z úroku,0,,0,-,,tomas_zima
+2022-12-01,0.82,CZK,Kreditní úrok,0,,0,,,tomas_zima
+2022-11-28,-50000,CZK,Tuzemská odchozí úhrada,0,,0,000000-6146768319/0800,ZFP_zaloha,tomas_zima
+2022-11-28,-50000,CZK,Tuzemská odchozí úhrada,,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
+2022-11-22,100000,CZK,Příchozí úhrada,,,,Zimmermann Petr,"Tomas Zima, Petr Zimmermann,1964, Plzeň, dar",tomas_zima
 2022-11-22,100000,CZK,Příchozí úhrada,0,333,,Zimmermann Petr,"Tomas Zima, Petr Zimmermann,1964, Plzeň, dar",tomas_zima
 2022-11-18,-50000,CZK,Tuzemská odchozí úhrada,0,333,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
 2022-11-15,100000,CZK,Příchozí úhrada,0,333,,TEFR MARTIN,,tomas_zima
