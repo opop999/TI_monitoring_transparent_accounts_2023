@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-02,777,CZK,Okamžitá příchozí platba,MARTIN MIKUŠEK,Pro štěstí...,,,,MARTIN MIKUŠEK,petr_pavel
+2022-12-02,150000,CZK,Bezhotovostní příjem,GALVAMET SPOL. S R,Ing.Petr Pavel,308,25779893,,GALVAMET SPOL. S R,petr_pavel
+2022-12-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-02,2500,CZK,Bezhotovostní příjem,JIRI HOLAN,DRŽÍME PALCE :),,,,JIRI HOLAN,petr_pavel
+2022-12-01,100000,CZK,Okamžitá příchozí platba,SEBOR PAVEL,Dar na kampan generala Pavla,0,,,SEBOR PAVEL,petr_pavel
+2022-12-01,250,CZK,Okamžitá příchozí platba,Daniel Flek,Studentský příspěvek na kampaň budoucího pana prezidenta,,,,Daniel Flek,petr_pavel
+2022-12-01,50000,CZK,Bezhotovostní příjem,KOKES ANTONIN,Dar na kampan generala Pavla,,0,,KOKES ANTONIN,petr_pavel
+2022-12-01,200000,CZK,Okamžitá příchozí platba,Nšan Avetisjan,Dar na kampaň,,,,Nšan Avetisjan,petr_pavel
+2022-12-01,2500,CZK,Okamžitá příchozí platba,ing. Tomáš Mrózek,Dar na kampan generala Pavla,,,,ing. Tomáš Mrózek,petr_pavel
 2022-12-01,50000,CZK,Bezhotovostní příjem,"PARTR, SPOL. S R.O.",,558,60728515,0,"PARTR, SPOL. S R.O.",petr_pavel
 2022-12-01,1000,CZK,Okamžitá příchozí platba,Ing. Milan Honeš,Dar na kampan generala Pavla,,,,Ing. Milan Honeš,petr_pavel
 2022-12-01,1000000,CZK,Bezhotovostní příjem,DEDEK DALIBOR,,,0,,DEDEK DALIBOR,petr_pavel

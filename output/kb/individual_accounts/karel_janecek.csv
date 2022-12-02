@@ -1,4 +1,5 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
+001-01122022 1602 602021 168151,2022-12-01,-42000,Odchozí platba,,,CZK,220100008,308,0,karel_janecek
 000-30112022-060-060-001065753,2022-11-30,-144,Poplatek,,,CZK,0,0,0,karel_janecek
 001-29112022 1602 602036 882811,2022-11-29,-0.02,Odchozí platba,,"VÁŽENÝ PANE, PAN JANECEK NIKOMU NEDLUZI.",CZK,0,0,0,karel_janecek
 001-29112022 1602 602006 911371,2022-11-29,-1032192,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek

@@ -1,4 +1,6 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
+2022-12-01,-20000,CZK,Karetní transakce,,"Nákup: FACEBK EQ4X7H3F52, fb.me/ads, IE, dne 30.11.2022, částka  20000.00 CZK",,2172,,"Nákup: FACEBK EQ4X7H3F52, fb.me/ads, IE, dne 30.11.2022, částka  20000.00 CZK",josef_stredula
 2022-12-01,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-11-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-11-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula

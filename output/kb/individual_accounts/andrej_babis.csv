@@ -1,13 +1,26 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
-361-01122022 1086 086145 502853,2022-12-01,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA DALŠÍ ÚNOSY NA KRYM PRO NEJVĚTŠÍHO KUNDIDÁTA,CZK,0,0,0,andrej_babis
-120-20221130 TIBD020032936,2022-12-01,0.01,Příchozí platba,MIKA ROMAN,Táhni Bureši,CZK,0,0,0,andrej_babis
-361-01122022 1086 086151 501935,2022-12-01,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
-120-20221201 2139699347,2022-12-01,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+361-02122022 1086 086147 101456,2022-12-02,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+120-20221202 T02AR0HQHPEAL,2022-12-02,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
+120-20221202 T02AR0HQHPEAK,2022-12-02,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221202 2167647123,2022-12-02,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš ať s mým hlasem v prezidentské volbě nepočítá!,CZK,0,0,0,andrej_babis
+120-20221202 2139700844,2022-12-02,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221202 2148085903,2022-12-02,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+361-02122022 1086 086149 101145,2022-12-02,0.01,Příchozí platba,"Burian, Aleš","Nikdy nebudeš prezidentem, nikdy - to si pametaj.. ty střehotající STBácká kreatůro Bureši !!!",CZK,0,0,0,andrej_babis
+361-02122022 1086 086148 100882,2022-12-02,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA ŠROT A POMYJE PRO TVOJE NEMYSLÍCÍ VOLI-ČE,CZK,0,0,0,andrej_babis
+120-20221202 00734382566,2022-12-02,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+361-02122022 1086 086149 500509,2022-12-02,0.01,Příchozí platba,Pavel Hanzlík,Víc si nezasloužíš kuní ksichte,CZK,0,0,0,andrej_babis
 120-20221201 2148084728,2022-12-01,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
 120-20221201 2167646652,2022-12-01,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš můj hlas nedostane!,CZK,0,0,0,andrej_babis
-361-01122022 1086 086150 501427,2022-12-01,0.01,Příchozí platba,"Illek, Jan","Na Mírov Bureši, na Mírov!!",CZK,0,0,0,andrej_babis
-120-20221201 00733806469,2022-12-01,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+120-20221201 2139699347,2022-12-01,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
 361-01122022 1086 086149 100024,2022-12-01,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",PRO RUSKÉ MAFIÁNY A DALŠÍ ÚNOSY NAKRYM,CZK,0,0,0,andrej_babis
+361-01122022 1086 086150 501427,2022-12-01,0.01,Příchozí platba,"Illek, Jan","Na Mírov Bureši, na Mírov!!",CZK,0,0,0,andrej_babis
+361-01122022 1086 086151 501935,2022-12-01,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+361-01122022 1086 086145 502853,2022-12-01,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA DALŠÍ ÚNOSY NA KRYM PRO NEJVĚTŠÍHO KUNDIDÁTA,CZK,0,0,0,andrej_babis
+361-01122022 1086 086142 103101,2022-12-01,0.01,Příchozí platba,"Burian, Aleš","Nastůpiš na Mírov STBáku Bureši.. A nikdy s něj nevystůpiš, nikdy - to si pametaj ty střehotající kreatůro !!!",CZK,0,0,0,andrej_babis
+361-01122022 1086 086150 505022,2022-12-01,0.01,Příchozí platba,"Šedivý, František",Na tepláke Bureši,CZK,0,0,0,andrej_babis
+297-01122022 1086033021141,2022-12-01,-72,Poplatek,,,CZK,0,898,0,andrej_babis
+120-20221201 00733806469,2022-12-01,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+120-20221130 TIBD020032936,2022-12-01,0.01,Příchozí platba,MIKA ROMAN,Táhni Bureši,CZK,0,0,0,andrej_babis
 120-20221130 2139682114,2022-11-30,0.01,Příchozí platba,Jarmila Holušová,pro zloděje a lháře na kurz češtiny,CZK,0,0,0,andrej_babis
 120-20221130 T02AR0HQFE1FL,2022-11-30,0.01,Příchozí platba,ALENA BELONOZNIKOVA,ANDREJOVI NA KURZ ČEŠTINY,CZK,0,0,0,andrej_babis
 001-30112022 1602 602007 999731,2022-11-30,-100,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221130,558,0,andrej_babis

@@ -1,4 +1,8 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-12-02,100,CZK,Bezhotovostní příjem,ALENA POKORNA,"ALENA POKORNÁ, CHVALKOVICE",,,,ALENA POKORNA,marek_hilser
+2022-12-02,-1698.83,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.12.2022, částka  1698.83 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.12.2022, částka  1698.83 CZK",marek_hilser
+2022-12-01,-1000,CZK,Karetní transakce,,"Nákup: FACEBK RWDMDHXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK RWDMDHXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.12.2022, částka  1000.00 CZK",marek_hilser
 2022-12-01,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-12-01,-1500,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 30.11.2022, částka  1500.00 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 30.11.2022, částka  1500.00 CZK",marek_hilser
 2022-12-01,-105.51,CZK,Karetní transakce,,"Nákup: FACEBK 5JE5TJTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.11.2022, částka  105.51 CZK",,5298,,"Nákup: FACEBK 5JE5TJTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.11.2022, částka  105.51 CZK",marek_hilser
