@@ -1,14 +1,16 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
-361-02122022 1086 086147 101456,2022-12-02,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
-120-20221202 T02AR0HQHPEAL,2022-12-02,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
-120-20221202 T02AR0HQHPEAK,2022-12-02,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
 120-20221202 2167647123,2022-12-02,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš ať s mým hlasem v prezidentské volbě nepočítá!,CZK,0,0,0,andrej_babis
-120-20221202 2139700844,2022-12-02,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
 120-20221202 2148085903,2022-12-02,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
-361-02122022 1086 086149 101145,2022-12-02,0.01,Příchozí platba,"Burian, Aleš","Nikdy nebudeš prezidentem, nikdy - to si pametaj.. ty střehotající STBácká kreatůro Bureši !!!",CZK,0,0,0,andrej_babis
-361-02122022 1086 086148 100882,2022-12-02,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA ŠROT A POMYJE PRO TVOJE NEMYSLÍCÍ VOLI-ČE,CZK,0,0,0,andrej_babis
-120-20221202 00734382566,2022-12-02,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+001-02122022 1602 602033 498271,2022-12-02,100,Příchozí platba,ANO - PREZIDENT 2023,bankovni poplatky,CZK,9,558,0,andrej_babis
 361-02122022 1086 086149 500509,2022-12-02,0.01,Příchozí platba,Pavel Hanzlík,Víc si nezasloužíš kuní ksichte,CZK,0,0,0,andrej_babis
+361-02122022 1086 086148 100882,2022-12-02,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA ŠROT A POMYJE PRO TVOJE NEMYSLÍCÍ VOLI-ČE,CZK,0,0,0,andrej_babis
+361-02122022 1086 086149 101145,2022-12-02,0.01,Příchozí platba,"Burian, Aleš","Nikdy nebudeš prezidentem, nikdy - to si pametaj.. ty střehotající STBácká kreatůro Bureši !!!",CZK,0,0,0,andrej_babis
+361-02122022 1086 086147 101456,2022-12-02,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+361-02122022 1086 086148 504236,2022-12-02,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",NA ŽRÁDLO PRO TVOJE DUCHEM CHUDÉ VOLIČE - HLAVY VEPŘOVÉ,CZK,0,0,0,andrej_babis
+120-20221202 2139700844,2022-12-02,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221202 T02AR0HQHPEAK,2022-12-02,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221202 00734382566,2022-12-02,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+120-20221202 T02AR0HQHPEAL,2022-12-02,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
 120-20221201 2148084728,2022-12-01,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
 120-20221201 2167646652,2022-12-01,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš můj hlas nedostane!,CZK,0,0,0,andrej_babis
 120-20221201 2139699347,2022-12-01,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis

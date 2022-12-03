@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-03,-510,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
+2022-12-03,-49,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
+2022-12-03,-191,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
+2022-12-03,1111,CZK,Okamžitá příchozí platba,Petr Křesťan,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,Petr Křesťan,petr_pavel
+2022-12-02,-1151,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-02,-2900.37,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2022-12-02,-40518,CZK,Okamžitá odchozí platba,,,,20220011,,"IČ: 07185731, správa soc. sítí",petr_pavel
+2022-12-02,1100,CZK,Okamžitá příchozí platba,Jana Zdvihalová,Dar na kampaň generála Pavla,,,,Jana Zdvihalová,petr_pavel
+2022-12-02,1000,CZK,Bezhotovostní příjem,STRÁNSKÁ JANA,Generál PP bude skvělý prezident.,0,0,0,STRÁNSKÁ JANA,petr_pavel
 2022-12-02,777,CZK,Okamžitá příchozí platba,MARTIN MIKUŠEK,Pro štěstí...,,,,MARTIN MIKUŠEK,petr_pavel
 2022-12-02,150000,CZK,Bezhotovostní příjem,GALVAMET SPOL. S R,Ing.Petr Pavel,308,25779893,,GALVAMET SPOL. S R,petr_pavel
 2022-12-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
@@ -110,16 +119,8 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-11-25,50000,CZK,Platba převodem uvnitř banky,"Ing. Vokurka, Jan",Dar,,,,Dar,petr_pavel
 2022-11-25,1000,CZK,Okamžitá příchozí platba,Hůrka Martin,Držím palce!!!,0,,,Hůrka Martin,petr_pavel
 2022-11-25,300000,CZK,Bezhotovostní příjem,SÝKORA JAN,Jan Sýkora - dar,,,,SÝKORA JAN,petr_pavel
-2022-11-24,-440,CZK,Okamžitá odchozí platba,,,,,,"IČ: 69219672, produkční náklady",petr_pavel
-2022-11-24,-24200,CZK,Karetní transakce,,"Nákup: FACEBK AWRUZH7Q32, fb.me/ads, IE, dne 23.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK AWRUZH7Q32, fb.me/ads, IE, dne 23.11.2022, částka  24200.00 CZK",petr_pavel
-2022-11-24,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
-2022-11-24,50000,CZK,Bezhotovostní příjem,KAMLER ROMAN,Dar kampaň gen. Pavel od Romana Kamlera,308,24112022,0,KAMLER ROMAN,petr_pavel
-2022-11-24,0.01,CZK,Bezhotovostní příjem,HONSA FRANTISEK,THE ONLY GOOD COMMUNIST IS A DEADCOMUNIST,,0,,HONSA FRANTISEK,petr_pavel
-2022-11-24,1000,CZK,Okamžitá příchozí platba,Ing. Martina Němcová,Dar na kampan generala Pavla,,,,Ing. Martina Němcová,petr_pavel
-2022-11-24,20000,CZK,Bezhotovostní příjem,HORAK FILIP,DAR NA KAMPAŇ GENERÁLA PAVLA,,777,,HORAK FILIP,petr_pavel
-2022-11-24,1000,CZK,Bezhotovostní příjem,UHRADA DO JPU,příspěvek na kampaň generála PavlaZ 312627574/0300,968,0,,UHRADA DO JPU,petr_pavel
-2022-11-24,1500,CZK,Bezhotovostní příjem,MULLEROVA VLADIMIRA,Dar na kampaň generála Pavla. Věříme vám a držíme palce!,,0,,MULLEROVA VLADIMIRA,petr_pavel
-2022-11-24,1100,CZK,Bezhotovostní příjem,MIKOLASEK DAVID,dm2,,0,,MIKOLASEK DAVID,petr_pavel
+2022-12-03,30,CZK,Platba převodem uvnitř banky,"Ing. arch. Sládek, Petr",,,,,,marek_hilser
+2022-12-02,-1000,CZK,Karetní transakce,,"Nákup: FACEBK 445MUH3J62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 2.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK 445MUH3J62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 2.12.2022, částka  1000.00 CZK",marek_hilser
 2022-12-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-12-02,100,CZK,Bezhotovostní příjem,ALENA POKORNA,"ALENA POKORNÁ, CHVALKOVICE",,,,ALENA POKORNA,marek_hilser
 2022-12-02,-1698.83,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.12.2022, částka  1698.83 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.12.2022, částka  1698.83 CZK",marek_hilser
@@ -152,9 +153,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-11-25,200,CZK,Okamžitá příchozí platba,Jakub Vodák,,,,,Jakub Vodák,marek_hilser
 2022-11-25,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-11-25,500,CZK,Okamžitá příchozí platba,Rabas David,"David Rabas, 30.08.1990, Dobřany 334 41",0,,,Rabas David,marek_hilser
-2022-11-24,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
-2022-11-24,-1000,CZK,Platba převodem uvnitř banky,,,,2908386340,43,On-line reklama,marek_hilser
-2022-11-24,-10154.32,CZK,Platba převodem uvnitř banky,,,,566670362,,0AAA-D4WK-SXUM www.reklamnitechnologie.cz,marek_hilser
 2022-12-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-01,-20000,CZK,Karetní transakce,,"Nákup: FACEBK EQ4X7H3F52, fb.me/ads, IE, dne 30.11.2022, částka  20000.00 CZK",,2172,,"Nákup: FACEBK EQ4X7H3F52, fb.me/ads, IE, dne 30.11.2022, částka  20000.00 CZK",josef_stredula
 2022-12-01,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
@@ -166,14 +164,30 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-11-28,100000,CZK,Bezhotovostní příjem,MÜHLBÖCK MIROSLAV,Miroslav Mühlböck,0,0,0,MÜHLBÖCK MIROSLAV,josef_stredula
 2022-11-25,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-11-25,200000,CZK,Bezhotovostní příjem,BENÝŠEK RICHARD,Richard Benysek- dar,0,6709300257,0,BENÝŠEK RICHARD,josef_stredula
+2022-12-02,400,CZK,Okamžitá příchozí platba,Leška Hvězdoslav,Hvezdoslav Leska,0,,,Leška Hvězdoslav,jaroslav_basta
+2022-12-02,-127264,CZK,Bezhotovostní platba,,inzerce Metro (28.11.) a 5plus2 (2.12.) prezidentská kampaň Jaroslava Bašty,308,2122029662,,"MAFRA, a.s. inzerce Metro a 5plus2 prezidentská kampaň Jaroslava Bašty",jaroslav_basta
+2022-12-02,-150000,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty - videoklip (scénář, režie, technika)",308,20220069,,"DVORAK FILM - MIROSLAV DVOŘÁK prezidentská kampaň Jaroslava Bašty - videoklip (scénář, režie, technika)",jaroslav_basta
+2022-11-30,150000,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-11-27,-10000,CZK,Okamžitá odchozí platba,,FRIVA s.r.o.správa webových stránek,8,202223,,FRIVA spol. s.r.o. správa webových stránek www.jaroslavbastaprezident.cz,jaroslav_basta
+2022-11-27,-1872314.6,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty (104 ploch) leden 2023 (PS18136407/JV),,,,"BigMedia, spol. s r.o. pronájem reklamních ploch pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2022-11-24,-440,CZK,Okamžitá odchozí platba,,,,,,"IČ: 69219672, produkční náklady",petr_pavel
+2022-11-24,-24200,CZK,Karetní transakce,,"Nákup: FACEBK AWRUZH7Q32, fb.me/ads, IE, dne 23.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK AWRUZH7Q32, fb.me/ads, IE, dne 23.11.2022, částka  24200.00 CZK",petr_pavel
+2022-11-24,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-11-24,50000,CZK,Bezhotovostní příjem,KAMLER ROMAN,Dar kampaň gen. Pavel od Romana Kamlera,308,24112022,0,KAMLER ROMAN,petr_pavel
+2022-11-24,0.01,CZK,Bezhotovostní příjem,HONSA FRANTISEK,THE ONLY GOOD COMMUNIST IS A DEADCOMUNIST,,0,,HONSA FRANTISEK,petr_pavel
+2022-11-24,1000,CZK,Okamžitá příchozí platba,Ing. Martina Němcová,Dar na kampan generala Pavla,,,,Ing. Martina Němcová,petr_pavel
+2022-11-24,20000,CZK,Bezhotovostní příjem,HORAK FILIP,DAR NA KAMPAŇ GENERÁLA PAVLA,,777,,HORAK FILIP,petr_pavel
+2022-11-24,1000,CZK,Bezhotovostní příjem,UHRADA DO JPU,příspěvek na kampaň generála PavlaZ 312627574/0300,968,0,,UHRADA DO JPU,petr_pavel
+2022-11-24,1500,CZK,Bezhotovostní příjem,MULLEROVA VLADIMIRA,Dar na kampaň generála Pavla. Věříme vám a držíme palce!,,0,,MULLEROVA VLADIMIRA,petr_pavel
+2022-11-24,1100,CZK,Bezhotovostní příjem,MIKOLASEK DAVID,dm2,,0,,MIKOLASEK DAVID,petr_pavel
+2022-11-24,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-11-24,-1000,CZK,Platba převodem uvnitř banky,,,,2908386340,43,On-line reklama,marek_hilser
+2022-11-24,-10154.32,CZK,Platba převodem uvnitř banky,,,,566670362,,0AAA-D4WK-SXUM www.reklamnitechnologie.cz,marek_hilser
 2022-11-24,-1,CZK,Poplatek,,SMS upozornění na +420******707,,,,,josef_stredula
 2022-11-24,-1,CZK,Poplatek,,SMS upozornění na +420******111,,,,,josef_stredula
 2022-11-24,50000,CZK,Okamžitá příchozí platba,STŘEDULA JOSEF,Josef Středula,,,,STŘEDULA JOSEF,josef_stredula
 2022-11-24,-263000,CZK,Bezhotovostní platba,,Josef Středula,,220100072,,Red Elephant - vedení volební kampaně,josef_stredula
 2022-11-24,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
-2022-11-30,150000,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2022-11-27,-10000,CZK,Okamžitá odchozí platba,,FRIVA s.r.o.správa webových stránek,8,202223,,FRIVA spol. s.r.o. správa webových stránek www.jaroslavbastaprezident.cz,jaroslav_basta
-2022-11-27,-1872314.6,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty (104 ploch) leden 2023 (PS18136407/JV),,,,"BigMedia, spol. s r.o. pronájem reklamních ploch pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
 2022-11-24,500,CZK,Platba převodem uvnitř banky,"Chvojka, Petr",Petr Chvojka,,,,Petr Chvojka,jaroslav_basta
 2022-11-23,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2022-11-23,-24200,CZK,Karetní transakce,,"Nákup: FACEBK QZWVQH3R32, fb.me/ads, IE, dne 22.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK QZWVQH3R32, fb.me/ads, IE, dne 22.11.2022, částka  24200.00 CZK",petr_pavel

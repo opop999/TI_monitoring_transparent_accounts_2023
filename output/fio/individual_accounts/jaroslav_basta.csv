@@ -1,4 +1,7 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-02,400,CZK,Okamžitá příchozí platba,Leška Hvězdoslav,Hvezdoslav Leska,0,,,Leška Hvězdoslav,jaroslav_basta
+2022-12-02,-127264,CZK,Bezhotovostní platba,,inzerce Metro (28.11.) a 5plus2 (2.12.) prezidentská kampaň Jaroslava Bašty,308,2122029662,,"MAFRA, a.s. inzerce Metro a 5plus2 prezidentská kampaň Jaroslava Bašty",jaroslav_basta
+2022-12-02,-150000,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty - videoklip (scénář, režie, technika)",308,20220069,,"DVORAK FILM - MIROSLAV DVOŘÁK prezidentská kampaň Jaroslava Bašty - videoklip (scénář, režie, technika)",jaroslav_basta
 2022-11-30,150000,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2022-11-27,-10000,CZK,Okamžitá odchozí platba,,FRIVA s.r.o.správa webových stránek,8,202223,,FRIVA spol. s.r.o. správa webových stránek www.jaroslavbastaprezident.cz,jaroslav_basta
 2022-11-27,-1872314.6,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty (104 ploch) leden 2023 (PS18136407/JV),,,,"BigMedia, spol. s r.o. pronájem reklamních ploch pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta

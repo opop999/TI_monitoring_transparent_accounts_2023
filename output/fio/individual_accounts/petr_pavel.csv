@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-03,-510,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
+2022-12-03,-49,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
+2022-12-03,-191,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
+2022-12-03,1111,CZK,Okamžitá příchozí platba,Petr Křesťan,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,Petr Křesťan,petr_pavel
+2022-12-02,-1151,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-02,-2900.37,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2022-12-02,-40518,CZK,Okamžitá odchozí platba,,,,20220011,,"IČ: 07185731, správa soc. sítí",petr_pavel
+2022-12-02,1100,CZK,Okamžitá příchozí platba,Jana Zdvihalová,Dar na kampaň generála Pavla,,,,Jana Zdvihalová,petr_pavel
+2022-12-02,1000,CZK,Bezhotovostní příjem,STRÁNSKÁ JANA,Generál PP bude skvělý prezident.,0,0,0,STRÁNSKÁ JANA,petr_pavel
 2022-12-02,777,CZK,Okamžitá příchozí platba,MARTIN MIKUŠEK,Pro štěstí...,,,,MARTIN MIKUŠEK,petr_pavel
 2022-12-02,150000,CZK,Bezhotovostní příjem,GALVAMET SPOL. S R,Ing.Petr Pavel,308,25779893,,GALVAMET SPOL. S R,petr_pavel
 2022-12-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
