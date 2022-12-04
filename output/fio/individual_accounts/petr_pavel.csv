@@ -1,4 +1,8 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-04,30000,CZK,Okamžitá příchozí platba,Vladimír Bezděk,dar na prezidentskou kampan GPP,,,,Vladimír Bezděk,petr_pavel
+2022-12-04,1500,CZK,Okamžitá příchozí platba,Němec Tomáš,,0,,,Němec Tomáš,petr_pavel
+2022-12-03,3000,CZK,Okamžitá příchozí platba,Hojsík Petr,DAR NA KAMPAŇ - DRŽÍM PALCE!,0,630318,,Hojsík Petr,petr_pavel
+2022-12-03,-24200,CZK,Karetní transakce,,"Nákup: FACEBK P6BU8HTQ32, fb.me/ads, IE, dne 2.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK P6BU8HTQ32, fb.me/ads, IE, dne 2.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-03,-510,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
 2022-12-03,-49,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
 2022-12-03,-191,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
