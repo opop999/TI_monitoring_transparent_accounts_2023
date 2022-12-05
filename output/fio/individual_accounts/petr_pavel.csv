@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-05,50000,CZK,Okamžitá příchozí platba,Brešová Lucie,Dar na kampan generala Pavla - S pozdravem Lucie a Honza,0,,,Brešová Lucie,petr_pavel
+2022-12-05,50000,CZK,Bezhotovostní příjem,Advokátní kancelář P,,,,,Advokátní kancelář P,petr_pavel
+2022-12-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-05,5000,CZK,Bezhotovostní příjem,PODLENA VÁCLAV,Václav Podlena,0,0,0,PODLENA VÁCLAV,petr_pavel
+2022-12-05,200,CZK,Bezhotovostní příjem,PROCHAZKOVA EVA,Cela rodina drzime palce a at se urputnici a dezolati treba uvztekaji,,0,,PROCHAZKOVA EVA,petr_pavel
+2022-12-05,2000,CZK,Bezhotovostní příjem,FRANK RADEK,Dar na kampan generala Pavla,,0,,FRANK RADEK,petr_pavel
+2022-12-05,150000,CZK,Bezhotovostní příjem,Ing.Krogman Petr,Dar na kampaň gen. Pavla,0,,,Ing.Krogman Petr,petr_pavel
+2022-12-04,-978.69,CZK,Karetní transakce,,"Nákup: CANVA* I03623-10332737, HTTPSCANVA.CO, US, dne 3.12.2022, částka  40.91 USD",,7999,,"Nákup: CANVA* I03623-10332737, HTTPSCANVA.CO, US, dne 3.12.2022, částka  40.91 USD",petr_pavel
+2022-12-04,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 9U5UXJBQ32, fb.me/ads, IE, dne 3.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 9U5UXJBQ32, fb.me/ads, IE, dne 3.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-04,30000,CZK,Okamžitá příchozí platba,Vladimír Bezděk,dar na prezidentskou kampan GPP,,,,Vladimír Bezděk,petr_pavel
 2022-12-04,1500,CZK,Okamžitá příchozí platba,Němec Tomáš,,0,,,Němec Tomáš,petr_pavel
 2022-12-03,3000,CZK,Okamžitá příchozí platba,Hojsík Petr,DAR NA KAMPAŇ - DRŽÍM PALCE!,0,630318,,Hojsík Petr,petr_pavel

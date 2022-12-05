@@ -1,4 +1,5 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
+001-04122022 1602 602014 774921,2022-12-05,0.1,Příchozí platba,LEMFELD KAREL,Www.Jumbolino-model.com,CZK,0,0,0,denisa_rohanova
 361-02122022 1086 086148 500505,2022-12-02,0.1,Příchozí platba,Adamec Jan,MCU skončilo spolu s Iron-Manem,CZK,616,616,616,denisa_rohanova
 361-01122022 1086 086143 103886,2022-12-01,0.1,Příchozí platba,Ondřej Černý,na exekuce! :D snad to vyberete! Mir a lásku všem,CZK,0,0,0,denisa_rohanova
 001-30112022 1602 602019 876531,2022-11-30,200,Příchozí platba,ŠINDLER ROBERT,Robert Šindler Don Quichotte sváděl podobný boj a nedat vám hlas bych se styděl,CZK,0,0,0,denisa_rohanova

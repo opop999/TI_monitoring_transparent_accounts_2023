@@ -6,8 +6,25 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 001-29112022 1602 602006 911371,2022-11-29,-1032192,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-29112022 1602 602000 882821,2022-11-29,-0.02,Odchozí platba,,ZAVAZEK JE SPOLECNOSTI AD-RIDERS.,CZK,0,0,0,karel_janecek
 001-28112022 1602 602004 240461,2022-11-28,-2100000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
-001-25112022 1602 602027 694091,2022-11-25,5225472,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
-001-25112022 1602 602031 723361,2022-11-25,-2100000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
+361-05122022 1086 086151 508538,2022-12-05,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš ať s mým hlasem v prezidentské volbě nepočítá!,CZK,0,0,0,andrej_babis
+361-05122022 1086 086150 107673,2022-12-05,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+120-20221205 T02AR0HQK5D5H,2022-12-05,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
+120-20221205 T02AR0HQK5D5E,2022-12-05,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221205 T02AR0HQK5D5D,2022-12-05,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221203 T02AR0HQJ8JQ1,2022-12-05,0.01,Příchozí platba,ALENA BELONOZNIKOVA,ANDREJI HANBA NECHCEME TĚ.,CZK,0,0,0,andrej_babis
+120-20221205 2148081742,2022-12-05,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221205 2148080515,2022-12-05,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM ČR? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221205 2141160989,2022-12-05,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221205 2148083404,2022-12-05,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221205 2141165094,2022-12-05,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221205 2141166832,2022-12-05,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+361-05122022 1086 086143 506479,2022-12-05,0.01,Příchozí platba,"Noga, Daniel",Babišovi na lubrikant do basy.,CZK,0,0,0,andrej_babis
+120-20221205 00735073406,2022-12-05,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+361-04122022 1086 086150 104702,2022-12-05,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","ADEKVÁTNÍMU NÁSTUPCI VEPŘE MLHY NADALŠÍ ZAKLEKÁVÁNÍ OBČANŮ A ROZKRÁDÁNÍ STÁTU, AŤ JE PRDEL (MÍSTO HLAVY)",CZK,0,0,0,andrej_babis
+361-04122022 1086 086145 503057,2022-12-05,0.01,Příchozí platba,SYKORA ARDY,CO TI JEBE JSEM SLAVNEJ PÍČOOOO HOBLUJ,CZK,0,0,0,andrej_babis
+001-03122022 1602 602019 628961,2022-12-05,0.01,Příchozí platba,HORÁK LUBOŠ,"estébácký hajzle Bureši, táhni na slovač a na teplake na hrad Mírov a na motyle",CZK,0,0,0,andrej_babis
+361-03122022 1086 086145 502103,2022-12-05,0.01,Příchozí platba,Byrtus Karel,"Pane Babiš, tak ať vám to na ten hrad vyjde.",CZK,0,0,0,andrej_babis
+361-03122022 1086 086148 101742,2022-12-05,1,Příchozí platba,"Nekvinda, Marcel",Babiš Babiš za mříže patříš,CZK,3122022,0,0,andrej_babis
 120-20221202 2167647123,2022-12-02,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš ať s mým hlasem v prezidentské volbě nepočítá!,CZK,0,0,0,andrej_babis
 120-20221202 2148085903,2022-12-02,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
 001-02122022 1602 602033 498271,2022-12-02,100,Příchozí platba,ANO - PREZIDENT 2023,bankovni poplatky,CZK,9,558,0,andrej_babis
@@ -108,6 +125,33 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 120-20221128 2141165093,2022-11-28,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
 120-20221128 2148080514,2022-11-28,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM ČR? NIKDY!",CZK,0,0,0,andrej_babis
 120-20221128 2162191400,2022-11-28,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš můj hlas v prezidentských volbách nedostane!,CZK,0,0,0,andrej_babis
+001-04122022 1602 602014 774921,2022-12-05,0.1,Příchozí platba,LEMFELD KAREL,Www.Jumbolino-model.com,CZK,0,0,0,denisa_rohanova
+361-02122022 1086 086148 500505,2022-12-02,0.1,Příchozí platba,Adamec Jan,MCU skončilo spolu s Iron-Manem,CZK,616,616,616,denisa_rohanova
+361-01122022 1086 086143 103886,2022-12-01,0.1,Příchozí platba,Ondřej Černý,na exekuce! :D snad to vyberete! Mir a lásku všem,CZK,0,0,0,denisa_rohanova
+001-30112022 1602 602019 876531,2022-11-30,200,Příchozí platba,ŠINDLER ROBERT,Robert Šindler Don Quichotte sváděl podobný boj a nedat vám hlas bych se styděl,CZK,0,0,0,denisa_rohanova
+000-30112022-060-060-001971545,2022-11-30,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086146 100208,2022-11-30,2000,Příchozí platba,Salač Dalibor,,CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086142 501747,2022-11-30,0.01,Příchozí platba,Martin Legnavský,Chtěl bych Vám Pavle touto cestou za svěřenou důvěru velice poděkovat.,CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086149 501757,2022-11-30,0.01,Příchozí platba,Martin Legnavský,Pane Vlastimile za Denisu a tým Vám děkujeme.,CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086150 501971,2022-11-30,0.01,Příchozí platba,Martin Legnavský,"Pane Milane, budeme bojovat za každého v ČR a nevzdáme to. Děkujeme Vám.",CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086149 101976,2022-11-30,0.01,Příchozí platba,Martin Legnavský,"Pane Martine, jdeme do toho a budeme dělat průvan ;-) Děkujeme Vám.",CZK,0,0,0,denisa_rohanova
+361-30112022 1086 086149 502377,2022-11-30,1000,Příchozí platba,Valášek Martin,Dar na kampaň Denisy Rohanové,CZK,0,0,0,denisa_rohanova
+120-20221129 264353674,2022-11-30,1000,Příchozí platba,Miroslav Svatoš,Denisa for Prezident 2023,CZK,0,9,0,denisa_rohanova
+001-29112022 1602 602029 311681,2022-11-29,500,Příchozí platba,JACKO MARTIN,Upoutala jste moji pozornost. Udelat poradny pruvan v politice se da i v kampani. Tak do toho!,CZK,0,0,0,denisa_rohanova
+001-29112022 1602 602008 892741,2022-11-29,5000,Příchozí platba,ANDRŠ MILAN,Dar na kampaň Milan Andrš,CZK,0,0,0,denisa_rohanova
+361-29112022 1086 086149 504176,2022-11-29,200,Příchozí platba,Kubovec Vlastimil,,CZK,0,0,0,denisa_rohanova
+120-20221125 T02AR0HQC0AIJ,2022-11-28,20,Příchozí platba,PAVEL MENCIK,VOLBA PREZIDENTA ČESKÉ REPUBLIKY 2023,CZK,0,0,0,denisa_rohanova
+361-26112022 1086 086145 500512,2022-11-28,0.01,Příchozí platba,Karel Kolář,Máte ráda fyziku? https://fykos.cz https://fyziklani.cz,CZK,42,0,0,denisa_rohanova
+361-26112022 1086 086151 500594,2022-11-28,1000,Příchozí platba,Křížová Bohuslava,"Děkuji Vám za vše, co pro nás všechny děláte, paní Deniso.",CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086150 106169,2022-11-28,0.1,Příchozí platba,Martin Legnavský,Vážená paní/slečno Křížová velice si vážíme vaší podpory. Šéf volebního štábu Martin Legnavský.,CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086143 106193,2022-11-28,0.1,Příchozí platba,Martin Legnavský,"Vážený pane Koláři, cituji D. Rohanovou /Dle zákonu akce a reakce: Děláte velice záslužné akce a reakcí je vzdělaná populace.ú M. Legnavský",CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086146 106285,2022-11-28,0.1,Příchozí platba,Martin Legnavský,"Dobrý den Pavle, velice si vážíme Vaše daru. Váš dar využijeme na boj o hrad ;-). M.Legnavský",CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086149 506809,2022-11-28,12000,Příchozí platba,NADACNI FOND UPART,Dar na kampaň Denisy Rohanové,CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086150 107315,2022-11-28,0.01,Příchozí platba,Martin Legnavský,Nadačnímu fondu upArt a lidem děkujeme.,CZK,0,0,0,denisa_rohanova
+361-28112022 1086 086143 109215,2022-11-28,7400,Příchozí platba,People 4 jobs s.r.o.,Dar na kampaň Denisy Rohanové,CZK,11111,0,0,denisa_rohanova
+225-28112022 10868050024774,2022-11-28,-39,Poplatek,,,CZK,0,898,706969014,denisa_rohanova
+001-25112022 1602 602027 694091,2022-11-25,5225472,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
+001-25112022 1602 602031 723361,2022-11-25,-2100000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-25112022 1602 602008 089541,2022-11-25,-123,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
 001-25112022 1602 602012 089581,2022-11-25,-100,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
 001-25112022 1602 602009 089551,2022-11-25,-10000,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,20221125,558,0,andrej_babis
@@ -150,30 +194,6 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 120-20221125 T02AR0HQB7LNH,2022-11-25,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
 120-20221125 T02AR0HQB7LNJ,2022-11-25,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
 120-20221125 T02AR0HQBADCM,2022-11-25,0.01,Příchozí platba,ONDREJ MACH,NA VÁNOČNÍ DÁREKY,CZK,0,0,0,andrej_babis
-361-02122022 1086 086148 500505,2022-12-02,0.1,Příchozí platba,Adamec Jan,MCU skončilo spolu s Iron-Manem,CZK,616,616,616,denisa_rohanova
-361-01122022 1086 086143 103886,2022-12-01,0.1,Příchozí platba,Ondřej Černý,na exekuce! :D snad to vyberete! Mir a lásku všem,CZK,0,0,0,denisa_rohanova
-001-30112022 1602 602019 876531,2022-11-30,200,Příchozí platba,ŠINDLER ROBERT,Robert Šindler Don Quichotte sváděl podobný boj a nedat vám hlas bych se styděl,CZK,0,0,0,denisa_rohanova
-000-30112022-060-060-001971545,2022-11-30,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
-361-30112022 1086 086146 100208,2022-11-30,2000,Příchozí platba,Salač Dalibor,,CZK,0,0,0,denisa_rohanova
-361-30112022 1086 086142 501747,2022-11-30,0.01,Příchozí platba,Martin Legnavský,Chtěl bych Vám Pavle touto cestou za svěřenou důvěru velice poděkovat.,CZK,0,0,0,denisa_rohanova
-361-30112022 1086 086149 501757,2022-11-30,0.01,Příchozí platba,Martin Legnavský,Pane Vlastimile za Denisu a tým Vám děkujeme.,CZK,0,0,0,denisa_rohanova
-361-30112022 1086 086150 501971,2022-11-30,0.01,Příchozí platba,Martin Legnavský,"Pane Milane, budeme bojovat za každého v ČR a nevzdáme to. Děkujeme Vám.",CZK,0,0,0,denisa_rohanova
-361-30112022 1086 086149 101976,2022-11-30,0.01,Příchozí platba,Martin Legnavský,"Pane Martine, jdeme do toho a budeme dělat průvan ;-) Děkujeme Vám.",CZK,0,0,0,denisa_rohanova
-361-30112022 1086 086149 502377,2022-11-30,1000,Příchozí platba,Valášek Martin,Dar na kampaň Denisy Rohanové,CZK,0,0,0,denisa_rohanova
-120-20221129 264353674,2022-11-30,1000,Příchozí platba,Miroslav Svatoš,Denisa for Prezident 2023,CZK,0,9,0,denisa_rohanova
-001-29112022 1602 602029 311681,2022-11-29,500,Příchozí platba,JACKO MARTIN,Upoutala jste moji pozornost. Udelat poradny pruvan v politice se da i v kampani. Tak do toho!,CZK,0,0,0,denisa_rohanova
-001-29112022 1602 602008 892741,2022-11-29,5000,Příchozí platba,ANDRŠ MILAN,Dar na kampaň Milan Andrš,CZK,0,0,0,denisa_rohanova
-361-29112022 1086 086149 504176,2022-11-29,200,Příchozí platba,Kubovec Vlastimil,,CZK,0,0,0,denisa_rohanova
-120-20221125 T02AR0HQC0AIJ,2022-11-28,20,Příchozí platba,PAVEL MENCIK,VOLBA PREZIDENTA ČESKÉ REPUBLIKY 2023,CZK,0,0,0,denisa_rohanova
-361-26112022 1086 086145 500512,2022-11-28,0.01,Příchozí platba,Karel Kolář,Máte ráda fyziku? https://fykos.cz https://fyziklani.cz,CZK,42,0,0,denisa_rohanova
-361-26112022 1086 086151 500594,2022-11-28,1000,Příchozí platba,Křížová Bohuslava,"Děkuji Vám za vše, co pro nás všechny děláte, paní Deniso.",CZK,0,0,0,denisa_rohanova
-361-28112022 1086 086150 106169,2022-11-28,0.1,Příchozí platba,Martin Legnavský,Vážená paní/slečno Křížová velice si vážíme vaší podpory. Šéf volebního štábu Martin Legnavský.,CZK,0,0,0,denisa_rohanova
-361-28112022 1086 086143 106193,2022-11-28,0.1,Příchozí platba,Martin Legnavský,"Vážený pane Koláři, cituji D. Rohanovou /Dle zákonu akce a reakce: Děláte velice záslužné akce a reakcí je vzdělaná populace.ú M. Legnavský",CZK,0,0,0,denisa_rohanova
-361-28112022 1086 086146 106285,2022-11-28,0.1,Příchozí platba,Martin Legnavský,"Dobrý den Pavle, velice si vážíme Vaše daru. Váš dar využijeme na boj o hrad ;-). M.Legnavský",CZK,0,0,0,denisa_rohanova
-361-28112022 1086 086149 506809,2022-11-28,12000,Příchozí platba,NADACNI FOND UPART,Dar na kampaň Denisy Rohanové,CZK,0,0,0,denisa_rohanova
-361-28112022 1086 086150 107315,2022-11-28,0.01,Příchozí platba,Martin Legnavský,Nadačnímu fondu upArt a lidem děkujeme.,CZK,0,0,0,denisa_rohanova
-361-28112022 1086 086143 109215,2022-11-28,7400,Příchozí platba,People 4 jobs s.r.o.,Dar na kampaň Denisy Rohanové,CZK,11111,0,0,denisa_rohanova
-225-28112022 10868050024774,2022-11-28,-39,Poplatek,,,CZK,0,898,706969014,denisa_rohanova
 361-24112022 1086 086144 102463,2022-11-24,0.01,Příchozí platba,Ondřej Mužík,"Dobry den, psal jsem Vam dotaz, nikdo neodepisuje. Ma flotila ma polepy na vozech. Bohuzel Vas team nehodla platit. Polud neuhradite",CZK,0,0,0,karel_janecek
 361-24112022 1086 086147 102470,2022-11-24,0.01,Příchozí platba,Ondřej Mužík,dluh do patku 25.11.2022 budu nucen kontaktovat media. Budete mit peknou reklamu a zadarmo.,CZK,0,0,0,karel_janecek
 361-24112022 1086 086148 502469,2022-11-24,0.01,Příchozí platba,Ondřej Mužík,"Nutno podotknout, ze vozime na vozech Vas face.",CZK,0,0,0,karel_janecek

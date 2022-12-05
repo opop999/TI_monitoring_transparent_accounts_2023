@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-05,50000,CZK,Okamžitá příchozí platba,Brešová Lucie,Dar na kampan generala Pavla - S pozdravem Lucie a Honza,0,,,Brešová Lucie,petr_pavel
+2022-12-05,50000,CZK,Bezhotovostní příjem,Advokátní kancelář P,,,,,Advokátní kancelář P,petr_pavel
+2022-12-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-05,5000,CZK,Bezhotovostní příjem,PODLENA VÁCLAV,Václav Podlena,0,0,0,PODLENA VÁCLAV,petr_pavel
+2022-12-05,200,CZK,Bezhotovostní příjem,PROCHAZKOVA EVA,Cela rodina drzime palce a at se urputnici a dezolati treba uvztekaji,,0,,PROCHAZKOVA EVA,petr_pavel
+2022-12-05,2000,CZK,Bezhotovostní příjem,FRANK RADEK,Dar na kampan generala Pavla,,0,,FRANK RADEK,petr_pavel
+2022-12-05,150000,CZK,Bezhotovostní příjem,Ing.Krogman Petr,Dar na kampaň gen. Pavla,0,,,Ing.Krogman Petr,petr_pavel
+2022-12-04,-978.69,CZK,Karetní transakce,,"Nákup: CANVA* I03623-10332737, HTTPSCANVA.CO, US, dne 3.12.2022, částka  40.91 USD",,7999,,"Nákup: CANVA* I03623-10332737, HTTPSCANVA.CO, US, dne 3.12.2022, částka  40.91 USD",petr_pavel
+2022-12-04,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 9U5UXJBQ32, fb.me/ads, IE, dne 3.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 9U5UXJBQ32, fb.me/ads, IE, dne 3.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-04,30000,CZK,Okamžitá příchozí platba,Vladimír Bezděk,dar na prezidentskou kampan GPP,,,,Vladimír Bezděk,petr_pavel
 2022-12-04,1500,CZK,Okamžitá příchozí platba,Němec Tomáš,,0,,,Němec Tomáš,petr_pavel
 2022-12-03,3000,CZK,Okamžitá příchozí platba,Hojsík Petr,DAR NA KAMPAŇ - DRŽÍM PALCE!,0,630318,,Hojsík Petr,petr_pavel
@@ -107,11 +116,9 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-11-27,100000,CZK,Okamžitá příchozí platba,Ing. Tomaš Janeček,Ivana a Tomas Janeckovi,,,,Ing. Tomaš Janeček,petr_pavel
 2022-11-27,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 5LZ74HTQ32, fb.me/ads, IE, dne 26.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 5LZ74HTQ32, fb.me/ads, IE, dne 26.11.2022, částka  24200.00 CZK",petr_pavel
 2022-11-27,500,CZK,Platba převodem uvnitř banky,"Roleník, Jan",,,,,,petr_pavel
-2022-11-26,-24200,CZK,Karetní transakce,,"Nákup: FACEBK LFMRBHXP32, fb.me/ads, IE, dne 25.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK LFMRBHXP32, fb.me/ads, IE, dne 25.11.2022, částka  24200.00 CZK",petr_pavel
-2022-11-26,500,CZK,Okamžitá příchozí platba,Řeha Petr,Hodně štěstí,0,,,Řeha Petr,petr_pavel
-2022-11-26,-4598,CZK,Platba převodem uvnitř banky,,,,2022368,,"IČ: 29060460, pronájem techniky",petr_pavel
-2022-11-26,-1955,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
-2022-11-26,-63948.5,CZK,Okamžitá odchozí platba,,,308,222051180,,"IČ: 26819953, placky",petr_pavel
+2022-12-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-12-04,5000,CZK,Okamžitá příchozí platba,JIŘÍ MATĚJOVSKÝ,Jiří Matějovský 30.06.1974 Struhařov 25164,,,,JIŘÍ MATĚJOVSKÝ,marek_hilser
+2022-12-04,-1000,CZK,Karetní transakce,,"Nákup: FACEBK VFNHLH7J62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK VFNHLH7J62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.12.2022, částka  1000.00 CZK",marek_hilser
 2022-12-04,-6000,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 4.12.2022, částka  6000.00 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 4.12.2022, částka  6000.00 CZK",marek_hilser
 2022-12-03,30,CZK,Platba převodem uvnitř banky,"Ing. arch. Sládek, Petr",,,,,,marek_hilser
 2022-12-02,-1000,CZK,Karetní transakce,,"Nákup: FACEBK 445MUH3J62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 2.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK 445MUH3J62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 2.12.2022, částka  1000.00 CZK",marek_hilser
@@ -137,11 +144,10 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-11-28,500,CZK,Bezhotovostní příjem,ZAMOROVA JANA,Jana Zamorova 22.3.1968 Praha,,0,,ZAMOROVA JANA,marek_hilser
 2022-11-27,-1000,CZK,Karetní transakce,,"Nákup: FACEBK 6KEYYGXH62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.11.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK 6KEYYGXH62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.11.2022, částka  1000.00 CZK",marek_hilser
 2022-11-27,1000,CZK,Okamžitá příchozí platba,Ing. Radovan Bobek,"Radovan Bobek,  20.12.1967, Habří, Řehlovice",,,,Ing. Radovan Bobek,marek_hilser
-2022-11-26,250,CZK,Okamžitá příchozí platba,Eva Klánová,,,,,Eva Klánová,marek_hilser
-2022-11-26,1000,CZK,Okamžitá příchozí platba,Otakar Hypš,"otakar hyps, 31 8 1988, hradec kralove",,,,Otakar Hypš,marek_hilser
-2022-11-26,-1000,CZK,Karetní transakce,,"Nákup: FACEBK KAGP9HXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.11.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK KAGP9HXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.11.2022, částka  1000.00 CZK",marek_hilser
-2022-11-26,1000,CZK,Okamžitá příchozí platba,Petr Ogurčák,,,,,Petr Ogurčák,marek_hilser
-2022-11-26,500,CZK,Platba převodem uvnitř banky,"Ing.arch. Myslivec, Tomáš","Tomáš Myslivec, 1.2.1965, Liberec",,,,"Tomáš Myslivec, 1.2.1965, Liberec",marek_hilser
+2022-12-05,-350000,CZK,Bezhotovostní platba,,Josef Středula,,220100080,,Vedení kampaně,josef_stredula
+2022-12-05,200000,CZK,Platba převodem uvnitř banky,SPOLEČNĚ PRO LIDI z.s.,Společně pro lidi z.s.,,122022,,Společně pro lidi z.s.,josef_stredula
+2022-12-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
+2022-12-04,2000,CZK,Platba převodem uvnitř banky,"Nozar, Lukáš",Příspěvek na kampaň,,,,Příspěvek na kampaň,josef_stredula
 2022-12-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-01,-20000,CZK,Karetní transakce,,"Nákup: FACEBK EQ4X7H3F52, fb.me/ads, IE, dne 30.11.2022, částka  20000.00 CZK",,2172,,"Nákup: FACEBK EQ4X7H3F52, fb.me/ads, IE, dne 30.11.2022, částka  20000.00 CZK",josef_stredula
 2022-12-01,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
@@ -157,6 +163,16 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-11-30,150000,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2022-11-27,-10000,CZK,Okamžitá odchozí platba,,FRIVA s.r.o.správa webových stránek,8,202223,,FRIVA spol. s.r.o. správa webových stránek www.jaroslavbastaprezident.cz,jaroslav_basta
 2022-11-27,-1872314.6,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty (104 ploch) leden 2023 (PS18136407/JV),,,,"BigMedia, spol. s r.o. pronájem reklamních ploch pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2022-11-26,-24200,CZK,Karetní transakce,,"Nákup: FACEBK LFMRBHXP32, fb.me/ads, IE, dne 25.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK LFMRBHXP32, fb.me/ads, IE, dne 25.11.2022, částka  24200.00 CZK",petr_pavel
+2022-11-26,500,CZK,Okamžitá příchozí platba,Řeha Petr,Hodně štěstí,0,,,Řeha Petr,petr_pavel
+2022-11-26,-4598,CZK,Platba převodem uvnitř banky,,,,2022368,,"IČ: 29060460, pronájem techniky",petr_pavel
+2022-11-26,-1955,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2022-11-26,-63948.5,CZK,Okamžitá odchozí platba,,,308,222051180,,"IČ: 26819953, placky",petr_pavel
+2022-11-26,250,CZK,Okamžitá příchozí platba,Eva Klánová,,,,,Eva Klánová,marek_hilser
+2022-11-26,1000,CZK,Okamžitá příchozí platba,Otakar Hypš,"otakar hyps, 31 8 1988, hradec kralove",,,,Otakar Hypš,marek_hilser
+2022-11-26,-1000,CZK,Karetní transakce,,"Nákup: FACEBK KAGP9HXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.11.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK KAGP9HXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.11.2022, částka  1000.00 CZK",marek_hilser
+2022-11-26,1000,CZK,Okamžitá příchozí platba,Petr Ogurčák,,,,,Petr Ogurčák,marek_hilser
+2022-11-26,500,CZK,Platba převodem uvnitř banky,"Ing.arch. Myslivec, Tomáš","Tomáš Myslivec, 1.2.1965, Liberec",,,,"Tomáš Myslivec, 1.2.1965, Liberec",marek_hilser
 2022-11-25,1000,CZK,Platba převodem uvnitř banky,Prague office Development s.r.o.,Adam Hrubý (viz níže) je hlupák,,,,Adam Hrubý (viz níže) je hlupák,petr_pavel
 2022-11-25,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2022-11-25,-24200,CZK,Karetní transakce,,"Nákup: FACEBK WMKHEJXQ32, fb.me/ads, IE, dne 24.11.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK WMKHEJXQ32, fb.me/ads, IE, dne 24.11.2022, částka  24200.00 CZK",petr_pavel

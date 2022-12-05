@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bank_code,message_for_recipient,ks,vs,ss,currency,entity
+2022-12-02,-8000,Debit card transaction ,,,,,,,,CZK,libor_michalek
 2022-12-01,1000,Incoming payment ,Šejbová Lenka,4278633003,800,Lenka Šejbová 16.12. 1959,0,,,CZK,libor_michalek
 2022-11-24,-20820,Outgoing instant payment ,,213264835,600,Haines IČ 76230929 řízení kampaně-říjen,,352022,352022,CZK,libor_michalek
 2022-11-24,-18000,Outgoing instant payment ,,1480516173,800,"Beneš IČ 2851342, koordinace sběrupodpisů- Morava",,2002022,2002022,CZK,libor_michalek
