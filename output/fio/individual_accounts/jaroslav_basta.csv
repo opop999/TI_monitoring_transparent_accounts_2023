@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-05,-6050,CZK,Okamžitá odchozí platba,,Jaroslav Bašta prezidentské volby - inzerce Deník,,2217026267,,Deník - inzerce Jaroslav Bašta prezidentské volby,jaroslav_basta
 2022-12-02,400,CZK,Okamžitá příchozí platba,Leška Hvězdoslav,Hvezdoslav Leska,0,,,Leška Hvězdoslav,jaroslav_basta
 2022-12-02,-127264,CZK,Bezhotovostní platba,,inzerce Metro (28.11.) a 5plus2 (2.12.) prezidentská kampaň Jaroslava Bašty,308,2122029662,,"MAFRA, a.s. inzerce Metro a 5plus2 prezidentská kampaň Jaroslava Bašty",jaroslav_basta
 2022-12-02,-150000,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty - videoklip (scénář, režie, technika)",308,20220069,,"DVORAK FILM - MIROSLAV DVOŘÁK prezidentská kampaň Jaroslava Bašty - videoklip (scénář, režie, technika)",jaroslav_basta

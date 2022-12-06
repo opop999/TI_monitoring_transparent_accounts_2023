@@ -1,4 +1,7 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-12-06,200000,CZK,Platba převodem uvnitř banky,„Marek Hilšer do Senátu“,Převod prostředků na prez. kampaň z provozního účtu MHS,,,,Převod prostředků na prez. kampaň z provozního účtu MHS,marek_hilser
+2022-12-06,1000,CZK,Bezhotovostní příjem,ANDRÁŠ STANISLAV,"Stanislav Andráš, 16. 05. 1981, Letohrad",0,0,0,ANDRÁŠ STANISLAV,marek_hilser
 2022-12-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-12-04,5000,CZK,Okamžitá příchozí platba,JIŘÍ MATĚJOVSKÝ,Jiří Matějovský 30.06.1974 Struhařov 25164,,,,JIŘÍ MATĚJOVSKÝ,marek_hilser
 2022-12-04,-1000,CZK,Karetní transakce,,"Nákup: FACEBK VFNHLH7J62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK VFNHLH7J62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.12.2022, částka  1000.00 CZK",marek_hilser

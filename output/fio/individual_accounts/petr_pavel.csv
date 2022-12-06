@@ -1,4 +1,19 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-06,0.01,CZK,Okamžitá příchozí platba,Martin Čurda,Halo?,,,,Martin Čurda,petr_pavel
+2022-12-06,0.01,CZK,Okamžitá příchozí platba,Martin Čurda,"HLEDÁM PŘÍTELKYNI 18-69 LET, INSTAGRAM @ediiiiiiiiik_03",,,,Martin Čurda,petr_pavel
+2022-12-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-06,111,CZK,Platba převodem uvnitř banky,"Vlach, Erik",DAR NA KAMPAŇ GEN. PAVLA,,,,DAR NA KAMPAŇ GEN. PAVLA,petr_pavel
+2022-12-06,800,CZK,Bezhotovostní příjem,ROŠTOK RADEK,,,,,ROŠTOK RADEK,petr_pavel
+2022-12-06,-20182,CZK,Bezhotovostní platba,,,,312022,,"IČ: 22667393, pronájem",petr_pavel
+2022-12-06,-1616.66,CZK,Bezhotovostní platba,,,,220101375,1534,"IČ: 05103991, pronájem",petr_pavel
+2022-12-06,5000,CZK,Okamžitá příchozí platba,Jan Vítů,"Chci slušného, konstruktivního a schopného prezidenta",,,,Jan Vítů,petr_pavel
+2022-12-05,-2796,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-05,-2563,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-05,-205,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-05,-187,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-05,-261,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-05,-411,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-05,3111,CZK,Vklad v hotovosti,desátník Herda,,558,,,desátník Herda,petr_pavel
 2022-12-05,50000,CZK,Okamžitá příchozí platba,Brešová Lucie,Dar na kampan generala Pavla - S pozdravem Lucie a Honza,0,,,Brešová Lucie,petr_pavel
 2022-12-05,50000,CZK,Bezhotovostní příjem,Advokátní kancelář P,,,,,Advokátní kancelář P,petr_pavel
 2022-12-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
