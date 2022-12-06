@@ -1,30 +1,37 @@
 # EXTRACTION OF TRANSACTION DATA ON KOMERCNI BANKA'S TRANSPARENT BANK ACCOUNTS
 
 # Get "Salt" - i.e. short token for full token generation -----------------
-get_kb_salt <- function(user_agent) {
+get_kb_salt <- function(user_agent, old_salt="KB_SALT") {
   chosen_user_agent <- sample(user_agent, 1)
-  
-  GET(
-    "https://www.kb.cz/js/app.min.js?d=20190626",
-    user_agent(chosen_user_agent),
-    add_headers(
-      "Accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
-      "Accept-Encoding" = "gzip, deflate, br",
-      "Accept-Language" = "en;q=0.6",
-      "Cache-Control" = "no-cache",
-      "Connection" = "keep-alive",
-      "Host" = "www.kb.cz",
-      "Pragma" = "no-cache",
-      "Sec-Fetch-Dest" = "document",
-      "Sec-Fetch-Mode" = "navigate",
-      "Sec-Fetch-Site" = "none",
-      "Sec-Fetch-User" = "?1",
-      "Upgrade-Insecure-Requests" = "1",
-      "User-Agent" = chosen_user_agent
-    )
-  ) %>%
-    content(as = "text", encoding = "UTF-8") %>%
-    str_extract(pattern = '(?<=n.salt=\")[a-zA-Z0-9-]+')
+  # Attempt to retrieve newest salt from script
+  tryCatch(
+    GET(
+      "https://www.kb.cz/js/app.min.js?d=20190626",
+      user_agent(chosen_user_agent),
+      add_headers(
+        "Accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        "Accept-Encoding" = "gzip, deflate, br",
+        "Accept-Language" = "en;q=0.6",
+        "Cache-Control" = "no-cache",
+        "Connection" = "keep-alive",
+        "Host" = "www.kb.cz",
+        "Pragma" = "no-cache",
+        "Sec-Fetch-Dest" = "document",
+        "Sec-Fetch-Mode" = "navigate",
+        "Sec-Fetch-Site" = "none",
+        "Sec-Fetch-User" = "?1",
+        "Upgrade-Insecure-Requests" = "1",
+        "User-Agent" = chosen_user_agent
+      )
+    ) %>%
+      content(as = "text", encoding = "UTF-8") %>%
+      str_extract(pattern = '(?<=n.salt=\")[a-zA-Z0-9-]+'),
+    # On error, attempt to retrive old salt token possibly set as env variable.
+    error = function(err) {
+      print("ERROR: HTTP request failed. Attempting to retrieve salt from environmental variable")
+      Sys.getenv(old_salt)
+    }
+  )
 }
 
 # Verify arguments for function inputs ------------------------------------
