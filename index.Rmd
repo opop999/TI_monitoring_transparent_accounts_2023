@@ -17,6 +17,13 @@ output:
       - {title: "Author", icon: "ion-social-linkedin", href: "https://www.linkedin.com/in/ondrej-pekacek"}
       - {title: "Data", icon: "ion-cloud", href: "https://github.com/opop999/TI_monitoring_transparent_accounts_2023/blob/master/README.md"}
       - {title: "Project", icon: "ion-information-circled", href: "https://www.transparentnivolby.cz/hrad2023/"}
+params:
+  election_date: "2023-01-27"
+  start_date: "2022-07-01"
+  end_date: "2023-01-27"
+  packages: ["dplyr", "ggplot2", "forcats", "tidyr", "reactable", "reactablefmtr", "stringr", "plotly", "flexdashboard", "htmlwidgets"]
+  input_dir: "output/summary_tables"
+  
 
 ---
 
@@ -32,32 +39,27 @@ $("span.navbar-logo").wrap('<a href="https://www.transparentnivolby.cz/hrad2023/
 # Disable scientific notation of numbers
 options(scipen = 999)
 
-# Package names
-packages <- c("dplyr", "ggplot2", "forcats", "tidyr", "reactable", "reactablefmtr", "stringr", "plotly", "flexdashboard", "htmlwidgets")
-
 # Install packages not yet installed
-installed_packages <- packages %in% rownames(installed.packages())
+installed_packages <- params$packages %in% rownames(installed.packages())
 if (any(installed_packages == FALSE)) {
-  install.packages(packages[!installed_packages])
+  install.packages(params$packages[!installed_packages])
 }
 
 # Packages loading
-invisible(lapply(packages, library, character.only = TRUE))
+invisible(lapply(params$packages, library, character.only = TRUE))
 
 # Specify directory with datasets
-directory_datasets <- "output/summary_tables"
-  
-total_spending <- readRDS(file = file.path(directory_datasets, "total_spending.rds"))
-time_spending <- readRDS(file = file.path(directory_datasets, "time_spending.rds"))
-total_income <- readRDS(file = file.path(directory_datasets, "total_income.rds"))
-time_income <- readRDS(file = file.path(directory_datasets, "time_income.rds"))
+total_spending <- readRDS(file = file.path(params$input_dir, "total_spending.rds"))
+time_spending <- readRDS(file = file.path(params$input_dir, "time_spending.rds"))
+total_income <- readRDS(file = file.path(params$input_dir, "total_income.rds"))
+time_income <- readRDS(file = file.path(params$input_dir, "time_income.rds"))
 
 # Election date for vertical line in the time-plots
-election_date <- as.Date("2023-01-27")
+election_date <- as.Date(params$election_date)
 
 # Graph zoom date end & beginning
-start_date <- as.Date("2022-07-01")
-end_date <- as.Date("2023-01-27")
+start_date <- as.Date(params$start_date)
+end_date <- as.Date(params$end_date)
 
 # May be used if individual export added
 # Select appropriate palette for individual html plots to be exported
