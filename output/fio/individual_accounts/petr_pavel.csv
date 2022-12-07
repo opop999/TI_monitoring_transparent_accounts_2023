@@ -1,4 +1,16 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-07,200000,CZK,Bezhotovostní příjem,"IK-real, a.s.",,,50266,,"IK-real, a.s.",petr_pavel
+2022-12-07,-11253,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2022-12-07,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-07,-923.25,CZK,Bezhotovostní platba,,,308,221104556,,"IČ: 27920500, aquamat",petr_pavel
+2022-12-07,5555,CZK,Bezhotovostní příjem,VOLKOVA ZUZANA,Dar na kampaň generála PavlaVěřím ve Vaše vítězství. Vytrvejte.,,0,,VOLKOVA ZUZANA,petr_pavel
+2022-12-06,-62.71,CZK,Karetní transakce,,"Nákup: FACEBK 4RZEBHTQ32, fb.me/ads, IE, dne 6.12.2022, částka  62.71 CZK",,7999,,"Nákup: FACEBK 4RZEBHTQ32, fb.me/ads, IE, dne 6.12.2022, částka  62.71 CZK",petr_pavel
+2022-12-06,-319,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-06,-190,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-06,-2609,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2022-12-06,-7610.9,CZK,Karetní transakce,,"Nákup: SOLIDPIXELS, PRAHA, CZ, dne 5.12.2022, částka  7610.90 CZK",,7999,,"Nákup: SOLIDPIXELS, PRAHA, CZ, dne 5.12.2022, částka  7610.90 CZK",petr_pavel
+2022-12-06,-24200,CZK,Karetní transakce,,"Nákup: FACEBK RGSW2J3R32, fb.me/ads, IE, dne 5.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK RGSW2J3R32, fb.me/ads, IE, dne 5.12.2022, částka  24200.00 CZK",petr_pavel
+2022-12-06,2234,CZK,Okamžitá příchozí platba,Spolek Společný prez,Adam Coubal Spolek Spolecny Prezident,0,,,Spolek Společný prez,petr_pavel
 2022-12-06,0.01,CZK,Okamžitá příchozí platba,Martin Čurda,Halo?,,,,Martin Čurda,petr_pavel
 2022-12-06,0.01,CZK,Okamžitá příchozí platba,Martin Čurda,"HLEDÁM PŘÍTELKYNI 18-69 LET, INSTAGRAM @ediiiiiiiiik_03",,,,Martin Čurda,petr_pavel
 2022-12-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel

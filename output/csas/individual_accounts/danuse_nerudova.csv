@@ -1,4 +1,124 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2022-12-07,12510,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-12-06,5000,CZK,Příchozí úhrada,1178,635180002,2830058223,VITU JAN,"Chci slušného, konstruktivního a schopného prezidenta",danuse_nerudova
+2022-12-06,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.04.12.2022IE  fb.me/ads       FACEBK Y9Z23LTCZK     24200.00 d.zúč. 06.12.2022částka v Kč:       24200.00,danuse_nerudova
+2022-12-06,-15000,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.04.12.2022IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 06.12.2022částka v Kč:       15000.00,danuse_nerudova
+2022-12-06,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.04.12.2022IE  fb.me/ads       FACEBK VJYP2LTCZK     24200.00 d.zúč. 06.12.2022částka v Kč:       24200.00,danuse_nerudova
+2022-12-06,4750,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-12-06,500,CZK,Příchozí úhrada,1178,635180002,2830058223,KILIANOVA KATERINA,,danuse_nerudova
+2022-12-06,-15000,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.05.12.2022IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 06.12.2022částka v Kč:       15000.00,danuse_nerudova
+2022-12-06,100000,CZK,Příchozí úhrada,1178,635180002,2830058223,MUCHNA VÁCLAV,"Danuse Nerudova, Danuše Nerudová - prezidentka 2023",danuse_nerudova
+2022-12-06,-215458,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-0055550309/0800,vrácení chybné platby GP webpay 1/4,danuse_nerudova
+2022-12-06,-192530,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-0055550309/0800,vrácení chybné platby GP webpay 2/4,danuse_nerudova
+2022-12-06,-134728,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-0055550309/0800,vrácení chybné platby GP webpay 3/4,danuse_nerudova
+2022-12-06,-127219,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-0055550309/0800,vrácení chybné platby GP webpay 4/4,danuse_nerudova
+2022-12-06,0.01,CZK,Příchozí úhrada,1178,635180002,2830058223,Pavel Tr?ster,alkoholdrink.cz,danuse_nerudova
+2022-12-06,50000,CZK,Příchozí úhrada,1178,635180002,2830058223,"SULKO, S.R.O.",,danuse_nerudova
+2022-12-06,-38357,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-0377426001/5500,"IČ:68566476, náklady moderování debat",danuse_nerudova
+2022-12-06,-66490,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-2600434151/2010,"IČ:01785575, tisk novin ",danuse_nerudova
+2022-12-06,-37000,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-1020667421/6100,"IČ:05371481, produkce",danuse_nerudova
+2022-12-06,-30000,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-2863579133/0800,"IČ: 11951761, fundraising",danuse_nerudova
+2022-12-06,-20000,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-4791965033/0800,"IČ:06334130, správa sociálních sítí",danuse_nerudova
+2022-12-06,-30750,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-1637980012/3030,"IČ:17657661, grafické práce ",danuse_nerudova
+2022-12-06,-80000,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-2801477430/2010,"IČ:07311516, správa sociálních sítí",danuse_nerudova
+2022-12-06,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-1396220003/0800,"IČ:66452520, koordinace kontaktní kampaně",danuse_nerudova
+2022-12-06,-1,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-2399470010/3030,Vrácení daru Daniel Závorka 02.11.2022,danuse_nerudova
+2022-12-06,-0.08,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-1138524012/3030,vrácení daru 17.11.-30.11.2022,danuse_nerudova
+2022-12-06,5000,CZK,Příchozí úhrada,1178,635180002,2830058223,Petr Kozák,.... aby nezvítězili bolševici,danuse_nerudova
+2022-12-06,-1,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-0230447924/0300,Vrácení daru Jaroslav Huss 25.11.2022,danuse_nerudova
+2022-12-06,-1500,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-1480231143/0800,"vrácení daru Tomáš Němec 04.12.2022 - neúplné údaje, vrácení daru Tomáš Němec 04.12.2022 - neúplné údaje",danuse_nerudova
+2022-12-05,20000,CZK,Příchozí úhrada,1178,635180002,2830058223,"MSM,SPOL.S R.O.","MSM, spol. s r.o.",danuse_nerudova
+2022-12-05,-7365.27,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000107-1464980267/0100,"IČ:26829932, tisk letáků",danuse_nerudova
+2022-12-05,600,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-12-05,127219,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DONIO S.R.O., AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-12-05,-15000,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.03.12.2022IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 05.12.2022částka v Kč:       15000.00,danuse_nerudova
+2022-12-05,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.03.12.2022IE  fb.me/ads       FACEBK SBVQCMPCZK     24200.00 d.zúč. 05.12.2022částka v Kč:       24200.00,danuse_nerudova
+2022-12-05,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.03.12.2022IE  fb.me/ads       FACEBK 6CEFJKPCZK     24200.00 d.zúč. 05.12.2022částka v Kč:       24200.00,danuse_nerudova
+2022-12-05,200,CZK,Příchozí úhrada,1178,635180002,2830058223,NIČOVÁ VERONIKA,,danuse_nerudova
+2022-12-05,250,CZK,Příchozí úhrada,1178,635180002,2830058223,ELISKA HOZAKOVA,"BUDOUCÍ PREZIDENTKA DANUŠE NERUDOVÁ, DRŽÍM PALCE SVÉ I CIZÍ. POSÍLÁM LÁSKU A SÍLU.",danuse_nerudova
+2022-12-05,0.01,CZK,Příchozí úhrada,1178,635180002,2830058223,Pavel Tr?ster,alkoholdrink.cz,danuse_nerudova
+2022-12-05,-10000,CZK,Výběr hotovosti z bankomatu ČS,1178,635180002,2830058223,-,"XXXXXXXXXXXX7023 d.tran.05.12.2022146  Praha 3           ČS, TáboritCZK      10000.00 d.zúč.05.12.2022částka v Kč:      10000.00",danuse_nerudova
+2022-12-05,5000,CZK,Příchozí úhrada,1178,635180002,2830058223,PETROVÁ MILUŠE,"Držím Vám pěsti, nechť slušnost zvítězí!",danuse_nerudova
+2022-12-05,-5000,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-4268538379/0800,"IČ: 25048694, výlep plakátů",danuse_nerudova
+2022-12-05,-4992,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-4268538379/0800,"IČ: 25048694, výlep plakátů",danuse_nerudova
+2022-12-05,-4580,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-4268538379/0800,"IČ: 25048694, výlep plakátů",danuse_nerudova
+2022-12-05,500,CZK,Příchozí úhrada,1178,635180002,2830058223,GLUM PAVEL,,danuse_nerudova
+2022-12-04,500,CZK,Příchozí úhrada,1178,635180002,2830058223,Dalibor Vágner,,danuse_nerudova
+2022-12-04,1500,CZK,Příchozí úhrada,1178,635180002,2830058223,Němec Tomáš,,danuse_nerudova
+2022-12-04,134728,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DONIO S.R.O., AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-12-04,3500,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-12-04,-15000,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.02.12.2022IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 04.12.2022částka v Kč:       15000.00,danuse_nerudova
+2022-12-04,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.02.12.2022IE  fb.me/ads       FACEBK DGD66LXCZK     24200.00 d.zúč. 04.12.2022částka v Kč:       24200.00,danuse_nerudova
+2022-12-04,-56,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.02.12.2022IE  DUBLIN          WWW.MAILERLITEEUR         2.23 d.přep.02.12.20222.23 kurz EUR 25.111,danuse_nerudova
+2022-12-03,-15000,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.01.12.2022IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 03.12.2022částka v Kč:       15000.00,danuse_nerudova
+2022-12-03,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.01.12.2022IE  fb.me/ads       FACEBK FYHMPLFCZK     24200.00 d.zúč. 03.12.2022částka v Kč:       24200.00,danuse_nerudova
+2022-12-03,-7230.94,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.01.12.2022IE  Dublin          Google GSUITE_EUR       288.43 d.přep.01.12.2022288.43 kurz EUR 25.070,danuse_nerudova
+2022-12-03,100,CZK,Příchozí úhrada,1178,635180002,2830058223,HEJDUK MICHAL,,danuse_nerudova
+2022-12-03,100,CZK,Příchozí úhrada,1178,635180002,2830058223,Brabcová Zuzana,,danuse_nerudova
+2022-12-03,852,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-12-03,192530,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DONIO S.R.O., AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-12-03,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.01.12.2022IE  fb.me/ads       FACEBK WW9ZGKPCZK     24200.00 d.zúč. 03.12.2022částka v Kč:       24200.00,danuse_nerudova
+2022-12-02,-3063.61,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.30.11.2022IE  fb.me/ads       FACEBK NYDBAMPCZK      3063.61 d.zúč. 02.12.2022částka v Kč:        3063.61,danuse_nerudova
+2022-12-02,-15000,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.30.11.2022IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 02.12.2022částka v Kč:       15000.00,danuse_nerudova
+2022-12-02,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.30.11.2022IE  fb.me/ads       FACEBK E7C4PLFCZK     24200.00 d.zúč. 02.12.2022částka v Kč:       24200.00,danuse_nerudova
+2022-12-02,0.01,CZK,Příchozí úhrada,1178,635180002,2830058223,Pavel Tr?ster,alkoholdrink.cz,danuse_nerudova
+2022-12-02,-65530,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-0237245671/0300,"IČ: 71372563, koordinace dobrovolníků",danuse_nerudova
+2022-12-02,1000,CZK,Příchozí úhrada,1178,635180002,2830058223,VACKA JAN,"věřím vám a přeji si, aby jste se dostala na hrad. Jste nejlepší a chci vás tam mít",danuse_nerudova
+2022-12-02,50000,CZK,Příchozí úhrada,1178,635180002,2830058223,5P BRAND PRODUCTION,,danuse_nerudova
+2022-12-02,10000,CZK,Příchozí úhrada,1178,635180002,2830058223,JIRANEK TOMAS,Tomáš Jiránek - podpora dobrou noc,danuse_nerudova
+2022-12-02,1000000,CZK,Příchozí úhrada,1178,635180002,2830058223,Ing.Rádl Rogerová Di,Danuše Nerudová - prezidentka 2023,danuse_nerudova
+2022-12-02,-880.44,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.30.11.2022IE  DUBLIN          WWW.MAILERLITEEUR        35.09 d.přep.30.11.202235.09 kurz EUR 25.091,danuse_nerudova
+2022-12-02,50000,CZK,Příchozí úhrada,1178,635180002,2830058223,SMIDL VLADIMIR,,danuse_nerudova
+2022-12-02,1250,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-12-02,215458,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DONIO S.R.O., AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-12-01,1000,CZK,Příchozí úhrada,1178,635180002,2830058223,Mgr.Jiříčková Veroni,,danuse_nerudova
+2022-12-01,0,CZK,Cena za vedení účtu,1178,635180002,2830058223,,,danuse_nerudova
+2022-12-01,500,CZK,Příchozí úhrada,1178,635180002,2830058223,STRMISKA CHRIS,,danuse_nerudova
+2022-12-01,10000,CZK,Příchozí úhrada,1178,635180002,2830058223,Žák Josef,,danuse_nerudova
+2022-12-01,5000,CZK,Příchozí úhrada,1178,635180002,2830058223,VÁCLAV ČERNÝ,držím vám palce,danuse_nerudova
+2022-12-01,50000,CZK,Příchozí úhrada,1178,635180002,2830058223,BRÁZDA JAN,,danuse_nerudova
+2022-12-01,1000,CZK,Příchozí úhrada,1178,635180002,2830058223,Ing.Sedlák Josef,přeji další úspěchy v kampani,danuse_nerudova
+2022-12-01,-79,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.29.11.2022CZ  Praha - Liben   ZasilkovnaCZK        79.00 d.zúč. 01.12.2022částka v Kč:          79.00,danuse_nerudova
+2022-12-01,0.01,CZK,Příchozí úhrada,1178,635180002,2830058223,Pavel Tr?ster,alkoholdrink.cz,danuse_nerudova
+2022-12-01,-5000,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.28.11.2022CZ  Choce*          dtpshop.czCZK      5000.00 d.zúč. 01.12.2022částka v Kč:        5000.00,danuse_nerudova
+2022-12-01,-15000,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.29.11.2022IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 01.12.2022částka v Kč:       15000.00,danuse_nerudova
+2022-12-01,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.29.11.2022IE  fb.me/ads       FACEBK DZ287L3CZK     24200.00 d.zúč. 01.12.2022částka v Kč:       24200.00,danuse_nerudova
+2022-12-01,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.29.11.2022IE  fb.me/ads       FACEBK ETLALKBCZK     24200.00 d.zúč. 01.12.2022částka v Kč:       24200.00,danuse_nerudova
+2022-12-01,-25,CZK,Poskytnutí debetní karty,1178,635180002,2830058223,-,,danuse_nerudova
+2022-12-01,50000,CZK,Příchozí úhrada,1178,635180002,2830058223,NEBESKÁ MONIKA,,danuse_nerudova
+2022-12-01,4001,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-12-01,1000,CZK,Příchozí úhrada,1178,635180002,2830058223,"Prokeš, Martin",drzime palce cele nasi zemi,danuse_nerudova
+2022-11-30,-50625.11,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-0006005902/0800,"IČ: 49811169, krabice, obálky",danuse_nerudova
+2022-11-30,-2200,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-2447540010/3030,"Štěpán Dudycha, sběr podpisů",danuse_nerudova
+2022-11-30,1000,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-30,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.28.11.2022IE  fb.me/ads       FACEBK DXPM2LXCZK     24200.00 d.zúč. 30.11.2022částka v Kč:       24200.00,danuse_nerudova
+2022-11-30,-15000,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.28.11.2022IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 30.11.2022částka v Kč:       15000.00,danuse_nerudova
+2022-11-30,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.28.11.2022IE  fb.me/ads       FACEBK HYPKEKPCZK     24200.00 d.zúč. 30.11.2022částka v Kč:       24200.00,danuse_nerudova
+2022-11-30,1000,CZK,Příchozí úhrada,1178,635180002,2830058223,MARTIN KOMBEREC,"DANUSE NERUDOVA, DRŽÍM PALCE",danuse_nerudova
+2022-11-30,500,CZK,Příchozí úhrada,1178,635180002,2830058223,Velička Martin,,danuse_nerudova
+2022-11-30,-15000,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.29.11.2022IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 30.11.2022částka v Kč:       15000.00,danuse_nerudova
+2022-11-30,0.01,CZK,Příchozí úhrada,1178,635180002,2830058223,Pavel Tr?ster,alkoholdrink.cz,danuse_nerudova
+2022-11-30,500000,CZK,Příchozí úhrada,1178,635180002,2830058223,VALOVA JAROSLAVA,,danuse_nerudova
+2022-11-30,500000,CZK,Příchozí úhrada,1178,635180002,2830058223,MATRIX A.S.,,danuse_nerudova
+2022-11-30,-46250,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-1883180002/5500,"IČ: 08625140, reklamní předměty",danuse_nerudova
+2022-11-30,-13068,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000123-0286160287/0100,"IČ: 06358365, catering",danuse_nerudova
+2022-11-30,-92270,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-2000045590/2010,"IČ: 27561054, reklamní předměty",danuse_nerudova
+2022-11-30,-6475,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-0247788792/0600,"IČ: 17122937, webová aplikace",danuse_nerudova
+2022-11-30,-8470,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-0183779378/0300,"IČ:24727741, zápůjčka vozidla",danuse_nerudova
+2022-11-30,-10000,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-2302113608/2010,"IČO: 73303127, Koordinace sběru podpisů",danuse_nerudova
+2022-11-30,-42379.44,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000000-2801462511/2010,"IČ: 51771799, reklamní předměty",danuse_nerudova
+2022-11-30,-3750,CZK,Tuzemská odchozí úhrada,1178,635180002,2830058223,000019-2213260227/0100,"IČ:15111482, účetní zpracování",danuse_nerudova
+2022-11-29,500000,CZK,Příchozí úhrada,1178,635180002,2830058223,FAIEREISL PAVEL,,danuse_nerudova
+2022-11-29,300000,CZK,Příchozí úhrada,1178,635180002,2830058223,Ing. Josef Koller,Danuše Nerudová - Naděje na lepší časy!,danuse_nerudova
+2022-11-29,150,CZK,Příchozí úhrada,1178,635180002,2830058223,Matějka Václav,preji Vam vyhru v prezidentske kandidature,danuse_nerudova
+2022-11-29,250,CZK,Tuzemská příchozí úhrada kartou,1178,635180002,2830058223,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2022-11-29,-24200,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.27.11.2022IE  fb.me/ads       FACEBK 57YHHKKCZK     24200.00 d.zúč. 29.11.2022částka v Kč:       24200.00,danuse_nerudova
+2022-11-29,5000,CZK,Příchozí úhrada,1178,635180002,2830058223,DVORAK MARTIN,Příspěvek na kampaň Danuše N,danuse_nerudova
+2022-11-29,-15000,CZK,Platba kartou,1178,635180002,2830058223,-,XXXXXXXXXXXX7023 d.tran.27.11.2022IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 29.11.2022částka v Kč:       15000.00,danuse_nerudova
+2022-11-29,500,CZK,Příchozí úhrada,1178,635180002,2830058223,VOLDRICHOVA MAGDA,hodně štěstí,danuse_nerudova
+2022-11-29,2000,CZK,Příchozí úhrada,1178,635180002,2830058223,Schmidt Pavel,,danuse_nerudova
+2022-11-29,0.01,CZK,Příchozí úhrada,1178,635180002,2830058223,Pavel Tr?ster,alkoholdrink.cz,danuse_nerudova
+2022-11-29,2000,CZK,Příchozí úhrada,1178,635180002,2830058223,Jan Višinka,Dar na prezidentskou kampaň Nerudová,danuse_nerudova
 2022-12-06,500,CZK,Příchozí úhrada,0,400221622,,KILIANOVA KATERINA,,danuse_nerudova
 2022-12-06,-15000,CZK,Platba kartou,0,400221622,,-,XXXXXXXXXXXX7023 d.tran.04.12.2022IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 06.12.2022částka v Kč:       15000.00,danuse_nerudova
 2022-12-06,-24200,CZK,Platba kartou,0,400221622,,-,XXXXXXXXXXXX7023 d.tran.04.12.2022IE  fb.me/ads       FACEBK VJYP2LTCZK     24200.00 d.zúč. 06.12.2022částka v Kč:       24200.00,danuse_nerudova

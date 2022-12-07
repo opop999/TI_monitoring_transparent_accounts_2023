@@ -1,4 +1,65 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2022-12-07,1000,CZK,Příchozí úhrada,,505419,3,Pokorná Marie,"Pokorná Marie,Deblín 40-dar na prezident. kampaň",pavel_fischer
+2022-12-07,2000,CZK,Příchozí úhrada,,505419,3,HOLIK JIRI,Přísp. PF,pavel_fischer
+2022-12-06,2023,CZK,Příchozí úhrada,,505419,3,Kobylková Marcela,Vše nejlepší v r. 2023 Vám přeje rodina Kobylkova,pavel_fischer
+2022-12-06,0.01,CZK,Příchozí úhrada,,505419,3,SMETANA FRANTIŠEK,"Mám vtipný Twitter, dejte mi follow: @fr_sme",pavel_fischer
+2022-12-06,1000,CZK,Příchozí úhrada,,505419,3,RŮŽIČKA PAVEL,na tramvaje v Plzni :),pavel_fischer
+2022-12-06,0.01,CZK,Příchozí úhrada,,505419,3,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2022-12-06,1000,CZK,Příchozí úhrada,,505419,3,TRUNECEK JAN,123201,pavel_fischer
+2022-12-06,5000,CZK,Příchozí úhrada,,505419,3,DOLEZAL JAN,podporuji Pavla Fischera,pavel_fischer
+2022-12-05,5000,CZK,Příchozí úhrada,,505419,3,VACULA JIŘÍ,,pavel_fischer
+2022-12-05,1000,CZK,Příchozí úhrada,,505419,3,SAROFINOVA LUDMILA,L.Sarofinová,pavel_fischer
+2022-12-05,1000,CZK,Příchozí úhrada,,505419,3,MUDr.Pachner Martin,,pavel_fischer
+2022-12-05,1000,CZK,Příchozí úhrada,,505419,3,Hašek Václav,,pavel_fischer
+2022-12-05,0.01,CZK,Příchozí úhrada,,505419,3,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2022-12-05,-27844.52,CZK,Tuzemská odchozí úhrada,,505419,3,000000-1002682919/2700,Tisk letáku A5 a vč.dopravy do Prahy,pavel_fischer
+2022-12-05,50000,CZK,Příchozí úhrada,,505419,3,PETR BIELESCH,"FISCHER, VYHRAJ!",pavel_fischer
+2022-12-05,1000,CZK,Příchozí úhrada,,505419,3,DOBIÁŠ MILAN,přeji Vám hodně sil ve volební kampani a Boží ochranu.,pavel_fischer
+2022-12-04,-1530.2,CZK,Platba kartou,,505419,3,-,XXXXXXXXXXXX5741 d.tran.02.12.2022CZ  C. BUDEJOVICE   BENZINA CS 018CZK      1530.20 d.zúč. 04.12.2022částka v Kč:        1530.20,pavel_fischer
+2022-12-04,1000,CZK,Příchozí úhrada,,505419,3,JIŘÍ PALEČEK - VÝR,,pavel_fischer
+2022-12-03,500,CZK,Příchozí úhrada,,505419,3,Libuše Kolesíková,,pavel_fischer
+2022-12-03,-17000,CZK,Tuzemská odchozí úhrada,,505419,3,000000-0304048310/0300,vrácení rozdílu mylně zaslané výšepeněžního daru,pavel_fischer
+2022-12-03,-1460.47,CZK,Tuzemská odchozí úhrada,,505419,3,000000-2300563058/2010,Tisk letáku A5 Olomouc,pavel_fischer
+2022-12-03,-65000,CZK,Tuzemská odchozí úhrada,,505419,3,000000-1944039329/0800," p.r., mediální a strategická komunikace",pavel_fischer
+2022-12-03,-2057,CZK,Tuzemská odchozí úhrada,,505419,3,000000-7107736001/5500,Doprava vytištěných bannerů,pavel_fischer
+2022-12-03,10000,CZK,Příchozí úhrada,,505419,3,František Kudrna,"F. Kudrna, Hrudičkova 2110, Praha 4",pavel_fischer
+2022-12-03,-47266.36,CZK,Tuzemská odchozí úhrada,,505419,3,000000-0258861000/0300,Tisk bannerů PF Prezident 2023,pavel_fischer
+2022-12-02,1000,CZK,Příchozí úhrada,,505419,3,"Blatná, Romana",na kampaň P.Fischera,pavel_fischer
+2022-12-02,1000,CZK,Příchozí úhrada,,505419,3,PETR KOŽUŠNÍK,,pavel_fischer
+2022-12-02,5000,CZK,Příchozí úhrada,,505419,3,Jozef Izrael,,pavel_fischer
+2022-12-02,2023,CZK,Příchozí úhrada,,505419,3,Miroslav Bohm,Věřím Vám. Hodně štěstí.,pavel_fischer
+2022-12-02,1000,CZK,Příchozí úhrada,,505419,3,Bedřich Salátek,Salátek Bedřich dar,pavel_fischer
+2022-12-02,-400,CZK,Platba kartou,,505419,3,-,XXXXXXXXXXXX6091 d.tran.01.12.2022IE  fb.me/ads       FACEBK LQHH7LBCZK       400.00 d.zúč. 02.12.2022částka v Kč:         400.00,pavel_fischer
+2022-12-02,1000,CZK,Příchozí úhrada,,505419,3,KOŽUŠNÍK PETR,P.F. transakční účet,pavel_fischer
+2022-12-02,-394.36,CZK,Platba kartou,,505419,3,-,XXXXXXXXXXXX6091 d.tran.30.11.2022IE  fb.me/ads       FACEBK MFFBZLTCZK       394.36 d.zúč. 02.12.2022částka v Kč:         394.36,pavel_fischer
+2022-12-02,-1578,CZK,Platba kartou,,505419,3,-,XXXXXXXXXXXX5741 d.tran.30.11.2022CZ  VELKA BITES     BENZINA CS 051CZK      1578.00 d.zúč. 02.12.2022částka v Kč:        1578.00,pavel_fischer
+2022-12-02,0.01,CZK,Příchozí úhrada,,505419,3,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2022-12-01,0.01,CZK,Příchozí úhrada,,505419,3,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2022-12-01,20000,CZK,Příchozí úhrada,,505419,3,SVOBODA PAVEL,O co méně máš proti konkurenci na účtu o to více máš v srdci..... :-),pavel_fischer
+2022-12-01,15000,CZK,Příchozí úhrada,,505419,3,"Jůza, Václav","Chci prezidenta, co nebude vlát povětru",pavel_fischer
+2022-12-01,1500,CZK,Příchozí úhrada,,505419,3,Kolář Petr,At_to_vyjde,pavel_fischer
+2022-12-01,0,CZK,Cena za vedení účtu,,505419,3,,Děkujeme za aktivní využívání služeb.                                 ,pavel_fischer
+2022-12-01,-1340,CZK,Tuzemská odchozí úhrada,,505419,3,000019-1801688399/0800,Pronájem sálu pro uspořádání besedy s občany,pavel_fischer
+2022-12-01,5000,CZK,Příchozí úhrada,,505419,3,IVANA HAJICKOVA,"PAVEL FISHER, MATE MOU PODPORU A POSILAM PRISPEVEK NA KAMPAN.",pavel_fischer
+2022-12-01,1500,CZK,Příchozí úhrada,,505419,3,POKORNÝ JAROSLAV,,pavel_fischer
+2022-12-01,-24684,CZK,Tuzemská odchozí úhrada,,505419,3,000000-0190058296/0300,Polep vozů pro kampaň,pavel_fischer
+2022-11-30,100,CZK,Příchozí úhrada,,505419,3,Matěj Milev,Dar na prezidentskou kampaň PF,pavel_fischer
+2022-11-30,10000,CZK,Příchozí úhrada,,505419,3,"Mucha, Ignác",PF 2023,pavel_fischer
+2022-11-30,500,CZK,Příchozí úhrada,,505419,3,"Jonášková, Štěpánka","Antonín Jonášek, (dar)",pavel_fischer
+2022-11-30,0.01,CZK,Příchozí úhrada,,505419,3,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2022-11-30,1000,CZK,Příchozí úhrada,,505419,3,JIRI SVOBODA,"PAVEL FISCHER, PLATBA",pavel_fischer
+2022-11-30,1000,CZK,Příchozí úhrada,,505419,3,STEPANEK PAVEL,příspěvek volby Štěpánkovi,pavel_fischer
+2022-11-30,500,CZK,Příchozí úhrada,,505419,3,Martin Navrátil,Martin Navrátil.P.Jilemnického 2485/16  Most  tel 608555489,pavel_fischer
+2022-11-30,-1500,CZK,Tuzemská odchozí úhrada,,505419,3,000115-1142140257/0100,Pronájem prostor pro setkání s občany v Mikulově,pavel_fischer
+2022-11-30,-34800,CZK,Tuzemská odchozí úhrada,,505419,3,000000-3572698399/0800,Propagační předměty pro kampaň,pavel_fischer
+2022-11-29,333,CZK,Příchozí úhrada,,505419,3,MICHAL HLINA,"PF, PŘEVOD PROSTŘEDKŮ",pavel_fischer
+2022-11-29,1000,CZK,Příchozí úhrada,,505419,3,Ing.Vidlák Martin,,pavel_fischer
+2022-11-29,1000,CZK,Příchozí úhrada,,505419,3,Ing.Konečný Antonín,,pavel_fischer
+2022-11-29,-1006.6,CZK,Platba kartou,,505419,3,-,XXXXXXXXXXXX5741 d.tran.27.11.2022CZ  PRAHA           PETRONAL OIL PCZK      1006.60 d.zúč. 29.11.2022částka v Kč:        1006.60,pavel_fischer
+2022-11-29,500,CZK,Příchozí úhrada,,505419,3,VYPLASIL LADISLAV,,pavel_fischer
+2022-11-29,-92323,CZK,Tuzemská odchozí úhrada,,505419,3,000000-7107736001/5500,Tisk a výroba bannerů,pavel_fischer
+2022-11-29,0.01,CZK,Příchozí úhrada,,505419,3,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2022-11-29,-2000,CZK,Tuzemská odchozí úhrada,,505419,3,000000-2800906299/2010,"Pronájem prostoru, zvučení, osvětlení, energie",pavel_fischer
 2022-12-06,5000,CZK,Příchozí úhrada,0,,,DOLEZAL JAN,podporuji Pavla Fischera,pavel_fischer
 2022-12-05,1000,CZK,Příchozí úhrada,0,,,Hašek Václav,,pavel_fischer
 2022-12-05,1000,CZK,Příchozí úhrada,0,,,MUDr.Pachner Martin,,pavel_fischer
