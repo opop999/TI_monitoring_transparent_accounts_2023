@@ -1,4 +1,11 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-08,294,CZK,Okamžitá příchozí platba,KUROPČÁK JAN,Dar na kampaň,,,,KUROPČÁK JAN,petr_pavel
+2022-12-08,20000,CZK,Okamžitá příchozí platba,Michal Bína,Lvi žerou prvni,,,,Michal Bína,petr_pavel
+2022-12-08,50000,CZK,Bezhotovostní příjem,H&H MEDICA S.R.O.,Miroslav Havrlant,308,7101265512,0,H&H MEDICA S.R.O.,petr_pavel
+2022-12-08,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-08,-84696,CZK,Bezhotovostní platba,,,,2022011,,"IČ: 14279851, sociální média",petr_pavel
+2022-12-08,2000,CZK,Bezhotovostní příjem,ŠÍN ROBERT,Dar na kampan generala Pavla,0,0,0,ŠÍN ROBERT,petr_pavel
+2022-12-07,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 5RF44J3R32, fb.me/ads, IE, dne 7.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 5RF44J3R32, fb.me/ads, IE, dne 7.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-07,200000,CZK,Bezhotovostní příjem,"IK-real, a.s.",,,50266,,"IK-real, a.s.",petr_pavel
 2022-12-07,-11253,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
 2022-12-07,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel

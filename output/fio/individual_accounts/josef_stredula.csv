@@ -1,4 +1,8 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-08,-250000,CZK,Bezhotovostní platba,,Josef Středula,308,220100083,,Red Elephant - vedení volební kampaně a PR podpora,josef_stredula
+2022-12-08,300000,CZK,Platba převodem uvnitř banky,SPOLEČNĚ PRO LIDI z.s.,Společně pro lidi z.s. - dar,,122022,,Společně pro lidi z.s. - dar,josef_stredula
+2022-12-08,1000,CZK,Bezhotovostní příjem,DANIEL RAMPACEK,"PRAVICOVÉ A KONZERVATIVNÍ VLÁDĚ CHYBÍ V OBOU KOMORÁCH KONSTRUKTIVNÍ LEVICOVÁ OPOZICE, NYNÍ V KAMPANI I JAKO PREZIDENT, BIJTE SE ZA NÁS",,,,DANIEL RAMPACEK,josef_stredula
+2022-12-08,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-07,99.99,CZK,Okamžitá příchozí platba,Mezera Šimon,levice hype,0,,,Mezera Šimon,josef_stredula
 2022-12-07,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
