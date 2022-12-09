@@ -1,4 +1,15 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-09,-7500,CZK,Okamžitá odchozí platba,,,,202221,,produkce předvolebního setkání - benefiční koncert pro pro zdravotně postižené,marek_hilser
+2022-12-09,-50000,CZK,Okamžitá odchozí platba,,,,,,"faktura 2022/02 - poradenské služby, komunikace s médii, produkční práce říjen 2022 PJ",marek_hilser
+2022-12-09,200000,CZK,Platba převodem uvnitř banky,„Marek Hilšer do Senátu“,Převod prostředků na prez. kampaň z provozního účtu MHS,,,,Převod prostředků na prez. kampaň z provozního účtu MHS,marek_hilser
+2022-12-09,-70000,CZK,Okamžitá odchozí platba,,,,,,"Faktura  - 10 - Organizace prezidentské kampaně, organizace volebního týmu, produkční práce.",marek_hilser
+2022-12-09,-80000,CZK,Okamžitá odchozí platba,,,,,,faktura 79/2022 - Výroba předvolebního videoklipu - záloha,marek_hilser
+2022-12-09,-40000,CZK,Platba převodem uvnitř banky,,,,,,Faktura 2022010 - správa sociálních sítí 14.10 -14.11.2022,marek_hilser
+2022-12-09,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-12-09,-9000,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 8.12.2022, částka  9000.00 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 8.12.2022, částka  9000.00 CZK",marek_hilser
+2022-12-08,100,CZK,Platba převodem uvnitř banky,"Fejer, Robert","Robert Fejer, nar. 27.10.1972, 289 22 Lysá nad Labem",,,,"Robert Fejer, nar. 27.10.1972, 289 22 Lysá nad Labem",marek_hilser
+2022-12-08,2000,CZK,Okamžitá příchozí platba,MgA. Michal Kráčmer,"Michal Kráčmer, 18. 6. 1988, Litvínov; Neodstupujte, držím Vám palce, jste vzorem pro politiky!",,,,MgA. Michal Kráčmer,marek_hilser
+2022-12-08,777,CZK,Okamžitá příchozí platba,Matouš Hájek,"Matouš Hájek, 14.4.1991, Praha",,,,Matouš Hájek,marek_hilser
 2022-12-08,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-12-07,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-12-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser

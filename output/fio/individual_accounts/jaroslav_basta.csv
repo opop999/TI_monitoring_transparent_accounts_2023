@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-09,100000,CZK,Bezhotovostní příjem,BAŠTA JAROSLAV,JAROSLA BAŠTA,0,480515,0,BAŠTA JAROSLAV,jaroslav_basta
 2022-12-08,1300,CZK,Platba převodem uvnitř banky,"Bělota, Ladislav","Podpora Jaroslavu Baštovi - Ladislav Bělota, IČO 10572058, sídlo M. Knesla 4020, Zlín",,,,"Podpora Jaroslavu Baštovi - Ladislav Bělota, IČO 10572058, sídlo M. Knesla 4020, Zlín",jaroslav_basta
 2022-12-07,1000,CZK,Okamžitá příchozí platba,Strakoň Kamil,Bašta Jaroslav.Volby prezidenta republiky 2023,0,,,Strakoň Kamil,jaroslav_basta
 2022-12-07,405785,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta

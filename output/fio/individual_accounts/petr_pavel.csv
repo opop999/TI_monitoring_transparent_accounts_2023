@@ -1,4 +1,14 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-09,30000,CZK,Bezhotovostní příjem,FOLDES TOMAS,podpora Pavel - Tomáš Földeš,,0,,FOLDES TOMAS,petr_pavel
+2022-12-09,1500,CZK,Okamžitá příchozí platba,ING. ALEŠ KOVÁŘ,,,,,ING. ALEŠ KOVÁŘ,petr_pavel
+2022-12-09,1000,CZK,Okamžitá příchozí platba,JIRÁSKOVÁ MARTINA,Dar na kampan generala Pavla,,,,JIRÁSKOVÁ MARTINA,petr_pavel
+2022-12-09,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-09,1000,CZK,Platba převodem uvnitř banky,"Jarník, Martin",Dar NA KAMPAŇ GENERÁLA PAVLA,,,,Dar NA KAMPAŇ GENERÁLA PAVLA,petr_pavel
+2022-12-09,2000,CZK,Bezhotovostní příjem,VACLAV PRENOSIL,PŘEVOD PROSTŘEDKŮ,,,,VACLAV PRENOSIL,petr_pavel
+2022-12-09,-399999.82,CZK,Platba převodem uvnitř banky,,,,20220180,,"IČ: 07323841, mediální náklady",petr_pavel
+2022-12-09,-5690.63,CZK,Bezhotovostní platba,,,,20222165,,"IČ: 25753771, tisk",petr_pavel
+2022-12-09,100000,CZK,Bezhotovostní příjem,SADÍLEK JIŘÍ,dar sml gen Pavel,308,610327,0,SADÍLEK JIŘÍ,petr_pavel
+2022-12-08,1,CZK,Okamžitá příchozí platba,Tomáš Zoul,Korunu prezidentovi :),,,,Tomáš Zoul,petr_pavel
 2022-12-08,294,CZK,Okamžitá příchozí platba,KUROPČÁK JAN,Dar na kampaň,,,,KUROPČÁK JAN,petr_pavel
 2022-12-08,20000,CZK,Okamžitá příchozí platba,Michal Bína,Lvi žerou prvni,,,,Michal Bína,petr_pavel
 2022-12-08,50000,CZK,Bezhotovostní příjem,H&H MEDICA S.R.O.,Miroslav Havrlant,308,7101265512,0,H&H MEDICA S.R.O.,petr_pavel
