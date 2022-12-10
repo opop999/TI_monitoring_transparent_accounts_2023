@@ -1,12 +1,12 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2022-12-05,-50000,CZK,Tuzemská odchozí úhrada,,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
+2022-12-05,15000,CZK,Příchozí úhrada,,,,GRILL ROBERT,robert grill,tomas_zima
+2022-12-02,50000,CZK,Příchozí úhrada,,,,"Pačes Václav,DrSc.",Držíme palce. Václav a Magda Pačesovi,tomas_zima
 2022-12-05,15000,CZK,Příchozí úhrada,0,60,,GRILL ROBERT,robert grill,tomas_zima
 2022-12-05,-50000,CZK,Tuzemská odchozí úhrada,0,60,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
 2022-12-02,50000,CZK,Příchozí úhrada,0,60,,"Pačes Václav,DrSc.",Držíme palce. Václav a Magda Pačesovi,tomas_zima
 2022-12-01,0.82,CZK,Kreditní úrok,0,60,,,,tomas_zima
 2022-12-01,-0.12,CZK,Daň z úroku,0,60,,-,,tomas_zima
-2022-12-05,-50000,CZK,Tuzemská odchozí úhrada,,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
-2022-12-05,15000,CZK,Příchozí úhrada,,,,GRILL ROBERT,robert grill,tomas_zima
-2022-12-02,50000,CZK,Příchozí úhrada,,,,"Pačes Václav,DrSc.",Držíme palce. Václav a Magda Pačesovi,tomas_zima
 2022-12-01,-0.12,CZK,Daň z úroku,,,,-,,tomas_zima
 2022-12-01,0.82,CZK,Kreditní úrok,,,,,,tomas_zima
 2022-11-28,-50000,CZK,Tuzemská odchozí úhrada,,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima

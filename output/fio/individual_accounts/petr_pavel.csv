@@ -1,4 +1,38 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-10,-74842,CZK,Bezhotovostní platba,,,,202207,,"IČ: 17121302, komunikace",petr_pavel
+2022-12-10,-50000,CZK,Bezhotovostní platba,,,,20220004,,"IČ: 07437455, mediální služby",petr_pavel
+2022-12-10,-10000,CZK,Bezhotovostní platba,,,,,,Jiří Němec DPP,petr_pavel
+2022-12-10,-20570,CZK,Bezhotovostní platba,,,,320220512,,"IČ: 27733823, web",petr_pavel
+2022-12-10,-55000,CZK,Bezhotovostní platba,,,,2322,,"IČ: 66870305, grafika",petr_pavel
+2022-12-10,-4400,CZK,Platba převodem uvnitř banky,,,,21220030,,"IČ: 62595156, supervize",petr_pavel
+2022-12-10,-65000,CZK,Bezhotovostní platba,,,,20220012,,"IČ: 05177880, marketing",petr_pavel
+2022-12-10,-149721.24,CZK,Platba cizoměnová či zahraniční,,,,30112022,,"IČ: 48260045, marketing",petr_pavel
+2022-12-10,-69000,CZK,Platba převodem uvnitř banky,,,,2022040,,"IČ: 07169442, video",petr_pavel
+2022-12-10,-78650,CZK,Bezhotovostní platba,,,,2022141,,"IČ: 69219672, marketing",petr_pavel
+2022-12-10,-51900,CZK,Bezhotovostní platba,,,,152022,,"IČ: 88010520, AV produkce",petr_pavel
+2022-12-10,-30000,CZK,Bezhotovostní platba,,,,1222110002,,"IČ: 71967702, marketing",petr_pavel
+2022-12-10,-45000,CZK,Bezhotovostní platba,,,,2022000029,,"IČ: 87556669, marketing",petr_pavel
+2022-12-10,-4800,CZK,Bezhotovostní platba,,,,221130,,"IČ: 45752737, foto",petr_pavel
+2022-12-10,-65000,CZK,Bezhotovostní platba,,,,42022,,"IČ: 87695022, vedení kampaně",petr_pavel
+2022-12-10,-40500,CZK,Bezhotovostní platba,,,,20220006,,"IČ: 17191173, služby",petr_pavel
+2022-12-10,-20000,CZK,Platba převodem uvnitř banky,,,,462022,,"IČ: 69328480, foto",petr_pavel
+2022-12-10,-22500,CZK,Bezhotovostní platba,,,,202226,,"IČ: 61274925, služby",petr_pavel
+2022-12-10,-60000,CZK,Bezhotovostní platba,,,,202211,,"IČ: 02532352, služby",petr_pavel
+2022-12-10,-10000,CZK,Bezhotovostní platba,,,,20220025,,"IČ: 05367751, koordinace podporovatelů",petr_pavel
+2022-12-10,-65000,CZK,Bezhotovostní platba,,,,2211,,"IČ: 08991278, služby",petr_pavel
+2022-12-10,-50000,CZK,Bezhotovostní platba,,,,20221101,,"IČ: 86586513, marketing",petr_pavel
+2022-12-10,-28000,CZK,Bezhotovostní platba,,,,71,,"IČ: 08318387, video",petr_pavel
+2022-12-10,-10000,CZK,Bezhotovostní platba,,,,70,,"IČ: 08318387, video",petr_pavel
+2022-12-09,100000,CZK,Okamžitá příchozí platba,Jiří Střelický,Na kampan,,,,Jiří Střelický,petr_pavel
+2022-12-09,-23938.31,CZK,Karetní transakce,,"Nákup: FACEBK W364NH3Q32, fb.me/ads, IE, dne 8.12.2022, částka  23938.31 CZK",,7999,,"Nákup: FACEBK W364NH3Q32, fb.me/ads, IE, dne 8.12.2022, částka  23938.31 CZK",petr_pavel
+2022-12-09,-7598,CZK,Okamžitá odchozí platba,,,,,,"IČ: 88010520, produkční náklady",petr_pavel
+2022-12-09,-842.3,CZK,Okamžitá odchozí platba,,,,,,"IČ: 86586513, produkční náklady",petr_pavel
+2022-12-09,-148.7,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-09,-1146.25,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-09,-842.3,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-09,-218,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-09,-293,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-09,30000,CZK,Bezhotovostní příjem,HRDÝ ROMAN,Příspěvek na kampaň generála Pavla,0,9122022,0,HRDÝ ROMAN,petr_pavel
 2022-12-09,30000,CZK,Bezhotovostní příjem,FOLDES TOMAS,podpora Pavel - Tomáš Földeš,,0,,FOLDES TOMAS,petr_pavel
 2022-12-09,1500,CZK,Okamžitá příchozí platba,ING. ALEŠ KOVÁŘ,,,,,ING. ALEŠ KOVÁŘ,petr_pavel
 2022-12-09,1000,CZK,Okamžitá příchozí platba,JIRÁSKOVÁ MARTINA,Dar na kampan generala Pavla,,,,JIRÁSKOVÁ MARTINA,petr_pavel
