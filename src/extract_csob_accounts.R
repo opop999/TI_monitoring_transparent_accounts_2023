@@ -140,13 +140,19 @@ get_csob_transactions <-
         transactions_list[[names(bank_accounts)[i]]][["accountedTransaction"]] %>%
         unite(
           col = message_for_recipient,
-          c(
-            "transactionTypeChoice.domesticPayment.message.message1",
-            "transactionTypeChoice.domesticPayment.message.message2",
-            "transactionTypeChoice.domesticPayment.message.message3",
-            "transactionTypeChoice.domesticPayment.message.message4"
+          any_of(
+            c(
+              "transactionTypeChoice.domesticPayment.message.message1",
+              "transactionTypeChoice.domesticPayment.message.message2",
+              "transactionTypeChoice.domesticPayment.message.message3",
+              "transactionTypeChoice.domesticPayment.message.message4",
+              "transactionTypeChoice.otherTransaction.narrative.narrative1",
+              "transactionTypeChoice.otherTransaction.narrative.narrative2",
+              "transactionTypeChoice.otherTransaction.narrative.narrative3",
+              "transactionTypeChoice.otherTransaction.narrative.narrative4"
+            )
           ),
-          sep = "",
+          sep = " ",
           na.rm = TRUE
         ) %>%
         transmute(
@@ -156,26 +162,46 @@ get_csob_transactions <-
           ),
           amount = as.numeric(baseInfo.accountAmountData.amount),
           type = as.character(baseInfo.transactionDescription),
-          contra_account_name = as.character(transactionTypeChoice.domesticPayment.partyName),
-          contra_account_number = as.numeric(
-            transactionTypeChoice.domesticPayment.partyAccount.domesticAccount.accountNumber
-          ),
-          contra_account_bank_code = as.numeric(
-            transactionTypeChoice.domesticPayment.partyAccount.domesticAccount.bankCode
-          ),
+          contra_account_name = if ("transactionTypeChoice.domesticPayment.partyName" %in% colnames(.)) {
+            as.character(transactionTypeChoice.domesticPayment.partyName)
+          } else if ("transactionTypeChoice.otherTransaction.partyName" %in% colnames(.)) {
+            as.character(transactionTypeChoice.otherTransaction.partyName)
+          } else {
+            NA_character_
+          },
+          contra_account_number = if ("transactionTypeChoice.domesticPayment.partyAccount.domesticAccount.accountNumber" %in% colnames(.)) {
+            as.numeric(
+              transactionTypeChoice.domesticPayment.partyAccount.domesticAccount.accountNumber
+            )
+          } else if ("transactionTypeChoice.otherTransaction.partyAccount" %in% colnames(.)) {
+            as.numeric(transactionTypeChoice.otherTransaction.partyAccount)
+          } else {
+            NA_real_
+          },
+          contra_account_bank_code = if ("transactionTypeChoice.domesticPayment.partyAccount.domesticAccount.bankCode" %in% colnames(.)) {
+            as.numeric(transactionTypeChoice.domesticPayment.partyAccount.domesticAccount.bankCode)
+          } else {
+            NA_real_
+          },
           message_for_recipient = as.character(message_for_recipient),
           ks = if ("transactionTypeChoice.domesticPayment.symbols.constantSymbol" %in% colnames(.)) {
             as.numeric(transactionTypeChoice.domesticPayment.symbols.constantSymbol)
+          } else if ("transactionTypeChoice.otherTransaction.symbols.constantSymbol" %in% colnames(.)) {
+            as.numeric(transactionTypeChoice.otherTransaction.symbols.constantSymbol)
           } else {
             NA_real_
           },
           vs = if ("transactionTypeChoice.domesticPayment.symbols.variableSymbol" %in% colnames(.)) {
             as.numeric(transactionTypeChoice.domesticPayment.symbols.variableSymbol)
+          } else if ("transactionTypeChoice.otherTransaction.symbols.variableSymbol" %in% colnames(.)) {
+            as.numeric(transactionTypeChoice.otherTransaction.symbols.variableSymbol)
           } else {
             NA_real_
           },
-          ss = if ("transactionTypeChoice.domesticPayment.symbols.variableSymbol" %in% colnames(.)) {
-            as.numeric(transactionTypeChoice.domesticPayment.symbols.variableSymbol)
+          ss = if ("transactionTypeChoice.domesticPayment.symbols.specificSymbol" %in% colnames(.)) {
+            as.numeric(transactionTypeChoice.domesticPayment.symbols.specificSymbol)
+          } else if ("transactionTypeChoice.otherTransaction.symbols.specificSymbol" %in% colnames(.)) {
+            as.numeric(transactionTypeChoice.otherTransaction.symbols.specificSymbol)
           } else {
             NA_real_
           },
