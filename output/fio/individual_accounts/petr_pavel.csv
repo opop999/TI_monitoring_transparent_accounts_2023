@@ -1,4 +1,9 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-11,-757574,CZK,Bezhotovostní platba,,,,7701011324,,"IČ: 25047965, OOH plochy",petr_pavel
+2022-12-10,7300,CZK,Okamžitá příchozí platba,Javaher Troy Kurosh,Win!,0,,,Javaher Troy Kurosh,petr_pavel
+2022-12-10,2000,CZK,Okamžitá příchozí platba,Vopršal Michal,,0,,,Vopršal Michal,petr_pavel
+2022-12-10,-2343.64,CZK,Karetní transakce,,"Nákup: MailChimp, 177-09880633, US, dne 9.12.2022, částka  93.92 EUR",,7999,,"Nákup: MailChimp, 177-09880633, US, dne 9.12.2022, částka  93.92 EUR",petr_pavel
+2022-12-10,1000,CZK,Okamžitá příchozí platba,Sýkora Filip,Dar na kampan generala Pavla,0,,,Sýkora Filip,petr_pavel
 2022-12-10,-74842,CZK,Bezhotovostní platba,,,,202207,,"IČ: 17121302, komunikace",petr_pavel
 2022-12-10,-50000,CZK,Bezhotovostní platba,,,,20220004,,"IČ: 07437455, mediální služby",petr_pavel
 2022-12-10,-10000,CZK,Bezhotovostní platba,,,,,,Jiří Němec DPP,petr_pavel
