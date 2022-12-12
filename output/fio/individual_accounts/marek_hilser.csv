@@ -1,4 +1,6 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-12,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,,,Pavel Tr?ster,marek_hilser
+2022-12-11,5000,CZK,Okamžitá příchozí platba,"MUDr.Hönig Jiří,ml.","MUDr.Jiří Hönig, nar.7.9.1976, Chomutov",0,,,"MUDr.Hönig Jiří,ml.",marek_hilser
 2022-12-09,10000,CZK,Okamžitá příchozí platba,MUDr.Klézl Zdeněk,"Zdeněk Klézl, 20.10.1956, Praha 7",0,,,MUDr.Klézl Zdeněk,marek_hilser
 2022-12-09,-7500,CZK,Okamžitá odchozí platba,,,,202221,,produkce předvolebního setkání - benefiční koncert pro pro zdravotně postižené,marek_hilser
 2022-12-09,-50000,CZK,Okamžitá odchozí platba,,,,,,"faktura 2022/02 - poradenské služby, komunikace s médii, produkční práce říjen 2022 PJ",marek_hilser

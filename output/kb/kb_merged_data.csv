@@ -1,4 +1,24 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
+001-12122022 1602 602022 003951,2022-12-12,400000,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
+361-12122022 1086 086145 511303,2022-12-12,0.01,Příchozí platba,Josef Sadílek,"Zajímá mě, proč Bureš nechodí do práce, za kterou je placený z mých daní. Proč má takový absentér tu drzost kandidovat na prezidenta?",CZK,0,0,0,andrej_babis
+361-12122022 1086 086146 511223,2022-12-12,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","MY, HLAVY VEPŘOVÉ, CHCEME NA HRADĚESTÉBÁKA, LHÁŘE A VELKOZLODĚJE A ZA KOBLIHU DRŽÍME SE VĚRNĚ ANU!",CZK,0,0,0,andrej_babis
+361-12122022 1086 086146 509827,2022-12-12,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,CZK,0,0,0,andrej_babis
+120-20221212 T02AR0HQSI04B,2022-12-12,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221212 T02AR0HQSI04G,2022-12-12,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
+120-20221212 T02AR0HQSI04A,2022-12-12,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221212 2143030553,2022-12-12,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221212 2143045748,2022-12-12,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221212 2148081743,2022-12-12,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221212 2148080517,2022-12-12,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM ČR? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221212 2143043245,2022-12-12,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221212 2148083406,2022-12-12,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221212 00738314873,2022-12-12,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+361-11122022 1086 086148 507704,2022-12-12,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",DAR NA DOŽIVOTNÍ DOVOLENOU NA KRYMU ČI SIBIŘI PRO VŠECHNY VLASTIZRÁDCE A ZAKLÍNAČE ANU,CZK,0,0,0,andrej_babis
+361-11122022 1086 086146 504317,2022-12-12,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","ŽE JE ESTÉBÁK, LHÁŘ, ZLODĚJ A PRÁSKAČ? NÁM VEPŘOHLAVŮM TO NEVADÍ, NAŠE VIDLE JSOU OSTRÉ A SVĚRAČE ANU PEVNĚ SEVŘENÉ!",CZK,0,0,0,andrej_babis
+001-10122022 1602 602021 901011,2022-12-12,0.1,Příchozí platba,DIHEL LUKÁŠ,"DANUŠE NA HRAD, máš to na tepláky",CZK,0,0,0,andrej_babis
+361-10122022 1086 086143 101847,2022-12-12,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","30 TISÍC MRTVÝCH ČECHŮ - MATEK, OTCŮ, SESTER A BRATRŮ ZA VEDENÍ BEST-IN-COVID PRORUSKÉHO KOBLIHÁŘE, ZLODĚJE A LHÁŘE, VZPOMÍNÁME!",CZK,0,0,0,andrej_babis
+361-10122022 1086 086142 100194,2022-12-12,0.01,Příchozí platba,"Rezek, Milan",komunistický STBák by rád prezidentem : = ) nauč se česky,CZK,0,0,0,andrej_babis
+361-10122022 1086 086149 100190,2022-12-12,0.01,Příchozí platba,"Rezek, Milan",trestně stíhanému STBákovy,CZK,0,0,0,andrej_babis
 120-20221209 2139700845,2022-12-09,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
 120-20221209 00737348363,2022-12-09,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20221209 2148085904,2022-12-09,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis

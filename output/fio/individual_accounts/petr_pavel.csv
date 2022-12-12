@@ -1,4 +1,15 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-12,100000,CZK,Okamžitá příchozí platba,Kmoch Josef,,0,,,Kmoch Josef,petr_pavel
+2022-12-12,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,,,Pavel Tr?ster,petr_pavel
+2022-12-12,-25652,CZK,Bezhotovostní platba,,,,11622315,,"IČ: 00094897, pronájem",petr_pavel
+2022-12-12,1111,CZK,Bezhotovostní příjem,BINDL ALES,,,0,,BINDL ALES,petr_pavel
+2022-12-12,50000,CZK,Bezhotovostní příjem,PRAZMA VOJTECH,Pražma,308,31031943,,PRAZMA VOJTECH,petr_pavel
+2022-12-12,2000,CZK,Bezhotovostní příjem,VAPENIK RENE,Příspěvek na kampaň generála Pavla,308,0,,VAPENIK RENE,petr_pavel
+2022-12-12,100000,CZK,Bezhotovostní příjem,APFELTHALER LADISLAV,finanční dar - podpora kandidaturyna prezidenta ČR dle smlouvy ze dne10.12.2022,0,777760200,,APFELTHALER LADISLAV,petr_pavel
+2022-12-12,500,CZK,Bezhotovostní příjem,Otáhal Jaroslav,Dar na kampan generala Pavla,0,,,Otáhal Jaroslav,petr_pavel
+2022-12-12,50000,CZK,Bezhotovostní příjem,GYNAMB CHRUDIM S.R.O,Gynamb chrudim,0,0,0,GYNAMB CHRUDIM S.R.O,petr_pavel
+2022-12-11,500,CZK,Platba převodem uvnitř banky,"Pešík, Jiří",Dar NA KAMPAŇ GENERÁLA PAVLA,,,,Dar NA KAMPAŇ GENERÁLA PAVLA,petr_pavel
+2022-12-11,1000,CZK,Okamžitá příchozí platba,KOCOUREK JAN,,,,,KOCOUREK JAN,petr_pavel
 2022-12-11,-757574,CZK,Bezhotovostní platba,,,,7701011324,,"IČ: 25047965, OOH plochy",petr_pavel
 2022-12-10,7300,CZK,Okamžitá příchozí platba,Javaher Troy Kurosh,Win!,0,,,Javaher Troy Kurosh,petr_pavel
 2022-12-10,2000,CZK,Okamžitá příchozí platba,Vopršal Michal,,0,,,Vopršal Michal,petr_pavel
