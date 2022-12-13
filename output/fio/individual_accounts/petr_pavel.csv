@@ -1,4 +1,19 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-13,0.01,CZK,Bezhotovostní příjem,SKLENAROVA DOROTA,Jedině Danušku,,0,,SKLENAROVA DOROTA,petr_pavel
+2022-12-13,400,CZK,Okamžitá příchozí platba,Eckhardt Adam,"Pro čestného chlapa, který dokáže přiznat chybu a za kterého se nemusím stydět. Díky!",0,,,Eckhardt Adam,petr_pavel
+2022-12-13,25000,CZK,Bezhotovostní příjem,AUTOKEJVAL S.R.O.,Dar na kampaň AUTOKEJVAL s.r.o.,,0,,AUTOKEJVAL S.R.O.,petr_pavel
+2022-12-13,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,,,Pavel Tr?ster,petr_pavel
+2022-12-13,800,CZK,Bezhotovostní příjem,ROŠTOK RADEK,,,,,ROŠTOK RADEK,petr_pavel
+2022-12-13,5000,CZK,Bezhotovostní příjem,SEIDLOVA IVA,podpora kandidatury GPP .,,14751026,,SEIDLOVA IVA,petr_pavel
+2022-12-13,10000,CZK,Bezhotovostní příjem,SADIL JAN,Dar na kampan generala Pavla,,0,,SADIL JAN,petr_pavel
+2022-12-13,1000,CZK,Platba převodem uvnitř banky,"Pytelka, Petr",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2022-12-13,10000,CZK,Platba převodem uvnitř banky,"Kmoch, Dušan",Hlavně vydržet !! Držím palce.,,,,Hlavně vydržet !! Držím palce.,petr_pavel
+2022-12-12,5000,CZK,Okamžitá příchozí platba,Ing.Vendrová Renata,drzim palce,0,,,Ing.Vendrová Renata,petr_pavel
+2022-12-12,1,CZK,Okamžitá příchozí platba,Vojtěch Tobiška,,,,,Vojtěch Tobiška,petr_pavel
+2022-12-12,-24200,CZK,Karetní transakce,,"Nákup: FACEBK RDBYRH3Q32, fb.me/ads, IE, dne 11.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK RDBYRH3Q32, fb.me/ads, IE, dne 11.12.2022, částka  24200.00 CZK",petr_pavel
+2022-12-12,-15401,CZK,Okamžitá odchozí platba,,,308,20223554,,"IČ: 71669043, občerstvení",petr_pavel
+2022-12-12,-5324,CZK,Bezhotovostní platba,,,,12122315,,"IČ: 00094897, pronájem",petr_pavel
+2022-12-12,777,CZK,Bezhotovostní příjem,STRÁNSKÁ JANA,"Aby nám to všem vyšlo, pro štěstí",0,0,0,STRÁNSKÁ JANA,petr_pavel
 2022-12-12,100000,CZK,Okamžitá příchozí platba,Kmoch Josef,,0,,,Kmoch Josef,petr_pavel
 2022-12-12,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,,,Pavel Tr?ster,petr_pavel
 2022-12-12,-25652,CZK,Bezhotovostní platba,,,,11622315,,"IČ: 00094897, pronájem",petr_pavel

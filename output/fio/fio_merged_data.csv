@@ -1,4 +1,19 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-13,0.01,CZK,Bezhotovostní příjem,SKLENAROVA DOROTA,Jedině Danušku,,0,,SKLENAROVA DOROTA,petr_pavel
+2022-12-13,400,CZK,Okamžitá příchozí platba,Eckhardt Adam,"Pro čestného chlapa, který dokáže přiznat chybu a za kterého se nemusím stydět. Díky!",0,,,Eckhardt Adam,petr_pavel
+2022-12-13,25000,CZK,Bezhotovostní příjem,AUTOKEJVAL S.R.O.,Dar na kampaň AUTOKEJVAL s.r.o.,,0,,AUTOKEJVAL S.R.O.,petr_pavel
+2022-12-13,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,,,Pavel Tr?ster,petr_pavel
+2022-12-13,800,CZK,Bezhotovostní příjem,ROŠTOK RADEK,,,,,ROŠTOK RADEK,petr_pavel
+2022-12-13,5000,CZK,Bezhotovostní příjem,SEIDLOVA IVA,podpora kandidatury GPP .,,14751026,,SEIDLOVA IVA,petr_pavel
+2022-12-13,10000,CZK,Bezhotovostní příjem,SADIL JAN,Dar na kampan generala Pavla,,0,,SADIL JAN,petr_pavel
+2022-12-13,1000,CZK,Platba převodem uvnitř banky,"Pytelka, Petr",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2022-12-13,10000,CZK,Platba převodem uvnitř banky,"Kmoch, Dušan",Hlavně vydržet !! Držím palce.,,,,Hlavně vydržet !! Držím palce.,petr_pavel
+2022-12-12,5000,CZK,Okamžitá příchozí platba,Ing.Vendrová Renata,drzim palce,0,,,Ing.Vendrová Renata,petr_pavel
+2022-12-12,1,CZK,Okamžitá příchozí platba,Vojtěch Tobiška,,,,,Vojtěch Tobiška,petr_pavel
+2022-12-12,-24200,CZK,Karetní transakce,,"Nákup: FACEBK RDBYRH3Q32, fb.me/ads, IE, dne 11.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK RDBYRH3Q32, fb.me/ads, IE, dne 11.12.2022, částka  24200.00 CZK",petr_pavel
+2022-12-12,-15401,CZK,Okamžitá odchozí platba,,,308,20223554,,"IČ: 71669043, občerstvení",petr_pavel
+2022-12-12,-5324,CZK,Bezhotovostní platba,,,,12122315,,"IČ: 00094897, pronájem",petr_pavel
+2022-12-12,777,CZK,Bezhotovostní příjem,STRÁNSKÁ JANA,"Aby nám to všem vyšlo, pro štěstí",0,0,0,STRÁNSKÁ JANA,petr_pavel
 2022-12-12,100000,CZK,Okamžitá příchozí platba,Kmoch Josef,,0,,,Kmoch Josef,petr_pavel
 2022-12-12,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,,,Pavel Tr?ster,petr_pavel
 2022-12-12,-25652,CZK,Bezhotovostní platba,,,,11622315,,"IČ: 00094897, pronájem",petr_pavel
@@ -100,10 +115,7 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-05,200,CZK,Bezhotovostní příjem,PROCHAZKOVA EVA,Cela rodina drzime palce a at se urputnici a dezolati treba uvztekaji,,0,,PROCHAZKOVA EVA,petr_pavel
 2022-12-05,2000,CZK,Bezhotovostní příjem,FRANK RADEK,Dar na kampan generala Pavla,,0,,FRANK RADEK,petr_pavel
 2022-12-05,150000,CZK,Bezhotovostní příjem,Ing.Krogman Petr,Dar na kampaň gen. Pavla,0,,,Ing.Krogman Petr,petr_pavel
-2022-12-04,-978.69,CZK,Karetní transakce,,"Nákup: CANVA* I03623-10332737, HTTPSCANVA.CO, US, dne 3.12.2022, částka  40.91 USD",,7999,,"Nákup: CANVA* I03623-10332737, HTTPSCANVA.CO, US, dne 3.12.2022, částka  40.91 USD",petr_pavel
-2022-12-04,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 9U5UXJBQ32, fb.me/ads, IE, dne 3.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 9U5UXJBQ32, fb.me/ads, IE, dne 3.12.2022, částka  24200.00 CZK",petr_pavel
-2022-12-04,30000,CZK,Okamžitá příchozí platba,Vladimír Bezděk,dar na prezidentskou kampan GPP,,,,Vladimír Bezděk,petr_pavel
-2022-12-04,1500,CZK,Okamžitá příchozí platba,Němec Tomáš,,0,,,Němec Tomáš,petr_pavel
+2022-12-13,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,,,Pavel Tr?ster,marek_hilser
 2022-12-12,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,,,Pavel Tr?ster,marek_hilser
 2022-12-11,5000,CZK,Okamžitá příchozí platba,"MUDr.Hönig Jiří,ml.","MUDr.Jiří Hönig, nar.7.9.1976, Chomutov",0,,,"MUDr.Hönig Jiří,ml.",marek_hilser
 2022-12-09,10000,CZK,Okamžitá příchozí platba,MUDr.Klézl Zdeněk,"Zdeněk Klézl, 20.10.1956, Praha 7",0,,,MUDr.Klézl Zdeněk,marek_hilser
@@ -124,9 +136,7 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-06,200000,CZK,Platba převodem uvnitř banky,„Marek Hilšer do Senátu“,Převod prostředků na prez. kampaň z provozního účtu MHS,,,,Převod prostředků na prez. kampaň z provozního účtu MHS,marek_hilser
 2022-12-06,1000,CZK,Bezhotovostní příjem,ANDRÁŠ STANISLAV,"Stanislav Andráš, 16. 05. 1981, Letohrad",0,0,0,ANDRÁŠ STANISLAV,marek_hilser
 2022-12-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
-2022-12-04,5000,CZK,Okamžitá příchozí platba,JIŘÍ MATĚJOVSKÝ,Jiří Matějovský 30.06.1974 Struhařov 25164,,,,JIŘÍ MATĚJOVSKÝ,marek_hilser
-2022-12-04,-1000,CZK,Karetní transakce,,"Nákup: FACEBK VFNHLH7J62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK VFNHLH7J62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.12.2022, částka  1000.00 CZK",marek_hilser
-2022-12-04,-6000,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 4.12.2022, částka  6000.00 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 4.12.2022, částka  6000.00 CZK",marek_hilser
+2022-12-13,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-12,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-11,1000,CZK,Okamžitá příchozí platba,Bc.Ďurčo Roman,Pro budoucího prezidenta,0,7777777,,Bc.Ďurčo Roman,josef_stredula
 2022-12-09,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
@@ -141,7 +151,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-05,-350000,CZK,Bezhotovostní platba,,Josef Středula,,220100080,,Vedení kampaně,josef_stredula
 2022-12-05,200000,CZK,Platba převodem uvnitř banky,SPOLEČNĚ PRO LIDI z.s.,Společně pro lidi z.s.,,122022,,Společně pro lidi z.s.,josef_stredula
 2022-12-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
-2022-12-04,2000,CZK,Platba převodem uvnitř banky,"Nozar, Lukáš",Příspěvek na kampaň,,,,Příspěvek na kampaň,josef_stredula
 2022-12-12,1488,CZK,Bezhotovostní příjem,PANOCHA JAN,dar od Jan Panocha,0,0,0,PANOCHA JAN,jaroslav_basta
 2022-12-12,-100000,CZK,Okamžitá odchozí platba,,prezidentská kampaň Jaroslava Bašty - videoklip realizace,308,20220070,,DVORAK FILM - MIROSLAV DVOŘÁK prezidentská kampaň Jaroslava Bašty - videoklip realizace,jaroslav_basta
 2022-12-12,-117810.7,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty - výroba knihy, pronájem techniky",,20221611,,"Cecílie Jílková prezidentská kampaň Jaroslava Bašty - výroba knihy, pronájem techniky",jaroslav_basta
@@ -155,6 +164,14 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-07,100000,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2022-12-07,-5005,CZK,Okamžitá odchozí platba,,3122022JB Jaroslav Bašta - prezidentské volby - pronájem sálu a občerstvení,308,2022015,,Jaroslav Bašta - prezidentské volby - pronájem sálu The Factory a občerstvení Pardubice,jaroslav_basta
 2022-12-05,-6050,CZK,Okamžitá odchozí platba,,Jaroslav Bašta prezidentské volby - inzerce Deník,,2217026267,,Deník - inzerce Jaroslav Bašta prezidentské volby,jaroslav_basta
+2022-12-04,-978.69,CZK,Karetní transakce,,"Nákup: CANVA* I03623-10332737, HTTPSCANVA.CO, US, dne 3.12.2022, částka  40.91 USD",,7999,,"Nákup: CANVA* I03623-10332737, HTTPSCANVA.CO, US, dne 3.12.2022, částka  40.91 USD",petr_pavel
+2022-12-04,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 9U5UXJBQ32, fb.me/ads, IE, dne 3.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 9U5UXJBQ32, fb.me/ads, IE, dne 3.12.2022, částka  24200.00 CZK",petr_pavel
+2022-12-04,30000,CZK,Okamžitá příchozí platba,Vladimír Bezděk,dar na prezidentskou kampan GPP,,,,Vladimír Bezděk,petr_pavel
+2022-12-04,1500,CZK,Okamžitá příchozí platba,Němec Tomáš,,0,,,Němec Tomáš,petr_pavel
+2022-12-04,5000,CZK,Okamžitá příchozí platba,JIŘÍ MATĚJOVSKÝ,Jiří Matějovský 30.06.1974 Struhařov 25164,,,,JIŘÍ MATĚJOVSKÝ,marek_hilser
+2022-12-04,-1000,CZK,Karetní transakce,,"Nákup: FACEBK VFNHLH7J62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK VFNHLH7J62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.12.2022, částka  1000.00 CZK",marek_hilser
+2022-12-04,-6000,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 4.12.2022, částka  6000.00 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 4.12.2022, částka  6000.00 CZK",marek_hilser
+2022-12-04,2000,CZK,Platba převodem uvnitř banky,"Nozar, Lukáš",Příspěvek na kampaň,,,,Příspěvek na kampaň,josef_stredula
 2022-12-03,3000,CZK,Okamžitá příchozí platba,Hojsík Petr,DAR NA KAMPAŇ - DRŽÍM PALCE!,0,630318,,Hojsík Petr,petr_pavel
 2022-12-03,-24200,CZK,Karetní transakce,,"Nákup: FACEBK P6BU8HTQ32, fb.me/ads, IE, dne 2.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK P6BU8HTQ32, fb.me/ads, IE, dne 2.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-03,-510,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
