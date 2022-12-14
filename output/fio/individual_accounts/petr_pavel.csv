@@ -1,4 +1,25 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-14,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,,,Pavel Tr?ster,petr_pavel
+2022-12-14,250000,CZK,Okamžitá příchozí platba,"Hladký Radek,Mgr.",,0,,,"Hladký Radek,Mgr.",petr_pavel
+2022-12-14,500,CZK,Bezhotovostní příjem,VACEK PETR,Dar na kampan generala Pavla,0,0,0,VACEK PETR,petr_pavel
+2022-12-14,-350000,CZK,Bezhotovostní platba,,,,250205,,"IČ: 28232771, video",petr_pavel
+2022-12-14,-22959.75,CZK,Bezhotovostní platba,,,,22210356,,"IČ: 27103269, technické vybavení",petr_pavel
+2022-12-14,-240.79,CZK,Bezhotovostní platba,,,308,22145118,,"IČ: 27920500, aquamat",petr_pavel
+2022-12-13,1000,CZK,Okamžitá příchozí platba,MUDr.Vyhnánek Radim,Dar na kampan generala Pavla,0,,,MUDr.Vyhnánek Radim,petr_pavel
+2022-12-13,-1020,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
+2022-12-13,-489,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-13,-286,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-13,-259,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-13,-256,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-13,-275,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-13,-90,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-13,-1110,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-13,-1216,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-13,-547,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-13,200,CZK,Okamžitá příchozí platba,David Forman,"Poražte Babiše a Nerudovou, máte nejlepší vizi!",,108,,David Forman,petr_pavel
+2022-12-13,55000,CZK,Okamžitá příchozí platba,MATEJU PETR,Dar na kampan generala Pavla,,590412,,MATEJU PETR,petr_pavel
+2022-12-13,100,CZK,Okamžitá příchozí platba,Tomáš Münzperger,Dar na kampan generala Pavla,,,,Tomáš Münzperger,petr_pavel
+2022-12-13,5000,CZK,Bezhotovostní příjem,FÁBERA JIŘÍ,DAR NA KAMPAŇ GENERÁLA PAVLA,0,0,0,FÁBERA JIŘÍ,petr_pavel
 2022-12-13,0.01,CZK,Bezhotovostní příjem,SKLENAROVA DOROTA,Jedině Danušku,,0,,SKLENAROVA DOROTA,petr_pavel
 2022-12-13,400,CZK,Okamžitá příchozí platba,Eckhardt Adam,"Pro čestného chlapa, který dokáže přiznat chybu a za kterého se nemusím stydět. Díky!",0,,,Eckhardt Adam,petr_pavel
 2022-12-13,25000,CZK,Bezhotovostní příjem,AUTOKEJVAL S.R.O.,Dar na kampaň AUTOKEJVAL s.r.o.,,0,,AUTOKEJVAL S.R.O.,petr_pavel
