@@ -1,4 +1,7 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-15,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
+2022-12-15,45000,CZK,Okamžitá příchozí platba,Laura Hošková,,,,,Laura Hošková,josef_stredula
+2022-12-15,7777,CZK,Bezhotovostní příjem,ZITKO PAVEL,Pro prezidenta na kampaň,,0,,ZITKO PAVEL,josef_stredula
 2022-12-14,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-13,50000,CZK,Okamžitá příchozí platba,Jan Handl,,,,,Jan Handl,josef_stredula
 2022-12-13,100000,CZK,Okamžitá příchozí platba,SKÁCELÍK PAVEL,Darovací smlouva,,0,,SKÁCELÍK PAVEL,josef_stredula

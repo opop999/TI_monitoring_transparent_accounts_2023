@@ -1,4 +1,7 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-14,-12100,CZK,Okamžitá odchozí platba,,Jaroslav Bašta prezidentské volby - inzerce Deník Hradec Králové,,2217026565,,Deník - inzerce Jaroslav Bašta prezidentské volby - Hradec Králové,jaroslav_basta
+2022-12-14,-405785,CZK,Bezhotovostní platba,,"UNIPRESS spol. s r.o., letáky A5 - prezidentská kampaň Jaroslav Bašta",,3030016359,,"UNIPRESS spol. s r.o., letáky A5 - prezidentská kampaň Jaroslav Bašta",jaroslav_basta
+2022-12-14,-178922.7,CZK,Bezhotovostní platba,,výroba OOH plakátů pro prezidentskou kampaň Jaroslava Bašty,8,,,D & S Design Prague s.r.o. výroba OOH plakátů pro prezidentskou kampaň Jaroslava Bašty,jaroslav_basta
 2022-12-12,1488,CZK,Bezhotovostní příjem,PANOCHA JAN,dar od Jan Panocha,0,0,0,PANOCHA JAN,jaroslav_basta
 2022-12-12,-100000,CZK,Okamžitá odchozí platba,,prezidentská kampaň Jaroslava Bašty - videoklip realizace,308,20220070,,DVORAK FILM - MIROSLAV DVOŘÁK prezidentská kampaň Jaroslava Bašty - videoklip realizace,jaroslav_basta
 2022-12-12,-117810.7,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty - výroba knihy, pronájem techniky",,20221611,,"Cecílie Jílková prezidentská kampaň Jaroslava Bašty - výroba knihy, pronájem techniky",jaroslav_basta

@@ -1,4 +1,11 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-15,10,CZK,Bezhotovostní příjem,FROLÍK VOJTĚCH,,,,,FROLÍK VOJTĚCH,petr_pavel
+2022-12-15,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-15,-1237667.93,CZK,Platba převodem uvnitř banky,,,,20220174,,"IČ: 07323841, roznos",petr_pavel
+2022-12-15,-6050,CZK,Bezhotovostní platba,,,308,22800049,,"Vladimír Polívka, komentář",petr_pavel
+2022-12-14,50000,CZK,Okamžitá příchozí platba,Ing.Trojková Pavlína,,0,,,Ing.Trojková Pavlína,petr_pavel
+2022-12-14,-24200,CZK,Karetní transakce,,"Nákup: FACEBK D79EZHPQ32, fb.me/ads, IE, dne 13.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK D79EZHPQ32, fb.me/ads, IE, dne 13.12.2022, částka  24200.00 CZK",petr_pavel
+2022-12-14,-6038.76,CZK,Platba cizoměnová či zahraniční,,Petr Pavel,,,,"Apacuka Kft, občerstvení",petr_pavel
 2022-12-14,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,,,Pavel Tr?ster,petr_pavel
 2022-12-14,250000,CZK,Okamžitá příchozí platba,"Hladký Radek,Mgr.",,0,,,"Hladký Radek,Mgr.",petr_pavel
 2022-12-14,500,CZK,Bezhotovostní příjem,VACEK PETR,Dar na kampan generala Pavla,0,0,0,VACEK PETR,petr_pavel

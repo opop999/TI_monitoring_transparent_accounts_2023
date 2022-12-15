@@ -1,17 +1,28 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
 001-12122022 1602 602022 003951,2022-12-12,400000,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-12122022 1602 602004 464271,2022-12-12,-470000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
-361-14122022 1086 086150 103343,2022-12-14,0.01,Příchozí platba,Milan Šmíd,Inflace je reakce na rozhodnutí Agrofertu zdražit motýle.,CZK,25085,666,88,andrej_babis
-361-14122022 1086 086150 102670,2022-12-14,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,CZK,0,0,0,andrej_babis
-120-20221214 2148062628,2022-12-14,0.01,Příchozí platba,Josef Sadílek,"STBÁKU BUREŠI, OSTUDO ČR! PREZIDENTEM NEBUDEŠ! NIKDY!",CZK,0,0,0,andrej_babis
-120-20221214 2143892644,2022-12-14,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+361-15122022 1086 086142 502650,2022-12-15,0.01,Příchozí platba,Milan Šmíd,Omluven z práce: pracovní důvody,CZK,25085,666,0,andrej_babis
+361-15122022 1086 086147 102525,2022-12-15,0.01,Příchozí platba,Josef Sadílek,"Estébák Bureš je jako Putin. Oba se bojí vystupovat v debatách, předvádějí pouze monology, oba pohrdají občanskou společností, oba lžou.",CZK,0,0,0,andrej_babis
+361-15122022 1086 086150 502519,2022-12-15,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
+120-20221215 2146697227,2022-12-15,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221215 2148084731,2022-12-15,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221215 00740726062,2022-12-15,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+361-15122022 1086 086142 501186,2022-12-15,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","LŽE, KRADE, PODVÁDÍ A ANI ČESKY NEUMÍ? NÁM, MENTÁLNÍM ŽEBRÁKŮM JE TO VŠECHNO JEDNO, STAČÍ ŽE MÁ PENÍZE AJE NA PLAGÁTECH...",CZK,0,0,0,andrej_babis
+361-15122022 1086 086150 500605,2022-12-15,100,Příchozí platba,Kapitánová Lenka,hodně štěstí,CZK,0,0,0,andrej_babis
 120-20221214 00739936157,2022-12-14,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
-120-20221213 REU19X2EEUB,2022-12-14,0.69,Příchozí platba,Svoboda Petr,Na tepláčky pro babyše,CZK,0,0,0,andrej_babis
-120-20221213 REU19X22PN2,2022-12-14,0.69,Příchozí platba,Svoboda Petr,Na Tepláky ),CZK,0,0,0,andrej_babis
-120-20221214 REU1AUYHWXP,2022-12-14,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","LHÁŘ, ZLODĚJ, BURAN A PRÁSKAČ? TOŤ NEJLEPŠÍ KUNDIDÁT NA MÍSTO PRASOZEMANA! AŤ JE Z HRADU PRDEL I NADÁLE!",CZK,0,0,0,andrej_babis
-361-14122022 1086 086150 500267,2022-12-14,0.01,Příchozí platba,Jakub Kolmistr,,CZK,0,0,0,andrej_babis
+120-20221214 2143892644,2022-12-14,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+000-14122022-005-005-001246061,2022-12-14,0.01,Trvalý příkaz,NOSEK MICHAL,MAZEJ DO LOCHU! ŠUP ŠUP!,CZK,0,0,0,andrej_babis
+120-20221214 2148062628,2022-12-14,0.01,Příchozí platba,Josef Sadílek,"STBÁKU BUREŠI, OSTUDO ČR! PREZIDENTEM NEBUDEŠ! NIKDY!",CZK,0,0,0,andrej_babis
 361-14122022 1086 086148 100264,2022-12-14,20000,Příchozí platba,FabEuropa s.r.o.,Andrej Babis - Strach je reakce. Odvaha je rozhodnutí,CZK,0,0,0,andrej_babis
+361-14122022 1086 086150 500267,2022-12-14,0.01,Příchozí platba,Jakub Kolmistr,,CZK,0,0,0,andrej_babis
 361-14122022 1086 086150 100488,2022-12-14,0.01,Příchozí platba,Michal Šubert,vest CR jako firmu by se tilibilo vid? na teplake pro burese,CZK,0,0,0,andrej_babis
+361-14122022 1086 086150 102670,2022-12-14,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,CZK,0,0,0,andrej_babis
+361-14122022 1086 086150 103343,2022-12-14,0.01,Příchozí platba,Milan Šmíd,Inflace je reakce na rozhodnutí Agrofertu zdražit motýle.,CZK,25085,666,88,andrej_babis
+361-14122022 1086 086142 504269,2022-12-14,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","AŤ SI DEMOGRATI ŽVANÍ CO CHTĚJÍ, MY ANUSOVCI SVÉHO ESTÉBÁKA A PRÁSKAČE NEDÁME! KRADE A LŽE NEJLÍP ZE VŠECH, CO NA TOM, ŽE I NÁS OJEBÁVÁ!",CZK,0,0,0,andrej_babis
+361-14122022 1086 086143 507446,2022-12-14,0.01,Příchozí platba,Tobiáš Rajt,PŘÍSPĚVEK NA VĚZEŇSKOU STRAVU PRO AGENTA STB,CZK,0,0,0,andrej_babis
+120-20221213 REU19X22PN2,2022-12-14,0.69,Příchozí platba,Svoboda Petr,Na Tepláky ),CZK,0,0,0,andrej_babis
+120-20221213 REU19X2EEUB,2022-12-14,0.69,Příchozí platba,Svoboda Petr,Na tepláčky pro babyše,CZK,0,0,0,andrej_babis
+120-20221214 REU1AUYHWXP,2022-12-14,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","LHÁŘ, ZLODĚJ, BURAN A PRÁSKAČ? TOŤ NEJLEPŠÍ KUNDIDÁT NA MÍSTO PRASOZEMANA! AŤ JE Z HRADU PRDEL I NADÁLE!",CZK,0,0,0,andrej_babis
 120-20221213 T02AR0HR10L0B,2022-12-13,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
 120-20221213 2147244116,2022-12-13,0.01,Příchozí platba,Milan Vilím,Tahni kryple,CZK,0,0,0,andrej_babis
 120-20221213 00739286012,2022-12-13,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
@@ -73,6 +84,8 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 361-07122022 1086 086149 101843,2022-12-07,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-pribeh-andreje-babise/,CZK,0,0,0,andrej_babis
 361-07122022 1086 086150 103396,2022-12-07,0.01,Příchozí platba,LUKÁŠ POŘÍZ,"Na tepláké a indulone, v base je budes potřebovat. Tam dostaneš, co zasloužíš, ty dobytku vepřový!",CZK,0,0,0,andrej_babis
 120-20221207 2139697189,2022-12-07,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+361-13122022 1086 086147 504546,2022-12-13,1,Příchozí platba,"Vála, Vít",Na sváču:-),CZK,0,0,0,denisa_rohanova
+120-20221213 PR00000182002,2022-12-13,0.69,Příchozí platba,SEVCIK VACLAV,"Rad bych Vas vice financne podporil. Jezdite Eskort? miluju rimming, platba hotove v eurech!!! MS kraj",CZK,0,0,0,denisa_rohanova
 120-20221206 2147244113,2022-12-06,0.01,Příchozí platba,Milan Vilím,Tahni kryple,CZK,0,0,0,andrej_babis
 120-20221206 2141168662,2022-12-06,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
 120-20221206 T02AR0HQLF9BL,2022-12-06,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
@@ -86,8 +99,6 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 361-06122022 1086 086146 105563,2022-12-06,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",ZA KOBLIHY ČI OSOBNÍ PROSPĚCH PODRŽÍ ANUS ANU BUREŠE KAŽDÁ HLAVA VEPŘE,CZK,0,0,0,andrej_babis
 120-20221206 2148058406,2022-12-06,0.01,Příchozí platba,Josef Sadílek,"STBÁK, PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
 120-20221206 T02AR0HQLF9BK,2022-12-06,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
-361-13122022 1086 086147 504546,2022-12-13,1,Příchozí platba,"Vála, Vít",Na sváču:-),CZK,0,0,0,denisa_rohanova
-120-20221213 PR00000182002,2022-12-13,0.69,Příchozí platba,SEVCIK VACLAV,"Rad bych Vas vice financne podporil. Jezdite Eskort? miluju rimming, platba hotove v eurech!!! MS kraj",CZK,0,0,0,denisa_rohanova
 120-20221203 T02AR0HQJ8JQ1,2022-12-05,0.01,Příchozí platba,ALENA BELONOZNIKOVA,ANDREJI HANBA NECHCEME TĚ.,CZK,0,0,0,andrej_babis
 120-20221205 2141160989,2022-12-05,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
 120-20221205 2141165094,2022-12-05,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
