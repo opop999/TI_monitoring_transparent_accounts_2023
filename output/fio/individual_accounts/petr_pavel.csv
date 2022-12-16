@@ -1,4 +1,10 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-16,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-16,500000,CZK,Bezhotovostní příjem,"DŘEVOCENTRUM CZ, A",202220152 Ing Petr Pavel MA,0,27904610,,"DŘEVOCENTRUM CZ, A",petr_pavel
+2022-12-16,500,CZK,Bezhotovostní příjem,PETERKA TOMAS,DAR NA KAMPAŇ GENERÁLA PAVLA,,0,,PETERKA TOMAS,petr_pavel
+2022-12-15,-23985.66,CZK,Karetní transakce,,"Nákup: FACEBK NH5TBKBQ32, fb.me/ads, IE, dne 14.12.2022, částka  23985.66 CZK",,7999,,"Nákup: FACEBK NH5TBKBQ32, fb.me/ads, IE, dne 14.12.2022, částka  23985.66 CZK",petr_pavel
+2022-12-15,350,CZK,Okamžitá příchozí platba,Martin Dušek,,,,,Martin Dušek,petr_pavel
+2022-12-15,-6032.05,CZK,Platba cizoměnová či zahraniční,,Petr Pavel,,,,"Apacuka Kft, občerstvení",petr_pavel
 2022-12-15,10,CZK,Bezhotovostní příjem,FROLÍK VOJTĚCH,,,,,FROLÍK VOJTĚCH,petr_pavel
 2022-12-15,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2022-12-15,-1237667.93,CZK,Platba převodem uvnitř banky,,,,20220174,,"IČ: 07323841, roznos",petr_pavel

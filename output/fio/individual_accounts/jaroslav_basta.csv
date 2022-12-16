@@ -1,4 +1,10 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-15,1355953.23,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-12-15,3993,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-12-15,195885,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-12-15,31363.2,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-12-15,100000,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2022-12-15,878084.9,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2022-12-14,-12100,CZK,Okamžitá odchozí platba,,Jaroslav Bašta prezidentské volby - inzerce Deník Hradec Králové,,2217026565,,Deník - inzerce Jaroslav Bašta prezidentské volby - Hradec Králové,jaroslav_basta
 2022-12-14,-405785,CZK,Bezhotovostní platba,,"UNIPRESS spol. s r.o., letáky A5 - prezidentská kampaň Jaroslav Bašta",,3030016359,,"UNIPRESS spol. s r.o., letáky A5 - prezidentská kampaň Jaroslav Bašta",jaroslav_basta
 2022-12-14,-178922.7,CZK,Bezhotovostní platba,,výroba OOH plakátů pro prezidentskou kampaň Jaroslava Bašty,8,,,D & S Design Prague s.r.o. výroba OOH plakátů pro prezidentskou kampaň Jaroslava Bašty,jaroslav_basta

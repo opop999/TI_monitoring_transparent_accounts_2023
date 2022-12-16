@@ -1,4 +1,6 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-16,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-12-16,-1000,CZK,Karetní transakce,,"Nákup: FACEBK NB4H3K3K62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK NB4H3K3K62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.12.2022, částka  1000.00 CZK",marek_hilser
 2022-12-15,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-12-14,9.99,CZK,Okamžitá příchozí platba,Maňka Tomáš,"Tomáš Maňka, 12. 9. 2006, Zábřeh",0,,,Maňka Tomáš,marek_hilser
 2022-12-14,1000,CZK,Okamžitá příchozí platba,Ing. David Jaroš,"David Jaroš, 27.12.1980, Rohatec",,,,Ing. David Jaroš,marek_hilser
