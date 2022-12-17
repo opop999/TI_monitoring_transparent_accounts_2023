@@ -1,4 +1,7 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-17,250,CZK,Okamžitá příchozí platba,HAMPAPA FELIX,Pro něco co má smysl,,,,HAMPAPA FELIX,petr_pavel
+2022-12-16,1,CZK,Okamžitá příchozí platba,BÁRTA ŠTĚPÁN,Johana Marholdová smrdí,,,,BÁRTA ŠTĚPÁN,petr_pavel
+2022-12-16,-24199.93,CZK,Karetní transakce,,"Nákup: FACEBK YPQLEJ3R32, fb.me/ads, IE, dne 15.12.2022, částka  24199.93 CZK",,7999,,"Nákup: FACEBK YPQLEJ3R32, fb.me/ads, IE, dne 15.12.2022, částka  24199.93 CZK",petr_pavel
 2022-12-16,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2022-12-16,500000,CZK,Bezhotovostní příjem,"DŘEVOCENTRUM CZ, A",202220152 Ing Petr Pavel MA,0,27904610,,"DŘEVOCENTRUM CZ, A",petr_pavel
 2022-12-16,500,CZK,Bezhotovostní příjem,PETERKA TOMAS,DAR NA KAMPAŇ GENERÁLA PAVLA,,0,,PETERKA TOMAS,petr_pavel
@@ -107,13 +110,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-09,-399999.82,CZK,Platba převodem uvnitř banky,,,,20220180,,"IČ: 07323841, mediální náklady",petr_pavel
 2022-12-09,-5690.63,CZK,Bezhotovostní platba,,,,20222165,,"IČ: 25753771, tisk",petr_pavel
 2022-12-09,100000,CZK,Bezhotovostní příjem,SADÍLEK JIŘÍ,dar sml gen Pavel,308,610327,0,SADÍLEK JIŘÍ,petr_pavel
-2022-12-08,1,CZK,Okamžitá příchozí platba,Tomáš Zoul,Korunu prezidentovi :),,,,Tomáš Zoul,petr_pavel
-2022-12-08,294,CZK,Okamžitá příchozí platba,KUROPČÁK JAN,Dar na kampaň,,,,KUROPČÁK JAN,petr_pavel
-2022-12-08,20000,CZK,Okamžitá příchozí platba,Michal Bína,Lvi žerou prvni,,,,Michal Bína,petr_pavel
-2022-12-08,50000,CZK,Bezhotovostní příjem,H&H MEDICA S.R.O.,Miroslav Havrlant,308,7101265512,0,H&H MEDICA S.R.O.,petr_pavel
-2022-12-08,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
-2022-12-08,-84696,CZK,Bezhotovostní platba,,,,2022011,,"IČ: 14279851, sociální média",petr_pavel
-2022-12-08,2000,CZK,Bezhotovostní příjem,ŠÍN ROBERT,Dar na kampan generala Pavla,0,0,0,ŠÍN ROBERT,petr_pavel
 2022-12-16,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-12-16,-1000,CZK,Karetní transakce,,"Nákup: FACEBK NB4H3K3K62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK NB4H3K3K62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.12.2022, částka  1000.00 CZK",marek_hilser
 2022-12-15,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
@@ -133,10 +129,7 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-09,-40000,CZK,Platba převodem uvnitř banky,,,,,,Faktura 2022010 - správa sociálních sítí 14.10 -14.11.2022,marek_hilser
 2022-12-09,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-12-09,-9000,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 8.12.2022, částka  9000.00 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 8.12.2022, částka  9000.00 CZK",marek_hilser
-2022-12-08,100,CZK,Platba převodem uvnitř banky,"Fejer, Robert","Robert Fejer, nar. 27.10.1972, 289 22 Lysá nad Labem",,,,"Robert Fejer, nar. 27.10.1972, 289 22 Lysá nad Labem",marek_hilser
-2022-12-08,2000,CZK,Okamžitá příchozí platba,MgA. Michal Kráčmer,"Michal Kráčmer, 18. 6. 1988, Litvínov; Neodstupujte, držím Vám palce, jste vzorem pro politiky!",,,,MgA. Michal Kráčmer,marek_hilser
-2022-12-08,777,CZK,Okamžitá příchozí platba,Matouš Hájek,"Matouš Hájek, 14.4.1991, Praha",,,,Matouš Hájek,marek_hilser
-2022-12-08,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-12-16,35000,CZK,Okamžitá příchozí platba,Lukáš Polák,,,,,Lukáš Polák,josef_stredula
 2022-12-16,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-15,-302500,CZK,Bezhotovostní platba,,Josef Středula,,220100084,,"vedení kampaně, sociální sítě",josef_stredula
 2022-12-15,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
@@ -150,10 +143,13 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-11,1000,CZK,Okamžitá příchozí platba,Bc.Ďurčo Roman,Pro budoucího prezidenta,0,7777777,,Bc.Ďurčo Roman,josef_stredula
 2022-12-09,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-09,15000,CZK,Bezhotovostní příjem,KNOTOVÁ ALENA,Panu budoucímu prezidentovi na kampaň,0,0,0,KNOTOVÁ ALENA,josef_stredula
-2022-12-08,-250000,CZK,Bezhotovostní platba,,Josef Středula,308,220100083,,Red Elephant - vedení volební kampaně a PR podpora,josef_stredula
-2022-12-08,300000,CZK,Platba převodem uvnitř banky,SPOLEČNĚ PRO LIDI z.s.,Společně pro lidi z.s. - dar,,122022,,Společně pro lidi z.s. - dar,josef_stredula
-2022-12-08,1000,CZK,Bezhotovostní příjem,DANIEL RAMPACEK,"PRAVICOVÉ A KONZERVATIVNÍ VLÁDĚ CHYBÍ V OBOU KOMORÁCH KONSTRUKTIVNÍ LEVICOVÁ OPOZICE, NYNÍ V KAMPANI I JAKO PREZIDENT, BIJTE SE ZA NÁS",,,,DANIEL RAMPACEK,josef_stredula
-2022-12-08,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
+2022-12-17,-1488,CZK,Okamžitá odchozí platba,,vrácení daru,,,,vrácení daru Jan Panocha,jaroslav_basta
+2022-12-17,-1355953.23,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty (100 ploch) prosinec 2022 (PS18136406/JV),,,,"BigMedia, spol. s r.o. pronájem reklamních panelů pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2022-12-17,-3993,CZK,Platba převodem uvnitř banky,,SP-Solutions s.r.o. - zajištění bezpečnosti - prezidentská kampaň Jaroslava Bašty,308,2022019,,SP-Solutions s.r.o. - zajištění bezpečnosti - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2022-12-17,-195885,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty -  webová prezentace, křest knihy, IT podpora, produkce atd.",,20223011,,"Cecílie Jílková prezidentská kampaň Jaroslava Bašty - webová prezentace, křest knihy, IT podpora, produkce",jaroslav_basta
+2022-12-17,-31363.2,CZK,Bezhotovostní platba,,"banner - zaměření, tisk, instalace atd. pro prezidentskou kampaň Jaroslava Bašty",8,,,D & S Design Prague s.r.o. reklamní banner a související práce pro prezidentskou kampaň Jaroslava Bašty,jaroslav_basta
+2022-12-17,-878084.9,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty (69 ploch) prosinec 2022 (PL18137138/JV),,,,"BigMedia, spol. s r.o. pronájem reklamních ploch pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2022-12-17,-100000,CZK,Okamžitá odchozí platba,,prezidentská kampaň Jaroslava Bašty - videoklip postprodukce,308,20220071,,DVORAK FILM - MIROSLAV DVOŘÁK prezidentská kampaň Jaroslava Bašty - videoklip postprodukce,jaroslav_basta
 2022-12-15,1355953.23,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2022-12-15,3993,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2022-12-15,195885,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
@@ -168,6 +164,21 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-12,-117810.7,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty - výroba knihy, pronájem techniky",,20221611,,"Cecílie Jílková prezidentská kampaň Jaroslava Bašty - výroba knihy, pronájem techniky",jaroslav_basta
 2022-12-12,-6050,CZK,Okamžitá odchozí platba,,Jaroslav Bašta prezidentské volby - inzerce Deník Hradec Králové,,2217026565,,Deník - inzerce Jaroslav Bašta prezidentské volby - Hradec Králové,jaroslav_basta
 2022-12-09,100000,CZK,Bezhotovostní příjem,BAŠTA JAROSLAV,JAROSLA BAŠTA,0,480515,0,BAŠTA JAROSLAV,jaroslav_basta
+2022-12-08,1,CZK,Okamžitá příchozí platba,Tomáš Zoul,Korunu prezidentovi :),,,,Tomáš Zoul,petr_pavel
+2022-12-08,294,CZK,Okamžitá příchozí platba,KUROPČÁK JAN,Dar na kampaň,,,,KUROPČÁK JAN,petr_pavel
+2022-12-08,20000,CZK,Okamžitá příchozí platba,Michal Bína,Lvi žerou prvni,,,,Michal Bína,petr_pavel
+2022-12-08,50000,CZK,Bezhotovostní příjem,H&H MEDICA S.R.O.,Miroslav Havrlant,308,7101265512,0,H&H MEDICA S.R.O.,petr_pavel
+2022-12-08,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-08,-84696,CZK,Bezhotovostní platba,,,,2022011,,"IČ: 14279851, sociální média",petr_pavel
+2022-12-08,2000,CZK,Bezhotovostní příjem,ŠÍN ROBERT,Dar na kampan generala Pavla,0,0,0,ŠÍN ROBERT,petr_pavel
+2022-12-08,100,CZK,Platba převodem uvnitř banky,"Fejer, Robert","Robert Fejer, nar. 27.10.1972, 289 22 Lysá nad Labem",,,,"Robert Fejer, nar. 27.10.1972, 289 22 Lysá nad Labem",marek_hilser
+2022-12-08,2000,CZK,Okamžitá příchozí platba,MgA. Michal Kráčmer,"Michal Kráčmer, 18. 6. 1988, Litvínov; Neodstupujte, držím Vám palce, jste vzorem pro politiky!",,,,MgA. Michal Kráčmer,marek_hilser
+2022-12-08,777,CZK,Okamžitá příchozí platba,Matouš Hájek,"Matouš Hájek, 14.4.1991, Praha",,,,Matouš Hájek,marek_hilser
+2022-12-08,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-12-08,-250000,CZK,Bezhotovostní platba,,Josef Středula,308,220100083,,Red Elephant - vedení volební kampaně a PR podpora,josef_stredula
+2022-12-08,300000,CZK,Platba převodem uvnitř banky,SPOLEČNĚ PRO LIDI z.s.,Společně pro lidi z.s. - dar,,122022,,Společně pro lidi z.s. - dar,josef_stredula
+2022-12-08,1000,CZK,Bezhotovostní příjem,DANIEL RAMPACEK,"PRAVICOVÉ A KONZERVATIVNÍ VLÁDĚ CHYBÍ V OBOU KOMORÁCH KONSTRUKTIVNÍ LEVICOVÁ OPOZICE, NYNÍ V KAMPANI I JAKO PREZIDENT, BIJTE SE ZA NÁS",,,,DANIEL RAMPACEK,josef_stredula
+2022-12-08,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-08,1300,CZK,Platba převodem uvnitř banky,"Bělota, Ladislav","Podpora Jaroslavu Baštovi - Ladislav Bělota, IČO 10572058, sídlo M. Knesla 4020, Zlín",,,,"Podpora Jaroslavu Baštovi - Ladislav Bělota, IČO 10572058, sídlo M. Knesla 4020, Zlín",jaroslav_basta
 2022-12-07,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 5RF44J3R32, fb.me/ads, IE, dne 7.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 5RF44J3R32, fb.me/ads, IE, dne 7.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-07,200000,CZK,Bezhotovostní příjem,"IK-real, a.s.",,,50266,,"IK-real, a.s.",petr_pavel

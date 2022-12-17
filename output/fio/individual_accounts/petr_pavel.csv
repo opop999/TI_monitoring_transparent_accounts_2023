@@ -1,4 +1,7 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-17,250,CZK,Okamžitá příchozí platba,HAMPAPA FELIX,Pro něco co má smysl,,,,HAMPAPA FELIX,petr_pavel
+2022-12-16,1,CZK,Okamžitá příchozí platba,BÁRTA ŠTĚPÁN,Johana Marholdová smrdí,,,,BÁRTA ŠTĚPÁN,petr_pavel
+2022-12-16,-24199.93,CZK,Karetní transakce,,"Nákup: FACEBK YPQLEJ3R32, fb.me/ads, IE, dne 15.12.2022, částka  24199.93 CZK",,7999,,"Nákup: FACEBK YPQLEJ3R32, fb.me/ads, IE, dne 15.12.2022, částka  24199.93 CZK",petr_pavel
 2022-12-16,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2022-12-16,500000,CZK,Bezhotovostní příjem,"DŘEVOCENTRUM CZ, A",202220152 Ing Petr Pavel MA,0,27904610,,"DŘEVOCENTRUM CZ, A",petr_pavel
 2022-12-16,500,CZK,Bezhotovostní příjem,PETERKA TOMAS,DAR NA KAMPAŇ GENERÁLA PAVLA,,0,,PETERKA TOMAS,petr_pavel

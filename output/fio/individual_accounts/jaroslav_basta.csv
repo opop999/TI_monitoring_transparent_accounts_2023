@@ -1,4 +1,11 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-17,-1488,CZK,Okamžitá odchozí platba,,vrácení daru,,,,vrácení daru Jan Panocha,jaroslav_basta
+2022-12-17,-1355953.23,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty (100 ploch) prosinec 2022 (PS18136406/JV),,,,"BigMedia, spol. s r.o. pronájem reklamních panelů pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2022-12-17,-3993,CZK,Platba převodem uvnitř banky,,SP-Solutions s.r.o. - zajištění bezpečnosti - prezidentská kampaň Jaroslava Bašty,308,2022019,,SP-Solutions s.r.o. - zajištění bezpečnosti - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2022-12-17,-195885,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty -  webová prezentace, křest knihy, IT podpora, produkce atd.",,20223011,,"Cecílie Jílková prezidentská kampaň Jaroslava Bašty - webová prezentace, křest knihy, IT podpora, produkce",jaroslav_basta
+2022-12-17,-31363.2,CZK,Bezhotovostní platba,,"banner - zaměření, tisk, instalace atd. pro prezidentskou kampaň Jaroslava Bašty",8,,,D & S Design Prague s.r.o. reklamní banner a související práce pro prezidentskou kampaň Jaroslava Bašty,jaroslav_basta
+2022-12-17,-878084.9,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty (69 ploch) prosinec 2022 (PL18137138/JV),,,,"BigMedia, spol. s r.o. pronájem reklamních ploch pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2022-12-17,-100000,CZK,Okamžitá odchozí platba,,prezidentská kampaň Jaroslava Bašty - videoklip postprodukce,308,20220071,,DVORAK FILM - MIROSLAV DVOŘÁK prezidentská kampaň Jaroslava Bašty - videoklip postprodukce,jaroslav_basta
 2022-12-15,1355953.23,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2022-12-15,3993,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2022-12-15,195885,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
