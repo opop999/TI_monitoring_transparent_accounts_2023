@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-19,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-19,-11412,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2022-12-19,-2102.5,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2022-12-19,-508,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2022-12-19,200,CZK,Okamžitá příchozí platba,Oldřich Knoz,Dar na kampan generala Pavla,,,,Oldřich Knoz,petr_pavel
+2022-12-19,333,CZK,Okamžitá příchozí platba,Zika Tomáš,Dar na kampan generala Pavla,0,,,Zika Tomáš,petr_pavel
+2022-12-19,200,CZK,Bezhotovostní příjem,CECHOVA LENKA,volební kampaň Petr Pavel,,0,,CECHOVA LENKA,petr_pavel
+2022-12-18,1000,CZK,Okamžitá příchozí platba,JAN MALÁT,Držím palce!,,,,JAN MALÁT,petr_pavel
+2022-12-18,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 2BPKVHKQ32, fb.me/ads, IE, dne 17.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 2BPKVHKQ32, fb.me/ads, IE, dne 17.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-18,3333,CZK,Okamžitá příchozí platba,MUDr. Jakub Lacl,Dar GPP - pro budoucnost a ochranu Ustavy CR. Hodne stesti!,,,,MUDr. Jakub Lacl,petr_pavel
 2022-12-17,-24200,CZK,Karetní transakce,,"Nákup: FACEBK TEDDPHTQ32, fb.me/ads, IE, dne 16.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK TEDDPHTQ32, fb.me/ads, IE, dne 16.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-17,250,CZK,Okamžitá příchozí platba,HAMPAPA FELIX,Pro něco co má smysl,,,,HAMPAPA FELIX,petr_pavel
@@ -65,34 +74,8 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-11,500,CZK,Platba převodem uvnitř banky,"Pešík, Jiří",Dar NA KAMPAŇ GENERÁLA PAVLA,,,,Dar NA KAMPAŇ GENERÁLA PAVLA,petr_pavel
 2022-12-11,1000,CZK,Okamžitá příchozí platba,KOCOUREK JAN,,,,,KOCOUREK JAN,petr_pavel
 2022-12-11,-757574,CZK,Bezhotovostní platba,,,,7701011324,,"IČ: 25047965, OOH plochy",petr_pavel
-2022-12-10,7300,CZK,Okamžitá příchozí platba,Javaher Troy Kurosh,Win!,0,,,Javaher Troy Kurosh,petr_pavel
-2022-12-10,2000,CZK,Okamžitá příchozí platba,Vopršal Michal,,0,,,Vopršal Michal,petr_pavel
-2022-12-10,-2343.64,CZK,Karetní transakce,,"Nákup: MailChimp, 177-09880633, US, dne 9.12.2022, částka  93.92 EUR",,7999,,"Nákup: MailChimp, 177-09880633, US, dne 9.12.2022, částka  93.92 EUR",petr_pavel
-2022-12-10,1000,CZK,Okamžitá příchozí platba,Sýkora Filip,Dar na kampan generala Pavla,0,,,Sýkora Filip,petr_pavel
-2022-12-10,-74842,CZK,Bezhotovostní platba,,,,202207,,"IČ: 17121302, komunikace",petr_pavel
-2022-12-10,-50000,CZK,Bezhotovostní platba,,,,20220004,,"IČ: 07437455, mediální služby",petr_pavel
-2022-12-10,-10000,CZK,Bezhotovostní platba,,,,,,Jiří Němec DPP,petr_pavel
-2022-12-10,-20570,CZK,Bezhotovostní platba,,,,320220512,,"IČ: 27733823, web",petr_pavel
-2022-12-10,-55000,CZK,Bezhotovostní platba,,,,2322,,"IČ: 66870305, grafika",petr_pavel
-2022-12-10,-4400,CZK,Platba převodem uvnitř banky,,,,21220030,,"IČ: 62595156, supervize",petr_pavel
-2022-12-10,-65000,CZK,Bezhotovostní platba,,,,20220012,,"IČ: 05177880, marketing",petr_pavel
-2022-12-10,-149721.24,CZK,Platba cizoměnová či zahraniční,,,,30112022,,"IČ: 48260045, marketing",petr_pavel
-2022-12-10,-69000,CZK,Platba převodem uvnitř banky,,,,2022040,,"IČ: 07169442, video",petr_pavel
-2022-12-10,-78650,CZK,Bezhotovostní platba,,,,2022141,,"IČ: 69219672, marketing",petr_pavel
-2022-12-10,-51900,CZK,Bezhotovostní platba,,,,152022,,"IČ: 88010520, AV produkce",petr_pavel
-2022-12-10,-30000,CZK,Bezhotovostní platba,,,,1222110002,,"IČ: 71967702, marketing",petr_pavel
-2022-12-10,-45000,CZK,Bezhotovostní platba,,,,2022000029,,"IČ: 87556669, marketing",petr_pavel
-2022-12-10,-4800,CZK,Bezhotovostní platba,,,,221130,,"IČ: 45752737, foto",petr_pavel
-2022-12-10,-65000,CZK,Bezhotovostní platba,,,,42022,,"IČ: 87695022, vedení kampaně",petr_pavel
-2022-12-10,-40500,CZK,Bezhotovostní platba,,,,20220006,,"IČ: 17191173, služby",petr_pavel
-2022-12-10,-20000,CZK,Platba převodem uvnitř banky,,,,462022,,"IČ: 69328480, foto",petr_pavel
-2022-12-10,-22500,CZK,Bezhotovostní platba,,,,202226,,"IČ: 61274925, služby",petr_pavel
-2022-12-10,-60000,CZK,Bezhotovostní platba,,,,202211,,"IČ: 02532352, služby",petr_pavel
-2022-12-10,-10000,CZK,Bezhotovostní platba,,,,20220025,,"IČ: 05367751, koordinace podporovatelů",petr_pavel
-2022-12-10,-65000,CZK,Bezhotovostní platba,,,,2211,,"IČ: 08991278, služby",petr_pavel
-2022-12-10,-50000,CZK,Bezhotovostní platba,,,,20221101,,"IČ: 86586513, marketing",petr_pavel
-2022-12-10,-28000,CZK,Bezhotovostní platba,,,,71,,"IČ: 08318387, video",petr_pavel
-2022-12-10,-10000,CZK,Bezhotovostní platba,,,,70,,"IČ: 08318387, video",petr_pavel
+2022-12-19,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
+2022-12-18,-1000,CZK,Karetní transakce,,"Nákup: FACEBK TEXECKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK TEXECKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.12.2022, částka  1000.00 CZK",marek_hilser
 2022-12-17,111,CZK,Okamžitá příchozí platba,Jakub Jalůvka,,,,,Jakub Jalůvka,marek_hilser
 2022-12-16,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-12-16,-1000,CZK,Karetní transakce,,"Nákup: FACEBK NB4H3K3K62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK NB4H3K3K62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.12.2022, částka  1000.00 CZK",marek_hilser
@@ -104,6 +87,7 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-13,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,,,Pavel Tr?ster,marek_hilser
 2022-12-12,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery/,,,,Pavel Tr?ster,marek_hilser
 2022-12-11,5000,CZK,Okamžitá příchozí platba,"MUDr.Hönig Jiří,ml.","MUDr.Jiří Hönig, nar.7.9.1976, Chomutov",0,,,"MUDr.Hönig Jiří,ml.",marek_hilser
+2022-12-19,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-16,35000,CZK,Okamžitá příchozí platba,Lukáš Polák,,,,,Lukáš Polák,josef_stredula
 2022-12-16,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-15,-302500,CZK,Bezhotovostní platba,,Josef Středula,,220100084,,"vedení kampaně, sociální sítě",josef_stredula
@@ -136,6 +120,34 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-12,-100000,CZK,Okamžitá odchozí platba,,prezidentská kampaň Jaroslava Bašty - videoklip realizace,308,20220070,,DVORAK FILM - MIROSLAV DVOŘÁK prezidentská kampaň Jaroslava Bašty - videoklip realizace,jaroslav_basta
 2022-12-12,-117810.7,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty - výroba knihy, pronájem techniky",,20221611,,"Cecílie Jílková prezidentská kampaň Jaroslava Bašty - výroba knihy, pronájem techniky",jaroslav_basta
 2022-12-12,-6050,CZK,Okamžitá odchozí platba,,Jaroslav Bašta prezidentské volby - inzerce Deník Hradec Králové,,2217026565,,Deník - inzerce Jaroslav Bašta prezidentské volby - Hradec Králové,jaroslav_basta
+2022-12-10,7300,CZK,Okamžitá příchozí platba,Javaher Troy Kurosh,Win!,0,,,Javaher Troy Kurosh,petr_pavel
+2022-12-10,2000,CZK,Okamžitá příchozí platba,Vopršal Michal,,0,,,Vopršal Michal,petr_pavel
+2022-12-10,-2343.64,CZK,Karetní transakce,,"Nákup: MailChimp, 177-09880633, US, dne 9.12.2022, částka  93.92 EUR",,7999,,"Nákup: MailChimp, 177-09880633, US, dne 9.12.2022, částka  93.92 EUR",petr_pavel
+2022-12-10,1000,CZK,Okamžitá příchozí platba,Sýkora Filip,Dar na kampan generala Pavla,0,,,Sýkora Filip,petr_pavel
+2022-12-10,-74842,CZK,Bezhotovostní platba,,,,202207,,"IČ: 17121302, komunikace",petr_pavel
+2022-12-10,-50000,CZK,Bezhotovostní platba,,,,20220004,,"IČ: 07437455, mediální služby",petr_pavel
+2022-12-10,-10000,CZK,Bezhotovostní platba,,,,,,Jiří Němec DPP,petr_pavel
+2022-12-10,-20570,CZK,Bezhotovostní platba,,,,320220512,,"IČ: 27733823, web",petr_pavel
+2022-12-10,-55000,CZK,Bezhotovostní platba,,,,2322,,"IČ: 66870305, grafika",petr_pavel
+2022-12-10,-4400,CZK,Platba převodem uvnitř banky,,,,21220030,,"IČ: 62595156, supervize",petr_pavel
+2022-12-10,-65000,CZK,Bezhotovostní platba,,,,20220012,,"IČ: 05177880, marketing",petr_pavel
+2022-12-10,-149721.24,CZK,Platba cizoměnová či zahraniční,,,,30112022,,"IČ: 48260045, marketing",petr_pavel
+2022-12-10,-69000,CZK,Platba převodem uvnitř banky,,,,2022040,,"IČ: 07169442, video",petr_pavel
+2022-12-10,-78650,CZK,Bezhotovostní platba,,,,2022141,,"IČ: 69219672, marketing",petr_pavel
+2022-12-10,-51900,CZK,Bezhotovostní platba,,,,152022,,"IČ: 88010520, AV produkce",petr_pavel
+2022-12-10,-30000,CZK,Bezhotovostní platba,,,,1222110002,,"IČ: 71967702, marketing",petr_pavel
+2022-12-10,-45000,CZK,Bezhotovostní platba,,,,2022000029,,"IČ: 87556669, marketing",petr_pavel
+2022-12-10,-4800,CZK,Bezhotovostní platba,,,,221130,,"IČ: 45752737, foto",petr_pavel
+2022-12-10,-65000,CZK,Bezhotovostní platba,,,,42022,,"IČ: 87695022, vedení kampaně",petr_pavel
+2022-12-10,-40500,CZK,Bezhotovostní platba,,,,20220006,,"IČ: 17191173, služby",petr_pavel
+2022-12-10,-20000,CZK,Platba převodem uvnitř banky,,,,462022,,"IČ: 69328480, foto",petr_pavel
+2022-12-10,-22500,CZK,Bezhotovostní platba,,,,202226,,"IČ: 61274925, služby",petr_pavel
+2022-12-10,-60000,CZK,Bezhotovostní platba,,,,202211,,"IČ: 02532352, služby",petr_pavel
+2022-12-10,-10000,CZK,Bezhotovostní platba,,,,20220025,,"IČ: 05367751, koordinace podporovatelů",petr_pavel
+2022-12-10,-65000,CZK,Bezhotovostní platba,,,,2211,,"IČ: 08991278, služby",petr_pavel
+2022-12-10,-50000,CZK,Bezhotovostní platba,,,,20221101,,"IČ: 86586513, marketing",petr_pavel
+2022-12-10,-28000,CZK,Bezhotovostní platba,,,,71,,"IČ: 08318387, video",petr_pavel
+2022-12-10,-10000,CZK,Bezhotovostní platba,,,,70,,"IČ: 08318387, video",petr_pavel
 2022-12-09,100000,CZK,Okamžitá příchozí platba,Jiří Střelický,Na kampan,,,,Jiří Střelický,petr_pavel
 2022-12-09,-23938.31,CZK,Karetní transakce,,"Nákup: FACEBK W364NH3Q32, fb.me/ads, IE, dne 8.12.2022, částka  23938.31 CZK",,7999,,"Nákup: FACEBK W364NH3Q32, fb.me/ads, IE, dne 8.12.2022, částka  23938.31 CZK",petr_pavel
 2022-12-09,-7598,CZK,Okamžitá odchozí platba,,,,,,"IČ: 88010520, produkční náklady",petr_pavel

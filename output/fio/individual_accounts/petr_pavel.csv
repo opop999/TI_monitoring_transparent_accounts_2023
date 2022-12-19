@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-19,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-19,-11412,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2022-12-19,-2102.5,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2022-12-19,-508,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2022-12-19,200,CZK,Okamžitá příchozí platba,Oldřich Knoz,Dar na kampan generala Pavla,,,,Oldřich Knoz,petr_pavel
+2022-12-19,333,CZK,Okamžitá příchozí platba,Zika Tomáš,Dar na kampan generala Pavla,0,,,Zika Tomáš,petr_pavel
+2022-12-19,200,CZK,Bezhotovostní příjem,CECHOVA LENKA,volební kampaň Petr Pavel,,0,,CECHOVA LENKA,petr_pavel
+2022-12-18,1000,CZK,Okamžitá příchozí platba,JAN MALÁT,Držím palce!,,,,JAN MALÁT,petr_pavel
+2022-12-18,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 2BPKVHKQ32, fb.me/ads, IE, dne 17.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 2BPKVHKQ32, fb.me/ads, IE, dne 17.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-18,3333,CZK,Okamžitá příchozí platba,MUDr. Jakub Lacl,Dar GPP - pro budoucnost a ochranu Ustavy CR. Hodne stesti!,,,,MUDr. Jakub Lacl,petr_pavel
 2022-12-17,-24200,CZK,Karetní transakce,,"Nákup: FACEBK TEDDPHTQ32, fb.me/ads, IE, dne 16.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK TEDDPHTQ32, fb.me/ads, IE, dne 16.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-17,250,CZK,Okamžitá příchozí platba,HAMPAPA FELIX,Pro něco co má smysl,,,,HAMPAPA FELIX,petr_pavel

@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bank_code,message_for_recipient,ks,vs,ss,currency,entity
+2022-12-18,-4800,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane -  FB reklama,,20221218,,CZK,karel_divis
+2022-12-17,-500000,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane - sber podpisu a marketingove sluzb y,,20221217,,CZK,karel_divis
+2022-12-15,-637451.2,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane - sber podpisu a marketingove sluzb y,,20221215,,CZK,karel_divis
+2022-12-13,1000,Incoming instant payment ,VACULIKOVA ANNA,309093647,300,Držte se! Chci Vás vidět i ve 2.kol e;-),,20221213,,CZK,karel_divis
 2022-12-02,-8000,Debit card transaction ,,,,,,,,CZK,libor_michalek
 2022-12-01,1000,Incoming payment ,Šejbová Lenka,4278633003,800,Lenka Šejbová 16.12. 1959,0,,,CZK,libor_michalek
 2022-11-30,2000,Incoming instant payment ,David Habart,1023516020,3030,"na kampan - vydrzte, at mame normalniho prezidenta!",,,,CZK,karel_divis
