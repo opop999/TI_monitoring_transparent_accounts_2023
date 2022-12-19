@@ -4,7 +4,10 @@ author: "Ondrej Pekacek & TI CZ"
 date: "`r format(Sys.Date(),'%d. %m. %Y')`"
 output: 
   flexdashboard::flex_dashboard:
-    logo: "input/dashboard/logo_ti.svg"
+    self_contained: false
+    lib_dir: "./lib"    
+    mathjax: null
+    logo: "https://www.transparentnivolby.cz/hrad2023/wp-content/themes/prezident2023/images/logo2023.svg"
     css: "input/dashboard/style.css"
     theme: readable
     includes:
@@ -12,30 +15,26 @@ output:
       after_body: "input/dashboard/after_body.html"
     orientation: columns
     vertical_layout: fill
-    source_code: https://github.com/opop999/TI_monitoring_transparent_accounts_2023
     navbar:
       - {title: "Author", icon: "ion-social-linkedin", href: "https://www.linkedin.com/in/ondrej-pekacek"}
       - {title: "Data", icon: "ion-cloud", href: "https://github.com/opop999/TI_monitoring_transparent_accounts_2023/blob/master/README.md"}
       - {title: "Project", icon: "ion-information-circled", href: "https://www.transparentnivolby.cz/hrad2023/"}
+      - {title: "Source Code", icon: "ion-social-github", href: "https://github.com/opop999/TI_monitoring_transparent_accounts_2023"}      
 params:
   election_date: "2023-01-27"
   start_date: "2022-07-01"
   end_date: "2023-01-27"
-  packages: ["dplyr", "ggplot2", "forcats", "tidyr", "reactable", "reactablefmtr", "stringr", "plotly", "flexdashboard", "htmlwidgets"]
-  input_dir: "output/summary_tables"
-  
+  packages: ["metathis", "dplyr", "ggplot2", "forcats", "tidyr", "reactable", "reactablefmtr", "stringr", "plotly", "flexdashboard", "htmlwidgets", "rmarkdown"]
+  data_dir: "output/summary_tables"
+  social_description: "Monitoring of political financing before 2023 presidential elections in the Czech Republic. This dashboard focuses on the analysis of the transparent bank accounts of the election candidates."
+  social_url: "https://opop999.github.io/TI_monitoring_transparent_accounts_2023"
+  social_preview: "https://www.transparentnivolby.cz/hrad2023/wp-content/uploads/sites/13/2022/11/Cover-TV-hrad-2023.png"
+  social_preview_w: "1844"
+  social_preview_h: "902"
+  social_gh_repo: "opop999/TI_monitoring_transparent_accounts_2023"  
 
 ---
-
-```{js}
-// Add pull-left class to logo
-document.querySelector("span.navbar-logo").classList.add("pull-left");
-// Add link wrapper to logo
-$("span.navbar-logo").wrap('<a href="https://www.transparentnivolby.cz/hrad2023/">');
-
-```
-
-```{r setup, include=FALSE}
+```{r setup_load, include=FALSE}
 # Disable scientific notation of numbers
 options(scipen = 999)
 
@@ -48,12 +47,95 @@ if (any(installed_packages == FALSE)) {
 # Packages loading
 invisible(lapply(params$packages, library, character.only = TRUE))
 
-# Specify directory with datasets
-total_spending <- readRDS(file = file.path(params$input_dir, "total_spending.rds"))
-time_spending <- readRDS(file = file.path(params$input_dir, "time_spending.rds"))
-total_income <- readRDS(file = file.path(params$input_dir, "total_income.rds"))
-time_income <- readRDS(file = file.path(params$input_dir, "time_income.rds"))
+```
 
+```{js}
+// Add pull-left class to logo
+document.querySelector("span.navbar-logo").classList.add("pull-left");
+// Add link wrapper to logo
+$("span.navbar-logo").wrap('<a href="https://www.transparentnivolby.cz/hrad2023/">');
+
+```
+
+```{r setup_meta, echo=FALSE}
+# Add meta tags for easier dashboard link sharing on social networks
+meta() %>%
+  meta_description(
+    params$social_description
+  ) %>%
+  meta_name("github-repo" = params$social_gh_repo) %>%
+  meta_tag(
+    "property" = "og:url",
+    content = params$social_url
+  ) %>%
+  meta_tag(
+    "property" = "og:description",
+    content = params$social_description
+  ) %>%
+  meta_tag(
+    "property" = "og:image",
+    content = params$social_preview
+  ) %>%
+  meta_tag(
+    "property" = "og:image:width",
+    content = params$social_preview_w
+  ) %>%  
+  meta_tag(
+    "property" = "og:image:height",
+    content = params$social_preview_h
+  ) %>%
+  meta_tag(
+    "property" = "og:image:alt",
+    content = "TI Project website preview"
+  ) %>%
+  meta_tag(
+    "property" = "og:type",
+    content = "website"
+  ) %>%
+  meta_tag(
+    "property" = "og:locale",
+    content = "en_US"
+  ) %>%
+  meta_tag(
+    "property" = "article:author",
+    content = metadata$author
+  ) %>%
+  meta_tag(
+    "name" = "twitter:title",
+    content = metadata$title
+  ) %>%
+  meta_tag(
+    "name" = "twitter:description",
+    content = params$social_description
+  ) %>%
+  meta_tag(
+    "name" = "twitter:url",
+    content = params$social_url
+  ) %>%
+  meta_tag(
+    "name" = "twitter:image",
+    content = params$social_preview
+  ) %>%
+  meta_tag(
+    "name" = "twitter:image:alt",
+    content = "Project Logo"
+  ) %>%
+  meta_tag(
+    "name" = "twitter:card",
+    content = "summary_large_image"
+  )
+
+```
+
+```{r setup_data, include=FALSE}
+# Specify directory with datasets
+total_spending <- readRDS(file = file.path(params$data_dir, "total_spending.rds"))
+time_spending <- readRDS(file = file.path(params$data_dir, "time_spending.rds"))
+total_income <- readRDS(file = file.path(params$data_dir, "total_income.rds"))
+time_income <- readRDS(file = file.path(params$data_dir, "time_income.rds"))
+```
+
+```{r setup_params, include=FALSE}
 # Election date for vertical line in the time-plots
 election_date <- as.Date(params$election_date)
 
