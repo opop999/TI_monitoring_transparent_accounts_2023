@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-20,7000,CZK,Okamžitá příchozí platba,Ing.Votoupal Petr,dar od Petr Votoupal,0,,,Ing.Votoupal Petr,jaroslav_basta
 2022-12-17,-1488,CZK,Okamžitá odchozí platba,,vrácení daru,,,,vrácení daru Jan Panocha,jaroslav_basta
 2022-12-17,-1355953.23,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty (100 ploch) prosinec 2022 (PS18136406/JV),,,,"BigMedia, spol. s r.o. pronájem reklamních panelů pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
 2022-12-17,-3993,CZK,Platba převodem uvnitř banky,,SP-Solutions s.r.o. - zajištění bezpečnosti - prezidentská kampaň Jaroslava Bašty,308,2022019,,SP-Solutions s.r.o. - zajištění bezpečnosti - prezidentská kampaň Jaroslava Bašty,jaroslav_basta

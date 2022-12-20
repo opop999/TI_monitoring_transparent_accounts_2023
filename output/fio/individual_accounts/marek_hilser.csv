@@ -1,4 +1,6 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-20,-3000,CZK,Okamžitá odchozí platba,,,,222000045,,Produkce setkání s voliči - Liberec,marek_hilser
+2022-12-20,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,,,Pavel Tr?ster,marek_hilser
 2022-12-19,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-12-18,-1000,CZK,Karetní transakce,,"Nákup: FACEBK TEXECKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK TEXECKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.12.2022, částka  1000.00 CZK",marek_hilser
 2022-12-17,111,CZK,Okamžitá příchozí platba,Jakub Jalůvka,,,,,Jakub Jalůvka,marek_hilser

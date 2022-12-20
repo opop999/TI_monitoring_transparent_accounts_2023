@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-20,4000,CZK,Bezhotovostní příjem,Krekáň Stanislav,,0,,,Krekáň Stanislav,petr_pavel
+2022-12-20,100000,CZK,Bezhotovostní příjem,VANČURA ČESTMÍR,Dar,0,231253,0,VANČURA ČESTMÍR,petr_pavel
+2022-12-20,500,CZK,Platba převodem uvnitř banky,"Ing. Stejskal, Drahomír",PLZ,,,,PLZ,petr_pavel
+2022-12-20,500,CZK,Okamžitá příchozí platba,Petr Proks,,,,,Petr Proks,petr_pavel
+2022-12-20,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,,,Pavel Tr?ster,petr_pavel
+2022-12-20,3333.33,CZK,Okamžitá příchozí platba,Spolek přátel kávy,"Dar na kampaň gen. Pavla, s pozdravem Spolek přátel kávy",,1,,Spolek přátel kávy,petr_pavel
+2022-12-20,800,CZK,Bezhotovostní příjem,ROŠTOK RADEK,,,,,ROŠTOK RADEK,petr_pavel
+2022-12-19,350,CZK,Platba převodem uvnitř banky,"Peřinka, Miloš",,,,,,petr_pavel
+2022-12-19,-24200,CZK,Karetní transakce,,"Nákup: FACEBK NB7G5KXQ32, fb.me/ads, IE, dne 18.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK NB7G5KXQ32, fb.me/ads, IE, dne 18.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-19,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2022-12-19,-11412,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
 2022-12-19,-2102.5,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
