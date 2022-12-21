@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-21,1500,CZK,Okamžitá příchozí platba,Hana Otáhalová,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Hana Otáhalová,petr_pavel
+2022-12-21,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,,,Pavel Tr?ster,petr_pavel
+2022-12-21,50000,CZK,Bezhotovostní příjem,INVERSIA S.R.O.,Dar,,27598349,,INVERSIA S.R.O.,petr_pavel
+2022-12-20,-818.81,CZK,Karetní transakce,,"Nákup: PADDLE.NET*PLAUSIBLE, London, GB, dne 20.12.2022, částka  35.09 USD",,7999,,"Nákup: PADDLE.NET*PLAUSIBLE, London, GB, dne 20.12.2022, částka  35.09 USD",petr_pavel
+2022-12-20,1111,CZK,Okamžitá příchozí platba,Ing.Krula Jiří,Dar na kampan generala Pavla,0,,,Ing.Krula Jiří,petr_pavel
+2022-12-20,-24200,CZK,Karetní transakce,,"Nákup: FACEBK TMPVHJ3R32, fb.me/ads, IE, dne 19.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK TMPVHJ3R32, fb.me/ads, IE, dne 19.12.2022, částka  24200.00 CZK",petr_pavel
+2022-12-20,3000,CZK,Platba převodem uvnitř banky,"Kořistka, Martin",Dar NA KAMPAŇ GENERÁLA PAVLA,558,540402,,Dar NA KAMPAŇ GENERÁLA PAVLA,petr_pavel
+2022-12-20,200000,CZK,Bezhotovostní příjem,Ungelt Management Co,dar dle Darovaci smlouvy,,65413199,,Ungelt Management Co,petr_pavel
+2022-12-20,1111.11,CZK,Bezhotovostní příjem,KUBICEK STANISLAV,Dar Kubíčkovi,,0,,KUBICEK STANISLAV,petr_pavel
 2022-12-20,4000,CZK,Bezhotovostní příjem,Krekáň Stanislav,,0,,,Krekáň Stanislav,petr_pavel
 2022-12-20,100000,CZK,Bezhotovostní příjem,VANČURA ČESTMÍR,Dar,0,231253,0,VANČURA ČESTMÍR,petr_pavel
 2022-12-20,500,CZK,Platba převodem uvnitř banky,"Ing. Stejskal, Drahomír",PLZ,,,,PLZ,petr_pavel
