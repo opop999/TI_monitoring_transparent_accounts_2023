@@ -1,4 +1,37 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-22,100000,CZK,Bezhotovostní příjem,PATŘIČNÝ PAVEL,Patřičný,,560417,,PATŘIČNÝ PAVEL,petr_pavel
+2022-12-22,100000,CZK,Bezhotovostní příjem,VONDRÁČEK ROMAN,,0,0,0,VONDRÁČEK ROMAN,petr_pavel
+2022-12-22,1000,CZK,Okamžitá příchozí platba,Fibinger Jiří,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Fibinger Jiří,petr_pavel
+2022-12-22,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,,,Pavel Tr?ster,petr_pavel
+2022-12-22,2000,CZK,Bezhotovostní příjem,BĚHŮNEK MILAN,Good luck generále,0,0,0,BĚHŮNEK MILAN,petr_pavel
+2022-12-22,10000,CZK,Okamžitá příchozí platba,Mgr. Jan Kubín,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,Mgr. Jan Kubín,petr_pavel
+2022-12-22,1000,CZK,Okamžitá příchozí platba,Krejčiřík Jiří,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Krejčiřík Jiří,petr_pavel
+2022-12-22,100000,CZK,Bezhotovostní příjem,HUBÁČEK MARTIN,,,,,HUBÁČEK MARTIN,petr_pavel
+2022-12-22,100000,CZK,Bezhotovostní příjem,PATŘIČNÝ JAN,Patřičný na zvolení generála,,,,PATŘIČNÝ JAN,petr_pavel
+2022-12-22,100000,CZK,Bezhotovostní příjem,ŠEBA JARMIL,Ing. Jarmil Šeba,,631219,,ŠEBA JARMIL,petr_pavel
+2022-12-21,1111,CZK,Okamžitá příchozí platba,Ing. Petr Kučera,Dar na kampan generala Pavla,,,,Ing. Petr Kučera,petr_pavel
+2022-12-21,-128,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-21,-701,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-21,-318,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-21,-721,CZK,Bezhotovostní platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-21,-217,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-21,-272,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-21,-50,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-21,-385,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-21,-145,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-21,-326,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-21,-566,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-21,-2035,CZK,Okamžitá odchozí platba,,,,,,"IČ: 88010520, produkční náklady",petr_pavel
+2022-12-21,-4880,CZK,Okamžitá odchozí platba,,,,,,"IČ: 88010520, produkční náklady",petr_pavel
+2022-12-21,-385,CZK,Okamžitá odchozí platba,,,,,,"IČ: 88010520, produkční náklady",petr_pavel
+2022-12-21,-565,CZK,Okamžitá odchozí platba,,,,,,"IČ: 88010520, produkční náklady",petr_pavel
+2022-12-21,-81070,CZK,Bezhotovostní platba,,,308,2220068,,"IČ: 24206245, video",petr_pavel
+2022-12-21,-2090,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2022-12-21,-1394,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2022-12-21,-570,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2022-12-21,-689,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2022-12-21,200000,CZK,Okamžitá příchozí platba,SEBOR PAVEL,Dar na kampan generala Pavla,0,,,SEBOR PAVEL,petr_pavel
+2022-12-21,400,CZK,Okamžitá příchozí platba,PLESNÍK TOMÁŠ,Dar na kampan generala Pavla,,,,PLESNÍK TOMÁŠ,petr_pavel
 2022-12-21,1500,CZK,Okamžitá příchozí platba,Hana Otáhalová,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Hana Otáhalová,petr_pavel
 2022-12-21,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,,,Pavel Tr?ster,petr_pavel
 2022-12-21,50000,CZK,Bezhotovostní příjem,INVERSIA S.R.O.,Dar,,27598349,,INVERSIA S.R.O.,petr_pavel

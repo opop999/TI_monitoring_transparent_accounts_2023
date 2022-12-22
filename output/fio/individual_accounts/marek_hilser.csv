@@ -1,4 +1,16 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-22,500,CZK,Platba převodem uvnitř banky,"Pokorná, Barbora","Barbora Pokorná, 8.4.1998, Habrovany",,,,"Barbora Pokorná, 8.4.1998, Habrovany",marek_hilser
+2022-12-22,-70000,CZK,Okamžitá odchozí platba,,,,,,Faktura 822022 - Doplatek za předvolební videoklip pro ČT + videa podporovatelů,marek_hilser
+2022-12-22,-7500,CZK,Okamžitá odchozí platba,,,,,,Faktura202220 - Produkce setkání s občany a debata v Divadle MA 16.12 2022,marek_hilser
+2022-12-22,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,,,Pavel Tr?ster,marek_hilser
+2022-12-22,1234.5,CZK,Okamžitá příchozí platba,MUDr. Martin Trefný,"MUDr. Martin Trefný, 13.5.1991, Praha 6",,,,MUDr. Martin Trefný,marek_hilser
+2022-12-22,5000,CZK,Bezhotovostní příjem,JANOUSEK PETR,Petr Janoušek 14. 7. 1972 Praha 6 Břevnov,,0,,JANOUSEK PETR,marek_hilser
+2022-12-22,-420.38,CZK,Karetní transakce,,"Nákup: Wix.com,  5, rue Guillaume Kroll, Luxembourg, 1882, LUX, dne 21.12.2022, částka  16.94 EUR",,5298,,"Nákup: Wix.com,  5, rue Guillaume Kroll, Luxembourg, 1882, LUX, dne 21.12.2022, částka  16.94 EUR",marek_hilser
+2022-12-22,2000,CZK,Okamžitá příchozí platba,Luděk Pivoňka,Mohelnice podporuje.,,,,Luděk Pivoňka,marek_hilser
+2022-12-21,1000,CZK,Platba převodem uvnitř banky,"Kudělka, Ondřej","Ondřej Kudělka, 14.12.1988, Hodslavice",,,,"Ondřej Kudělka, 14.12.1988, Hodslavice",marek_hilser
+2022-12-21,-52500,CZK,Okamžitá odchozí platba,,,,,,"Faktura 2022003 - Organizace volební kampaně, mediální a produkční práce - listopad 2022",marek_hilser
+2022-12-21,-40000,CZK,Platba převodem uvnitř banky,,,,,,faktura 2022012 - správa sociálních sítí prosinec 2022,marek_hilser
+2022-12-21,-9413,CZK,Platba převodem uvnitř banky,,,,2210446,,Faktura - 2210446 - Produkce -  tiskové materiály pro tiskovou konferenci,marek_hilser
 2022-12-21,5000,CZK,Bezhotovostní příjem,MEZIAN KAMAL,MUDr. K. Mezian,,0,,MEZIAN KAMAL,marek_hilser
 2022-12-21,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink cz,,,,Pavel Tr?ster,marek_hilser
 2022-12-20,-3000,CZK,Okamžitá odchozí platba,,,,222000045,,Produkce setkání s voliči - Liberec,marek_hilser

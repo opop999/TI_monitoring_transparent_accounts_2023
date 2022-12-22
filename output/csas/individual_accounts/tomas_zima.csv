@@ -1,4 +1,10 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2022-12-20,85000,CZK,Příchozí úhrada,,66,,Jára Daniel,,tomas_zima
+2022-12-20,-250000,CZK,Tuzemská odchozí úhrada,,66,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
+2022-12-18,30000,CZK,Příchozí úhrada,,66,,"Pardubová, Lucie",,tomas_zima
+2022-12-16,100000,CZK,Příchozí úhrada,,66,,HUBÁLEK BOHUSLAV,"Tomas Zima, DAR",tomas_zima
+2022-12-15,40000,CZK,Příchozí úhrada,,66,,Pik Josef,držíme palce,tomas_zima
+2022-12-15,30000,CZK,Příchozí úhrada,,66,,KOTKOVÁ MONIKA,sponzorský  dar,tomas_zima
 2022-12-20,-250000,CZK,Tuzemská odchozí úhrada,,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
 2022-12-20,85000,CZK,Příchozí úhrada,,,,Jára Daniel,,tomas_zima
 2022-12-18,30000,CZK,Příchozí úhrada,,,,"Pardubová, Lucie",,tomas_zima
