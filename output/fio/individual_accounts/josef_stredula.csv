@@ -1,4 +1,9 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-23,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,5632,,Pavel Tr?ster,josef_stredula
+2022-12-22,-1022.86,CZK,Karetní transakce,,"Nákup: FACEBK 8H7NNJXF52, fb.me/ads, IE, dne 22.12.2022, částka  1022.86 CZK",,2172,,"Nákup: FACEBK 8H7NNJXF52, fb.me/ads, IE, dne 22.12.2022, částka  1022.86 CZK",josef_stredula
+2022-12-22,-130000,CZK,Bezhotovostní platba,,Josef Středula,308,220100089,,Kvalitativní výzkum,josef_stredula
+2022-12-22,-230000,CZK,Bezhotovostní platba,,Josef Středula,308,220100088,,Zajištění tiskové konference,josef_stredula
+2022-12-22,-20000,CZK,Karetní transakce,,"Nákup: FACEBK 7NVX6JXE52, fb.me/ads, IE, dne 20.12.2022, částka  20000.00 CZK",,2172,,"Nákup: FACEBK 7NVX6JXE52, fb.me/ads, IE, dne 20.12.2022, částka  20000.00 CZK",josef_stredula
 2022-12-22,-850000,CZK,Bezhotovostní platba,,Josef Středula,308,220100087,,Vedení kampaně 12/2022 - 2. část,josef_stredula
 2022-12-22,2000000,CZK,Platba převodem uvnitř banky,SPOLEČNĚ PRO LIDI z.s.,Společně pro lidi z.s. - dar,,112022,,Společně pro lidi z.s. - dar,josef_stredula
 2022-12-22,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,5632,,Pavel Tr?ster,josef_stredula

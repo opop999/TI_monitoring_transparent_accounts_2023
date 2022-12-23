@@ -1,4 +1,136 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2022-12-23,300,CZK,Příchozí úhrada,0,,3,"CESKA POSTA, S.P.",pošta 204010 21.12.2022 č 5011FRANTIŠEKPAVLIK,pavel_fischer
+2022-12-23,2000,CZK,Příchozí úhrada,0,,3,KAVALE MARKETA,podpora pro PF,pavel_fischer
+2022-12-22,2000,CZK,Příchozí úhrada,0,,3,Markéta Plánková,,pavel_fischer
+2022-12-22,-1465.5,CZK,Platba kartou,0,,3,-,XXXXXXXXXXXX5741 d.tran.20.12.2022CZ  POPUVKY         SHELL 8015CZK      1465.50 d.zúč. 22.12.2022částka v Kč:        1465.50,pavel_fischer
+2022-12-22,1000,CZK,Příchozí úhrada,0,,3,SKLADANA MARIE,,pavel_fischer
+2022-12-22,-90000,CZK,Tuzemská odchozí úhrada,0,,3,000000-2700145824/2010,Výlep plakátů,pavel_fischer
+2022-12-22,-50400,CZK,Tuzemská odchozí úhrada,0,,3,000000-0115003359/0800,Grafické práce,pavel_fischer
+2022-12-22,500,CZK,Příchozí úhrada,0,,3,Porazilová Ludmila,,pavel_fischer
+2022-12-22,1000,CZK,Příchozí úhrada,0,,3,Mgr.Tichý Petr,Hodne stesti,pavel_fischer
+2022-12-22,2000,CZK,Příchozí úhrada,0,,3,BRYCHTA ANTONÍN,,pavel_fischer
+2022-12-22,1000,CZK,Příchozí úhrada,0,,3,Ing.Procházka Václav,Prochazka_prispevek_prezident2023,pavel_fischer
+2022-12-22,0.01,CZK,Příchozí úhrada,0,,3,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,pavel_fischer
+2022-12-21,-14036,CZK,Tuzemská odchozí úhrada,0,,3,000000-0000629888/0300,Pronájem reklamních ploch,pavel_fischer
+2022-12-21,-3388,CZK,Tuzemská odchozí úhrada,0,,3,000000-0000629888/0300,Pronájem reklamních ploch,pavel_fischer
+2022-12-21,1000,CZK,Příchozí úhrada,0,,3,SKLENAROVA HANA,,pavel_fischer
+2022-12-21,3000,CZK,Příchozí úhrada,0,,3,PAVLA RYBOVA,"FISCHER PAVEL, PREZIDENTSKÝ KANDIDÁT, PODPORA NEJLEPŠÍMU KANDIDÁTOVI-RYBOVI, STŘELICE",pavel_fischer
+2022-12-21,200,CZK,Příchozí úhrada,0,,3,ČERNÍNOVÁ HANA,,pavel_fischer
+2022-12-21,3000,CZK,Příchozí úhrada,0,,3,PRIBYLOVA HANA,,pavel_fischer
+2022-12-21,500,CZK,Příchozí úhrada,0,,3,BAUCHNER DOMINIK,"Pavel Fisher, Prezidentska kampan",pavel_fischer
+2022-12-21,500,CZK,Příchozí úhrada,0,,3,Dalibor Tuž,,pavel_fischer
+2022-12-21,1000,CZK,Příchozí úhrada,0,,3,KOPECKA ANNA,,pavel_fischer
+2022-12-21,200,CZK,Příchozí úhrada,0,,3,Zdenka Kyznarová,Volby 2023,pavel_fischer
+2022-12-21,500,CZK,Příchozí úhrada,0,,3,Straka Karel,straka žerotínova 175 bluduv,pavel_fischer
+2022-12-21,1111,CZK,Příchozí úhrada,0,,3,"Böhmová, Ludmila","Díky Pavlovi F. za vytrvalost, odvahu a připravenost ke službě nám a naší zemi.",pavel_fischer
+2022-12-21,5000,CZK,Příchozí úhrada,0,,3,"Zábojník, Vojtěch",podpora - držím palce,pavel_fischer
+2022-12-21,2000,CZK,Příchozí úhrada,0,,3,"Kotvrdová, Anna",Nejschopnější kandidát!,pavel_fischer
+2022-12-21,200,CZK,Příchozí úhrada,0,,3,Blažková Monika,,pavel_fischer
+2022-12-21,1000,CZK,Příchozí úhrada,0,,3,SLUNEČKOVÁ LENKA,"Fischer Pavel, Od František Kolanda Vlašim",pavel_fischer
+2022-12-21,200,CZK,Příchozí úhrada,0,,3,JELINKOVA SARKA,Dar,pavel_fischer
+2022-12-21,500,CZK,Příchozí úhrada,0,,3,VLCEK JAN,Podpora senátora Pavla Fišera - prezident 2023,pavel_fischer
+2022-12-21,1000,CZK,Příchozí úhrada,0,,3,FISEROVA MARIE,208178,pavel_fischer
+2022-12-21,300,CZK,Příchozí úhrada,0,,3,FILIPEK EVZEN,703173,pavel_fischer
+2022-12-21,-19000,CZK,Tuzemská odchozí úhrada,0,,3,000000-0160013193/0300,Hudební vystoupení,pavel_fischer
+2022-12-21,-27000,CZK,Tuzemská odchozí úhrada,0,,3,000000-4391498309/0800,Propagační materiály,pavel_fischer
+2022-12-21,-10164,CZK,Tuzemská odchozí úhrada,0,,3,000000-1930744369/0800,Fotografické práce,pavel_fischer
+2022-12-21,0.01,CZK,Příchozí úhrada,0,,3,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,pavel_fischer
+2022-12-21,-839,CZK,Platba kartou,0,,3,-,XXXXXXXXXXXX5741 d.tran.19.12.2022CZ  CESTLICE        CS PRIM CESTLICZK       839.00 d.zúč. 21.12.2022částka v Kč:         839.00,pavel_fischer
+2022-12-21,-1120.6,CZK,Platba kartou,0,,3,-,XXXXXXXXXXXX5741 d.tran.19.12.2022CZ  PRUHONICE       UNION ROAD (CECZK      1120.60 d.zúč. 21.12.2022částka v Kč:        1120.60,pavel_fischer
+2022-12-20,800,CZK,Příchozí úhrada,0,,3,Ing.Vítková Jaroslava,"dar (manželé Vítkovi, MO KDU-ČSL Nové Veselí)",pavel_fischer
+2022-12-20,7000,CZK,Příchozí úhrada,0,,3,"CESKA POSTA, S.P.",pošta 713014 16.12.2022 č 9000AUGUSTINPETŘÍK ST*,pavel_fischer
+2022-12-20,1000,CZK,Příchozí úhrada,0,,3,Hučková Anna,,pavel_fischer
+2022-12-20,500,CZK,Příchozí úhrada,0,,3,JAN REHACEK,"FISHER, PŘEVOD PROSTŘEDKŮ",pavel_fischer
+2022-12-20,300,CZK,Příchozí úhrada,0,,3,JANUSKA KAREL,605304,pavel_fischer
+2022-12-20,1000,CZK,Příchozí úhrada,0,,3,SEDOVA BOZENA,614239,pavel_fischer
+2022-12-20,5000,CZK,Příchozí úhrada,0,,3,URBAN VACLAV,Podpora budoucího prezidenta,pavel_fischer
+2022-12-20,10000,CZK,Příchozí úhrada,0,,3,"Fatka, Jan","Jan Fatka, 14.5.1955, Libocká 5/41,Praha-Liboc",pavel_fischer
+2022-12-20,0.01,CZK,Příchozí úhrada,0,,3,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,pavel_fischer
+2022-12-20,-963.2,CZK,Platba kartou,0,,3,-,XXXXXXXXXXXX5741 d.tran.18.12.2022CZ  Praha           OMV 2153CZK       963.20 d.zúč. 20.12.2022částka v Kč:         963.20,pavel_fischer
+2022-12-20,500,CZK,Příchozí úhrada,0,,3,Ing.Mrlík Jindřich,,pavel_fischer
+2022-12-20,5000,CZK,Příchozí úhrada,0,,3,BOHDANA JAKUBCOVA,"PAVEL FISCHER, PŘEVOD PROSTŘEDKŮ",pavel_fischer
+2022-12-20,1000,CZK,Příchozí úhrada,0,,3,ZEZULA MARCEL,Marcel Zezula -  na kampaň,pavel_fischer
+2022-12-20,100,CZK,Příchozí úhrada,0,,3,Jan Kříž,,pavel_fischer
+2022-12-20,100,CZK,Příchozí úhrada,0,,3,Janík Pavel,,pavel_fischer
+2022-12-19,-18000,CZK,Tuzemská odchozí úhrada,0,,3,000000-0160013193/0300,Koncert 16/11,pavel_fischer
+2022-12-19,20000,CZK,Příchozí úhrada,0,,3,Václav Tůma,,pavel_fischer
+2022-12-19,1500,CZK,Příchozí úhrada,0,,3,Adámek Pavel,PF 2023++,pavel_fischer
+2022-12-19,500,CZK,Příchozí úhrada,0,,3,TRÖDLER JAN,příspěvek,pavel_fischer
+2022-12-19,500,CZK,Příchozí úhrada,0,,3,"Vaňkát, Jan","pro dobrou věc, pro budoucnost",pavel_fischer
+2022-12-19,1000,CZK,Příchozí úhrada,0,,3,SLADECEK PETR,prezidentská kampaň,pavel_fischer
+2022-12-19,22000,CZK,Příchozí úhrada,0,,3,FELIX MARTIN,Pavel Fischer - transparentni ucet,pavel_fischer
+2022-12-19,3000,CZK,Příchozí úhrada,0,,3,POLOVA MARIE,PF 2023,pavel_fischer
+2022-12-19,10000,CZK,Příchozí úhrada,0,,3,Splítek Mikuláš,Oceňuji Vaši integritu a děkuji!,pavel_fischer
+2022-12-19,200,CZK,Příchozí úhrada,0,,3,JIRSAK PAVEL,,pavel_fischer
+2022-12-19,1000,CZK,Příchozí úhrada,0,,3,VACLAV KABRIEL,"PAVEL FISCHER, PF 2023",pavel_fischer
+2022-12-19,0.01,CZK,Příchozí úhrada,0,,3,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2022-12-19,500,CZK,Příchozí úhrada,0,,3,MARIE GRAUBNEROVA,"PREZIDENTSKÁ KAMPAŇ FISCHER, PŘEVOD PROSTŘEDKŮ",pavel_fischer
+2022-12-19,1000,CZK,Příchozí úhrada,0,,3,JIRI MATEJ STANEK,"TRANSPARENTNÍ ÚČET PAVLA FISCHERA, PF JE JEDNIČKA!",pavel_fischer
+2022-12-19,500,CZK,Příchozí úhrada,0,,3,Miklová Jarmila,,pavel_fischer
+2022-12-19,-1369.6,CZK,Platba kartou,0,,3,-,XXXXXXXXXXXX5741 d.tran.16.12.2022CZ  PRUHONICE       UNION ROAD (CECZK      1369.60 d.zúč. 19.12.2022částka v Kč:        1369.60,pavel_fischer
+2022-12-19,500,CZK,Příchozí úhrada,0,,3,KOMÍNEK RADEK,"držíme palce Vám i naší zemi, Komínkovi",pavel_fischer
+2022-12-19,200,CZK,Příchozí úhrada,0,,3,PŠENIČKA JAN,"INT: 18.12.2022/19:28:11 0659300645, Dar- Pšenička Jan",pavel_fischer
+2022-12-19,500,CZK,Příchozí úhrada,0,,3,HALADY LUDVIK,,pavel_fischer
+2022-12-19,1000,CZK,Příchozí úhrada,0,,3,SUMOVA ANNA,,pavel_fischer
+2022-12-19,500,CZK,Příchozí úhrada,0,,3,CERNICKOVA MAGDA,velískova,pavel_fischer
+2022-12-19,200,CZK,Příchozí úhrada,0,,3,MOTACKOVA MARIE,610092,pavel_fischer
+2022-12-19,100000,CZK,Příchozí úhrada,0,,3,HYKA JOSEF,,pavel_fischer
+2022-12-19,2000,CZK,Příchozí úhrada,0,,3,SAROFINOVA LUDMILA,L.Sarofinová - dar,pavel_fischer
+2022-12-19,500,CZK,Příchozí úhrada,0,,3,BRTNÍK JAN,Pavel Fišer,pavel_fischer
+2022-12-18,1000,CZK,Příchozí úhrada,0,,3,Mgr.Svoboda Vlastimil,,pavel_fischer
+2022-12-18,1000,CZK,Příchozí úhrada,0,,3,KRMELOVÁ JIŘINA,Krmelovi,pavel_fischer
+2022-12-18,400,CZK,Příchozí úhrada,0,,3,Bohumil Němeček,,pavel_fischer
+2022-12-18,2000,CZK,Příchozí úhrada,0,,3,Ing.arch.Kučová Věra,Hodně energie do koncovky!,pavel_fischer
+2022-12-18,-771.1,CZK,Platba kartou,0,,3,-,XXXXXXXXXXXX5741 d.tran.14.12.2022CZ  PRUHONICE       UNION ROAD (CECZK       771.10 d.zúč. 18.12.2022částka v Kč:         771.10,pavel_fischer
+2022-12-18,200,CZK,Příchozí úhrada,0,,3,"Karásková, Ludmila",,pavel_fischer
+2022-12-18,10000,CZK,Příchozí úhrada,0,,3,VALENTA VÁCLAV,"svoboda, demokracie, budoucnost!",pavel_fischer
+2022-12-18,5000,CZK,Příchozí úhrada,0,,3,PhDr.Tydlitátová Michaela,dar na kampaň - Bořivoj a Michaela Tydlitátovi,pavel_fischer
+2022-12-17,-2088,CZK,Tuzemská odchozí úhrada,0,,3,000000-2300738014/2010,"Dárky, propagace",pavel_fischer
+2022-12-17,-338.8,CZK,Tuzemská odchozí úhrada,0,,3,000000-0212779503/5500,Propagace debaty s občany,pavel_fischer
+2022-12-17,-169760.58,CZK,Tuzemská odchozí úhrada,0,,3,000000-2800204764/2010,Výroba bannerů,pavel_fischer
+2022-12-17,-5286.49,CZK,Tuzemská odchozí úhrada,0,,3,000000-0258861000/0300,Samolepky na auta,pavel_fischer
+2022-12-17,5000,CZK,Příchozí úhrada,0,,3,Ing.Dvořák Petr,,pavel_fischer
+2022-12-17,10000,CZK,Příchozí úhrada,0,,3,Michal Vybíral,,pavel_fischer
+2022-12-17,1000,CZK,Příchozí úhrada,0,,3,Lenka Kanalošová,,pavel_fischer
+2022-12-17,1000,CZK,Příchozí úhrada,0,,3,Libuše Kolesíková,,pavel_fischer
+2022-12-17,100,CZK,Příchozí úhrada,0,,3,Krejča Libor,,pavel_fischer
+2022-12-17,500,CZK,Příchozí úhrada,0,,3,Kočišová Jana,dar,pavel_fischer
+2022-12-17,500,CZK,Příchozí úhrada,0,,3,NAVRÁTIL RUDOLF,,pavel_fischer
+2022-12-17,26000,CZK,Příchozí úhrada,0,,3,RNDr.Hýsek Josef,dar na transparentní účer Pavel Fischer od: Eva Hýsková,pavel_fischer
+2022-12-16,50000,CZK,Příchozí úhrada,0,,3,JEZ-DOB S.R.O.,Ať mít dál zůstává s touto krajinou....,pavel_fischer
+2022-12-16,100000,CZK,Příchozí úhrada,0,,3,SVOBODA PAVEL,S úctou Pavel,pavel_fischer
+2022-12-16,50000,CZK,Příchozí úhrada,0,,3,OLD RIVER S.R.O.,Pro toho kdo je prezidentem srdcemi duší..,pavel_fischer
+2022-12-16,32000,CZK,Příchozí úhrada,0,,3,Bc.Drahotová Markéta,Pavel Fischer na hrad,pavel_fischer
+2022-12-16,1000,CZK,Příchozí úhrada,0,,3,Pešek Ivo,,pavel_fischer
+2022-12-16,24000,CZK,Příchozí úhrada,0,,3,Zdeňka Veselá,,pavel_fischer
+2022-12-16,50000,CZK,Příchozí úhrada,0,,3,"CAMP DOBŘICHOVICE, S",Pro vítězství nad lží a nenávistí,pavel_fischer
+2022-12-16,1000,CZK,Příchozí úhrada,0,,3,"CESKA POSTA, S.P.",pošta 614319 14.12.2022 č 1PAVZL HUMLÍČEK5944SOCTRCV N*0*144Í,pavel_fischer
+2022-12-16,500,CZK,Příchozí úhrada,0,,3,ROZSYPALKOVA IRENA,,pavel_fischer
+2022-12-16,1000,CZK,Příchozí úhrada,0,,3,MIKEŠ JOSEF,,pavel_fischer
+2022-12-16,0.01,CZK,Příchozí úhrada,0,,3,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2022-12-16,550,CZK,Příchozí úhrada,0,,3,Barabáš Martin,,pavel_fischer
+2022-12-16,30000,CZK,Příchozí úhrada,0,,3,NIKODYMOVA MAGDALENA,fandím PF!!,pavel_fischer
+2022-12-16,50000,CZK,Příchozí úhrada,0,,3,NEWTECH PRODUCTION A,Pro nás a náš národ......,pavel_fischer
+2022-12-15,2000,CZK,Příchozí úhrada,0,,3,MgA Kurzová Zdeňka,,pavel_fischer
+2022-12-15,1000,CZK,Příchozí úhrada,0,,3,DOSTALEK JIRI,,pavel_fischer
+2022-12-15,-500,CZK,Tuzemská odchozí úhrada,0,,3,000000-2000005505/8040,Doučtování k faktuře 2220009759,pavel_fischer
+2022-12-15,-605,CZK,Tuzemská odchozí úhrada,0,,3,000000-2000005505/8040,Doučtování k faktuře č.2220009759,pavel_fischer
+2022-12-15,-2200,CZK,Tuzemská odchozí úhrada,0,,3,000000-0268175004/0300,Pronájem sálu a propagace debaty,pavel_fischer
+2022-12-15,-25410,CZK,Tuzemská odchozí úhrada,0,,3,000000-0067524001/5500,Výroba a instalace banneru,pavel_fischer
+2022-12-15,-10164,CZK,Tuzemská odchozí úhrada,0,,3,000000-1930744369/0800,Fotografické služby,pavel_fischer
+2022-12-15,1000,CZK,Příchozí úhrada,0,,3,JILKOVA JANA,,pavel_fischer
+2022-12-15,250000,CZK,Příchozí úhrada,0,,3,Mgr.Diviš Pavel,,pavel_fischer
+2022-12-15,5000,CZK,Příchozí úhrada,0,,3,MORKOS KAMEL,,pavel_fischer
+2022-12-15,250,CZK,Příchozí úhrada,0,,3,Rambousková Monika,,pavel_fischer
+2022-12-15,0.01,CZK,Příchozí úhrada,0,,3,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2022-12-15,200,CZK,Příchozí úhrada,0,,3,KRCMAR RADIM,kampan p. Fishera,pavel_fischer
+2022-12-15,50,CZK,Příchozí úhrada,0,,3,"COMETT PLUS, spol. s",,pavel_fischer
+2022-12-15,200,CZK,Příchozí úhrada,0,,3,"CESKA POSTA, S.P.",pošta 614220 13.12.2022 č 3000HARÍETROJANOV**,pavel_fischer
+2022-12-15,500,CZK,Příchozí úhrada,0,,3,SUDA VÁCLAV,přispěvek Marta Sudová,pavel_fischer
+2022-12-15,2000,CZK,Příchozí úhrada,0,,3,PRATOVA LUDMILA,604423,pavel_fischer
+2022-12-15,1000,CZK,Příchozí úhrada,0,,3,PALECEK ANTONIN,612317,pavel_fischer
+2022-12-15,10000,CZK,Příchozí úhrada,0,,3,Mátlová Marie,,pavel_fischer
+2022-12-15,2023,CZK,Příchozí úhrada,0,,3,Bc.Svobodová Kateřina,,pavel_fischer
 2022-12-22,1000,CZK,Příchozí úhrada,,23000276,,Ing.Procházka Václav,Prochazka_prispevek_prezident2023,pavel_fischer
 2022-12-22,2000,CZK,Příchozí úhrada,,23000276,,BRYCHTA ANTONÍN,,pavel_fischer
 2022-12-21,2000,CZK,Příchozí úhrada,,23000276,,"Kotvrdová, Anna",Nejschopnější kandidát!,pavel_fischer
@@ -439,67 +571,6 @@ date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,ent
 2022-12-12,300,CZK,Příchozí úhrada,0,,,"CESKA POSTA, S.P.",pošta 201431 08.12.2022 č 2T7 C* ** * T K/OZQVOVZF*,pavel_fischer
 2022-12-12,300,CZK,Příchozí úhrada,0,,,KOUTNÝ JOSEF,,pavel_fischer
 2022-12-12,200,CZK,Příchozí úhrada,0,,,Ing.Veverka Oldřich,"Anna Veverková, Brno",pavel_fischer
-2022-12-19,500,CZK,Příchozí úhrada,0,,3,HALADY LUDVIK,,pavel_fischer
-2022-12-19,2000,CZK,Příchozí úhrada,0,,3,SAROFINOVA LUDMILA,L.Sarofinová - dar,pavel_fischer
-2022-12-19,500,CZK,Příchozí úhrada,0,,3,BRTNÍK JAN,Pavel Fišer,pavel_fischer
-2022-12-19,500,CZK,Příchozí úhrada,0,,3,CERNICKOVA MAGDA,velískova,pavel_fischer
-2022-12-19,200,CZK,Příchozí úhrada,0,,3,MOTACKOVA MARIE,610092,pavel_fischer
-2022-12-19,100000,CZK,Příchozí úhrada,0,,3,HYKA JOSEF,,pavel_fischer
-2022-12-19,1000,CZK,Příchozí úhrada,0,,3,SUMOVA ANNA,,pavel_fischer
-2022-12-18,-771.1,CZK,Platba kartou,0,,3,-,XXXXXXXXXXXX5741 d.tran.14.12.2022CZ  PRUHONICE       UNION ROAD (CECZK       771.10 d.zúč. 18.12.2022částka v Kč:         771.10,pavel_fischer
-2022-12-18,400,CZK,Příchozí úhrada,0,,3,Bohumil Němeček,,pavel_fischer
-2022-12-18,1000,CZK,Příchozí úhrada,0,,3,KRMELOVÁ JIŘINA,Krmelovi,pavel_fischer
-2022-12-18,1000,CZK,Příchozí úhrada,0,,3,Mgr.Svoboda Vlastimil,,pavel_fischer
-2022-12-18,5000,CZK,Příchozí úhrada,0,,3,PhDr.Tydlitátová Michaela,dar na kampaň - Bořivoj a Michaela Tydlitátovi,pavel_fischer
-2022-12-18,10000,CZK,Příchozí úhrada,0,,3,VALENTA VÁCLAV,"svoboda, demokracie, budoucnost!",pavel_fischer
-2022-12-18,200,CZK,Příchozí úhrada,0,,3,"Karásková, Ludmila",,pavel_fischer
-2022-12-18,2000,CZK,Příchozí úhrada,0,,3,Ing.arch.Kučová Věra,Hodně energie do koncovky!,pavel_fischer
-2022-12-17,26000,CZK,Příchozí úhrada,0,,3,RNDr.Hýsek Josef,dar na transparentní účer Pavel Fischer od: Eva Hýsková,pavel_fischer
-2022-12-17,100,CZK,Příchozí úhrada,0,,3,Krejča Libor,,pavel_fischer
-2022-12-17,1000,CZK,Příchozí úhrada,0,,3,Libuše Kolesíková,,pavel_fischer
-2022-12-17,1000,CZK,Příchozí úhrada,0,,3,Lenka Kanalošová,,pavel_fischer
-2022-12-17,10000,CZK,Příchozí úhrada,0,,3,Michal Vybíral,,pavel_fischer
-2022-12-17,500,CZK,Příchozí úhrada,0,,3,NAVRÁTIL RUDOLF,,pavel_fischer
-2022-12-17,-5286.49,CZK,Tuzemská odchozí úhrada,0,,3,000000-0258861000/0300,Samolepky na auta,pavel_fischer
-2022-12-17,-2088,CZK,Tuzemská odchozí úhrada,0,,3,000000-2300738014/2010,"Dárky, propagace",pavel_fischer
-2022-12-17,-338.8,CZK,Tuzemská odchozí úhrada,0,,3,000000-0212779503/5500,Propagace debaty s občany,pavel_fischer
-2022-12-17,-169760.58,CZK,Tuzemská odchozí úhrada,0,,3,000000-2800204764/2010,Výroba bannerů,pavel_fischer
-2022-12-17,500,CZK,Příchozí úhrada,0,,3,Kočišová Jana,dar,pavel_fischer
-2022-12-17,5000,CZK,Příchozí úhrada,0,,3,Ing.Dvořák Petr,,pavel_fischer
-2022-12-16,50000,CZK,Příchozí úhrada,0,,3,JEZ-DOB S.R.O.,Ať mít dál zůstává s touto krajinou....,pavel_fischer
-2022-12-16,50000,CZK,Příchozí úhrada,0,,3,OLD RIVER S.R.O.,Pro toho kdo je prezidentem srdcemi duší..,pavel_fischer
-2022-12-16,32000,CZK,Příchozí úhrada,0,,3,Bc.Drahotová Markéta,Pavel Fischer na hrad,pavel_fischer
-2022-12-16,1000,CZK,Příchozí úhrada,0,,3,Pešek Ivo,,pavel_fischer
-2022-12-16,24000,CZK,Příchozí úhrada,0,,3,Zdeňka Veselá,,pavel_fischer
-2022-12-16,100000,CZK,Příchozí úhrada,0,,3,SVOBODA PAVEL,S úctou Pavel,pavel_fischer
-2022-12-16,1000,CZK,Příchozí úhrada,0,,3,"CESKA POSTA, S.P.",pošta 614319 14.12.2022 č 1PAVZL HUMLÍČEK5944SOCTRCV N*0*144Í,pavel_fischer
-2022-12-16,500,CZK,Příchozí úhrada,0,,3,ROZSYPALKOVA IRENA,,pavel_fischer
-2022-12-16,1000,CZK,Příchozí úhrada,0,,3,MIKEŠ JOSEF,,pavel_fischer
-2022-12-16,0.01,CZK,Příchozí úhrada,0,,3,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
-2022-12-16,550,CZK,Příchozí úhrada,0,,3,Barabáš Martin,,pavel_fischer
-2022-12-16,30000,CZK,Příchozí úhrada,0,,3,NIKODYMOVA MAGDALENA,fandím PF!!,pavel_fischer
-2022-12-16,50000,CZK,Příchozí úhrada,0,,3,NEWTECH PRODUCTION A,Pro nás a náš národ......,pavel_fischer
-2022-12-16,50000,CZK,Příchozí úhrada,0,,3,"CAMP DOBŘICHOVICE, S",Pro vítězství nad lží a nenávistí,pavel_fischer
-2022-12-15,2000,CZK,Příchozí úhrada,0,,3,MgA Kurzová Zdeňka,,pavel_fischer
-2022-12-15,1000,CZK,Příchozí úhrada,0,,3,DOSTALEK JIRI,,pavel_fischer
-2022-12-15,-500,CZK,Tuzemská odchozí úhrada,0,,3,000000-2000005505/8040,Doučtování k faktuře 2220009759,pavel_fischer
-2022-12-15,-605,CZK,Tuzemská odchozí úhrada,0,,3,000000-2000005505/8040,Doučtování k faktuře č.2220009759,pavel_fischer
-2022-12-15,-2200,CZK,Tuzemská odchozí úhrada,0,,3,000000-0268175004/0300,Pronájem sálu a propagace debaty,pavel_fischer
-2022-12-15,-25410,CZK,Tuzemská odchozí úhrada,0,,3,000000-0067524001/5500,Výroba a instalace banneru,pavel_fischer
-2022-12-15,-10164,CZK,Tuzemská odchozí úhrada,0,,3,000000-1930744369/0800,Fotografické služby,pavel_fischer
-2022-12-15,1000,CZK,Příchozí úhrada,0,,3,JILKOVA JANA,,pavel_fischer
-2022-12-15,250000,CZK,Příchozí úhrada,0,,3,Mgr.Diviš Pavel,,pavel_fischer
-2022-12-15,5000,CZK,Příchozí úhrada,0,,3,MORKOS KAMEL,,pavel_fischer
-2022-12-15,250,CZK,Příchozí úhrada,0,,3,Rambousková Monika,,pavel_fischer
-2022-12-15,200,CZK,Příchozí úhrada,0,,3,KRCMAR RADIM,kampan p. Fishera,pavel_fischer
-2022-12-15,50,CZK,Příchozí úhrada,0,,3,"COMETT PLUS, spol. s",,pavel_fischer
-2022-12-15,200,CZK,Příchozí úhrada,0,,3,"CESKA POSTA, S.P.",pošta 614220 13.12.2022 č 3000HARÍETROJANOV**,pavel_fischer
-2022-12-15,500,CZK,Příchozí úhrada,0,,3,SUDA VÁCLAV,přispěvek Marta Sudová,pavel_fischer
-2022-12-15,2000,CZK,Příchozí úhrada,0,,3,PRATOVA LUDMILA,604423,pavel_fischer
-2022-12-15,1000,CZK,Příchozí úhrada,0,,3,PALECEK ANTONIN,612317,pavel_fischer
-2022-12-15,10000,CZK,Příchozí úhrada,0,,3,Mátlová Marie,,pavel_fischer
-2022-12-15,0.01,CZK,Příchozí úhrada,0,,3,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
-2022-12-15,2023,CZK,Příchozí úhrada,0,,3,Bc.Svobodová Kateřina,,pavel_fischer
 2022-12-14,2000,CZK,Příchozí úhrada,0,,3,"Trtek, Tomáš",,pavel_fischer
 2022-12-14,5000,CZK,Příchozí úhrada,0,,3,MUDr.Bergerová Tamara,Bojujte a neodstupujte!,pavel_fischer
 2022-12-14,10000,CZK,Příchozí úhrada,0,,3,Tomáš Hanus,,pavel_fischer

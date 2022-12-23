@@ -1,4 +1,24 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-23,500000,CZK,Bezhotovostní příjem,A&V INVEST A.S.,dar dle smlouvy A&V INVEST,,27704467,,A&V INVEST A.S.,petr_pavel
+2022-12-23,200000,CZK,Bezhotovostní příjem,BRABEC VACLAV,DAR VB PP,,651230,,BRABEC VACLAV,petr_pavel
+2022-12-23,1000,CZK,Bezhotovostní příjem,PETRAS IVO,Dar na kampan generala Pavla,,0,,PETRAS IVO,petr_pavel
+2022-12-23,-26087.85,CZK,Okamžitá odchozí platba,,,,22011683,,"IČ: 03054969, licence",petr_pavel
+2022-12-23,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,,,Pavel Tr?ster,petr_pavel
+2022-12-23,50000,CZK,Bezhotovostní příjem,VIKTOR CHALOUPKA,VIKTOR CHALOUPKA - PODPORA GENERÁLA PAVLA,,,,VIKTOR CHALOUPKA,petr_pavel
+2022-12-23,-48400,CZK,Bezhotovostní platba,,,,2022,,"IČ: 49658514, video",petr_pavel
+2022-12-23,-4307.6,CZK,Bezhotovostní platba,,,,2200147,,"IČ: 76064590, tisk",petr_pavel
+2022-12-23,-10890,CZK,Platba převodem uvnitř banky,,,308,20220228,,"IČ: 08022861, voiceover",petr_pavel
+2022-12-23,-3025,CZK,Platba převodem uvnitř banky,,,,2022465,,"IČ: 29060460, pronájem techniky",petr_pavel
+2022-12-23,-1873.08,CZK,Bezhotovostní platba,,,,20221536,,"IČ: 25753771, tisk",petr_pavel
+2022-12-23,5000,CZK,Bezhotovostní příjem,PERŠÍNOVÁ JITKA,"Pane generale, bojujte.",0,0,0,PERŠÍNOVÁ JITKA,petr_pavel
+2022-12-23,5000,CZK,Okamžitá příchozí platba,Ing.Urban Alois,"DAR NA KAMPAŇ GENERÁLA PAVLA, A. Urban, Slavníkovců 518, Chýnov",0,620809,,Ing.Urban Alois,petr_pavel
+2022-12-22,600,CZK,Okamžitá příchozí platba,Václav Strýček,Dar na kampan generala Pavla,,,,Václav Strýček,petr_pavel
+2022-12-22,-24200,CZK,Karetní transakce,,"Nákup: FACEBK Y86HHKBQ32, fb.me/ads, IE, dne 21.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK Y86HHKBQ32, fb.me/ads, IE, dne 21.12.2022, částka  24200.00 CZK",petr_pavel
+2022-12-22,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 48E5KJ3R32, fb.me/ads, IE, dne 21.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 48E5KJ3R32, fb.me/ads, IE, dne 21.12.2022, částka  24200.00 CZK",petr_pavel
+2022-12-22,2000,CZK,Okamžitá příchozí platba,Ing.Nejepsa Pavel,Dar na vítěznou kampaň gen.Pavla,0,,,Ing.Nejepsa Pavel,petr_pavel
+2022-12-22,-6489,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-22,-24193.02,CZK,Karetní transakce,,"Nákup: FACEBK JQJ27KXQ32, fb.me/ads, IE, dne 20.12.2022, částka  24193.02 CZK",,7999,,"Nákup: FACEBK JQJ27KXQ32, fb.me/ads, IE, dne 20.12.2022, částka  24193.02 CZK",petr_pavel
+2022-12-22,-1452,CZK,Okamžitá odchozí platba,,,,,,"IČ: 61274925, produkční náklady",petr_pavel
 2022-12-22,100000,CZK,Bezhotovostní příjem,PATŘIČNÝ PAVEL,Patřičný,,560417,,PATŘIČNÝ PAVEL,petr_pavel
 2022-12-22,100000,CZK,Bezhotovostní příjem,VONDRÁČEK ROMAN,,0,0,0,VONDRÁČEK ROMAN,petr_pavel
 2022-12-22,1000,CZK,Okamžitá příchozí platba,Fibinger Jiří,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Fibinger Jiří,petr_pavel
