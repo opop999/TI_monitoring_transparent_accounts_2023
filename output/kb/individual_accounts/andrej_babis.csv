@@ -1,14 +1,14 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
-361-23122022 1086 086146 101410,2022-12-23,0.01,Příchozí platba,Josef Sadílek,babisovyzlociny.cz,CZK,0,0,0,andrej_babis
-361-23122022 1086 086150 501046,2022-12-23,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,CZK,0,0,0,andrej_babis
-120-20221223 T02AR0HRBH0HH,2022-12-23,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
+120-20221223 00745443509,2022-12-23,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20221223 T02AR0HRBH0HG,2022-12-23,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221223 T02AR0HRBH0HH,2022-12-23,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
+361-23122022 1086 086149 100197,2022-12-23,0.01,Příchozí platba,"Šobotník, Jan","Je to nehorázný hyenismus zatahovat děti do mediálních kauz. Andreji, čo si to porobil? Proč ubližuješ vlastnímu synovi!!!",CZK,0,0,0,andrej_babis
+361-23122022 1086 086147 500610,2022-12-23,1000,Příchozí platba,JAN KRÁL,"poslal bych víc, ale jsem invalidní důchodce, tak to nejde. Držim palce ať vyhrajete, přeji klidné svátky",CZK,0,0,0,andrej_babis
+361-23122022 1086 086145 500909,2022-12-23,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","ŠTĚTKÁM ESTÉBÁCKÉHO AGRO-ANU JE JEDNO, ŽE SE ZA NĚ VLASTNÍ DĚTI STYDÍ, VŽDYŤ FÜHRER - ABY DRŽELY HUBU - TY SVOJE NECHÁ I UNÉST KRYM!",CZK,0,0,0,andrej_babis
+361-23122022 1086 086150 501046,2022-12-23,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,CZK,0,0,0,andrej_babis
+361-23122022 1086 086146 101410,2022-12-23,0.01,Příchozí platba,Josef Sadílek,babisovyzlociny.cz,CZK,0,0,0,andrej_babis
 120-20221223 2157618326,2022-12-23,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
 120-20221223 2157614155,2022-12-23,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
-361-23122022 1086 086145 500909,2022-12-23,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","ŠTĚTKÁM ESTÉBÁCKÉHO AGRO-ANU JE JEDNO, ŽE SE ZA NĚ VLASTNÍ DĚTI STYDÍ, VŽDYŤ FÜHRER - ABY DRŽELY HUBU - TY SVOJE NECHÁ I UNÉST KRYM!",CZK,0,0,0,andrej_babis
-120-20221223 00745443509,2022-12-23,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
-361-23122022 1086 086147 500610,2022-12-23,1000,Příchozí platba,JAN KRÁL,"poslal bych víc, ale jsem invalidní důchodce, tak to nejde. Držim palce ať vyhrajete, přeji klidné svátky",CZK,0,0,0,andrej_babis
-361-23122022 1086 086149 100197,2022-12-23,0.01,Příchozí platba,"Šobotník, Jan","Je to nehorázný hyenismus zatahovat děti do mediálních kauz. Andreji, čo si to porobil? Proč ubližuješ vlastnímu synovi!!!",CZK,0,0,0,andrej_babis
 120-20221222 2155723107,2022-12-22,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
 120-20221222 2155740108,2022-12-22,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
 120-20221221 00744805579,2022-12-22,0.01,Příchozí platba,KOPÁČEK LUKÁŠ,píčo vyjebaná zkurvená komunistická,CZK,0,0,0,andrej_babis

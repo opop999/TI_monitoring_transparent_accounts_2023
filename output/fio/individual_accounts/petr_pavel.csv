@@ -1,4 +1,7 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-23,-24200,CZK,Karetní transakce,,"Nákup: FACEBK R8TDZHKQ32, fb.me/ads, IE, dne 22.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK R8TDZHKQ32, fb.me/ads, IE, dne 22.12.2022, částka  24200.00 CZK",petr_pavel
+2022-12-23,10000,CZK,Okamžitá příchozí platba,Ing.Tyl Miroslav,Dar na kampan generala Pavla,0,,,Ing.Tyl Miroslav,petr_pavel
+2022-12-23,-24200,CZK,Karetní transakce,,"Nákup: FACEBK JF4BLJ3R32, fb.me/ads, IE, dne 22.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK JF4BLJ3R32, fb.me/ads, IE, dne 22.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-23,500000,CZK,Bezhotovostní příjem,A&V INVEST A.S.,dar dle smlouvy A&V INVEST,,27704467,,A&V INVEST A.S.,petr_pavel
 2022-12-23,200000,CZK,Bezhotovostní příjem,BRABEC VACLAV,DAR VB PP,,651230,,BRABEC VACLAV,petr_pavel
 2022-12-23,1000,CZK,Bezhotovostní příjem,PETRAS IVO,Dar na kampan generala Pavla,,0,,PETRAS IVO,petr_pavel
