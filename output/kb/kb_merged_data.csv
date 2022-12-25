@@ -5,6 +5,7 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 001-21122022 1602 602032 775651,2022-12-21,-25000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-20122022 1602 602017 157901,2022-12-20,-142000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-20122022 1602 602011 122321,2022-12-20,140000,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
+361-24122022 1086 086143 100448,2022-12-25,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",KOBLIHY JEŠTĚ TEPLÉ PŘÍMO Z ANU ŽEREME A ZA NĚ TUPÉ ZLODĚJSKÉ PROLHANÉ A PRÁSKAČSKÉ HOVADO ZA PRASIDENTAVOLÍME!,CZK,0,0,0,andrej_babis
 120-20221223 00745443509,2022-12-23,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20221223 T02AR0HRBH0HG,2022-12-23,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
 120-20221223 T02AR0HRBH0HH,2022-12-23,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
