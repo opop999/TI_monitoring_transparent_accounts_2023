@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bank_code,message_for_recipient,ks,vs,ss,currency,entity
+2022-12-25,1000,Incoming instant payment ,"Zicha, Lukáš",2202333099,2010,Držím palce!,,,,CZK,karel_divis
+2022-12-23,888,Incoming instant payment ,"Švecová, Veronika",2700505586,2010,,,,,CZK,karel_divis
+2022-12-22,1000,Incoming payment ,MRÁZEK JIŘÍ,354014940237,100,"Má to smysl, bojujte.",0,,,CZK,karel_divis
+2022-12-22,1400,Incoming instant payment ,Tomáš Čtrnáct,3907306001,5500,Hodně sil ať to vyjde,,,,CZK,karel_divis
+2022-12-21,555,Incoming payment ,VEJS JOSEF,177395343,300,Na vítězství !!!,,,,CZK,karel_divis
 2022-12-18,-4800,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane -  FB reklama,,20221218,,CZK,karel_divis
 2022-12-17,-500000,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane - sber podpisu a marketingove sluzb y,,20221217,,CZK,karel_divis
 2022-12-15,-637451.2,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane - sber podpisu a marketingove sluzb y,,20221215,,CZK,karel_divis
