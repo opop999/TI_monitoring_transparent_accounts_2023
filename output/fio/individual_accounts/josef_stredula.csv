@@ -1,4 +1,6 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-27,-800000,CZK,Bezhotovostní platba,,Josef Středula,308,220100090,,TVC,josef_stredula
+2022-12-27,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-23,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-22,-1022.86,CZK,Karetní transakce,,"Nákup: FACEBK 8H7NNJXF52, fb.me/ads, IE, dne 22.12.2022, částka  1022.86 CZK",,2172,,"Nákup: FACEBK 8H7NNJXF52, fb.me/ads, IE, dne 22.12.2022, částka  1022.86 CZK",josef_stredula
 2022-12-22,-130000,CZK,Bezhotovostní platba,,Josef Středula,308,220100089,,Kvalitativní výzkum,josef_stredula

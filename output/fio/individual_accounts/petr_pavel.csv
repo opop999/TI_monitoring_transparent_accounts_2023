@@ -1,4 +1,17 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-27,1200,CZK,Okamžitá příchozí platba,Jana Zdvihalová,dar na kampaň generála Pavla,,,,Jana Zdvihalová,petr_pavel
+2022-12-27,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,,,Pavel Tr?ster,petr_pavel
+2022-12-27,800,CZK,Bezhotovostní příjem,ROŠTOK RADEK,,,,,ROŠTOK RADEK,petr_pavel
+2022-12-27,5000,CZK,Bezhotovostní příjem,ROD ANDREA,DAR NA KAMPAŇ GENERÁLA PAVLA,,0,,ROD ANDREA,petr_pavel
+2022-12-27,-5000,CZK,Bezhotovostní platba,,VF1-00055/2022,,1000552022,,"IČ: 03241092, ubytování",petr_pavel
+2022-12-27,-171820,CZK,Platba převodem uvnitř banky,,,308,220100001,,"IČ: 22886877, výlep",petr_pavel
+2022-12-27,-8414,CZK,Bezhotovostní platba,,,,2022144,,"IČ: 69219672, produkce",petr_pavel
+2022-12-27,-17500,CZK,Bezhotovostní platba,,,,2022023,,"IČ: 01073371, web",petr_pavel
+2022-12-27,500,CZK,Bezhotovostní příjem,PŠENIČKA STANISLAV,,0,0,0,PŠENIČKA STANISLAV,petr_pavel
+2022-12-27,1000,CZK,Bezhotovostní příjem,FREJOVÁ KRISTÝNA,Dar na kampan generala Pavla,0,0,0,FREJOVÁ KRISTÝNA,petr_pavel
+2022-12-26,100,CZK,Okamžitá příchozí platba,Horáček Jiří,,0,,,Horáček Jiří,petr_pavel
+2022-12-26,1,CZK,Platba převodem uvnitř banky,"Herel, Adam",pls win mam bet,,,,pls win mam bet,petr_pavel
+2022-12-26,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 9TKQ7JXP32, fb.me/ads, IE, dne 26.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 9TKQ7JXP32, fb.me/ads, IE, dne 26.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-26,1000,CZK,Okamžitá příchozí platba,DANA ČECHOVÁ,,,,,DANA ČECHOVÁ,petr_pavel
 2022-12-25,-24200,CZK,Karetní transakce,,"Nákup: FACEBK PPDWAJPQ32, fb.me/ads, IE, dne 25.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK PPDWAJPQ32, fb.me/ads, IE, dne 25.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-25,-24200,CZK,Karetní transakce,,"Nákup: FACEBK DD4MMJ3R32, fb.me/ads, IE, dne 24.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK DD4MMJ3R32, fb.me/ads, IE, dne 24.12.2022, částka  24200.00 CZK",petr_pavel

@@ -5,6 +5,28 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 001-21122022 1602 602032 775651,2022-12-21,-25000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-20122022 1602 602017 157901,2022-12-20,-142000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-20122022 1602 602011 122321,2022-12-20,140000,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
+361-27122022 1086 086149 102591,2022-12-27,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,CZK,0,0,0,andrej_babis
+120-20221224 T02AR0HRC8MB2,2022-12-27,0.01,Příchozí platba,ONDREJ MACH,NA TEPLÁKY,CZK,0,0,0,andrej_babis
+120-20221227 T02AR0HRD1FL2,2022-12-27,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221226 T02AR0HRCJ308,2022-12-27,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
+120-20221226 T02AR0HRCJ306,2022-12-27,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221226 T02AR0HRCJ307,2022-12-27,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221227 T02AR0HRD1FL4,2022-12-27,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221226 T02AR0HRCJEFB,2022-12-27,0.01,Příchozí platba,TOMAS BEJCEK,"BURES, KRADES, PREZIDENTKO NEBUDES, ZA KATR PUDES",CZK,0,0,0,andrej_babis
+120-20221227 2161953507,2022-12-27,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221227 2161953598,2022-12-27,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221227 2161952852,2022-12-27,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221227 2161953875,2022-12-27,0.01,Příchozí platba,Josef Sadílek,"STBÁK, PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221227 2161933417,2022-12-27,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221227 2161950219,2022-12-27,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221227 2161949865,2022-12-27,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM ČR? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221227 2161945774,2022-12-27,0.01,Příchozí platba,Milan Vilím,Tahni kryple,CZK,0,0,0,andrej_babis
+120-20221227 2161949971,2022-12-27,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221227 00746102684,2022-12-27,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+361-26122022 1086 086147 501847,2022-12-27,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš prý před Vánoci krade doma cukroví. Diagnóza?,CZK,0,0,0,andrej_babis
+361-26122022 1086 086151 101802,2022-12-27,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","BUDOUCNOST DĚTÍ I DOBRÉ JMÉNO ČR MÁME U ŘITI A TAK VOLÍME LHÁŘE, ZLODĚJE A PRÁSKAČE, JENŽ KOBLIHU Z ANU ROVNOU DO HUBY NÁM VYSERE!",CZK,0,0,0,andrej_babis
+361-26122022 1086 086142 501681,2022-12-27,0.01,Příchozí platba,"Rezek, Milan",trestně stíhanému STBákovy,CZK,0,0,0,andrej_babis
+361-26122022 1086 086144 101690,2022-12-27,0.01,Příchozí platba,"Rezek, Milan",komunistický STBák by rád prezidentem : = ) nauč se česky,CZK,0,0,0,andrej_babis
 361-24122022 1086 086143 100448,2022-12-25,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",KOBLIHY JEŠTĚ TEPLÉ PŘÍMO Z ANU ŽEREME A ZA NĚ TUPÉ ZLODĚJSKÉ PROLHANÉ A PRÁSKAČSKÉ HOVADO ZA PRASIDENTAVOLÍME!,CZK,0,0,0,andrej_babis
 361-25122022 1086 086146 102390,2022-12-25,0.01,Příchozí platba,Josef Sadílek,"Už i školní děti vědí, že estébák Bureš je nevzdělaný a prolhaný buran. Takový nemůže být prezidentem!",CZK,0,0,0,andrej_babis
 120-20221223 00745443509,2022-12-23,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
