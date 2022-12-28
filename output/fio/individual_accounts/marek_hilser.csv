@@ -1,4 +1,10 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-28,500,CZK,Bezhotovostní příjem,HŮLKA VÁCLAV,Václav Hůlka,,,,HŮLKA VÁCLAV,marek_hilser
+2022-12-28,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
+2022-12-28,2000,CZK,Okamžitá příchozí platba,HORÁK PETR - DUBŇANY,Příští prezident,,,,HORÁK PETR - DUBŇANY,marek_hilser
+2022-12-28,500,CZK,Bezhotovostní příjem,KOLAJOVA JANA,,,0,,KOLAJOVA JANA,marek_hilser
+2022-12-28,500,CZK,Okamžitá příchozí platba,Ing.Bozděch Václav,od Václava Bozděcha,0,,,Ing.Bozděch Václav,marek_hilser
+2022-12-27,500,CZK,Okamžitá příchozí platba,Mgr.Češková Eva,,0,,,Mgr.Češková Eva,marek_hilser
 2022-12-27,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,,,Pavel Tr?ster,marek_hilser
 2022-12-23,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,,,Pavel Tr?ster,marek_hilser
 2022-12-23,-1000,CZK,Karetní transakce,,"Nákup: FACEBK 23ZSKHFJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.12.2022, částka  1000.00 CZK",,5298,,"Nákup: FACEBK 23ZSKHFJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.12.2022, částka  1000.00 CZK",marek_hilser

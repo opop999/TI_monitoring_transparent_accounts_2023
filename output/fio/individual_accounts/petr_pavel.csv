@@ -1,4 +1,10 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-28,1190,CZK,Bezhotovostní příjem,MIKOLASEK DAVID,petr pavel,,0,,MIKOLASEK DAVID,petr_pavel
+2022-12-28,-1811,CZK,Okamžitá odchozí platba,,,,,,"IČ: 61274925, produkční náklady",petr_pavel
+2022-12-28,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-28,500,CZK,Okamžitá příchozí platba,Jakub Kudrna,,,,,Jakub Kudrna,petr_pavel
+2022-12-28,500,CZK,Bezhotovostní příjem,BÍSEK PETR,Volební kampaň 2022,0,0,0,BÍSEK PETR,petr_pavel
+2022-12-28,3000,CZK,Okamžitá příchozí platba,Federici Yvetta,Podpora prezidenta,0,,,Federici Yvetta,petr_pavel
 2022-12-27,1200,CZK,Okamžitá příchozí platba,Jana Zdvihalová,dar na kampaň generála Pavla,,,,Jana Zdvihalová,petr_pavel
 2022-12-27,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,,,Pavel Tr?ster,petr_pavel
 2022-12-27,800,CZK,Bezhotovostní příjem,ROŠTOK RADEK,,,,,ROŠTOK RADEK,petr_pavel
