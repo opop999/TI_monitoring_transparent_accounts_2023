@@ -1,7 +1,7 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
 2022-12-27,5000,CZK,Příchozí úhrada,0,70,430720007,Kvasnička Jan,"Tomáš Zima, dar",tomas_zima
-2022-12-23,50000,CZK,Příchozí úhrada,0,70,430720007,SEMORAD PETR,,tomas_zima
 2022-12-23,95000,CZK,Příchozí úhrada,0,70,430720007,DYMAKOVA KATERINA,,tomas_zima
+2022-12-23,50000,CZK,Příchozí úhrada,0,70,430720007,SEMORAD PETR,,tomas_zima
 2022-12-23,-40000,CZK,Tuzemská odchozí úhrada,0,70,430720007,000000-6146768319/0800,ZFP_zaloha,tomas_zima
 2022-12-22,100000,CZK,Příchozí úhrada,0,70,430720007,Třešňák Jaroslav,,tomas_zima
 2022-12-22,105000,CZK,Příchozí úhrada,0,70,430720007,Roman Brandejs,,tomas_zima

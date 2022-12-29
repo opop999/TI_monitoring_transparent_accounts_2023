@@ -1,4 +1,10 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-29,1000,CZK,Bezhotovostní příjem,VINECKÁ LUCIE,Vinecká Lucie - na prezidenta,,,,VINECKÁ LUCIE,petr_pavel
+2022-12-29,1000,CZK,Bezhotovostní příjem,FALTUS ONDŘEJ,Podpora generálu Pavlovi,0,29122022,0,FALTUS ONDŘEJ,petr_pavel
+2022-12-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-28,50000,CZK,Okamžitá příchozí platba,Krajíček Petr,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Krajíček Petr,petr_pavel
+2022-12-28,-24200,CZK,Karetní transakce,,"Nákup: FACEBK V97LCJFQ32, fb.me/ads, IE, dne 27.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK V97LCJFQ32, fb.me/ads, IE, dne 27.12.2022, částka  24200.00 CZK",petr_pavel
+2022-12-28,2023,CZK,Okamžitá příchozí platba,DRAHOTOVÁ JITKA,Jitka Drahotová : Držím palce!,308,,,DRAHOTOVÁ JITKA,petr_pavel
 2022-12-28,1190,CZK,Bezhotovostní příjem,MIKOLASEK DAVID,petr pavel,,0,,MIKOLASEK DAVID,petr_pavel
 2022-12-28,-1811,CZK,Okamžitá odchozí platba,,,,,,"IČ: 61274925, produkční náklady",petr_pavel
 2022-12-28,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
