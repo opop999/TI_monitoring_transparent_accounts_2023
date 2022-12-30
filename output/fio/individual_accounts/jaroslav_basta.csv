@@ -1,4 +1,6 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-30,1000,CZK,Bezhotovostní příjem,HRUBÝ MIROSLAV,dar pro prezidentskou kampaň,,,,HRUBÝ MIROSLAV,jaroslav_basta
+2022-12-29,-1000,CZK,Poplatek - platební karta,,"Založení expres karty, číslo bylo přiděleno",,4231,,"Založení expres karty, číslo bylo přiděleno",jaroslav_basta
 2022-12-29,333,CZK,Bezhotovostní příjem,SIMEK VOJTECH,"Dar - od: Vojtěch Šimek, *1.9.1976,bytem: Rejta 951, T. Sviny 37401",,0,,SIMEK VOJTECH,jaroslav_basta
 2022-12-22,-1200,CZK,Okamžitá odchozí platba,,Zajištění kartiček s fotografiemi - prezidentská kampaň Jaroslava Bašty,,4122022,,Zajištění kartiček s fotografiemi - prezidentská kampaň Jaroslava Bašty - Ivana Říhová Jarkovská,jaroslav_basta
 2022-12-22,-4000,CZK,Okamžitá odchozí platba,,"grafické práce, pozvánky Jaroslav Bašta",,1122022,,"Olga Nema grafické práce, pozvánky - prezidentská kampaň Jaroslava Bašty",jaroslav_basta

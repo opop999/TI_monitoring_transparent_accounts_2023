@@ -1,4 +1,7 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
+2022-12-29,-2178000,CZK,Bezhotovostní platba,,Josef Středula,308,220100092,,kontaktní kampaň Josef Středula,josef_stredula
+2022-12-29,-20000,CZK,Karetní transakce,,"Nákup: FACEBK 77K35KTF52, fb.me/ads, IE, dne 28.12.2022, částka  20000.00 CZK",,2172,,"Nákup: FACEBK 77K35KTF52, fb.me/ads, IE, dne 28.12.2022, částka  20000.00 CZK",josef_stredula
 2022-12-29,5000000,CZK,Bezhotovostní příjem,BENÝŠEK RICHARD,,0,6709300257,0,BENÝŠEK RICHARD,josef_stredula
 2022-12-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-28,50000,CZK,Okamžitá příchozí platba,Mag. Jirí Simek,DAR Prezident,,7410093141,,Mag. Jirí Simek,josef_stredula

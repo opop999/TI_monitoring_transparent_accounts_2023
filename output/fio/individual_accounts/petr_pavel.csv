@@ -1,4 +1,24 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-30,60000,CZK,Okamžitá příchozí platba,Buca Group s.r.o.,,0,,,Buca Group s.r.o.,petr_pavel
+2022-12-30,500,CZK,Bezhotovostní příjem,MAREK MARTIN,Dar na kampan generala Pavla,,0,,MAREK MARTIN,petr_pavel
+2022-12-30,-1116697,CZK,Platba převodem uvnitř banky,,,,20220204,,"IČ: 07323841, mediální náklady",petr_pavel
+2022-12-30,250,CZK,Okamžitá příchozí platba,Singer Martin,Knížka - Martin Singer,0,,,Singer Martin,petr_pavel
+2022-12-30,-787506.72,CZK,Platba převodem uvnitř banky,,,,20220203,,"IČ: 07323841, mediální náklady",petr_pavel
+2022-12-30,-1108927.41,CZK,Platba převodem uvnitř banky,,,,20220202,,"IČ: 07323841, billboardy",petr_pavel
+2022-12-30,-21143.54,CZK,Okamžitá odchozí platba,,,,20220026,,"IČ: 05367751, administrativa",petr_pavel
+2022-12-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-30,-359019.04,CZK,Bezhotovostní platba,,,,10231978,,"IČ: 25420160, plakáty",petr_pavel
+2022-12-30,-849519.5,CZK,Bezhotovostní platba,,,,311202292,,"IČ: 28223152, tisk",petr_pavel
+2022-12-30,-7500,CZK,Bezhotovostní platba,,,,392022,,"IČ: 09692461, stream",petr_pavel
+2022-12-30,-42350,CZK,Bezhotovostní platba,,,308,20220026,,"IČ: 76326381, grafika",petr_pavel
+2022-12-30,-44912.78,CZK,Bezhotovostní platba,,,,103001598,,"IČ: 26197740, nájem",petr_pavel
+2022-12-30,-444070,CZK,Bezhotovostní platba,,,,22003304,,"IČ: 26738902, průzkum",petr_pavel
+2022-12-30,-23619.2,CZK,Bezhotovostní platba,,,,501834,,"IČ: 27170012, samolepky",petr_pavel
+2022-12-30,-2299,CZK,Bezhotovostní platba,,,,501835,,"IČ: 27170012, samolepky",petr_pavel
+2022-12-29,181.53,CZK,Okamžitá příchozí platba,Střasák Cyril,:keksalut:,0,,,Střasák Cyril,petr_pavel
+2022-12-29,500,CZK,Okamžitá příchozí platba,Stanislav Bazala,Dar na kampan generala Pavla,,,,Stanislav Bazala,petr_pavel
+2022-12-29,1000,CZK,Okamžitá příchozí platba,Svoboda Antonín,pro mého prezidenta,0,1111111111,,Svoboda Antonín,petr_pavel
+2022-12-29,999,CZK,Okamžitá příchozí platba,PRŮCHA MILAN,"Věřím Vám, počítejte s mou podporou!",,291222,,PRŮCHA MILAN,petr_pavel
 2022-12-29,1000,CZK,Bezhotovostní příjem,VINECKÁ LUCIE,Vinecká Lucie - na prezidenta,,,,VINECKÁ LUCIE,petr_pavel
 2022-12-29,1000,CZK,Bezhotovostní příjem,FALTUS ONDŘEJ,Podpora generálu Pavlovi,0,29122022,0,FALTUS ONDŘEJ,petr_pavel
 2022-12-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel

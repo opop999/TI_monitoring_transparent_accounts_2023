@@ -1,4 +1,12 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2022-12-29,55000,CZK,Příchozí úhrada,0,,,POKRUPA PAVEL,,tomas_zima
+2022-12-29,-400000,CZK,Tuzemská odchozí úhrada,0,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
+2022-12-27,5000,CZK,Příchozí úhrada,0,,,Kvasnička Jan,"Tomáš Zima, dar",tomas_zima
+2022-12-23,95000,CZK,Příchozí úhrada,0,,,DYMAKOVA KATERINA,,tomas_zima
+2022-12-23,-40000,CZK,Tuzemská odchozí úhrada,0,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
+2022-12-23,50000,CZK,Příchozí úhrada,0,,,SEMORAD PETR,,tomas_zima
+2022-12-22,100000,CZK,Příchozí úhrada,0,,,Třešňák Jaroslav,,tomas_zima
+2022-12-22,105000,CZK,Příchozí úhrada,0,,,Roman Brandejs,,tomas_zima
 2022-12-27,5000,CZK,Příchozí úhrada,0,70,430720007,Kvasnička Jan,"Tomáš Zima, dar",tomas_zima
 2022-12-23,95000,CZK,Příchozí úhrada,0,70,430720007,DYMAKOVA KATERINA,,tomas_zima
 2022-12-23,50000,CZK,Příchozí úhrada,0,70,430720007,SEMORAD PETR,,tomas_zima
@@ -7,11 +15,6 @@ date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,ent
 2022-12-22,105000,CZK,Příchozí úhrada,0,70,430720007,Roman Brandejs,,tomas_zima
 2022-12-20,85000,CZK,Příchozí úhrada,0,70,430720007,Jára Daniel,,tomas_zima
 2022-12-20,-250000,CZK,Tuzemská odchozí úhrada,0,70,430720007,000000-6146768319/0800,ZFP_zaloha,tomas_zima
-2022-12-23,95000,CZK,Příchozí úhrada,0,,,DYMAKOVA KATERINA,,tomas_zima
-2022-12-23,50000,CZK,Příchozí úhrada,0,,,SEMORAD PETR,,tomas_zima
-2022-12-23,-40000,CZK,Tuzemská odchozí úhrada,0,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
-2022-12-22,100000,CZK,Příchozí úhrada,0,,,Třešňák Jaroslav,,tomas_zima
-2022-12-22,105000,CZK,Příchozí úhrada,0,,,Roman Brandejs,,tomas_zima
 2022-12-20,85000,CZK,Příchozí úhrada,0,,,Jára Daniel,,tomas_zima
 2022-12-20,-250000,CZK,Tuzemská odchozí úhrada,0,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
 2022-12-18,30000,CZK,Příchozí úhrada,0,,,"Pardubová, Lucie",,tomas_zima

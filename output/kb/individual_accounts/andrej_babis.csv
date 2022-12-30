@@ -1,9 +1,21 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
-361-29122022 1086 086149 501164,2022-12-29,0.01,Příchozí platba,Josef Sadílek,"Když promluví estébák Bureš, je to jako by Milouš Jakeš hovořil!",CZK,0,0,0,andrej_babis
-361-29122022 1086 086147 500999,2022-12-29,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
+361-30122022 1086 086144 500992,2022-12-30,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
+120-20221230 T02AR0HRFSLME,2022-12-30,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20221230 T02AR0HRFSLMF,2022-12-30,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
+120-20221229 T02AR0HRFIJ3Q,2022-12-30,1,Příchozí platba,MICHAL ZLAMAL,BABIŠOVI NA KURZ ČEŠTINY_SCHILEROVÉ NA KURZ ANGLIČTINY,CZK,0,0,0,andrej_babis
+120-20221230 2166414722,2022-12-30,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+120-20221230 2166411729,2022-12-30,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20221230 00747315133,2022-12-30,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20221229 2164571015,2022-12-29,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+001-29122022 1602 602031 868511,2022-12-29,-1.14,Odchozí platba,,"odvod do statniho rozpoctu, nevyzadane platby",CZK,20221229,558,0,andrej_babis
 120-20221229 2164575646,2022-12-29,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+001-29122022 1602 602030 868501,2022-12-29,-100,Odchozí platba,,Dekuji za podporu. Vazim si ji.,CZK,9,558,0,andrej_babis
+361-29122022 1086 086147 500999,2022-12-29,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
+361-29122022 1086 086149 501164,2022-12-29,0.01,Příchozí platba,Josef Sadílek,"Když promluví estébák Bureš, je to jako by Milouš Jakeš hovořil!",CZK,0,0,0,andrej_babis
+361-29122022 1086 086148 102250,2022-12-29,0.01,Příchozí platba,Ing.Havlíčková Marie,"jdi domů Andreji, tady tě nikdo nechce....",CZK,0,0,0,andrej_babis
+361-29122022 1086 086151 102912,2022-12-29,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","MY, HOVADA, ZA PÁREK A KOBLIHU PŘÍMO Z ANU RÁDI NASTAVÍME TVÁŘ I ŘIŤ A VOLÍME ZLODĚJE, LHÁŘE, KŘIVÁKA A SOUDEM USVĚDČENÉHO PRÁSKAČE!",CZK,0,0,0,andrej_babis
 120-20221229 00746963345,2022-12-29,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+001-29122022 1602 602029 868491,2022-12-29,-1000,Odchozí platba,,Dekuji za podporu. Vazim si ji.,CZK,9,558,0,andrej_babis
 361-28122022 1086 086148 101300,2022-12-28,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
 361-28122022 1086 086142 103301,2022-12-28,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",CHCEME NA HRADĚ JEŠTĚ VĚTŠÍ HOVADOA PRASE NEŽ TAM JE A TAK VYŽEREME VŠECHNY KOBLIHY Z PRÁSKAČOVA ANU!,CZK,0,0,0,andrej_babis
 120-20221228 2162269338,2022-12-28,0.01,Příchozí platba,Josef Sadílek,"STBÁKU BUREŠI, OSTUDO ČR! PREZIDENTEM NEBUDEŠ! NIKDY!",CZK,0,0,0,andrej_babis
