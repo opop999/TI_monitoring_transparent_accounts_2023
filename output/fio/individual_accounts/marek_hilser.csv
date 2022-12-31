@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-30,17.17,CZK,Okamžitá příchozí platba,Ersin Ramadani,"Vydrzte i kdyz to nevyjde, jednou se vsichni umoudri a svet bude inspirovan Vasimi myslenkami:) Landogy",,17,,Ersin Ramadani,marek_hilser
 2022-12-30,500,CZK,Bezhotovostní příjem,TUMAJEROVA ADELA,"Příspěvek na kampaň, A. TumajerováJiráskova 381, Liberec 12, 460 14",,0,,TUMAJEROVA ADELA,marek_hilser
 2022-12-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
 2022-12-29,3000,CZK,Okamžitá příchozí platba,MARTIN SVÁROVSKÝ,"nar. 23.3.1974, Junácká 7, Praha 6",,,,MARTIN SVÁROVSKÝ,marek_hilser

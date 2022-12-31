@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2022-12-31,200,CZK,Okamžitá příchozí platba,Punčochář Jiří,Dar na kampan generala Pavla,0,,,Punčochář Jiří,petr_pavel
+2022-12-30,48.11,CZK,Okamžitá příchozí platba,Ing. Petr Hošek,"Na pivko bruh, az budes preza, tak pozves ty. GL",,,,Ing. Petr Hošek,petr_pavel
+2022-12-30,500,CZK,Okamžitá příchozí platba,VERONIKA GOLICHOVA,Dar na kampan generala Pavla,,,,VERONIKA GOLICHOVA,petr_pavel
+2022-12-30,14,CZK,Okamžitá příchozí platba,JIŘINA FRANCOVÁ,držím palce a do nového roku vše nejlepší,,,,JIŘINA FRANCOVÁ,petr_pavel
+2022-12-30,5000,CZK,Okamžitá příchozí platba,Ing.Průša Radovan,Preji Vam uspech v kampani a hlavne ve volbach!,0,,,Ing.Průša Radovan,petr_pavel
+2022-12-30,1000,CZK,Okamžitá příchozí platba,Ing. JIŘÍ PLÍHAL,,,,,Ing. JIŘÍ PLÍHAL,petr_pavel
+2022-12-30,-24200,CZK,Karetní transakce,,"Nákup: FACEBK RWNFPKBQ32, fb.me/ads, IE, dne 29.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK RWNFPKBQ32, fb.me/ads, IE, dne 29.12.2022, částka  24200.00 CZK",petr_pavel
+2022-12-30,1000,CZK,Platba převodem uvnitř banky,"Ing. Ondrášek, Karel",,,5501140370,,,petr_pavel
+2022-12-30,100,CZK,Okamžitá příchozí platba,ŠAFROVÁ ŠÁRKA,GP Na Hrad :),,,,ŠAFROVÁ ŠÁRKA,petr_pavel
 2022-12-30,60000,CZK,Okamžitá příchozí platba,Buca Group s.r.o.,,0,,,Buca Group s.r.o.,petr_pavel
 2022-12-30,500,CZK,Bezhotovostní příjem,MAREK MARTIN,Dar na kampan generala Pavla,,0,,MAREK MARTIN,petr_pavel
 2022-12-30,-1116697,CZK,Platba převodem uvnitř banky,,,,20220204,,"IČ: 07323841, mediální náklady",petr_pavel

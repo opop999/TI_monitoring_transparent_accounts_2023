@@ -1,5 +1,7 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bank_code,message_for_recipient,ks,vs,ss,currency,entity
+2022-12-31,700,Incoming instant payment ,MUDr. Vladimír Kaprá,1663728013,5500,,,,,CZK,karel_divis
 2022-12-30,1000,Incoming instant payment ,Hortová Jana,2052889103,800,Držím palce!!!,0,,,CZK,karel_divis
+2022-12-30,17.17,Incoming instant payment ,Ersin Ramadani,1730137011,3030,"Bojujte, drzim Vam palce, jste symp atak a mate racionalni nazory:) Lan dogy",,17,,CZK,karel_divis
 2022-12-28,-80000,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane -  Soc.site a marketingova podpora,,20221228,,CZK,karel_divis
 2022-12-25,1000,Incoming instant payment ,"Zicha, Lukáš",2202333099,2010,Držím palce!,,,,CZK,karel_divis
 2022-12-23,888,Incoming instant payment ,"Švecová, Veronika",2700505586,2010,,,,,CZK,karel_divis
