@@ -1,4 +1,6 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-01,-420000,CZK,Bezhotovostní platba,,Josef Středula,308,220100094,,reklamní předměty Josef Středula,josef_stredula
+2023-01-01,-360000,CZK,Bezhotovostní platba,,Josef Středula,308,220100096,,tiskoviny Josef Středula,josef_stredula
 2022-12-31,-520000,CZK,Bezhotovostní platba,,Josef Středula,308,220100091,,Focení Josef Středula,josef_stredula
 2022-12-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-29,-2178000,CZK,Bezhotovostní platba,,Josef Středula,308,220100092,,kontaktní kampaň Josef Středula,josef_stredula

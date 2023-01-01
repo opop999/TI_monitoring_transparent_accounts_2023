@@ -1,4 +1,10 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2023-01-01,-0.32,CZK,Daň z úroku,0,,0,-,,tomas_zima
+2023-01-01,2.14,CZK,Kreditní úrok,0,,0,,,tomas_zima
+2022-12-30,5000,CZK,Příchozí úhrada,0,,0,"Ing.Růžička Jiří,MBA",,tomas_zima
+2022-12-29,55000,CZK,Příchozí úhrada,0,,0,POKRUPA PAVEL,,tomas_zima
+2022-12-29,-400000,CZK,Tuzemská odchozí úhrada,0,,0,000000-6146768319/0800,ZFP_zaloha,tomas_zima
+2022-12-27,5000,CZK,Příchozí úhrada,0,,0,Kvasnička Jan,"Tomáš Zima, dar",tomas_zima
 2022-12-30,5000,CZK,Příchozí úhrada,,72,,"Ing.Růžička Jiří,MBA",,tomas_zima
 2022-12-29,55000,CZK,Příchozí úhrada,,72,,POKRUPA PAVEL,,tomas_zima
 2022-12-29,-400000,CZK,Tuzemská odchozí úhrada,,72,,000000-6146768319/0800,ZFP_zaloha,tomas_zima

@@ -1,4 +1,5 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
+000-31122022-060-060-001066002,2022-12-31,-60,Poplatek,,,CZK,0,0,0,karel_janecek
 001-23122022 1602 602028 717891,2022-12-23,21000,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-23122022 1602 602022 717831,2022-12-23,-15000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-21122022 1602 602019 761461,2022-12-21,21000,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek

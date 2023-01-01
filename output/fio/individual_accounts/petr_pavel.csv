@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-01,1000,CZK,Okamžitá příchozí platba,MUDr.Juklová Renáta,Dar na kampan generala Pavla,0,,,MUDr.Juklová Renáta,petr_pavel
+2023-01-01,1000,CZK,Okamžitá příchozí platba,JURÁK DUŠAN,Dar na kampaň generála Pavla,,,,JURÁK DUŠAN,petr_pavel
+2022-12-31,10000,CZK,Okamžitá příchozí platba,Ondřej Hladík,"Podpora chlapovi, kterému věřím. Chci pana prezidenta, ne oligarchu, nebo dutou nulu.",,,,Ondřej Hladík,petr_pavel
+2022-12-31,-4800.38,CZK,Bezhotovostní platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-31,-248,CZK,Bezhotovostní platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-31,-272,CZK,Bezhotovostní platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2022-12-31,-400,CZK,Bezhotovostní platba,,,,,,"IČ: 17121302, produkční náklady",petr_pavel
+2022-12-31,1000,CZK,Okamžitá příchozí platba,Kudra Vlastimil,Pane Pavel máte můj hlas.,0,560901,,Kudra Vlastimil,petr_pavel
+2022-12-31,-24200,CZK,Karetní transakce,,"Nákup: FACEBK HSDP3K7Q32, fb.me/ads, IE, dne 30.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK HSDP3K7Q32, fb.me/ads, IE, dne 30.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-31,200,CZK,Okamžitá příchozí platba,Punčochář Jiří,Dar na kampan generala Pavla,0,,,Punčochář Jiří,petr_pavel
 2022-12-30,48.11,CZK,Okamžitá příchozí platba,Ing. Petr Hošek,"Na pivko bruh, az budes preza, tak pozves ty. GL",,,,Ing. Petr Hošek,petr_pavel
 2022-12-30,500,CZK,Okamžitá příchozí platba,VERONIKA GOLICHOVA,Dar na kampan generala Pavla,,,,VERONIKA GOLICHOVA,petr_pavel
