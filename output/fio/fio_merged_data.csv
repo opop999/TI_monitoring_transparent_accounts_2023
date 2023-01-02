@@ -1,4 +1,20 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-02,1000,CZK,Bezhotovostní příjem,PASSINGER VOJTECH,Dar na kampan generala Pavla,,0,,PASSINGER VOJTECH,petr_pavel
+2023-01-02,2000,CZK,Okamžitá příchozí platba,Miroslav Janatka,,,,,Miroslav Janatka,petr_pavel
+2023-01-02,-8243,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2023-01-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2023-01-02,1000,CZK,Platba převodem uvnitř banky,"Šejna, Martin",Dar pro gen. Ing. Pavla - Prezident jako velitel vojsk je Voják! Držím palce!,0,1000,0,Dar pro gen. Ing. Pavla - Prezident jako velitel vojsk je Voják! Držím palce!,petr_pavel
+2023-01-02,2000,CZK,Bezhotovostní příjem,MATOUSEK KAREL,Karel Matoušek - generál Pavel,,0,,MATOUSEK KAREL,petr_pavel
+2023-01-02,444.44,CZK,Bezhotovostní příjem,LAHODA TOMÁŠ,Dar na kampan generala Pavla,,,,LAHODA TOMÁŠ,petr_pavel
+2023-01-02,-13310,CZK,Bezhotovostní platba,,,308,220100068,,"IČ: 04847881, video",petr_pavel
+2023-01-02,-87112,CZK,Bezhotovostní platba,,,,2022012,,"IČ: 14279851, sociální média",petr_pavel
+2023-01-02,5000,CZK,Bezhotovostní příjem,RNDR. ZDENEK KOHN,Hodne stesti ve volbe a po nasledujicich 5 let!,,0,,RNDR. ZDENEK KOHN,petr_pavel
+2023-01-02,10000,CZK,Bezhotovostní příjem,MAJ PETR,Dar na kampaň Petra Pavla od PetraMáje - PETR MÁJ,,0,,MAJ PETR,petr_pavel
+2023-01-02,20000,CZK,Bezhotovostní příjem,SKALKOVA HANA,Dar na kampaň generála Pavla,,0,,SKALKOVA HANA,petr_pavel
+2023-01-02,5,CZK,Bezhotovostní příjem,JUDr.Hejl Karel,jsi parazit,0,600829,,JUDr.Hejl Karel,petr_pavel
+2023-01-02,5000,CZK,Bezhotovostní příjem,KŘÍŽOVÁ MICHAELA,DAR NA KAMPAŇ GENERÁLA PAVLA,0,0,0,KŘÍŽOVÁ MICHAELA,petr_pavel
+2023-01-02,1700,CZK,Bezhotovostní příjem,MATOUŠ JIŘÍ,Dar na kampaň GENERÁLA PAVLA,0,0,0,MATOUŠ JIŘÍ,petr_pavel
+2023-01-02,100,CZK,Bezhotovostní příjem,BRUS JAKUB,"Držím pěsti, věřím ve vítězství autentickeho člověka, ne prázdné karieristky.",,0,,BRUS JAKUB,petr_pavel
 2023-01-01,1000,CZK,Okamžitá příchozí platba,MUDr.Juklová Renáta,Dar na kampan generala Pavla,0,,,MUDr.Juklová Renáta,petr_pavel
 2023-01-01,1000,CZK,Okamžitá příchozí platba,JURÁK DUŠAN,Dar na kampaň generála Pavla,,,,JURÁK DUŠAN,petr_pavel
 2022-12-31,10000,CZK,Okamžitá příchozí platba,Ondřej Hladík,"Podpora chlapovi, kterému věřím. Chci pana prezidenta, ne oligarchu, nebo dutou nulu.",,,,Ondřej Hladík,petr_pavel
@@ -66,8 +82,8 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-25,-24200,CZK,Karetní transakce,,"Nákup: FACEBK PPDWAJPQ32, fb.me/ads, IE, dne 25.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK PPDWAJPQ32, fb.me/ads, IE, dne 25.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-25,-24200,CZK,Karetní transakce,,"Nákup: FACEBK DD4MMJ3R32, fb.me/ads, IE, dne 24.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK DD4MMJ3R32, fb.me/ads, IE, dne 24.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-25,3000,CZK,Platba převodem uvnitř banky,"Gynekologie Chrudim, s.r.o.",Pavel Tr?ster je pako.,,25122022,,Pavel Tr?ster je pako.,petr_pavel
-2022-12-24,-24200,CZK,Karetní transakce,,"Nákup: FACEBK ND9M9JFQ32, fb.me/ads, IE, dne 23.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK ND9M9JFQ32, fb.me/ads, IE, dne 23.12.2022, částka  24200.00 CZK",petr_pavel
-2022-12-24,-24200,CZK,Karetní transakce,,"Nákup: FACEBK SH8F9JPQ32, fb.me/ads, IE, dne 23.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK SH8F9JPQ32, fb.me/ads, IE, dne 23.12.2022, částka  24200.00 CZK",petr_pavel
+2023-01-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
+2023-01-02,-6047.24,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.1.2023, částka  6047.24 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.1.2023, částka  6047.24 CZK",marek_hilser
 2022-12-31,-329.91,CZK,Karetní transakce,,"Nákup: FACEBK GZR6GK3K62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.12.2022, částka  329.91 CZK",,5298,,"Nákup: FACEBK GZR6GK3K62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.12.2022, částka  329.91 CZK",marek_hilser
 2022-12-30,17.17,CZK,Okamžitá příchozí platba,Ersin Ramadani,"Vydrzte i kdyz to nevyjde, jednou se vsichni umoudri a svet bude inspirovan Vasimi myslenkami:) Landogy",,17,,Ersin Ramadani,marek_hilser
 2022-12-30,500,CZK,Bezhotovostní příjem,TUMAJEROVA ADELA,"Příspěvek na kampaň, A. TumajerováJiráskova 381, Liberec 12, 460 14",,0,,TUMAJEROVA ADELA,marek_hilser
@@ -82,6 +98,9 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-28,500,CZK,Okamžitá příchozí platba,Ing.Bozděch Václav,od Václava Bozděcha,0,,,Ing.Bozděch Václav,marek_hilser
 2022-12-27,500,CZK,Okamžitá příchozí platba,Mgr.Češková Eva,,0,,,Mgr.Češková Eva,marek_hilser
 2022-12-27,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-2-pribeh-z-prazskeho-hradu/,,,,Pavel Tr?ster,marek_hilser
+2023-01-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
+2023-01-02,2000,CZK,Bezhotovostní příjem,NOGOL LEON,,308,0,,NOGOL LEON,josef_stredula
+2023-01-02,2000,CZK,Bezhotovostní příjem,ZAPLETAL JAN,Bojuj s úsměvem. J. Zapletal,0,0,0,ZAPLETAL JAN,josef_stredula
 2023-01-01,-420000,CZK,Bezhotovostní platba,,Josef Středula,308,220100094,,reklamní předměty Josef Středula,josef_stredula
 2023-01-01,-360000,CZK,Bezhotovostní platba,,Josef Středula,308,220100096,,tiskoviny Josef Středula,josef_stredula
 2022-12-31,-520000,CZK,Bezhotovostní platba,,Josef Středula,308,220100091,,Focení Josef Středula,josef_stredula
@@ -98,6 +117,8 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-30,1000,CZK,Bezhotovostní příjem,HRUBÝ MIROSLAV,dar pro prezidentskou kampaň,,,,HRUBÝ MIROSLAV,jaroslav_basta
 2022-12-29,-1000,CZK,Poplatek - platební karta,,"Založení expres karty, číslo bylo přiděleno",,4231,,"Založení expres karty, číslo bylo přiděleno",jaroslav_basta
 2022-12-29,333,CZK,Bezhotovostní příjem,SIMEK VOJTECH,"Dar - od: Vojtěch Šimek, *1.9.1976,bytem: Rejta 951, T. Sviny 37401",,0,,SIMEK VOJTECH,jaroslav_basta
+2022-12-24,-24200,CZK,Karetní transakce,,"Nákup: FACEBK ND9M9JFQ32, fb.me/ads, IE, dne 23.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK ND9M9JFQ32, fb.me/ads, IE, dne 23.12.2022, částka  24200.00 CZK",petr_pavel
+2022-12-24,-24200,CZK,Karetní transakce,,"Nákup: FACEBK SH8F9JPQ32, fb.me/ads, IE, dne 23.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK SH8F9JPQ32, fb.me/ads, IE, dne 23.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-23,-24200,CZK,Karetní transakce,,"Nákup: FACEBK R8TDZHKQ32, fb.me/ads, IE, dne 22.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK R8TDZHKQ32, fb.me/ads, IE, dne 22.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-23,10000,CZK,Okamžitá příchozí platba,Ing.Tyl Miroslav,Dar na kampan generala Pavla,0,,,Ing.Tyl Miroslav,petr_pavel
 2022-12-23,-24200,CZK,Karetní transakce,,"Nákup: FACEBK JF4BLJ3R32, fb.me/ads, IE, dne 22.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK JF4BLJ3R32, fb.me/ads, IE, dne 22.12.2022, částka  24200.00 CZK",petr_pavel

@@ -1,4 +1,20 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-02,1000,CZK,Bezhotovostní příjem,PASSINGER VOJTECH,Dar na kampan generala Pavla,,0,,PASSINGER VOJTECH,petr_pavel
+2023-01-02,2000,CZK,Okamžitá příchozí platba,Miroslav Janatka,,,,,Miroslav Janatka,petr_pavel
+2023-01-02,-8243,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2023-01-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2023-01-02,1000,CZK,Platba převodem uvnitř banky,"Šejna, Martin",Dar pro gen. Ing. Pavla - Prezident jako velitel vojsk je Voják! Držím palce!,0,1000,0,Dar pro gen. Ing. Pavla - Prezident jako velitel vojsk je Voják! Držím palce!,petr_pavel
+2023-01-02,2000,CZK,Bezhotovostní příjem,MATOUSEK KAREL,Karel Matoušek - generál Pavel,,0,,MATOUSEK KAREL,petr_pavel
+2023-01-02,444.44,CZK,Bezhotovostní příjem,LAHODA TOMÁŠ,Dar na kampan generala Pavla,,,,LAHODA TOMÁŠ,petr_pavel
+2023-01-02,-13310,CZK,Bezhotovostní platba,,,308,220100068,,"IČ: 04847881, video",petr_pavel
+2023-01-02,-87112,CZK,Bezhotovostní platba,,,,2022012,,"IČ: 14279851, sociální média",petr_pavel
+2023-01-02,5000,CZK,Bezhotovostní příjem,RNDR. ZDENEK KOHN,Hodne stesti ve volbe a po nasledujicich 5 let!,,0,,RNDR. ZDENEK KOHN,petr_pavel
+2023-01-02,10000,CZK,Bezhotovostní příjem,MAJ PETR,Dar na kampaň Petra Pavla od PetraMáje - PETR MÁJ,,0,,MAJ PETR,petr_pavel
+2023-01-02,20000,CZK,Bezhotovostní příjem,SKALKOVA HANA,Dar na kampaň generála Pavla,,0,,SKALKOVA HANA,petr_pavel
+2023-01-02,5,CZK,Bezhotovostní příjem,JUDr.Hejl Karel,jsi parazit,0,600829,,JUDr.Hejl Karel,petr_pavel
+2023-01-02,5000,CZK,Bezhotovostní příjem,KŘÍŽOVÁ MICHAELA,DAR NA KAMPAŇ GENERÁLA PAVLA,0,0,0,KŘÍŽOVÁ MICHAELA,petr_pavel
+2023-01-02,1700,CZK,Bezhotovostní příjem,MATOUŠ JIŘÍ,Dar na kampaň GENERÁLA PAVLA,0,0,0,MATOUŠ JIŘÍ,petr_pavel
+2023-01-02,100,CZK,Bezhotovostní příjem,BRUS JAKUB,"Držím pěsti, věřím ve vítězství autentickeho člověka, ne prázdné karieristky.",,0,,BRUS JAKUB,petr_pavel
 2023-01-01,1000,CZK,Okamžitá příchozí platba,MUDr.Juklová Renáta,Dar na kampan generala Pavla,0,,,MUDr.Juklová Renáta,petr_pavel
 2023-01-01,1000,CZK,Okamžitá příchozí platba,JURÁK DUŠAN,Dar na kampaň generála Pavla,,,,JURÁK DUŠAN,petr_pavel
 2022-12-31,10000,CZK,Okamžitá příchozí platba,Ondřej Hladík,"Podpora chlapovi, kterému věřím. Chci pana prezidenta, ne oligarchu, nebo dutou nulu.",,,,Ondřej Hladík,petr_pavel
