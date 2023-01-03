@@ -1,4 +1,6 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-03,1500,CZK,Bezhotovostní příjem,VERA KRIZOVA,FINANCOVÁNÍ VOLEBNÍ KAMPANĚ - VĚRAKŘÍŽOVÁ,,,,VERA KRIZOVA,jaroslav_basta
+2023-01-02,1000,CZK,Platba převodem uvnitř banky,"Konečný, Erik","Dar. ZAŘIĎTE MOŽNOST PDF LETÁKŮ A PLAKÁTŮ,ABY LIDI MOHLI TISKNOUT ,ROZNÁŠET,LEPIT",,,,"Dar. ZAŘIĎTE MOŽNOST PDF LETÁKŮ A PLAKÁTŮ,ABY LIDI MOHLI TISKNOUT ,ROZNÁŠET,LEPIT",jaroslav_basta
 2022-12-31,-10,CZK,Poplatek - platební karta,,poplatek za pojištění,,4231,,poplatek za pojištění,jaroslav_basta
 2022-12-30,1000,CZK,Bezhotovostní příjem,HRUBÝ MIROSLAV,dar pro prezidentskou kampaň,,,,HRUBÝ MIROSLAV,jaroslav_basta
 2022-12-29,-1000,CZK,Poplatek - platební karta,,"Založení expres karty, číslo bylo přiděleno",,4231,,"Založení expres karty, číslo bylo přiděleno",jaroslav_basta

@@ -1,4 +1,19 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-03,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2023-01-03,-74287.95,CZK,Okamžitá odchozí platba,,,308,232050003,,"IČ: 26819953, placky",petr_pavel
+2023-01-03,20000,CZK,Bezhotovostní příjem,DAMBORSKÝ PETR,VOLBA,0,0,0,DAMBORSKÝ PETR,petr_pavel
+2023-01-03,2000,CZK,Okamžitá příchozí platba,PaedDr.Žlebková Kate,Dar na kampaň generála Pavla,0,,,PaedDr.Žlebková Kate,petr_pavel
+2023-01-03,2023,CZK,Platba převodem uvnitř banky,"Bejček, Tomáš",,,,,,petr_pavel
+2023-01-03,100,CZK,Bezhotovostní příjem,PROSIL DANIEL,Držím palce!,,,,PROSIL DANIEL,petr_pavel
+2023-01-03,800,CZK,Bezhotovostní příjem,ROŠTOK RADEK,,,,,ROŠTOK RADEK,petr_pavel
+2023-01-03,-3928.87,CZK,Bezhotovostní platba,,,,2049000769,,"IČ: 47451025, plakáty",petr_pavel
+2023-01-03,500,CZK,Bezhotovostní příjem,SVOBODA TOMAS,Dar,,0,,SVOBODA TOMAS,petr_pavel
+2023-01-02,0.01,CZK,Okamžitá příchozí platba,Daniel Synecký,DANUŠE NA HRAD! PAVEL ANI BABIŠ NE!,,,,Daniel Synecký,petr_pavel
+2023-01-02,1000,CZK,Okamžitá příchozí platba,PhDr.Klicperová Mart,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,PhDr.Klicperová Mart,petr_pavel
+2023-01-02,200,CZK,Okamžitá příchozí platba,Šimek Jiří,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Šimek Jiří,petr_pavel
+2023-01-02,300,CZK,Okamžitá příchozí platba,Zdeněk Urbánek,Dum spiro spero,,,,Zdeněk Urbánek,petr_pavel
+2023-01-02,800,CZK,Okamžitá příchozí platba,Hlaváček Karel,,0,,,Hlaváček Karel,petr_pavel
+2023-01-02,2000,CZK,Bezhotovostní příjem,SVOBODA TOMÁŠ,"Po dlouhé době vidím skutečného státníka,ale i obyčejného slušného člověka. Máte charisma.Pane Pavle,Vy jste pro mě už nyní Pan president.",0,0,0,SVOBODA TOMÁŠ,petr_pavel
 2023-01-02,1000,CZK,Bezhotovostní příjem,PASSINGER VOJTECH,Dar na kampan generala Pavla,,0,,PASSINGER VOJTECH,petr_pavel
 2023-01-02,2000,CZK,Okamžitá příchozí platba,Miroslav Janatka,,,,,Miroslav Janatka,petr_pavel
 2023-01-02,-8243,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
