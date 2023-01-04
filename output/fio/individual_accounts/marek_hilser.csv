@@ -1,4 +1,10 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-04,500,CZK,Bezhotovostní příjem,SCHIEFF JITKA,"Jitka Schieff, 14.03.1951, Praha 7",0,0,0,SCHIEFF JITKA,marek_hilser
+2023-01-04,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
+2023-01-03,999,CZK,Okamžitá příchozí platba,Ing. Pavlína Palmová,"Pavlína Palmová, 25.8.1966, Mochov",8,2023,,Ing. Pavlína Palmová,marek_hilser
+2023-01-03,333,CZK,Okamžitá příchozí platba,JIŘIČKOVÁ EVA,"Eva Jiřičková, 6.3.1962 51101 Malý Rohozec 152",,3012023,,JIŘIČKOVÁ EVA,marek_hilser
+2023-01-03,350,CZK,Okamžitá příchozí platba,Jana Pačesová,"Jana Pačesová / 10.01.1996 / Dolní Stakory, Mladá Boleslav",,,,Jana Pačesová,marek_hilser
+2023-01-03,10000,CZK,Okamžitá příchozí platba,Ing.Lhoták Václav,"Ing. Václav Lhoták, 18. 2. 1967, Semínova Lhota",0,,,Ing.Lhoták Václav,marek_hilser
 2023-01-03,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
 2023-01-03,500,CZK,Bezhotovostní příjem,PECH PAVEL,Pavel Pech 2.8.1981 Jaroměř,0,0,0,PECH PAVEL,marek_hilser
 2023-01-03,500,CZK,Bezhotovostní příjem,LEDVINOVÁ TEREZA,,0,0,0,LEDVINOVÁ TEREZA,marek_hilser

@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-04,2000,CZK,Platba převodem uvnitř banky,"Myšička, Petr",Není mi jedno kdo naši republiku bude reprezentovat jako hlava státu a rád bych tam viděl někoho kdo má skutečné charisma a není loutkou.,,,,Není mi jedno kdo naši republiku bude reprezentovat jako hlava státu a rád bych tam viděl někoho kdo má skutečné charisma a není loutkou.,petr_pavel
+2023-01-04,1000,CZK,Okamžitá příchozí platba,Staněk Květoslav,Můj hlas už máš.V Prostějově to znám moc dobře po dvouletém působení.Květ,0,,,Staněk Květoslav,petr_pavel
+2023-01-04,500,CZK,Bezhotovostní příjem,RADKA CERMAKOVA,DAR NA KAMPAN GENERALA PAVLA,,,,RADKA CERMAKOVA,petr_pavel
+2023-01-04,250,CZK,Platba převodem uvnitř banky,"Mgr. Konkoľ, Karol","aj keď voliť nemôžem, aspoň vám posielam podporu, ste najlepší",,,,"aj keď voliť nemôžem, aspoň vám posielam podporu, ste najlepší",petr_pavel
+2023-01-04,5000,CZK,Okamžitá příchozí platba,Ing. Jana Kuboušková,Dar na kampan generala Pavla,,,,Ing. Jana Kuboušková,petr_pavel
+2023-01-04,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2023-01-04,2500,CZK,Platba převodem uvnitř banky,"Nováková, Klára",Musite to vyhrat,,,,Musite to vyhrat,petr_pavel
+2023-01-04,50000,CZK,Bezhotovostní příjem,MATOUŠEK JAN,Dar na zaklade darovaci smlouvy,,,,MATOUŠEK JAN,petr_pavel
+2023-01-03,-5000,CZK,Karetní transakce,,"Nákup: PENEZENKA.SEZNAM.CZ, PRAHA 5 - SMI, CZ, dne 2.1.2023, částka  5000.00 CZK",,7999,,"Nákup: PENEZENKA.SEZNAM.CZ, PRAHA 5 - SMI, CZ, dne 2.1.2023, částka  5000.00 CZK",petr_pavel
 2023-01-03,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2023-01-03,-74287.95,CZK,Okamžitá odchozí platba,,,308,232050003,,"IČ: 26819953, placky",petr_pavel
 2023-01-03,20000,CZK,Bezhotovostní příjem,DAMBORSKÝ PETR,VOLBA,0,0,0,DAMBORSKÝ PETR,petr_pavel

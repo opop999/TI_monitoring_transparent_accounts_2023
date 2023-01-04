@@ -1,4 +1,6 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
+301-04012023 1008 702707 389443,2023-01-04,-100,Poplatek,,,CZK,0,898,0,denisa_rohanova
+301-04012023 1008 702707 389442,2023-01-04,-9000,,Výběr,,CZK,0,0,0,denisa_rohanova
 000-31122022-060-060-002781965,2022-12-31,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
 225-28122022 10868050165049,2022-12-28,-39,Poplatek,,,CZK,0,898,706969014,denisa_rohanova
 361-15122022 1086 086150 105043,2022-12-15,0.1,Příchozí platba,JULIE ŠÍMOVÁ,"Fandíme Vám. Kvinta (Julča, Bára, Michael, Šimon)",CZK,0,0,0,denisa_rohanova
