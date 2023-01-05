@@ -1,14 +1,30 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
-361-04012023 1086 086150 102632,2023-01-04,0.01,Příchozí platba,Miroslav Kostelný,"Voda už se vaří, STBáku Bureši. Tak na tepláke",CZK,0,0,0,andrej_babis
-361-04012023 1086 086143 102519,2023-01-04,0.01,Příchozí platba,Josef Sadílek,Obžalovaný a trestně stíhaný estébák Bureš je pro mě NEVOLITELNÝ!,CZK,0,0,0,andrej_babis
-361-04012023 1086 086144 502177,2023-01-04,0.01,Příchozí platba,"Vyčesal, Zbyněk",Zmetku! Prezidentem nebudeš!,CZK,0,0,0,andrej_babis
+361-05012023 1086 086144 502781,2023-01-05,0.01,Příchozí platba,Milan Šmíd,Drahé Česko - peněžitý trest Babiše,CZK,25085,666,88,andrej_babis
+361-05012023 1086 086147 102593,2023-01-05,0.01,Příchozí platba,Milan Šmíd,Babišova drahota - pomsta kokota,CZK,25085,666,0,andrej_babis
+361-05012023 1086 086144 102494,2023-01-05,0.01,Příchozí platba,Milan Šmíd,"Nacher si, nacher!",CZK,25085,666,0,andrej_babis
+361-05012023 1086 086147 102470,2023-01-05,0.01,Příchozí platba,Milan Šmíd,Na korunovačné dluhopise,CZK,25085,666,0,andrej_babis
+361-05012023 1086 086142 501702,2023-01-05,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
+361-05012023 1086 086151 101444,2023-01-05,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","VOLÍM PRÁSKAČE, ABY NA HRADĚ SMRDĚL DALŠÍ SOUDY UZNANÝ LHÁŘ A PRORUSKÝ BURAN!",CZK,0,0,0,andrej_babis
+120-20230104 T02AR0HRL3I57,2023-01-05,0.01,Příchozí platba,RADEK BRENDA,"BUDES HALIRE ZAS POSILAT HROMADN DO ROZPOCTU NEBO TY PRACHY UKRADNES JAK SCHILLEROVA, TY IDOLE DEMENTŮ?",CZK,0,0,0,andrej_babis
+120-20230105 2176707747,2023-01-05,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+120-20230105 2176693801,2023-01-05,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+361-05012023 1086 086151 101191,2023-01-05,5,Příchozí platba,Aršakjan Aaron Aram,,CZK,0,0,0,andrej_babis
+001-05012023 1602 602028 843881,2023-01-05,0.01,Příchozí platba,HÁNOVÁ MARTA,Na psychiatra Andrej,CZK,2023,0,0,andrej_babis
+120-20230105 00749063555,2023-01-05,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+361-05012023 1086 086149 500259,2023-01-05,0.01,Příchozí platba,Lukáš Vojáček,Ahoj štěpáně,CZK,0,0,0,andrej_babis
+001-04012023 1602 602018 542781,2023-01-04,0.01,Příchozí platba,SOLAŘÍK MICHAL,"Pokud si opravdu tak neschopný, že jdeš do jedné debaty, protože by lidi viděli jak špatný si v komunikaci, tak by si neměl ani kandidovat.",CZK,666,0,0,andrej_babis
 001-04012023 1602 602009 920831,2023-01-04,0.01,Příchozí platba,KUBA MARTIN,"STBáka Bureše, komunistu, lháře a podvodníka presidentem??? TO FAKT NECHCEŠ !!!",CZK,0,0,0,andrej_babis
+361-04012023 1086 086148 101232,2023-01-04,0.01,Příchozí platba,"Bulka, Vladimír","Babiš je bezpečnostní riziko, NEVOLIT : https://www.forum24.cz/tajna-analyticka-zprava/",CZK,0,0,0,andrej_babis
 361-04012023 1086 086143 101346,2023-01-04,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
+361-04012023 1086 086144 502177,2023-01-04,0.01,Příchozí platba,"Vyčesal, Zbyněk",Zmetku! Prezidentem nebudeš!,CZK,0,0,0,andrej_babis
+361-04012023 1086 086143 102519,2023-01-04,0.01,Příchozí platba,Josef Sadílek,Obžalovaný a trestně stíhaný estébák Bureš je pro mě NEVOLITELNÝ!,CZK,0,0,0,andrej_babis
+361-04012023 1086 086150 102632,2023-01-04,0.01,Příchozí platba,Miroslav Kostelný,"Voda už se vaří, STBáku Bureši. Tak na tepláke",CZK,0,0,0,andrej_babis
+361-04012023 1086 086150 104901,2023-01-04,0.01,Příchozí platba,In. Jiří Kotlín,pro agenta Bureše,CZK,25085,0,0,andrej_babis
+361-04012023 1086 086145 105140,2023-01-04,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","ZLODĚJE, LHÁŘE A ESTÉBÁCKÉ HOVADO ZA PREZIDENTA SI PŘEJE I NYNĚJŠÍ HRADNÍ PRÁSKAČ ZNÁMÝ JAKO HLADOVÉ PRASE.",CZK,0,0,0,andrej_babis
+361-04012023 1086 086149 105467,2023-01-04,0.01,Příchozí platba,Vašák Lukáš,"Na cestu do hajzlu,kobliho ulhaná",CZK,0,0,0,andrej_babis
+120-20230104 00748615938,2023-01-04,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20230104 2174358848,2023-01-04,0.01,Příchozí platba,Josef Sadílek,"STBÁKU BUREŠI, OSTUDO ČR! PREZIDENTEM NEBUDEŠ! NIKDY!",CZK,0,0,0,andrej_babis
 120-20230104 2174396513,2023-01-04,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
-361-04012023 1086 086148 101232,2023-01-04,0.01,Příchozí platba,"Bulka, Vladimír","Babiš je bezpečnostní riziko, NEVOLIT : https://www.forum24.cz/tajna-analyticka-zprava/",CZK,0,0,0,andrej_babis
-001-04012023 1602 602018 542781,2023-01-04,0.01,Příchozí platba,SOLAŘÍK MICHAL,"Pokud si opravdu tak neschopný, že jdeš do jedné debaty, protože by lidi viděli jak špatný si v komunikaci, tak by si neměl ani kandidovat.",CZK,666,0,0,andrej_babis
-120-20230104 00748615938,2023-01-04,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20230103 PR00000163357,2023-01-03,0.01,Příchozí platba,VESELY RADEK,Ceny potravin = Babišova drahota,CZK,25085,0,0,andrej_babis
 120-20230103 T02AR0HRJ6H9N,2023-01-03,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
 120-20230103 00748236250,2023-01-03,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis

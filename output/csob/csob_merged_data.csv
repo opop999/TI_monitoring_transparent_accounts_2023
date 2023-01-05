@@ -1,6 +1,7 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bank_code,message_for_recipient,ks,vs,ss,currency,entity
 2023-01-02,1000,Incoming payment ,Šejbová Lenka,4278633003,800,Lenka Šejbová 16.12. 1959,0,,,CZK,libor_michalek
 2023-01-03,-68970,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane - PR,,20230103,,CZK,karel_divis
+2023-01-03,208,Incoming instant payment ,JELÍNEK VÁCLAV,245120692,600,"Věřím, že máte šanci. Nepolevujte v úsilí. Pro mě jste jediná možná vo lba a budu Vám držet palce!",,,,CZK,karel_divis
 2023-01-03,2000,Incoming instant payment ,"Pakosta, Jaroslav",2200788719,2010,,,,,CZK,karel_divis
 2023-01-02,5000,Incoming payment ,HEISLEROVÁ ZUZANA,1152606350207,100,good luck!!!,0,,,CZK,karel_divis
 2023-01-02,100,Incoming instant payment ,Illeš Michal,2767642163,800,,0,,,CZK,karel_divis

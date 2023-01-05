@@ -1,4 +1,9 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-05,232138.5,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-05,78240,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-05,149737.5,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-05,100,CZK,Platba převodem uvnitř banky,"Konečný, Erik","Dar. Je i věcí vietnamské komunity,aby byl mír.Ostatně proto se asi stěhovali z Vietnamu...Oslovte je ke kampani.",,,,"Dar. Je i věcí vietnamské komunity,aby byl mír.Ostatně proto se asi stěhovali z Vietnamu...Oslovte je ke kampani.",jaroslav_basta
+2023-01-05,1,CZK,Okamžitá příchozí platba,Kroupa Karel,,0,,,Kroupa Karel,jaroslav_basta
 2023-01-04,100000,CZK,Bezhotovostní příjem,BAŠTA JAROSLAV,JAROSLAV BAŠTA,0,480515,0,BAŠTA JAROSLAV,jaroslav_basta
 2023-01-04,600,CZK,Bezhotovostní příjem,JIRI PHILIPPE LAKSAR,DAR  OD JIRI PHILIPPE LAKSAR,,,,JIRI PHILIPPE LAKSAR,jaroslav_basta
 2023-01-03,-60217,CZK,Okamžitá odchozí platba,,prezidentská kampaň Jaroslava Bašty -  dotisk knihy Stát jsme my,,20222812,,Cecílie Jílková prezidentská kampaň Jaroslava Bašty - dotisk knihy Stát jsme my,jaroslav_basta

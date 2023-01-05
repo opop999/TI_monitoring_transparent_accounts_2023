@@ -1,4 +1,30 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-05,1000,CZK,Okamžitá příchozí platba,RUDOVSKÝ LUDĚK,Dar na kampan generala Pavla,,,,RUDOVSKÝ LUDĚK,petr_pavel
+2023-01-05,1500,CZK,Bezhotovostní příjem,KREJČÍ MARTIN,Dar na kampan generala Pavla,,,,KREJČÍ MARTIN,petr_pavel
+2023-01-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2023-01-05,-40718,CZK,Bezhotovostní platba,,,,20220012,,"IČ: 07185731, správa soc. sítí",petr_pavel
+2023-01-05,-9995,CZK,Platba převodem uvnitř banky,,,,2022476,,"IČ: 29060460, pronájem techniky",petr_pavel
+2023-01-05,2000,CZK,Okamžitá příchozí platba,Ing.Slánský Karel,,0,,,Ing.Slánský Karel,petr_pavel
+2023-01-05,1918,CZK,Platba převodem uvnitř banky,Grandfin Consulting s.r.o.,Vítezství!,,,,Vítezství!,petr_pavel
+2023-01-04,1000,CZK,Okamžitá příchozí platba,Vladimír Čábel,"Už se nechci stydět. Peníze na lepší budoucnost, hodně štěstí!",,,,Vladimír Čábel,petr_pavel
+2023-01-04,5000,CZK,Okamžitá příchozí platba,Ing.Vendrová Renata,At se Vam vyhra podari,0,,,Ing.Vendrová Renata,petr_pavel
+2023-01-04,1000,CZK,Okamžitá příchozí platba,Jiří Šebek,Dar na kampan generala Pavla,,,,Jiří Šebek,petr_pavel
+2023-01-04,5000,CZK,Platba převodem uvnitř banky,"Tran, Ngoc Dung",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-04,5000,CZK,Okamžitá příchozí platba,Ing. Jan Svoboda,Dar na kampan generala Pavla,,,,Ing. Jan Svoboda,petr_pavel
+2023-01-04,400,CZK,Okamžitá příchozí platba,PLESNÍK TOMÁŠ,Dar na kampan generala Pavla,,,,PLESNÍK TOMÁŠ,petr_pavel
+2023-01-04,-381,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-04,-340,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-04,-276,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-04,-350,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-04,-282,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-04,-167,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-04,-253,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-04,-718,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-04,-149,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-04,-834,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-04,-953.44,CZK,Karetní transakce,,"Nákup: CANVA* I03654-12808098, HTTPSCANVA.CO, US, dne 3.1.2023, částka  40.91 USD",,7999,,"Nákup: CANVA* I03654-12808098, HTTPSCANVA.CO, US, dne 3.1.2023, částka  40.91 USD",petr_pavel
+2023-01-04,-24200,CZK,Karetní transakce,,"Nákup: FACEBK MP5W6K7Q32, fb.me/ads, IE, dne 3.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK MP5W6K7Q32, fb.me/ads, IE, dne 3.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-04,111.11,CZK,Okamžitá příchozí platba,Táborský Daniel,Dar na kampan generala Pavla,0,,,Táborský Daniel,petr_pavel
 2023-01-04,2000,CZK,Platba převodem uvnitř banky,"Myšička, Petr",Není mi jedno kdo naši republiku bude reprezentovat jako hlava státu a rád bych tam viděl někoho kdo má skutečné charisma a není loutkou.,,,,Není mi jedno kdo naši republiku bude reprezentovat jako hlava státu a rád bych tam viděl někoho kdo má skutečné charisma a není loutkou.,petr_pavel
 2023-01-04,1000,CZK,Okamžitá příchozí platba,Staněk Květoslav,Můj hlas už máš.V Prostějově to znám moc dobře po dvouletém působení.Květ,0,,,Staněk Květoslav,petr_pavel
 2023-01-04,500,CZK,Bezhotovostní příjem,RADKA CERMAKOVA,DAR NA KAMPAN GENERALA PAVLA,,,,RADKA CERMAKOVA,petr_pavel

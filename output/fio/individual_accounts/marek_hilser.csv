@@ -1,4 +1,11 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-05,100,CZK,Okamžitá příchozí platba,Petr Volejník,"Petr Volejník, 7.5.1968, Teplá Třebenice",,,,Petr Volejník,marek_hilser
+2023-01-05,500,CZK,Okamžitá příchozí platba,Lenka Szitaiová,"Lenka Szitaiová, 23.7.1974, Most",,,,Lenka Szitaiová,marek_hilser
+2023-01-05,-6048.79,CZK,Okamžitá odchozí platba,,,,2022085,,faktura 2022085 - úhrada za nástroj pro on-line reklamu,marek_hilser
+2023-01-05,-5000,CZK,Okamžitá odchozí platba,,,,,,Faktura č.18 - správa sociálních sítí - prosinec 2022,marek_hilser
+2023-01-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
+2023-01-05,-40755.22,CZK,Platba převodem uvnitř banky,,,,2310001,,Faktura 2310001 - tisk banerů a plakátů pro venkovní propagaci prostřednictvím dobrovolníků.,marek_hilser
+2023-01-05,200000,CZK,Platba převodem uvnitř banky,„Marek Hilšer do Senátu“,Převod prostředků z provozního účtu MHS - na prezidentskou kampaň,,,,Převod prostředků z provozního účtu MHS - na prezidentskou kampaň,marek_hilser
 2023-01-04,500,CZK,Bezhotovostní příjem,SCHIEFF JITKA,"Jitka Schieff, 14.03.1951, Praha 7",0,0,0,SCHIEFF JITKA,marek_hilser
 2023-01-04,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
 2023-01-03,999,CZK,Okamžitá příchozí platba,Ing. Pavlína Palmová,"Pavlína Palmová, 25.8.1966, Mochov",8,2023,,Ing. Pavlína Palmová,marek_hilser
