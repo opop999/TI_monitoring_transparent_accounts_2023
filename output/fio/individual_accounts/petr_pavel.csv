@@ -1,4 +1,18 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-06,5000,CZK,Platba převodem uvnitř banky,"Vu Thi, Tham",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-06,-199999.79,CZK,Platba převodem uvnitř banky,,,,20230003,,"IČ: 07323841, mediální náklady",petr_pavel
+2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2023-01-06,30000,CZK,Okamžitá příchozí platba,HVÍŽĎALA JAN,,,,,HVÍŽĎALA JAN,petr_pavel
+2023-01-06,2000,CZK,Bezhotovostní příjem,STEPANEK ZDENEK,Věříme Vám,,0,,STEPANEK ZDENEK,petr_pavel
+2023-01-06,-3418.25,CZK,Bezhotovostní platba,,,,8122008980,,"IČ: 26155222, billboard",petr_pavel
+2023-01-05,1500,CZK,Okamžitá příchozí platba,HORNÍK FRANTIŠEK,"Pro chlapíka, co se nebojí. Vyhrajte to, držím palce.",,,,HORNÍK FRANTIŠEK,petr_pavel
+2023-01-05,400,CZK,Okamžitá příchozí platba,Ing.Požárek Václav,Plnej tiket na Eurojackpot. Good luck!,0,,,Ing.Požárek Václav,petr_pavel
+2023-01-05,1000,CZK,Okamžitá příchozí platba,Aleš Petera,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,Aleš Petera,petr_pavel
+2023-01-05,-4479,CZK,Okamžitá odchozí platba,,,,3122022,,"IČ: 04025474, občerstvení",petr_pavel
+2023-01-05,-990,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-05,-24200,CZK,Karetní transakce,,"Nákup: FACEBK JD9SWJ3R32, fb.me/ads, IE, dne 5.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK JD9SWJ3R32, fb.me/ads, IE, dne 5.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-05,-24200,CZK,Karetní transakce,,"Nákup: FACEBK LRACUKBQ32, fb.me/ads, IE, dne 4.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK LRACUKBQ32, fb.me/ads, IE, dne 4.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-05,500,CZK,Okamžitá příchozí platba,MARIO OLAH,Dar na kampan generala Pavla,,,,MARIO OLAH,petr_pavel
 2023-01-05,1000,CZK,Okamžitá příchozí platba,RUDOVSKÝ LUDĚK,Dar na kampan generala Pavla,,,,RUDOVSKÝ LUDĚK,petr_pavel
 2023-01-05,1500,CZK,Bezhotovostní příjem,KREJČÍ MARTIN,Dar na kampan generala Pavla,,,,KREJČÍ MARTIN,petr_pavel
 2023-01-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel

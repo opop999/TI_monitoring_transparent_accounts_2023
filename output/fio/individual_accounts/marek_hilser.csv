@@ -1,4 +1,7 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
+2023-01-05,500,CZK,Okamžitá příchozí platba,Miroslav Surmánek,"Miroslav Surmánek, 17.06.1980, Michalovce, Slovensko",,,,Miroslav Surmánek,marek_hilser
+2023-01-05,1500,CZK,Okamžitá příchozí platba,MARIE WILSON,"Marie Wilson, 30.03.1971, Praha 2 Nusle",,,,MARIE WILSON,marek_hilser
 2023-01-05,100,CZK,Okamžitá příchozí platba,Petr Volejník,"Petr Volejník, 7.5.1968, Teplá Třebenice",,,,Petr Volejník,marek_hilser
 2023-01-05,500,CZK,Okamžitá příchozí platba,Lenka Szitaiová,"Lenka Szitaiová, 23.7.1974, Most",,,,Lenka Szitaiová,marek_hilser
 2023-01-05,-6048.79,CZK,Okamžitá odchozí platba,,,,2022085,,faktura 2022085 - úhrada za nástroj pro on-line reklamu,marek_hilser

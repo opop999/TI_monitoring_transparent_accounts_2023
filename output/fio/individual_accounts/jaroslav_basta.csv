@@ -1,4 +1,11 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-06,100,CZK,Platba převodem uvnitř banky,"Konečný, Erik",Dar. HLAVNĚ SI POHLÍDEJTE SPRAVEDLIVÉ SČÍTÁNÍ - PŘÍKLAD PODVODNÝCH VOLEB BIDEN/TRUMP JE MEMENTEM !!!!,,,,Dar. HLAVNĚ SI POHLÍDEJTE SPRAVEDLIVÉ SČÍTÁNÍ - PŘÍKLAD PODVODNÝCH VOLEB BIDEN/TRUMP JE MEMENTEM !!!!,jaroslav_basta
+2023-01-05,1000,CZK,Platba převodem uvnitř banky,"Hnízdil, Jan",Podpořím panu Baštovi ??,,,,Podpořím panu Baštovi ??,jaroslav_basta
+2023-01-05,1000,CZK,Okamžitá příchozí platba,SKORKOVSKÝ JAN,Dar na prezidentskou kampaň Jaroslava Bašty od Jana Skorkovského,,,,SKORKOVSKÝ JAN,jaroslav_basta
+2023-01-05,-2000,CZK,Okamžitá odchozí platba,,pronájem sálu Mladá Boleslav - prezidentská kampaň Jaroslava Bašty,,,,Jiří Gaudin - pronájem sálu Mladá Boleslav - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2023-01-05,-232138.5,CZK,Bezhotovostní platba,,"tisk plakátů, bilboardů atd.  pro prezidentskou kampaň Jaroslava Bašty",8,,,"D & S Design Prague s.r.o. - tisk plakátů, bilboardů atd. pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2023-01-05,-78240,CZK,Bezhotovostní platba,,pronájem a občerstvení volební štáb - prezidentská kampaň Jaroslava Bašty,,900014891,,"Bohemia Properties, a.s. - pronájem a občerstvení volební štáb - prezidentská kampaň Jaroslava Bašty",jaroslav_basta
+2023-01-05,-149737.5,CZK,Bezhotovostní platba,,Ostatní zálohy - poštovní služby 21 - roznáška inf. materiálů - prezidentská kampaň Jaroslava Bašty,308,202309001,,"Česká pošta, s.p. - roznáška inf. materiálů - prezidentská kampaň Jaroslava Bašty",jaroslav_basta
 2023-01-05,232138.5,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2023-01-05,78240,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2023-01-05,149737.5,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta

@@ -3,19 +3,30 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 001-02012023 1602 602036 454751,2023-01-02,-42000,Odchozí platba,,,CZK,220100009,308,0,karel_janecek
 001-02012023 1602 602030 445811,2023-01-02,91850,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
 000-31122022-060-060-001066002,2022-12-31,-60,Poplatek,,,CZK,0,0,0,karel_janecek
-361-05012023 1086 086144 502781,2023-01-05,0.01,Příchozí platba,Milan Šmíd,Drahé Česko - peněžitý trest Babiše,CZK,25085,666,88,andrej_babis
-361-05012023 1086 086147 102593,2023-01-05,0.01,Příchozí platba,Milan Šmíd,Babišova drahota - pomsta kokota,CZK,25085,666,0,andrej_babis
-361-05012023 1086 086144 102494,2023-01-05,0.01,Příchozí platba,Milan Šmíd,"Nacher si, nacher!",CZK,25085,666,0,andrej_babis
-361-05012023 1086 086147 102470,2023-01-05,0.01,Příchozí platba,Milan Šmíd,Na korunovačné dluhopise,CZK,25085,666,0,andrej_babis
-361-05012023 1086 086142 501702,2023-01-05,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
-361-05012023 1086 086151 101444,2023-01-05,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","VOLÍM PRÁSKAČE, ABY NA HRADĚ SMRDĚL DALŠÍ SOUDY UZNANÝ LHÁŘ A PRORUSKÝ BURAN!",CZK,0,0,0,andrej_babis
-120-20230104 T02AR0HRL3I57,2023-01-05,0.01,Příchozí platba,RADEK BRENDA,"BUDES HALIRE ZAS POSILAT HROMADN DO ROZPOCTU NEBO TY PRACHY UKRADNES JAK SCHILLEROVA, TY IDOLE DEMENTŮ?",CZK,0,0,0,andrej_babis
-120-20230105 2176707747,2023-01-05,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
-120-20230105 2176693801,2023-01-05,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
-361-05012023 1086 086151 101191,2023-01-05,5,Příchozí platba,Aršakjan Aaron Aram,,CZK,0,0,0,andrej_babis
+361-06012023 1086 086150 502823,2023-01-06,0.01,Příchozí platba,Josef Sadílek,Estébák Bureš na lavici obžalovaných a jeho kandidatura na prezidenta? Nebetyčná drzost!,CZK,0,0,0,andrej_babis
+361-06012023 1086 086150 501832,2023-01-06,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",VINCEK KOKOT KIKINA - MILDA NALEJPOBLEJ - ANDY BURAN HOVADO - DO TŘETICE DOBRÉHO!,CZK,0,0,0,andrej_babis
+361-06012023 1086 086142 501511,2023-01-06,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
+120-20230106 T02AR0HRMPQDA,2023-01-06,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
+120-20230106 T02AR0HRMPQD9,2023-01-06,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20230106 2178542305,2023-01-06,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20230106 2178545926,2023-01-06,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+361-06012023 1086 086149 501225,2023-01-06,1000,Příchozí platba,Mgr.Kuchařová Darja,Kuchařová Darja,CZK,0,0,0,andrej_babis
+120-20230106 00749563359,2023-01-06,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 001-05012023 1602 602028 843881,2023-01-05,0.01,Příchozí platba,HÁNOVÁ MARTA,Na psychiatra Andrej,CZK,2023,0,0,andrej_babis
 120-20230105 00749063555,2023-01-05,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+120-20230105 2176693801,2023-01-05,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
 361-05012023 1086 086149 500259,2023-01-05,0.01,Příchozí platba,Lukáš Vojáček,Ahoj štěpáně,CZK,0,0,0,andrej_babis
+361-05012023 1086 086151 101191,2023-01-05,5,Příchozí platba,Aršakjan Aaron Aram,,CZK,0,0,0,andrej_babis
+361-05012023 1086 086151 101444,2023-01-05,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","VOLÍM PRÁSKAČE, ABY NA HRADĚ SMRDĚL DALŠÍ SOUDY UZNANÝ LHÁŘ A PRORUSKÝ BURAN!",CZK,0,0,0,andrej_babis
+361-05012023 1086 086142 501702,2023-01-05,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
+361-05012023 1086 086147 102470,2023-01-05,0.01,Příchozí platba,Milan Šmíd,Na korunovačné dluhopise,CZK,25085,666,0,andrej_babis
+361-05012023 1086 086144 102494,2023-01-05,0.01,Příchozí platba,Milan Šmíd,"Nacher si, nacher!",CZK,25085,666,0,andrej_babis
+361-05012023 1086 086147 102593,2023-01-05,0.01,Příchozí platba,Milan Šmíd,Babišova drahota - pomsta kokota,CZK,25085,666,0,andrej_babis
+361-05012023 1086 086144 502781,2023-01-05,0.01,Příchozí platba,Milan Šmíd,Drahé Česko - peněžitý trest Babiše,CZK,25085,666,88,andrej_babis
+361-05012023 1086 086145 104285,2023-01-05,0.01,Příchozí platba,Josef Sadílek,"Estébák Bureš svojí neúčastí v debatách jen ukazuje, že se bojí. Asi se bojí opravdu hodně. Vždyť je to srab!",CZK,0,0,0,andrej_babis
+361-05012023 1086 086145 104720,2023-01-05,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",JE NUTNO DODRŽET SOUDOBOU VÝCHODNÍORIENTACI A PŘIROZENÝ VÝVOJ - CHILSKÝ ŠAŠEK - VYPITÝ ŽVANIL - ZAVRŠITBURANSKÝM PRÁSKAČEM!,CZK,0,0,0,andrej_babis
+120-20230105 2176707747,2023-01-05,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+120-20230104 T02AR0HRL3I57,2023-01-05,0.01,Příchozí platba,RADEK BRENDA,"BUDES HALIRE ZAS POSILAT HROMADN DO ROZPOCTU NEBO TY PRACHY UKRADNES JAK SCHILLEROVA, TY IDOLE DEMENTŮ?",CZK,0,0,0,andrej_babis
 001-04012023 1602 602018 542781,2023-01-04,0.01,Příchozí platba,SOLAŘÍK MICHAL,"Pokud si opravdu tak neschopný, že jdeš do jedné debaty, protože by lidi viděli jak špatný si v komunikaci, tak by si neměl ani kandidovat.",CZK,666,0,0,andrej_babis
 001-04012023 1602 602009 920831,2023-01-04,0.01,Příchozí platba,KUBA MARTIN,"STBáka Bureše, komunistu, lháře a podvodníka presidentem??? TO FAKT NECHCEŠ !!!",CZK,0,0,0,andrej_babis
 361-04012023 1086 086148 101232,2023-01-04,0.01,Příchozí platba,"Bulka, Vladimír","Babiš je bezpečnostní riziko, NEVOLIT : https://www.forum24.cz/tajna-analyticka-zprava/",CZK,0,0,0,andrej_babis
@@ -135,14 +146,14 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 361-29122022 1086 086151 102912,2022-12-29,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","MY, HOVADA, ZA PÁREK A KOBLIHU PŘÍMO Z ANU RÁDI NASTAVÍME TVÁŘ I ŘIŤ A VOLÍME ZLODĚJE, LHÁŘE, KŘIVÁKA A SOUDEM USVĚDČENÉHO PRÁSKAČE!",CZK,0,0,0,andrej_babis
 120-20221229 00746963345,2022-12-29,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 001-29122022 1602 602029 868491,2022-12-29,-1000,Odchozí platba,,Dekuji za podporu. Vazim si ji.,CZK,9,558,0,andrej_babis
+301-04012023 1008 702707 389443,2023-01-04,-100,Poplatek,,,CZK,0,898,0,denisa_rohanova
+301-04012023 1008 702707 389442,2023-01-04,-9000,,Výběr,,CZK,0,0,0,denisa_rohanova
+000-31122022-060-060-002781965,2022-12-31,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
 361-28122022 1086 086148 101300,2022-12-28,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
 361-28122022 1086 086142 103301,2022-12-28,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",CHCEME NA HRADĚ JEŠTĚ VĚTŠÍ HOVADOA PRASE NEŽ TAM JE A TAK VYŽEREME VŠECHNY KOBLIHY Z PRÁSKAČOVA ANU!,CZK,0,0,0,andrej_babis
 120-20221228 2162269338,2022-12-28,0.01,Příchozí platba,Josef Sadílek,"STBÁKU BUREŠI, OSTUDO ČR! PREZIDENTEM NEBUDEŠ! NIKDY!",CZK,0,0,0,andrej_babis
 120-20221228 00746563710,2022-12-28,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20221228 2162281332,2022-12-28,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
-301-04012023 1008 702707 389443,2023-01-04,-100,Poplatek,,,CZK,0,898,0,denisa_rohanova
-301-04012023 1008 702707 389442,2023-01-04,-9000,,Výběr,,CZK,0,0,0,denisa_rohanova
-000-31122022-060-060-002781965,2022-12-31,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
 225-28122022 10868050165049,2022-12-28,-39,Poplatek,,,CZK,0,898,706969014,denisa_rohanova
 120-20221227 2161945774,2022-12-27,0.01,Příchozí platba,Milan Vilím,Tahni kryple,CZK,0,0,0,andrej_babis
 120-20221227 00746102684,2022-12-27,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
