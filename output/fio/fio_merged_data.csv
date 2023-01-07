@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-07,12000,CZK,Okamžitá příchozí platba,KUČEROVÁ ALENA,DAR NA KAMPAŇ GENERÁLA PAVLA,,12023,,KUČEROVÁ ALENA,petr_pavel
+2023-01-07,100,CZK,Okamžitá příchozí platba,JANDA FILIP,,,,,JANDA FILIP,petr_pavel
+2023-01-06,500,CZK,Okamžitá příchozí platba,Miloslava Hechtová,moje 87 letá maminka přispívá mým prostřenictvím. hodně štěstí!,,,,Miloslava Hechtová,petr_pavel
+2023-01-06,1000,CZK,Okamžitá příchozí platba,Miloslava Hechtová,držím nám všem palce,,,,Miloslava Hechtová,petr_pavel
+2023-01-06,925,CZK,Okamžitá příchozí platba,Mgr. Vilém Tanzer,Ať se daří!,,,,Mgr. Vilém Tanzer,petr_pavel
+2023-01-06,-24200,CZK,Karetní transakce,,"Nákup: FACEBK TFFG7JTQ32, fb.me/ads, IE, dne 5.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK TFFG7JTQ32, fb.me/ads, IE, dne 5.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-06,-7610.9,CZK,Karetní transakce,,"Nákup: SOLIDPIXELS, PRAHA, CZ, dne 5.1.2023, částka  7610.90 CZK",,7999,,"Nákup: SOLIDPIXELS, PRAHA, CZ, dne 5.1.2023, částka  7610.90 CZK",petr_pavel
+2023-01-06,2000,CZK,Okamžitá příchozí platba,Jan Vítů,Držím palce! Přeji si Vás jako prezidenta na Hradě.,,,,Jan Vítů,petr_pavel
+2023-01-06,1111,CZK,Okamžitá příchozí platba,DUNDÁČEK PETR,Petr Dundáček,,1,,DUNDÁČEK PETR,petr_pavel
 2023-01-06,5000,CZK,Platba převodem uvnitř banky,"Vu Thi, Tham",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
 2023-01-06,-199999.79,CZK,Platba převodem uvnitř banky,,,,20230003,,"IČ: 07323841, mediální náklady",petr_pavel
 2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
@@ -113,13 +122,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-30,-444070,CZK,Bezhotovostní platba,,,,22003304,,"IČ: 26738902, průzkum",petr_pavel
 2022-12-30,-23619.2,CZK,Bezhotovostní platba,,,,501834,,"IČ: 27170012, samolepky",petr_pavel
 2022-12-30,-2299,CZK,Bezhotovostní platba,,,,501835,,"IČ: 27170012, samolepky",petr_pavel
-2022-12-29,181.53,CZK,Okamžitá příchozí platba,Střasák Cyril,:keksalut:,0,,,Střasák Cyril,petr_pavel
-2022-12-29,500,CZK,Okamžitá příchozí platba,Stanislav Bazala,Dar na kampan generala Pavla,,,,Stanislav Bazala,petr_pavel
-2022-12-29,1000,CZK,Okamžitá příchozí platba,Svoboda Antonín,pro mého prezidenta,0,1111111111,,Svoboda Antonín,petr_pavel
-2022-12-29,999,CZK,Okamžitá příchozí platba,PRŮCHA MILAN,"Věřím Vám, počítejte s mou podporou!",,291222,,PRŮCHA MILAN,petr_pavel
-2022-12-29,1000,CZK,Bezhotovostní příjem,VINECKÁ LUCIE,Vinecká Lucie - na prezidenta,,,,VINECKÁ LUCIE,petr_pavel
-2022-12-29,1000,CZK,Bezhotovostní příjem,FALTUS ONDŘEJ,Podpora generálu Pavlovi,0,29122022,0,FALTUS ONDŘEJ,petr_pavel
-2022-12-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
 2023-01-05,500,CZK,Okamžitá příchozí platba,Miroslav Surmánek,"Miroslav Surmánek, 17.06.1980, Michalovce, Slovensko",,,,Miroslav Surmánek,marek_hilser
 2023-01-05,1500,CZK,Okamžitá příchozí platba,MARIE WILSON,"Marie Wilson, 30.03.1971, Praha 2 Nusle",,,,MARIE WILSON,marek_hilser
@@ -146,8 +148,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-30,17.17,CZK,Okamžitá příchozí platba,Ersin Ramadani,"Vydrzte i kdyz to nevyjde, jednou se vsichni umoudri a svet bude inspirovan Vasimi myslenkami:) Landogy",,17,,Ersin Ramadani,marek_hilser
 2022-12-30,500,CZK,Bezhotovostní příjem,TUMAJEROVA ADELA,"Příspěvek na kampaň, A. TumajerováJiráskova 381, Liberec 12, 460 14",,0,,TUMAJEROVA ADELA,marek_hilser
 2022-12-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
-2022-12-29,3000,CZK,Okamžitá příchozí platba,MARTIN SVÁROVSKÝ,"nar. 23.3.1974, Junácká 7, Praha 6",,,,MARTIN SVÁROVSKÝ,marek_hilser
-2022-12-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
 2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2023-01-06,-170000,CZK,Bezhotovostní platba,,Josef Středula,308,230100005,,kvantitativní průzkum Josef Středula,josef_stredula
 2023-01-06,-150000,CZK,Bezhotovostní platba,,Josef Středula,308,230100004,,web Josef Středula,josef_stredula
@@ -163,10 +163,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2023-01-01,-360000,CZK,Bezhotovostní platba,,Josef Středula,308,220100096,,tiskoviny Josef Středula,josef_stredula
 2022-12-31,-520000,CZK,Bezhotovostní platba,,Josef Středula,308,220100091,,Focení Josef Středula,josef_stredula
 2022-12-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
-2022-12-29,-2178000,CZK,Bezhotovostní platba,,Josef Středula,308,220100092,,kontaktní kampaň Josef Středula,josef_stredula
-2022-12-29,-20000,CZK,Karetní transakce,,"Nákup: FACEBK 77K35KTF52, fb.me/ads, IE, dne 28.12.2022, částka  20000.00 CZK",,2172,,"Nákup: FACEBK 77K35KTF52, fb.me/ads, IE, dne 28.12.2022, částka  20000.00 CZK",josef_stredula
-2022-12-29,5000000,CZK,Bezhotovostní příjem,BENÝŠEK RICHARD,,0,6709300257,0,BENÝŠEK RICHARD,josef_stredula
-2022-12-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2023-01-06,100,CZK,Platba převodem uvnitř banky,"Konečný, Erik",Dar. HLAVNĚ SI POHLÍDEJTE SPRAVEDLIVÉ SČÍTÁNÍ - PŘÍKLAD PODVODNÝCH VOLEB BIDEN/TRUMP JE MEMENTEM !!!!,,,,Dar. HLAVNĚ SI POHLÍDEJTE SPRAVEDLIVÉ SČÍTÁNÍ - PŘÍKLAD PODVODNÝCH VOLEB BIDEN/TRUMP JE MEMENTEM !!!!,jaroslav_basta
 2023-01-05,1000,CZK,Platba převodem uvnitř banky,"Hnízdil, Jan",Podpořím panu Baštovi ??,,,,Podpořím panu Baštovi ??,jaroslav_basta
 2023-01-05,1000,CZK,Okamžitá příchozí platba,SKORKOVSKÝ JAN,Dar na prezidentskou kampaň Jaroslava Bašty od Jana Skorkovského,,,,SKORKOVSKÝ JAN,jaroslav_basta
@@ -189,6 +185,19 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2023-01-02,1000,CZK,Platba převodem uvnitř banky,"Konečný, Erik","Dar. ZAŘIĎTE MOŽNOST PDF LETÁKŮ A PLAKÁTŮ,ABY LIDI MOHLI TISKNOUT ,ROZNÁŠET,LEPIT",,,,"Dar. ZAŘIĎTE MOŽNOST PDF LETÁKŮ A PLAKÁTŮ,ABY LIDI MOHLI TISKNOUT ,ROZNÁŠET,LEPIT",jaroslav_basta
 2022-12-31,-10,CZK,Poplatek - platební karta,,poplatek za pojištění,,4231,,poplatek za pojištění,jaroslav_basta
 2022-12-30,1000,CZK,Bezhotovostní příjem,HRUBÝ MIROSLAV,dar pro prezidentskou kampaň,,,,HRUBÝ MIROSLAV,jaroslav_basta
+2022-12-29,181.53,CZK,Okamžitá příchozí platba,Střasák Cyril,:keksalut:,0,,,Střasák Cyril,petr_pavel
+2022-12-29,500,CZK,Okamžitá příchozí platba,Stanislav Bazala,Dar na kampan generala Pavla,,,,Stanislav Bazala,petr_pavel
+2022-12-29,1000,CZK,Okamžitá příchozí platba,Svoboda Antonín,pro mého prezidenta,0,1111111111,,Svoboda Antonín,petr_pavel
+2022-12-29,999,CZK,Okamžitá příchozí platba,PRŮCHA MILAN,"Věřím Vám, počítejte s mou podporou!",,291222,,PRŮCHA MILAN,petr_pavel
+2022-12-29,1000,CZK,Bezhotovostní příjem,VINECKÁ LUCIE,Vinecká Lucie - na prezidenta,,,,VINECKÁ LUCIE,petr_pavel
+2022-12-29,1000,CZK,Bezhotovostní příjem,FALTUS ONDŘEJ,Podpora generálu Pavlovi,0,29122022,0,FALTUS ONDŘEJ,petr_pavel
+2022-12-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2022-12-29,3000,CZK,Okamžitá příchozí platba,MARTIN SVÁROVSKÝ,"nar. 23.3.1974, Junácká 7, Praha 6",,,,MARTIN SVÁROVSKÝ,marek_hilser
+2022-12-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
+2022-12-29,-2178000,CZK,Bezhotovostní platba,,Josef Středula,308,220100092,,kontaktní kampaň Josef Středula,josef_stredula
+2022-12-29,-20000,CZK,Karetní transakce,,"Nákup: FACEBK 77K35KTF52, fb.me/ads, IE, dne 28.12.2022, částka  20000.00 CZK",,2172,,"Nákup: FACEBK 77K35KTF52, fb.me/ads, IE, dne 28.12.2022, částka  20000.00 CZK",josef_stredula
+2022-12-29,5000000,CZK,Bezhotovostní příjem,BENÝŠEK RICHARD,,0,6709300257,0,BENÝŠEK RICHARD,josef_stredula
+2022-12-29,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
 2022-12-29,-1000,CZK,Poplatek - platební karta,,"Založení expres karty, číslo bylo přiděleno",,4231,,"Založení expres karty, číslo bylo přiděleno",jaroslav_basta
 2022-12-29,333,CZK,Bezhotovostní příjem,SIMEK VOJTECH,"Dar - od: Vojtěch Šimek, *1.9.1976,bytem: Rejta 951, T. Sviny 37401",,0,,SIMEK VOJTECH,jaroslav_basta
 2022-12-28,50000,CZK,Okamžitá příchozí platba,Krajíček Petr,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Krajíček Petr,petr_pavel

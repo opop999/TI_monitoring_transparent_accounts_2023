@@ -1,4 +1,17 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2023-01-07,5,CZK,Příchozí úhrada,0,,,KOLAŘÍK DALIBOR,,tomas_zima
+2023-01-06,25000,CZK,Příchozí úhrada,0,,,Prof.MUDr.Martásek P,Dar - podpora kampane - Pavel Martásek,tomas_zima
+2023-01-05,10000,CZK,Příchozí úhrada,0,,,Barath Peter,Dar od Beatrice Barathová,tomas_zima
+2023-01-05,-150000,CZK,Tuzemská odchozí úhrada,0,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
+2023-01-03,50000,CZK,Příchozí úhrada,0,,,ŠTOCHL JAROSLAV,Štochl . Dar,tomas_zima
+2023-01-03,-50000,CZK,Tuzemská odchozí úhrada,0,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
+2023-01-02,100000,CZK,Příchozí úhrada,0,,,Jozef Šepetka,DAR,tomas_zima
+2023-01-02,50000,CZK,Příchozí úhrada,0,,,TRITREG - TŘINEC S R,"Darovací smlouva TRITREG-TŘINEC, s.r.o.",tomas_zima
+2023-01-02,300,CZK,Příchozí úhrada,0,,,"Kekrt, Vladimír",Kekrt Vl. - podpora Vaší kandidatury na prezidenta republiky,tomas_zima
+2023-01-02,5000,CZK,Vklad hotovosti,0,,,,Pavel Henčl,tomas_zima
+2023-01-01,-0.32,CZK,Daň z úroku,0,,,-,,tomas_zima
+2023-01-01,2.14,CZK,Kreditní úrok,0,,,,,tomas_zima
+2022-12-30,5000,CZK,Příchozí úhrada,0,,,"Ing.Růžička Jiří,MBA",,tomas_zima
 2023-01-05,-150000,CZK,Tuzemská odchozí úhrada,,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
 2023-01-05,10000,CZK,Příchozí úhrada,,,,Barath Peter,Dar od Beatrice Barathová,tomas_zima
 2023-01-03,50000,CZK,Příchozí úhrada,,,,ŠTOCHL JAROSLAV,Štochl . Dar,tomas_zima

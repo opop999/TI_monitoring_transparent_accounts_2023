@@ -1,4 +1,13 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-07,12000,CZK,Okamžitá příchozí platba,KUČEROVÁ ALENA,DAR NA KAMPAŇ GENERÁLA PAVLA,,12023,,KUČEROVÁ ALENA,petr_pavel
+2023-01-07,100,CZK,Okamžitá příchozí platba,JANDA FILIP,,,,,JANDA FILIP,petr_pavel
+2023-01-06,500,CZK,Okamžitá příchozí platba,Miloslava Hechtová,moje 87 letá maminka přispívá mým prostřenictvím. hodně štěstí!,,,,Miloslava Hechtová,petr_pavel
+2023-01-06,1000,CZK,Okamžitá příchozí platba,Miloslava Hechtová,držím nám všem palce,,,,Miloslava Hechtová,petr_pavel
+2023-01-06,925,CZK,Okamžitá příchozí platba,Mgr. Vilém Tanzer,Ať se daří!,,,,Mgr. Vilém Tanzer,petr_pavel
+2023-01-06,-24200,CZK,Karetní transakce,,"Nákup: FACEBK TFFG7JTQ32, fb.me/ads, IE, dne 5.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK TFFG7JTQ32, fb.me/ads, IE, dne 5.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-06,-7610.9,CZK,Karetní transakce,,"Nákup: SOLIDPIXELS, PRAHA, CZ, dne 5.1.2023, částka  7610.90 CZK",,7999,,"Nákup: SOLIDPIXELS, PRAHA, CZ, dne 5.1.2023, částka  7610.90 CZK",petr_pavel
+2023-01-06,2000,CZK,Okamžitá příchozí platba,Jan Vítů,Držím palce! Přeji si Vás jako prezidenta na Hradě.,,,,Jan Vítů,petr_pavel
+2023-01-06,1111,CZK,Okamžitá příchozí platba,DUNDÁČEK PETR,Petr Dundáček,,1,,DUNDÁČEK PETR,petr_pavel
 2023-01-06,5000,CZK,Platba převodem uvnitř banky,"Vu Thi, Tham",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
 2023-01-06,-199999.79,CZK,Platba převodem uvnitř banky,,,,20230003,,"IČ: 07323841, mediální náklady",petr_pavel
 2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
