@@ -105,6 +105,9 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 361-31122022 1086 086150 500286,2022-12-31,20000,Příchozí platba,FabEuropa s.r.o.,To je pane Babis nevhodne - urazlive,CZK,0,0,0,andrej_babis
 361-31122022 1086 086151 100361,2022-12-31,1,Příchozí platba,Jan Kubatý,"Byly časy, kdy z basy vyšel nejlepší prezident ČR, teď je na čase, aby ""skoro"" prezident šel do basy!",CZK,0,0,0,andrej_babis
 361-31122022 1086 086151 100502,2022-12-31,0.01,Příchozí platba,Ing.Ječmínek Jan,"Majitel Agrofertu a neví, kolik mákráva žaludků? Kandidát na prezidenta a nezná ani planety sluneční soustavy? Styďte se.",CZK,0,0,0,andrej_babis
+301-04012023 1008 702707 389443,2023-01-04,-100,Poplatek,,,CZK,0,898,0,denisa_rohanova
+301-04012023 1008 702707 389442,2023-01-04,-9000,,Výběr,,CZK,0,0,0,denisa_rohanova
+000-31122022-060-060-002781965,2022-12-31,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
 001-30122022 1602 602004 754321,2022-12-30,0.01,Příchozí platba,ŠMÍD JAKUB,Pro lhare a zlodeje s pranim prohranych voleb.,CZK,0,0,0,andrej_babis
 120-20221230 00747315133,2022-12-30,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20221230 T02AR0HRFSLME,2022-12-30,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
@@ -141,9 +144,6 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 120-20221230 2166411729,2022-12-30,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
 120-20221230 T02AR0HRFSLMF,2022-12-30,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
 001-30122022 1602 602021 063071,2022-12-30,0.01,Příchozí platba,NYKODÝM DAVID,Odejdi z ČR a už nikdy se nevracej!,CZK,0,0,0,andrej_babis
-301-04012023 1008 702707 389443,2023-01-04,-100,Poplatek,,,CZK,0,898,0,denisa_rohanova
-301-04012023 1008 702707 389442,2023-01-04,-9000,,Výběr,,CZK,0,0,0,denisa_rohanova
-000-31122022-060-060-002781965,2022-12-31,-60,Poplatek,,,CZK,0,0,0,denisa_rohanova
 120-20221229 2164571015,2022-12-29,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
 001-29122022 1602 602031 868511,2022-12-29,-1.14,Odchozí platba,,"odvod do statniho rozpoctu, nevyzadane platby",CZK,20221229,558,0,andrej_babis
 120-20221229 2164575646,2022-12-29,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis

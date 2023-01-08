@@ -1,4 +1,10 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-08,234.01,CZK,Okamžitá příchozí platba,Spolek Společný prez,,0,,,Spolek Společný prez,petr_pavel
+2023-01-08,-242000,CZK,Bezhotovostní platba,,,308,202301,,"IČ: 02575108, vystoupení",petr_pavel
+2023-01-07,100,CZK,Okamžitá příchozí platba,Herber Matyáš,Dar na kampan generala Pavla,0,,,Herber Matyáš,petr_pavel
+2023-01-07,3000,CZK,Okamžitá příchozí platba,Ing. JOZEF NEMČOK,"Dar na kampan generala Pavla, Jozef Nemčok s rod., Havířov, Držíme palce",,6405096214,,Ing. JOZEF NEMČOK,petr_pavel
+2023-01-07,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 9UZGLJFQ32, fb.me/ads, IE, dne 6.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 9UZGLJFQ32, fb.me/ads, IE, dne 6.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-07,-7207.21,CZK,Karetní transakce,,"Nákup: FACEBK CLBRFJ3Q32, fb.me/ads, IE, dne 6.1.2023, částka  7207.21 CZK",,7999,,"Nákup: FACEBK CLBRFJ3Q32, fb.me/ads, IE, dne 6.1.2023, částka  7207.21 CZK",petr_pavel
 2023-01-07,12000,CZK,Okamžitá příchozí platba,KUČEROVÁ ALENA,DAR NA KAMPAŇ GENERÁLA PAVLA,,12023,,KUČEROVÁ ALENA,petr_pavel
 2023-01-07,100,CZK,Okamžitá příchozí platba,JANDA FILIP,,,,,JANDA FILIP,petr_pavel
 2023-01-06,500,CZK,Okamžitá příchozí platba,Miloslava Hechtová,moje 87 letá maminka přispívá mým prostřenictvím. hodně štěstí!,,,,Miloslava Hechtová,petr_pavel

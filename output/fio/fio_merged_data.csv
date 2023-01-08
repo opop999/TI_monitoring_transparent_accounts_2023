@@ -1,4 +1,10 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-08,234.01,CZK,Okamžitá příchozí platba,Spolek Společný prez,,0,,,Spolek Společný prez,petr_pavel
+2023-01-08,-242000,CZK,Bezhotovostní platba,,,308,202301,,"IČ: 02575108, vystoupení",petr_pavel
+2023-01-07,100,CZK,Okamžitá příchozí platba,Herber Matyáš,Dar na kampan generala Pavla,0,,,Herber Matyáš,petr_pavel
+2023-01-07,3000,CZK,Okamžitá příchozí platba,Ing. JOZEF NEMČOK,"Dar na kampan generala Pavla, Jozef Nemčok s rod., Havířov, Držíme palce",,6405096214,,Ing. JOZEF NEMČOK,petr_pavel
+2023-01-07,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 9UZGLJFQ32, fb.me/ads, IE, dne 6.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 9UZGLJFQ32, fb.me/ads, IE, dne 6.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-07,-7207.21,CZK,Karetní transakce,,"Nákup: FACEBK CLBRFJ3Q32, fb.me/ads, IE, dne 6.1.2023, částka  7207.21 CZK",,7999,,"Nákup: FACEBK CLBRFJ3Q32, fb.me/ads, IE, dne 6.1.2023, částka  7207.21 CZK",petr_pavel
 2023-01-07,12000,CZK,Okamžitá příchozí platba,KUČEROVÁ ALENA,DAR NA KAMPAŇ GENERÁLA PAVLA,,12023,,KUČEROVÁ ALENA,petr_pavel
 2023-01-07,100,CZK,Okamžitá příchozí platba,JANDA FILIP,,,,,JANDA FILIP,petr_pavel
 2023-01-06,500,CZK,Okamžitá příchozí platba,Miloslava Hechtová,moje 87 letá maminka přispívá mým prostřenictvím. hodně štěstí!,,,,Miloslava Hechtová,petr_pavel
@@ -98,6 +104,64 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-31,1000,CZK,Okamžitá příchozí platba,Kudra Vlastimil,Pane Pavel máte můj hlas.,0,560901,,Kudra Vlastimil,petr_pavel
 2022-12-31,-24200,CZK,Karetní transakce,,"Nákup: FACEBK HSDP3K7Q32, fb.me/ads, IE, dne 30.12.2022, částka  24200.00 CZK",,7999,,"Nákup: FACEBK HSDP3K7Q32, fb.me/ads, IE, dne 30.12.2022, částka  24200.00 CZK",petr_pavel
 2022-12-31,200,CZK,Okamžitá příchozí platba,Punčochář Jiří,Dar na kampan generala Pavla,0,,,Punčochář Jiří,petr_pavel
+2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
+2023-01-05,500,CZK,Okamžitá příchozí platba,Miroslav Surmánek,"Miroslav Surmánek, 17.06.1980, Michalovce, Slovensko",,,,Miroslav Surmánek,marek_hilser
+2023-01-05,1500,CZK,Okamžitá příchozí platba,MARIE WILSON,"Marie Wilson, 30.03.1971, Praha 2 Nusle",,,,MARIE WILSON,marek_hilser
+2023-01-05,100,CZK,Okamžitá příchozí platba,Petr Volejník,"Petr Volejník, 7.5.1968, Teplá Třebenice",,,,Petr Volejník,marek_hilser
+2023-01-05,500,CZK,Okamžitá příchozí platba,Lenka Szitaiová,"Lenka Szitaiová, 23.7.1974, Most",,,,Lenka Szitaiová,marek_hilser
+2023-01-05,-6048.79,CZK,Okamžitá odchozí platba,,,,2022085,,faktura 2022085 - úhrada za nástroj pro on-line reklamu,marek_hilser
+2023-01-05,-5000,CZK,Okamžitá odchozí platba,,,,,,Faktura č.18 - správa sociálních sítí - prosinec 2022,marek_hilser
+2023-01-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
+2023-01-05,-40755.22,CZK,Platba převodem uvnitř banky,,,,2310001,,Faktura 2310001 - tisk banerů a plakátů pro venkovní propagaci prostřednictvím dobrovolníků.,marek_hilser
+2023-01-05,200000,CZK,Platba převodem uvnitř banky,„Marek Hilšer do Senátu“,Převod prostředků z provozního účtu MHS - na prezidentskou kampaň,,,,Převod prostředků z provozního účtu MHS - na prezidentskou kampaň,marek_hilser
+2023-01-04,500,CZK,Bezhotovostní příjem,SCHIEFF JITKA,"Jitka Schieff, 14.03.1951, Praha 7",0,0,0,SCHIEFF JITKA,marek_hilser
+2023-01-04,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
+2023-01-03,999,CZK,Okamžitá příchozí platba,Ing. Pavlína Palmová,"Pavlína Palmová, 25.8.1966, Mochov",8,2023,,Ing. Pavlína Palmová,marek_hilser
+2023-01-03,333,CZK,Okamžitá příchozí platba,JIŘIČKOVÁ EVA,"Eva Jiřičková, 6.3.1962 51101 Malý Rohozec 152",,3012023,,JIŘIČKOVÁ EVA,marek_hilser
+2023-01-03,350,CZK,Okamžitá příchozí platba,Jana Pačesová,"Jana Pačesová / 10.01.1996 / Dolní Stakory, Mladá Boleslav",,,,Jana Pačesová,marek_hilser
+2023-01-03,10000,CZK,Okamžitá příchozí platba,Ing.Lhoták Václav,"Ing. Václav Lhoták, 18. 2. 1967, Semínova Lhota",0,,,Ing.Lhoták Václav,marek_hilser
+2023-01-03,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
+2023-01-03,500,CZK,Bezhotovostní příjem,PECH PAVEL,Pavel Pech 2.8.1981 Jaroměř,0,0,0,PECH PAVEL,marek_hilser
+2023-01-03,500,CZK,Bezhotovostní příjem,LEDVINOVÁ TEREZA,,0,0,0,LEDVINOVÁ TEREZA,marek_hilser
+2023-01-02,1200,CZK,Okamžitá příchozí platba,Jiří Bednář,"jiří bednář, 3. 6. 1971, Drnovice 315, 683 04",,20123,,Jiří Bednář,marek_hilser
+2023-01-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
+2023-01-02,-6047.24,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.1.2023, částka  6047.24 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.1.2023, částka  6047.24 CZK",marek_hilser
+2022-12-31,-329.91,CZK,Karetní transakce,,"Nákup: FACEBK GZR6GK3K62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.12.2022, částka  329.91 CZK",,5298,,"Nákup: FACEBK GZR6GK3K62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.12.2022, částka  329.91 CZK",marek_hilser
+2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
+2023-01-06,-170000,CZK,Bezhotovostní platba,,Josef Středula,308,230100005,,kvantitativní průzkum Josef Středula,josef_stredula
+2023-01-06,-150000,CZK,Bezhotovostní platba,,Josef Středula,308,230100004,,web Josef Středula,josef_stredula
+2023-01-05,-1200000,CZK,Bezhotovostní platba,,Josef Středula,308,230100003,,Vedení kampaně Josef Středula,josef_stredula
+2023-01-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
+2023-01-04,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
+2023-01-03,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
+2023-01-02,-1155.28,CZK,Karetní transakce,,"Nákup: GSUITE_stredula.cz, Dublin, IE, dne 1.1.2023, částka  1155.28 CZK",,2172,,"Nákup: GSUITE_stredula.cz, Dublin, IE, dne 1.1.2023, částka  1155.28 CZK",josef_stredula
+2023-01-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
+2023-01-02,2000,CZK,Bezhotovostní příjem,NOGOL LEON,,308,0,,NOGOL LEON,josef_stredula
+2023-01-02,2000,CZK,Bezhotovostní příjem,ZAPLETAL JAN,Bojuj s úsměvem. J. Zapletal,0,0,0,ZAPLETAL JAN,josef_stredula
+2023-01-01,-420000,CZK,Bezhotovostní platba,,Josef Středula,308,220100094,,reklamní předměty Josef Středula,josef_stredula
+2023-01-01,-360000,CZK,Bezhotovostní platba,,Josef Středula,308,220100096,,tiskoviny Josef Středula,josef_stredula
+2022-12-31,-520000,CZK,Bezhotovostní platba,,Josef Středula,308,220100091,,Focení Josef Středula,josef_stredula
+2023-01-06,100,CZK,Platba převodem uvnitř banky,"Konečný, Erik",Dar. HLAVNĚ SI POHLÍDEJTE SPRAVEDLIVÉ SČÍTÁNÍ - PŘÍKLAD PODVODNÝCH VOLEB BIDEN/TRUMP JE MEMENTEM !!!!,,,,Dar. HLAVNĚ SI POHLÍDEJTE SPRAVEDLIVÉ SČÍTÁNÍ - PŘÍKLAD PODVODNÝCH VOLEB BIDEN/TRUMP JE MEMENTEM !!!!,jaroslav_basta
+2023-01-05,1000,CZK,Platba převodem uvnitř banky,"Hnízdil, Jan",Podpořím panu Baštovi ??,,,,Podpořím panu Baštovi ??,jaroslav_basta
+2023-01-05,1000,CZK,Okamžitá příchozí platba,SKORKOVSKÝ JAN,Dar na prezidentskou kampaň Jaroslava Bašty od Jana Skorkovského,,,,SKORKOVSKÝ JAN,jaroslav_basta
+2023-01-05,-2000,CZK,Okamžitá odchozí platba,,pronájem sálu Mladá Boleslav - prezidentská kampaň Jaroslava Bašty,,,,Jiří Gaudin - pronájem sálu Mladá Boleslav - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2023-01-05,-232138.5,CZK,Bezhotovostní platba,,"tisk plakátů, bilboardů atd.  pro prezidentskou kampaň Jaroslava Bašty",8,,,"D & S Design Prague s.r.o. - tisk plakátů, bilboardů atd. pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2023-01-05,-78240,CZK,Bezhotovostní platba,,pronájem a občerstvení volební štáb - prezidentská kampaň Jaroslava Bašty,,900014891,,"Bohemia Properties, a.s. - pronájem a občerstvení volební štáb - prezidentská kampaň Jaroslava Bašty",jaroslav_basta
+2023-01-05,-149737.5,CZK,Bezhotovostní platba,,Ostatní zálohy - poštovní služby 21 - roznáška inf. materiálů - prezidentská kampaň Jaroslava Bašty,308,202309001,,"Česká pošta, s.p. - roznáška inf. materiálů - prezidentská kampaň Jaroslava Bašty",jaroslav_basta
+2023-01-05,232138.5,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-05,78240,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-05,149737.5,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-05,100,CZK,Platba převodem uvnitř banky,"Konečný, Erik","Dar. Je i věcí vietnamské komunity,aby byl mír.Ostatně proto se asi stěhovali z Vietnamu...Oslovte je ke kampani.",,,,"Dar. Je i věcí vietnamské komunity,aby byl mír.Ostatně proto se asi stěhovali z Vietnamu...Oslovte je ke kampani.",jaroslav_basta
+2023-01-05,1,CZK,Okamžitá příchozí platba,Kroupa Karel,,0,,,Kroupa Karel,jaroslav_basta
+2023-01-04,100000,CZK,Bezhotovostní příjem,BAŠTA JAROSLAV,JAROSLAV BAŠTA,0,480515,0,BAŠTA JAROSLAV,jaroslav_basta
+2023-01-04,600,CZK,Bezhotovostní příjem,JIRI PHILIPPE LAKSAR,DAR  OD JIRI PHILIPPE LAKSAR,,,,JIRI PHILIPPE LAKSAR,jaroslav_basta
+2023-01-03,-60217,CZK,Okamžitá odchozí platba,,prezidentská kampaň Jaroslava Bašty -  dotisk knihy Stát jsme my,,20222812,,Cecílie Jílková prezidentská kampaň Jaroslava Bašty - dotisk knihy Stát jsme my,jaroslav_basta
+2023-01-03,-2479,CZK,Bezhotovostní platba,,placky - prezidentská kampaň Jaroslava Bašty,,8992022,,Michal Smrčina - Levneplacky.cz - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2023-01-03,-2552,CZK,Bezhotovostní platba,,placky - prezidentská kampaň Jaroslava Bašty,,42023,,Michal Smrčina - Levneplacky.cz - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2023-01-03,-12100,CZK,Okamžitá odchozí platba,,"Jaroslav Bašta prezidentské volby - inzerce Deník Chomutov, Kroměříž",,2397000030,,"Deník - inzerce Jaroslav Bašta prezidentské volby - Chomutov, Kroměříž",jaroslav_basta
+2023-01-03,1500,CZK,Bezhotovostní příjem,VERA KRIZOVA,FINANCOVÁNÍ VOLEBNÍ KAMPANĚ - VĚRAKŘÍŽOVÁ,,,,VERA KRIZOVA,jaroslav_basta
+2023-01-02,1000,CZK,Platba převodem uvnitř banky,"Konečný, Erik","Dar. ZAŘIĎTE MOŽNOST PDF LETÁKŮ A PLAKÁTŮ,ABY LIDI MOHLI TISKNOUT ,ROZNÁŠET,LEPIT",,,,"Dar. ZAŘIĎTE MOŽNOST PDF LETÁKŮ A PLAKÁTŮ,ABY LIDI MOHLI TISKNOUT ,ROZNÁŠET,LEPIT",jaroslav_basta
+2022-12-31,-10,CZK,Poplatek - platební karta,,poplatek za pojištění,,4231,,poplatek za pojištění,jaroslav_basta
 2022-12-30,48.11,CZK,Okamžitá příchozí platba,Ing. Petr Hošek,"Na pivko bruh, az budes preza, tak pozves ty. GL",,,,Ing. Petr Hošek,petr_pavel
 2022-12-30,500,CZK,Okamžitá příchozí platba,VERONIKA GOLICHOVA,Dar na kampan generala Pavla,,,,VERONIKA GOLICHOVA,petr_pavel
 2022-12-30,14,CZK,Okamžitá příchozí platba,JIŘINA FRANCOVÁ,držím palce a do nového roku vše nejlepší,,,,JIŘINA FRANCOVÁ,petr_pavel
@@ -122,68 +186,10 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2022-12-30,-444070,CZK,Bezhotovostní platba,,,,22003304,,"IČ: 26738902, průzkum",petr_pavel
 2022-12-30,-23619.2,CZK,Bezhotovostní platba,,,,501834,,"IČ: 27170012, samolepky",petr_pavel
 2022-12-30,-2299,CZK,Bezhotovostní platba,,,,501835,,"IČ: 27170012, samolepky",petr_pavel
-2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
-2023-01-05,500,CZK,Okamžitá příchozí platba,Miroslav Surmánek,"Miroslav Surmánek, 17.06.1980, Michalovce, Slovensko",,,,Miroslav Surmánek,marek_hilser
-2023-01-05,1500,CZK,Okamžitá příchozí platba,MARIE WILSON,"Marie Wilson, 30.03.1971, Praha 2 Nusle",,,,MARIE WILSON,marek_hilser
-2023-01-05,100,CZK,Okamžitá příchozí platba,Petr Volejník,"Petr Volejník, 7.5.1968, Teplá Třebenice",,,,Petr Volejník,marek_hilser
-2023-01-05,500,CZK,Okamžitá příchozí platba,Lenka Szitaiová,"Lenka Szitaiová, 23.7.1974, Most",,,,Lenka Szitaiová,marek_hilser
-2023-01-05,-6048.79,CZK,Okamžitá odchozí platba,,,,2022085,,faktura 2022085 - úhrada za nástroj pro on-line reklamu,marek_hilser
-2023-01-05,-5000,CZK,Okamžitá odchozí platba,,,,,,Faktura č.18 - správa sociálních sítí - prosinec 2022,marek_hilser
-2023-01-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
-2023-01-05,-40755.22,CZK,Platba převodem uvnitř banky,,,,2310001,,Faktura 2310001 - tisk banerů a plakátů pro venkovní propagaci prostřednictvím dobrovolníků.,marek_hilser
-2023-01-05,200000,CZK,Platba převodem uvnitř banky,„Marek Hilšer do Senátu“,Převod prostředků z provozního účtu MHS - na prezidentskou kampaň,,,,Převod prostředků z provozního účtu MHS - na prezidentskou kampaň,marek_hilser
-2023-01-04,500,CZK,Bezhotovostní příjem,SCHIEFF JITKA,"Jitka Schieff, 14.03.1951, Praha 7",0,0,0,SCHIEFF JITKA,marek_hilser
-2023-01-04,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
-2023-01-03,999,CZK,Okamžitá příchozí platba,Ing. Pavlína Palmová,"Pavlína Palmová, 25.8.1966, Mochov",8,2023,,Ing. Pavlína Palmová,marek_hilser
-2023-01-03,333,CZK,Okamžitá příchozí platba,JIŘIČKOVÁ EVA,"Eva Jiřičková, 6.3.1962 51101 Malý Rohozec 152",,3012023,,JIŘIČKOVÁ EVA,marek_hilser
-2023-01-03,350,CZK,Okamžitá příchozí platba,Jana Pačesová,"Jana Pačesová / 10.01.1996 / Dolní Stakory, Mladá Boleslav",,,,Jana Pačesová,marek_hilser
-2023-01-03,10000,CZK,Okamžitá příchozí platba,Ing.Lhoták Václav,"Ing. Václav Lhoták, 18. 2. 1967, Semínova Lhota",0,,,Ing.Lhoták Václav,marek_hilser
-2023-01-03,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
-2023-01-03,500,CZK,Bezhotovostní příjem,PECH PAVEL,Pavel Pech 2.8.1981 Jaroměř,0,0,0,PECH PAVEL,marek_hilser
-2023-01-03,500,CZK,Bezhotovostní příjem,LEDVINOVÁ TEREZA,,0,0,0,LEDVINOVÁ TEREZA,marek_hilser
-2023-01-02,1200,CZK,Okamžitá příchozí platba,Jiří Bednář,"jiří bednář, 3. 6. 1971, Drnovice 315, 683 04",,20123,,Jiří Bednář,marek_hilser
-2023-01-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
-2023-01-02,-6047.24,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.1.2023, částka  6047.24 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.1.2023, částka  6047.24 CZK",marek_hilser
-2022-12-31,-329.91,CZK,Karetní transakce,,"Nákup: FACEBK GZR6GK3K62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.12.2022, částka  329.91 CZK",,5298,,"Nákup: FACEBK GZR6GK3K62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.12.2022, částka  329.91 CZK",marek_hilser
 2022-12-30,17.17,CZK,Okamžitá příchozí platba,Ersin Ramadani,"Vydrzte i kdyz to nevyjde, jednou se vsichni umoudri a svet bude inspirovan Vasimi myslenkami:) Landogy",,17,,Ersin Ramadani,marek_hilser
 2022-12-30,500,CZK,Bezhotovostní příjem,TUMAJEROVA ADELA,"Příspěvek na kampaň, A. TumajerováJiráskova 381, Liberec 12, 460 14",,0,,TUMAJEROVA ADELA,marek_hilser
 2022-12-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
-2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
-2023-01-06,-170000,CZK,Bezhotovostní platba,,Josef Středula,308,230100005,,kvantitativní průzkum Josef Středula,josef_stredula
-2023-01-06,-150000,CZK,Bezhotovostní platba,,Josef Středula,308,230100004,,web Josef Středula,josef_stredula
-2023-01-05,-1200000,CZK,Bezhotovostní platba,,Josef Středula,308,230100003,,Vedení kampaně Josef Středula,josef_stredula
-2023-01-05,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
-2023-01-04,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
-2023-01-03,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
-2023-01-02,-1155.28,CZK,Karetní transakce,,"Nákup: GSUITE_stredula.cz, Dublin, IE, dne 1.1.2023, částka  1155.28 CZK",,2172,,"Nákup: GSUITE_stredula.cz, Dublin, IE, dne 1.1.2023, částka  1155.28 CZK",josef_stredula
-2023-01-02,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
-2023-01-02,2000,CZK,Bezhotovostní příjem,NOGOL LEON,,308,0,,NOGOL LEON,josef_stredula
-2023-01-02,2000,CZK,Bezhotovostní příjem,ZAPLETAL JAN,Bojuj s úsměvem. J. Zapletal,0,0,0,ZAPLETAL JAN,josef_stredula
-2023-01-01,-420000,CZK,Bezhotovostní platba,,Josef Středula,308,220100094,,reklamní předměty Josef Středula,josef_stredula
-2023-01-01,-360000,CZK,Bezhotovostní platba,,Josef Středula,308,220100096,,tiskoviny Josef Středula,josef_stredula
-2022-12-31,-520000,CZK,Bezhotovostní platba,,Josef Středula,308,220100091,,Focení Josef Středula,josef_stredula
 2022-12-30,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
-2023-01-06,100,CZK,Platba převodem uvnitř banky,"Konečný, Erik",Dar. HLAVNĚ SI POHLÍDEJTE SPRAVEDLIVÉ SČÍTÁNÍ - PŘÍKLAD PODVODNÝCH VOLEB BIDEN/TRUMP JE MEMENTEM !!!!,,,,Dar. HLAVNĚ SI POHLÍDEJTE SPRAVEDLIVÉ SČÍTÁNÍ - PŘÍKLAD PODVODNÝCH VOLEB BIDEN/TRUMP JE MEMENTEM !!!!,jaroslav_basta
-2023-01-05,1000,CZK,Platba převodem uvnitř banky,"Hnízdil, Jan",Podpořím panu Baštovi ??,,,,Podpořím panu Baštovi ??,jaroslav_basta
-2023-01-05,1000,CZK,Okamžitá příchozí platba,SKORKOVSKÝ JAN,Dar na prezidentskou kampaň Jaroslava Bašty od Jana Skorkovského,,,,SKORKOVSKÝ JAN,jaroslav_basta
-2023-01-05,-2000,CZK,Okamžitá odchozí platba,,pronájem sálu Mladá Boleslav - prezidentská kampaň Jaroslava Bašty,,,,Jiří Gaudin - pronájem sálu Mladá Boleslav - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
-2023-01-05,-232138.5,CZK,Bezhotovostní platba,,"tisk plakátů, bilboardů atd.  pro prezidentskou kampaň Jaroslava Bašty",8,,,"D & S Design Prague s.r.o. - tisk plakátů, bilboardů atd. pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
-2023-01-05,-78240,CZK,Bezhotovostní platba,,pronájem a občerstvení volební štáb - prezidentská kampaň Jaroslava Bašty,,900014891,,"Bohemia Properties, a.s. - pronájem a občerstvení volební štáb - prezidentská kampaň Jaroslava Bašty",jaroslav_basta
-2023-01-05,-149737.5,CZK,Bezhotovostní platba,,Ostatní zálohy - poštovní služby 21 - roznáška inf. materiálů - prezidentská kampaň Jaroslava Bašty,308,202309001,,"Česká pošta, s.p. - roznáška inf. materiálů - prezidentská kampaň Jaroslava Bašty",jaroslav_basta
-2023-01-05,232138.5,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-05,78240,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-05,149737.5,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-05,100,CZK,Platba převodem uvnitř banky,"Konečný, Erik","Dar. Je i věcí vietnamské komunity,aby byl mír.Ostatně proto se asi stěhovali z Vietnamu...Oslovte je ke kampani.",,,,"Dar. Je i věcí vietnamské komunity,aby byl mír.Ostatně proto se asi stěhovali z Vietnamu...Oslovte je ke kampani.",jaroslav_basta
-2023-01-05,1,CZK,Okamžitá příchozí platba,Kroupa Karel,,0,,,Kroupa Karel,jaroslav_basta
-2023-01-04,100000,CZK,Bezhotovostní příjem,BAŠTA JAROSLAV,JAROSLAV BAŠTA,0,480515,0,BAŠTA JAROSLAV,jaroslav_basta
-2023-01-04,600,CZK,Bezhotovostní příjem,JIRI PHILIPPE LAKSAR,DAR  OD JIRI PHILIPPE LAKSAR,,,,JIRI PHILIPPE LAKSAR,jaroslav_basta
-2023-01-03,-60217,CZK,Okamžitá odchozí platba,,prezidentská kampaň Jaroslava Bašty -  dotisk knihy Stát jsme my,,20222812,,Cecílie Jílková prezidentská kampaň Jaroslava Bašty - dotisk knihy Stát jsme my,jaroslav_basta
-2023-01-03,-2479,CZK,Bezhotovostní platba,,placky - prezidentská kampaň Jaroslava Bašty,,8992022,,Michal Smrčina - Levneplacky.cz - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
-2023-01-03,-2552,CZK,Bezhotovostní platba,,placky - prezidentská kampaň Jaroslava Bašty,,42023,,Michal Smrčina - Levneplacky.cz - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
-2023-01-03,-12100,CZK,Okamžitá odchozí platba,,"Jaroslav Bašta prezidentské volby - inzerce Deník Chomutov, Kroměříž",,2397000030,,"Deník - inzerce Jaroslav Bašta prezidentské volby - Chomutov, Kroměříž",jaroslav_basta
-2023-01-03,1500,CZK,Bezhotovostní příjem,VERA KRIZOVA,FINANCOVÁNÍ VOLEBNÍ KAMPANĚ - VĚRAKŘÍŽOVÁ,,,,VERA KRIZOVA,jaroslav_basta
-2023-01-02,1000,CZK,Platba převodem uvnitř banky,"Konečný, Erik","Dar. ZAŘIĎTE MOŽNOST PDF LETÁKŮ A PLAKÁTŮ,ABY LIDI MOHLI TISKNOUT ,ROZNÁŠET,LEPIT",,,,"Dar. ZAŘIĎTE MOŽNOST PDF LETÁKŮ A PLAKÁTŮ,ABY LIDI MOHLI TISKNOUT ,ROZNÁŠET,LEPIT",jaroslav_basta
-2022-12-31,-10,CZK,Poplatek - platební karta,,poplatek za pojištění,,4231,,poplatek za pojištění,jaroslav_basta
 2022-12-30,1000,CZK,Bezhotovostní příjem,HRUBÝ MIROSLAV,dar pro prezidentskou kampaň,,,,HRUBÝ MIROSLAV,jaroslav_basta
 2022-12-29,181.53,CZK,Okamžitá příchozí platba,Střasák Cyril,:keksalut:,0,,,Střasák Cyril,petr_pavel
 2022-12-29,500,CZK,Okamžitá příchozí platba,Stanislav Bazala,Dar na kampan generala Pavla,,,,Stanislav Bazala,petr_pavel
