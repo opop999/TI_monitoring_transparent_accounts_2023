@@ -1,4 +1,98 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2023-01-09,100000,CZK,Příchozí úhrada,0,23000430,,"ERLEBACHOVA BOUDA, S",Erlebachova bouda s.r.o.,pavel_fischer
+2023-01-09,500,CZK,Příchozí úhrada,0,23000430,,RUZEK VACLAV,,pavel_fischer
+2023-01-09,5000,CZK,Příchozí úhrada,0,23000430,,MUDr. Martin THEIMER,"Pavel Fischer, prezident, Když Pavla, tak Fischera",pavel_fischer
+2023-01-08,10000,CZK,Příchozí úhrada,0,23000430,,Jitka Báčová,,pavel_fischer
+2023-01-08,2000,CZK,Příchozí úhrada,0,23000430,,Marie Hrčková,,pavel_fischer
+2023-01-08,1000,CZK,Příchozí úhrada,0,23000430,,KAPLANEK MICHAL,,pavel_fischer
+2023-01-08,500,CZK,Příchozí úhrada,0,23000430,,"Beneš, Antonín",,pavel_fischer
+2023-01-08,500,CZK,Příchozí úhrada,0,23000430,,Ing.Kotyk Pavel,,pavel_fischer
+2023-01-08,1000,CZK,Příchozí úhrada,0,23000430,,Pecha Josef,,pavel_fischer
+2023-01-08,3000,CZK,Příchozí úhrada,0,23000430,,Ing. František Kalen,"Ing. František Kalenda, 3.9. 1948, Zlaté Hory v Jeseníkách",pavel_fischer
+2023-01-08,-10000,CZK,Výběr hotovosti z bankomatu ČS,0,23000430,,-,"XXXXXXXXXXXX5741 d.tran.06.01.2023CZ  PRAHA 1         CS, VALDSTEJNSCZK     10000.00 d.zúč. 08.01.2023částka v Kč:       10000.00",pavel_fischer
+2023-01-07,500,CZK,Příchozí úhrada,0,23000430,,Dalibor Tuž,,pavel_fischer
+2023-01-07,1000,CZK,Příchozí úhrada,0,23000430,,DUJSÍK JAROSLAV,,pavel_fischer
+2023-01-07,2000,CZK,Příchozí úhrada,0,23000430,,VRABEC JAN,Pavel Fischer prezidentem,pavel_fischer
+2023-01-07,200,CZK,Příchozí úhrada,0,23000430,,Beďač Pavel,DAR na kampaň od Bedac@seznam.cz,pavel_fischer
+2023-01-07,1000,CZK,Příchozí úhrada,0,23000430,,Lukáš Dořičák,,pavel_fischer
+2023-01-07,7005,CZK,Příchozí úhrada,0,23000430,,KLABAL JAROMIR,Prezident 2023,pavel_fischer
+2023-01-07,1000,CZK,Příchozí úhrada,0,23000430,,"Nedomová, Dagmar",,pavel_fischer
+2023-01-07,-13948.49,CZK,Platba kartou,0,23000430,,-,XXXXXXXXXXXX6091 d.tran.05.01.2023IE  fb.me/ads       FACEBK *UQRLZKCZK     13948.49 d.zúč. 07.01.2023částka v Kč:       13948.49,pavel_fischer
+2023-01-06,500,CZK,Příchozí úhrada,0,23000430,,Ryšavý Milan,naděje pro zemi,pavel_fischer
+2023-01-06,500,CZK,Příchozí úhrada,0,23000430,,Hrdina Jaroslav,,pavel_fischer
+2023-01-06,1000,CZK,Příchozí úhrada,0,23000430,,Paleček Jiří,,pavel_fischer
+2023-01-06,1000,CZK,Příchozí úhrada,0,23000430,,Vilt Ondřej,Prezident 2023,pavel_fischer
+2023-01-06,1000,CZK,Příchozí úhrada,0,23000430,,RANDALL JIRI,,pavel_fischer
+2023-01-06,1000,CZK,Příchozí úhrada,0,23000430,,SADKOVA MARKETA,Příspěvek od R. Vambery,pavel_fischer
+2023-01-06,1000,CZK,Příchozí úhrada,0,23000430,,NĚMEC VÍT,,pavel_fischer
+2023-01-06,0.01,CZK,Příchozí úhrada,0,23000430,,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2023-01-06,5000,CZK,Příchozí úhrada,0,23000430,,"Hajdučík, Jakub",,pavel_fischer
+2023-01-06,-203733.75,CZK,Tuzemská odchozí úhrada,0,23000430,,000027-0471080297/0100,Tisk volebních novin a doprava,pavel_fischer
+2023-01-06,2000,CZK,Příchozí úhrada,0,23000430,,Vladimír Vašků,PF president,pavel_fischer
+2023-01-06,1000,CZK,Příchozí úhrada,0,23000430,,Ing.Košina Ondřej,,pavel_fischer
+2023-01-06,200,CZK,Příchozí úhrada,0,23000430,,Štulíř Vlastislav,,pavel_fischer
+2023-01-06,1000,CZK,Příchozí úhrada,0,23000430,,Tomáš Kasal,,pavel_fischer
+2023-01-05,-302500,CZK,Tuzemská odchozí úhrada,0,23000430,,000000-0949949028/5500,Internet reklama,pavel_fischer
+2023-01-05,1000,CZK,Příchozí úhrada,0,23000430,,PAVEL CERNUSKA,"PAVEL FISCHER - TRANSPARENTNÍ ÚČET, .",pavel_fischer
+2023-01-05,0.01,CZK,Příchozí úhrada,0,23000430,,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2023-01-05,1000,CZK,Příchozí úhrada,0,23000430,,Bárta Zdeněk,Dáme to!,pavel_fischer
+2023-01-05,500,CZK,Příchozí úhrada,0,23000430,,"Pokorná, Martina",,pavel_fischer
+2023-01-05,2000,CZK,Příchozí úhrada,0,23000430,,Eva Bouzková,Držím palce !!!,pavel_fischer
+2023-01-05,500,CZK,Příchozí úhrada,0,23000430,,Šimková Marie,Fandím a volím,pavel_fischer
+2023-01-05,1000,CZK,Příchozí úhrada,0,23000430,,Basovník Marek,Jste nejlepší kandidát. Tečka.,pavel_fischer
+2023-01-05,5000,CZK,Příchozí úhrada,0,23000430,,Ing. Pavel Kilian,,pavel_fischer
+2023-01-05,0.31,CZK,Příchozí úhrada,0,23000430,,Adam Koziel,,pavel_fischer
+2023-01-05,-1888,CZK,Tuzemská odchozí úhrada,0,23000430,,000000-7107736001/5500,Výlep a pronájem plakátovacích ploch,pavel_fischer
+2023-01-05,1000,CZK,Příchozí úhrada,0,23000430,,MAZÍNI JAN,Dar Mazini,pavel_fischer
+2023-01-04,700,CZK,Příchozí úhrada,0,23000430,,Stanislav Strnad,,pavel_fischer
+2023-01-04,500,CZK,Příchozí úhrada,0,23000430,,SVOBODOVÁ JOHANA,,pavel_fischer
+2023-01-04,11111,CZK,Příchozí úhrada,0,23000430,,Hana Basíková,PF2023,pavel_fischer
+2023-01-04,5000,CZK,Příchozí úhrada,0,23000430,,Ondřej Bloudek,,pavel_fischer
+2023-01-04,1000,CZK,Příchozí úhrada,0,23000430,,"Kyslík, Martin",,pavel_fischer
+2023-01-04,500,CZK,Příchozí úhrada,0,23000430,,"Štefančík, Jozef",nejlepší prezident pro ČR,pavel_fischer
+2023-01-04,1000,CZK,Příchozí úhrada,0,23000430,,Marie Hrčková,,pavel_fischer
+2023-01-04,200,CZK,Příchozí úhrada,0,23000430,,PETRA DANIELISOVA,"PAVEL FISCHER, PŘEVOD PROSTŘEDKŮ",pavel_fischer
+2023-01-04,10000,CZK,Příchozí úhrada,0,23000430,,Hošková Martina,prezident,pavel_fischer
+2023-01-04,2000,CZK,Příchozí úhrada,0,23000430,,Ing. Ondřej Fabián,,pavel_fischer
+2023-01-04,500000,CZK,Příchozí úhrada,0,23000430,,DOKULIL JAN,"Pavel Fischer, Podpora nejlepšímu z kandidátů.PF 2023",pavel_fischer
+2023-01-04,2023,CZK,Příchozí úhrada,0,23000430,,DOLEZAL JAN,podporuji Pavla Fischera - PF2023,pavel_fischer
+2023-01-04,2000,CZK,Příchozí úhrada,0,23000430,,LEMON VACLAV,,pavel_fischer
+2023-01-04,0.01,CZK,Příchozí úhrada,0,23000430,,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2023-01-04,-37873,CZK,Tuzemská odchozí úhrada,0,23000430,,000000-2601014490/2010,Mobilní telefon a bezdrátový mikrofon,pavel_fischer
+2023-01-04,-135000,CZK,Tuzemská odchozí úhrada,0,23000430,,000000-2702085159/2010,"fotografování, střih videa, síťovápodpora, distribuce propagačních materiálů",pavel_fischer
+2023-01-04,1000,CZK,Příchozí úhrada,0,23000430,,Ing. Jan Kňazovčík,prezident 2023,pavel_fischer
+2023-01-04,-2662,CZK,Tuzemská odchozí úhrada,0,23000430,,000000-6660146002/5500,Výlep reklamní plochy,pavel_fischer
+2023-01-04,-61710,CZK,Tuzemská odchozí úhrada,0,23000430,,000000-0294516562/0300,Mediální služby a konzultace,pavel_fischer
+2023-01-04,-70500,CZK,Tuzemská odchozí úhrada,0,23000430,,000000-1944039329/0800,"PR, mediální a strategická komunikace",pavel_fischer
+2023-01-04,-242,CZK,Tuzemská odchozí úhrada,0,23000430,,000000-0601436379/0800,Nájem ploch pro reklamu,pavel_fischer
+2023-01-03,500,CZK,Příchozí úhrada,0,23000430,,MUDr.Oulehle Mikoláš,Helena Oulehle Mikolášková,pavel_fischer
+2023-01-03,500,CZK,Příchozí úhrada,0,23000430,,Jan Imlauf,,pavel_fischer
+2023-01-03,500,CZK,Příchozí úhrada,0,23000430,,PERINA PAVEL,,pavel_fischer
+2023-01-03,500,CZK,Příchozí úhrada,0,23000430,,JEZBERA MILAN,Jezberová Hana,pavel_fischer
+2023-01-03,500,CZK,Příchozí úhrada,0,23000430,,SIMKOVA IRENA,,pavel_fischer
+2023-01-03,1000,CZK,Příchozí úhrada,0,23000430,,"Lázničková, Anna",nejlepší kandidát,pavel_fischer
+2023-01-03,1000,CZK,Příchozí úhrada,0,23000430,,VLADIMIR STEHLIK,"PAVEL FISCHER, PLATBA",pavel_fischer
+2023-01-03,100,CZK,Příchozí úhrada,0,23000430,,VERA PAPEZOVA,"PAVEL FISCHER, DAR",pavel_fischer
+2023-01-03,100,CZK,Příchozí úhrada,0,23000430,,Poláková Eva,,pavel_fischer
+2023-01-03,200,CZK,Příchozí úhrada,0,23000430,,Jelínková Ludmila,,pavel_fischer
+2023-01-03,0.01,CZK,Příchozí úhrada,0,23000430,,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2023-01-03,5000,CZK,Příchozí úhrada,0,23000430,,SANDHOLZ VLADIMÍR,,pavel_fischer
+2023-01-03,10000,CZK,Příchozí úhrada,0,23000430,,KACHLÍK ANTONÍN,Pavel Fischer,pavel_fischer
+2023-01-03,321,CZK,Příchozí úhrada,0,23000430,,Zadražil Jaroslav,,pavel_fischer
+2023-01-03,2000,CZK,Příchozí úhrada,0,23000430,,"Malaníková, Eva",díky PF za statečnost a ochotu se angažovat,pavel_fischer
+2023-01-02,1000,CZK,Příchozí úhrada,0,23000430,,BEK MARTIN,"Pavel Fischer, Mimořádný člověk, nejlepší kandidát na prezidenta! PF 2023",pavel_fischer
+2023-01-02,1000,CZK,Příchozí úhrada,0,23000430,,ATM PŘEV. PŘÍK. PK,"BANKOMATS1DS3103 Palackého nám. 29, KostelePOTSTEJNSKY RUDOLF",pavel_fischer
+2023-01-02,2000,CZK,Příchozí úhrada,0,23000430,,"Martinek, Jan",,pavel_fischer
+2023-01-02,200,CZK,Příchozí úhrada,0,23000430,,WEISEROVA JANA,kampan  P.F.,pavel_fischer
+2023-01-02,500,CZK,Příchozí úhrada,0,23000430,,NOVOTNÝ PETR,,pavel_fischer
+2023-01-02,2000,CZK,Příchozí úhrada,0,23000430,,DEKASTELLOVA LIBUSE,,pavel_fischer
+2023-01-02,500,CZK,Příchozí úhrada,0,23000430,,LENKA MACKOVÁ,Platba,pavel_fischer
+2023-01-02,10000,CZK,Příchozí úhrada,0,23000430,,SANDHOLZ VLADIMÍR,,pavel_fischer
+2023-01-02,0.01,CZK,Příchozí úhrada,0,23000430,,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2023-01-01,0,CZK,Cena za vedení účtu,0,23000430,,,Děkujeme za aktivní využívání služeb.                                 ,pavel_fischer
+2023-01-01,500,CZK,Příchozí úhrada,0,23000430,,Mokrošová Alena,Alena Mokrošová 2.5.1948 Rožnov pod Radhoštěm,pavel_fischer
+2023-01-01,777,CZK,Příchozí úhrada,0,23000430,,Ing.Jonáš Jiří,"J. Jonáš, Výčapy 181",pavel_fischer
+2023-01-01,-962.5,CZK,Platba kartou,0,23000430,,-,XXXXXXXXXXXX5741 d.tran.30.12.2022CZ  PRUHONICE       UNION ROAD (CECZK       962.50 d.zúč. 01.01.2023částka v Kč:         962.50,pavel_fischer
 2023-01-07,-13948.49,CZK,Platba kartou,1178,5012023,4598766091,-,XXXXXXXXXXXX6091 d.tran.05.01.2023IE  fb.me/ads       FACEBK *UQRLZKCZK     13948.49 d.zúč. 07.01.2023částka v Kč:       13948.49,pavel_fischer
 2023-01-07,1000,CZK,Příchozí úhrada,1178,5012023,4598766091,"Nedomová, Dagmar",,pavel_fischer
 2023-01-07,7005,CZK,Příchozí úhrada,1178,5012023,4598766091,KLABAL JAROMIR,Prezident 2023,pavel_fischer

@@ -1,4 +1,33 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-09,-2069,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-09,1000,CZK,Okamžitá příchozí platba,JIRÁSKOVÁ MARTINA,Dar na kampan generala Pavla,,,,JIRÁSKOVÁ MARTINA,petr_pavel
+2023-01-09,100,CZK,Bezhotovostní příjem,Šejvl Josef,Dar na kampan generala Pavla,0,,,Šejvl Josef,petr_pavel
+2023-01-09,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2023-01-09,666,CZK,Bezhotovostní příjem,KATERINA HARTLOVA,HODNĚ ŠTĚSTÍ.,,,,KATERINA HARTLOVA,petr_pavel
+2023-01-09,1000,CZK,Bezhotovostní příjem,ANDREA DOHNALOVA,DAR NA KAMPAN GENERALA PAVLA - NEDOKLUBKO DOHNALOVA ANDREA,,,,ANDREA DOHNALOVA,petr_pavel
+2023-01-09,1001,CZK,Bezhotovostní příjem,KRÝSA PAVEL,Dar na kampan generala Pavla,0,0,0,KRÝSA PAVEL,petr_pavel
+2023-01-09,50,CZK,Bezhotovostní příjem,STOCZEK DAVID,Dar na kampan generala Pavla,,0,,STOCZEK DAVID,petr_pavel
+2023-01-09,-359018.96,CZK,Bezhotovostní platba,,,,10231978,,"IČ: 25420160, plakáty",petr_pavel
+2023-01-09,0.01,CZK,Bezhotovostní příjem,ROSSLER ANTONIN,Chodí vám již peníze od anonymníchdárců?,,0,,ROSSLER ANTONIN,petr_pavel
+2023-01-09,2000,CZK,Bezhotovostní příjem,MARIK KLAUS,DAR NA KAMPAŇ,,0,,MARIK KLAUS,petr_pavel
+2023-01-09,3500,CZK,Bezhotovostní příjem,PRYSINGEROVA ROMANA,Dar na kampan generala Pavla,,9,,PRYSINGEROVA ROMANA,petr_pavel
+2023-01-09,1000,CZK,Okamžitá příchozí platba,Ondřej Sajner,Dar na kampan generala Pavla,,,,Ondřej Sajner,petr_pavel
+2023-01-08,250,CZK,Okamžitá příchozí platba,Singer Martin,Dar na kampan generala Pavla,0,,,Singer Martin,petr_pavel
+2023-01-08,500,CZK,Platba převodem uvnitř banky,"Wojtěch, Martin",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-08,250,CZK,Okamžitá příchozí platba,Lukáš Štěpnička,"Abychom měli prezidenta, na kterého můžeme být hrdí.",,,,Lukáš Štěpnička,petr_pavel
+2023-01-08,500,CZK,Okamžitá příchozí platba,Pultar Tomáš,Dar na kampan generala Pavla,0,,,Pultar Tomáš,petr_pavel
+2023-01-08,100,CZK,Platba převodem uvnitř banky,"Kopičková, Michaela",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-08,500,CZK,Okamžitá příchozí platba,Radoslav Fabián,Dar na kampan generala Pavla,,,,Radoslav Fabián,petr_pavel
+2023-01-08,5000,CZK,Okamžitá příchozí platba,Stanislav Jonáš,Dar na kampan generala Pavla od Stanislava Jonáše,,,,Stanislav Jonáš,petr_pavel
+2023-01-08,400,CZK,Platba převodem uvnitř banky,"Čemus, Ondřej",,,,,,petr_pavel
+2023-01-08,10,CZK,Okamžitá příchozí platba,KALÁB LUKÁŠ,Dar od chudých studentů Lukáše a Lukáše,,,,KALÁB LUKÁŠ,petr_pavel
+2023-01-08,20,CZK,Okamžitá příchozí platba,Daniel Posmyk,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,Daniel Posmyk,petr_pavel
+2023-01-08,-1091,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2023-01-08,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 7BUBMJFQ32, fb.me/ads, IE, dne 7.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 7BUBMJFQ32, fb.me/ads, IE, dne 7.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-08,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 62SXGJ3Q32, fb.me/ads, IE, dne 7.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 62SXGJ3Q32, fb.me/ads, IE, dne 7.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-08,-24200,CZK,Karetní transakce,,"Nákup: FACEBK ZLLM8JTQ32, fb.me/ads, IE, dne 7.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK ZLLM8JTQ32, fb.me/ads, IE, dne 7.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-08,-24200,CZK,Karetní transakce,,"Nákup: FACEBK Q2X3EJKQ32, fb.me/ads, IE, dne 7.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK Q2X3EJKQ32, fb.me/ads, IE, dne 7.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-08,-273,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
 2023-01-08,234.01,CZK,Okamžitá příchozí platba,Spolek Společný prez,,0,,,Spolek Společný prez,petr_pavel
 2023-01-08,-242000,CZK,Bezhotovostní platba,,,308,202301,,"IČ: 02575108, vystoupení",petr_pavel
 2023-01-07,100,CZK,Okamžitá příchozí platba,Herber Matyáš,Dar na kampan generala Pavla,0,,,Herber Matyáš,petr_pavel
