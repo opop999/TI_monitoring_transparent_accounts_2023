@@ -1,27 +1,46 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
-120-20230109 RF246NHS38A,2023-01-09,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","KAŽDÝ SPRÁVNÝ ČECH CHCE ZA PREZIDENTA SLOVENSKÉHO LHÁŘE, ZLODĚJE A PRÁSKAČE!",CZK,0,0,0,andrej_babis
-361-09012023 1086 086145 106909,2023-01-09,0.01,Příchozí platba,Kleistner Jan,get pizzed lmaoo LLL + ratio,CZK,0,0,0,andrej_babis
-361-09012023 1086 086143 106910,2023-01-09,0.01,Příchozí platba,"Kosinka, Jakub",no votes? what about koblih důchodcům?,CZK,0,0,0,andrej_babis
-361-09012023 1086 086145 106421,2023-01-09,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
-120-20230106 T02AR0HRN5QE7,2023-01-09,0.01,Příchozí platba,TOMAS VICHTA,ANDREJE NE! ZADLUŽIL MĚ A MOJE DĚTI NAKUPOVÁNÍM HLASŮ V PODOBĚ SOCIÁLNÍCH DÁVEK.,CZK,0,0,0,andrej_babis
-120-20230109 T02AR0HROG74A,2023-01-09,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
-120-20230109 T02AR0HROG74B,2023-01-09,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
-120-20230109 T02AR0HROG74C,2023-01-09,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
-120-20230109 2183049870,2023-01-09,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
-120-20230109 2183049979,2023-01-09,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+361-10012023 1086 086144 503996,2023-01-10,0.01,Příchozí platba,Patrik Sokol,babisovyzlociny.cz,CZK,0,0,0,andrej_babis
+361-10012023 1086 086144 503949,2023-01-10,2000,Příchozí platba,OKNA FUCIMAN s.r.o.,,CZK,0,0,0,andrej_babis
+361-10012023 1086 086145 103652,2023-01-10,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
+120-20230110 T02AR0HRQB7HR,2023-01-10,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20230110 T02AR0HRQB7HQ,2023-01-10,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20230110 2183370962,2023-01-10,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+361-10012023 1086 086144 501660,2023-01-10,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","NESTYDĚLI JSME SE ZA PEROKRADA KIKINU ANI ZA ŘIŤOLEZCE A ALKÁČE MLHU,NEBUDE NÁM PROTO VADIT ANI VÝCHODNÍ ZLODĚJ A PRÁSKAČ!",CZK,0,0,0,andrej_babis
+120-20230109 2223705963,2023-01-10,100,Příchozí platba,Eva Spurná,Čtyřlístek pro štěstí,CZK,27,0,0,andrej_babis
+120-20230110 2183447619,2023-01-10,0.01,Příchozí platba,Josef Sadílek,"STBÁK, PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20230110 2183441366,2023-01-10,0.01,Příchozí platba,Milan Vilím,Tahni kryple,CZK,0,0,0,andrej_babis
+120-20230110 I00102838691,2023-01-10,0.01,Příchozí platba,VYHNAL VÁCLAV,Na advokáta,CZK,0,0,0,andrej_babis
+361-10012023 1086 086142 501099,2023-01-10,0.01,Příchozí platba,RADEK BŘENDA,kolik stoji osvobozujici rozsudek?,CZK,0,0,0,andrej_babis
+120-20230110 00750941755,2023-01-10,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20230109 2183048588,2023-01-09,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20230109 2183049870,2023-01-09,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+001-09012023 1602 602004 744031,2023-01-09,0.01,Příchozí platba,HÁNOVÁ MARTA,Na homeopatika na křivdu,CZK,2023,0,0,andrej_babis
 120-20230109 2183045696,2023-01-09,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM ČR? NIKDY!",CZK,0,0,0,andrej_babis
 120-20230109 2183048448,2023-01-09,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
-120-20230109 2183048457,2023-01-09,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
-120-20230109 00750127550,2023-01-09,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20230109 PR00000010543,2023-01-09,0.01,Příchozí platba,ROSSLER ANTONIN,"Tak co, již vám chodí peníze od anonymních dárců?",CZK,0,0,0,andrej_babis
 120-20230106 PR00000381658,2023-01-09,0.01,Příchozí platba,VESELY RADEK,"Vodňanská drůbež, a.s. (Modřice) volné pracovní místo od 17 900 do 22 000 Kč/měsíc Zdroj https //www.uradprace.cz/",CZK,25085,0,0,andrej_babis
-361-09012023 1086 086145 105463,2023-01-09,0.01,Příchozí platba,Milan Šmíd,"Středule přišel. Ti, co měli přijít, nepřišli.",CZK,25085,666,88,andrej_babis
-361-08012023 1086 086150 104181,2023-01-09,0.01,Příchozí platba,Milan Šmíd,Tři bradičky pro Alenku,CZK,25085,666,88,andrej_babis
-361-08012023 1086 086150 503309,2023-01-09,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","ČILSKÝ ČÓRKAŘ KIKINA - PROLHANÝ ALKÁČ A PRASE Z VYSOČINY - PROLHANÝČÓRKAŘ, BLB A PRÁSKAČ Z VÝCHODU, JASNÁ VOLBA!",CZK,0,0,0,andrej_babis
-361-07012023 1086 086150 102253,2023-01-09,0.01,Příchozí platba,"Kupec, Jiří",Bačo strc si to do prdele.,CZK,0,0,0,andrej_babis
-361-07012023 1086 086142 501861,2023-01-09,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","DEMENTNÍ A PŘIPOSRANÍ VOLÍ LHÁŘE, ČÓRKAŘE A PRÁSKAČE!",CZK,0,0,0,andrej_babis
+120-20230109 RF246NHS38A,2023-01-09,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","KAŽDÝ SPRÁVNÝ ČECH CHCE ZA PREZIDENTA SLOVENSKÉHO LHÁŘE, ZLODĚJE A PRÁSKAČE!",CZK,0,0,0,andrej_babis
 361-07012023 1086 086144 501462,2023-01-09,0.01,Příchozí platba,MAREK VOJTECH,Pro agenta Bureše z Petrimexu,CZK,0,0,0,andrej_babis
+361-07012023 1086 086142 501861,2023-01-09,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","DEMENTNÍ A PŘIPOSRANÍ VOLÍ LHÁŘE, ČÓRKAŘE A PRÁSKAČE!",CZK,0,0,0,andrej_babis
+361-07012023 1086 086150 102253,2023-01-09,0.01,Příchozí platba,"Kupec, Jiří",Bačo strc si to do prdele.,CZK,0,0,0,andrej_babis
+361-08012023 1086 086150 503309,2023-01-09,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","ČILSKÝ ČÓRKAŘ KIKINA - PROLHANÝ ALKÁČ A PRASE Z VYSOČINY - PROLHANÝČÓRKAŘ, BLB A PRÁSKAČ Z VÝCHODU, JASNÁ VOLBA!",CZK,0,0,0,andrej_babis
+361-08012023 1086 086150 104181,2023-01-09,0.01,Příchozí platba,Milan Šmíd,Tři bradičky pro Alenku,CZK,25085,666,88,andrej_babis
+361-09012023 1086 086145 105463,2023-01-09,0.01,Příchozí platba,Milan Šmíd,"Středule přišel. Ti, co měli přijít, nepřišli.",CZK,25085,666,88,andrej_babis
+361-09012023 1086 086145 106421,2023-01-09,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
+361-09012023 1086 086145 106909,2023-01-09,0.01,Příchozí platba,Kleistner Jan,get pizzed lmaoo LLL + ratio,CZK,0,0,0,andrej_babis
+361-09012023 1086 086143 106910,2023-01-09,0.01,Příchozí platba,"Kosinka, Jakub",no votes? what about koblih důchodcům?,CZK,0,0,0,andrej_babis
+361-09012023 1086 086146 508381,2023-01-09,777,Příchozí platba,Honomichl Radek,Na zdraví a na úspěch v prezidentských volbách,CZK,0,0,0,andrej_babis
+361-09012023 1086 086148 509270,2023-01-09,0.01,Příchozí platba,Josef Sadílek,Najednou mu justice nevadí. Estébákovi Burešovi!,CZK,0,0,0,andrej_babis
+361-09012023 1086 086142 510407,2023-01-09,1,Příchozí platba,"Harvánek, Filip","Proč jste vracel dotaci 50 mil., když jste nevinný a nebyl to podvod?",CZK,0,0,0,andrej_babis
+361-09012023 1086 086144 111897,2023-01-09,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","PRO MENTÁLNĚ ZNEVÝHODNĚNÉ A VŠECHNY UCTÍVAČE ANU JE JEN JEDEN VŮDCE -PO SOUDECH PUTUJÍCÍ ZLODĚJ, LHÁŘ APRÁSKAČ!",CZK,0,0,0,andrej_babis
+361-09012023 1086 086148 512210,2023-01-09,0.01,Příchozí platba,Milan Šmíd,Odškodnit nechci. Drahé Česko mi nahradí vše :)),CZK,25085,666,88,andrej_babis
+120-20230109 T02AR0HROG74A,2023-01-09,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+120-20230109 00750127550,2023-01-09,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+120-20230106 T02AR0HRN5QE7,2023-01-09,0.01,Příchozí platba,TOMAS VICHTA,ANDREJE NE! ZADLUŽIL MĚ A MOJE DĚTI NAKUPOVÁNÍM HLASŮ V PODOBĚ SOCIÁLNÍCH DÁVEK.,CZK,0,0,0,andrej_babis
+120-20230109 2183049979,2023-01-09,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20230109 2183048457,2023-01-09,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
+120-20230109 T02AR0HROG74C,2023-01-09,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
+120-20230109 T02AR0HROG74B,2023-01-09,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
 120-20230106 T02AR0HRMPQDA,2023-01-06,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
 120-20230106 2178545926,2023-01-06,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
 120-20230106 2178542305,2023-01-06,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis

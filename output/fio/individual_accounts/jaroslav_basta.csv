@@ -1,4 +1,18 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-10,500,CZK,Okamžitá příchozí platba,HRADISKÝ JAROSL,podpora kampaně p. Bašty,,,,HRADISKÝ JAROSL,jaroslav_basta
+2023-01-10,500,CZK,Okamžitá příchozí platba,Libor Volf,"Pane Bašto, držíme Vám všechny palce!",,1,,Libor Volf,jaroslav_basta
+2023-01-10,1500,CZK,Bezhotovostní příjem,VERA KRIZOVA,VĚRA KŘÍŽOVÁ - DAR PRO VOLEBNÍ KAMPAŇ,,,,VERA KRIZOVA,jaroslav_basta
+2023-01-10,-1000,CZK,Platba převodem uvnitř banky,,"Dar bohužel musíme vrátit, po doplnění identifikace dárce dle www.jaroslavbastaprezident.cz v sekci Podpora jej lze přijmout.",,,,vrácení daru,jaroslav_basta
+2023-01-09,-1000,CZK,Bezhotovostní platba,,"Dar bohužel musíme vrátit, po doplnění identifikace dárce dle www.jaroslavbastaprezident.cz v sekci Podpora jej lze přijmout. Děkujeme.",,,,vrácení daru,jaroslav_basta
+2023-01-09,-1500,CZK,Okamžitá odchozí platba,,"Dar bohužel musíme vrátit, po doplnění identifikace dárce dle www.jaroslavbastaprezident.cz v sekci Podpora jej lze přijmout. Děkujeme.",,,,vrácení daru,jaroslav_basta
+2023-01-09,-100,CZK,Platba převodem uvnitř banky,,"Dar bohužel musíme vrátit, po doplnění identifikace dárce dle www.jaroslavbastaprezident.cz v sekci Podpora jej lze přijmout.",,,,vrácení daru,jaroslav_basta
+2023-01-09,-1,CZK,Okamžitá odchozí platba,,"Dar bohužel musíme vrátit, po doplnění identifikace dárce dle www.jaroslavbastaprezident.cz v sekci Podpora jej lze přijmout.",,,,vrácení daru,jaroslav_basta
+2023-01-09,-1000,CZK,Okamžitá odchozí platba,,"Dar bohužel musíme vrátit, po doplnění identifikace dárce dle www.jaroslavbastaprezident.cz v sekci Podpora jej lze přijmout.",,,,vrácení daru,jaroslav_basta
+2023-01-09,-1000,CZK,Platba převodem uvnitř banky,,"Dar bohužel musíme vrátit, po doplnění identifikace dárce dle www.jaroslavbastaprezident.cz v sekci Podpora jej lze přijmout.",,,,vrácení daru,jaroslav_basta
+2023-01-09,-100,CZK,Platba převodem uvnitř banky,,"Tento dar bohužel musíme vrátit, chybějící identifikace dárce dle pravidel na www.jaroslavbastaprezident.cz v sekci Podpora",,,,vrácení daru,jaroslav_basta
+2023-01-09,-1,CZK,Okamžitá odchozí platba,,"tento dar bohužel musíme vrátit, chybějící iddentifikace dárce dle pravidel na www.jaroslavbastaprezident.cz",,,,vrácení daru,jaroslav_basta
+2023-01-09,-1,CZK,Platba převodem uvnitř banky,,"Tento dar bohužel musíme vrátit, chybějící iddentifikace dárce dle pravidel na www.jaroslavbastaprezident.cz",,,,vrácení daru,jaroslav_basta
+2023-01-09,1,CZK,Platba převodem uvnitř banky,"Konečný, Erik","ZA TUTO JEDNU KORUNU PROSÍM ROBINA DURECA,ABY SI UVĚDOMIL,ŽE JE KOMPLETNĚ VYLÍZANÝ MOZKOVĚ,TAKŽE DIAGNOZA. PŘEDEM DĚKUJI A JSEMS POZDRAVEM.",,,,"ZA TUTO JEDNU KORUNU PROSÍM ROBINA DURECA,ABY SI UVĚDOMIL,ŽE JE KOMPLETNĚ VYLÍZANÝ MOZKOVĚ,TAKŽE DIAGNOZA. PŘEDEM DĚKUJI A JSEMS POZDRAVEM.",jaroslav_basta
 2023-01-09,1,CZK,Bezhotovostní příjem,ROBIN DUREC,"ZA TUTO JEDNU KORUNU PROSÍM, ABY PAN BAŠTA VYLÍZAL PANU OKAMUROVI JEHO ŘITNÍ OTVOR. PŘEDEM DĚKUJI A JSEMS POZDRAVEM.",,666,,ROBIN DUREC,jaroslav_basta
 2023-01-09,1,CZK,Okamžitá příchozí platba,TADEÁŠ HLAVICA,PROSÍM VZDEJTE SE KANDIDATURY,0,0,0,TADEÁŠ HLAVICA,jaroslav_basta
 2023-01-06,100,CZK,Platba převodem uvnitř banky,"Konečný, Erik",Dar. HLAVNĚ SI POHLÍDEJTE SPRAVEDLIVÉ SČÍTÁNÍ - PŘÍKLAD PODVODNÝCH VOLEB BIDEN/TRUMP JE MEMENTEM !!!!,,,,Dar. HLAVNĚ SI POHLÍDEJTE SPRAVEDLIVÉ SČÍTÁNÍ - PŘÍKLAD PODVODNÝCH VOLEB BIDEN/TRUMP JE MEMENTEM !!!!,jaroslav_basta

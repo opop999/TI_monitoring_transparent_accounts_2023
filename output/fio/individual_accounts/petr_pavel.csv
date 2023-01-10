@@ -1,4 +1,17 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-10,5000,CZK,Bezhotovostní příjem,NOVÁK JAN,NOVÁK VŠJZ,0,0,0,NOVÁK JAN,petr_pavel
+2023-01-10,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2023-01-10,100000,CZK,Okamžitá příchozí platba,APFELTHALER LADISLAV,příspěvek volební kampaň - darovací smlouva z 6.1.2023,0,777760200,,APFELTHALER LADISLAV,petr_pavel
+2023-01-10,2000,CZK,Okamžitá příchozí platba,KOLÍBAL LUKÁŠ,Dar na kampaň,,,,KOLÍBAL LUKÁŠ,petr_pavel
+2023-01-10,1000,CZK,Okamžitá příchozí platba,Petr Jeník,Dar na kampaň,,,,Petr Jeník,petr_pavel
+2023-01-10,1000,CZK,Bezhotovostní příjem,ZLEBKOVA KATERINA,Dar na kampaň generála Pavla,,0,,ZLEBKOVA KATERINA,petr_pavel
+2023-01-10,800,CZK,Bezhotovostní příjem,ROŠTOK RADEK,,,,,ROŠTOK RADEK,petr_pavel
+2023-01-10,-21235.5,CZK,Bezhotovostní platba,,,,311202291,,"IČ: 28223152, tisk",petr_pavel
+2023-01-09,500,CZK,Okamžitá příchozí platba,"ALEŠ HNYK,DiS.",Dar na kampan generala Pavla,,,,"ALEŠ HNYK,DiS.",petr_pavel
+2023-01-09,2500,CZK,Okamžitá příchozí platba,William Jalloul,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,William Jalloul,petr_pavel
+2023-01-09,-24200,CZK,Karetní transakce,,"Nákup: FACEBK YNY4NJFQ32, fb.me/ads, IE, dne 8.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK YNY4NJFQ32, fb.me/ads, IE, dne 8.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-09,-24200,CZK,Karetní transakce,,"Nákup: FACEBK JV25NJPQ32, fb.me/ads, IE, dne 8.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK JV25NJPQ32, fb.me/ads, IE, dne 8.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-09,-24200,CZK,Karetní transakce,,"Nákup: FACEBK HZCYEJKQ32, fb.me/ads, IE, dne 8.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK HZCYEJKQ32, fb.me/ads, IE, dne 8.1.2023, částka  24200.00 CZK",petr_pavel
 2023-01-09,-2069,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
 2023-01-09,1000,CZK,Okamžitá příchozí platba,JIRÁSKOVÁ MARTINA,Dar na kampan generala Pavla,,,,JIRÁSKOVÁ MARTINA,petr_pavel
 2023-01-09,100,CZK,Bezhotovostní příjem,Šejvl Josef,Dar na kampan generala Pavla,0,,,Šejvl Josef,petr_pavel
