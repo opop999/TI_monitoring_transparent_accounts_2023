@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-11,0.1,CZK,Bezhotovostní příjem,Tomáš Brunát,"Pepa Středula,odborář známý,penízepro děti bolavé ukradl jménem své slávy,vydával se za hrdinu,bojovníka za lidská práva,avšak z oci koukal",0,,,Tomáš Brunát,josef_stredula
 2023-01-10,1,CZK,Bezhotovostní příjem,NOVÁK VÍTĚZSLAV,"Jste hrozný slizoun, že vám není hanba sebrat prachy a na charitu nicnenechat. Ale na každou se vaří.",0,0,0,NOVÁK VÍTĚZSLAV,josef_stredula
 2023-01-10,0.01,CZK,Okamžitá příchozí platba,Martin Kadlec,"Neznal jsem, ale RIP",,,,Martin Kadlec,josef_stredula
 2023-01-10,1,CZK,Okamžitá příchozí platba,TOMAS TROJAN,Zlodeji.cz,,,,TOMAS TROJAN,josef_stredula

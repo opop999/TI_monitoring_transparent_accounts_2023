@@ -1,4 +1,27 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-11,0.01,CZK,Okamžitá příchozí platba,Široký Radim,,0,,,Široký Radim,petr_pavel
+2023-01-11,500,CZK,Okamžitá příchozí platba,Vaníček Josef,Dar na kampaň generála Pavla,0,,,Vaníček Josef,petr_pavel
+2023-01-11,200,CZK,Platba převodem uvnitř banky,"Kertész, Martina",Dar na kampaň GP - snad to klapne - držím palce,,,,Dar na kampaň GP - snad to klapne - držím palce,petr_pavel
+2023-01-11,93439.12,CZK,Bezhotovostní příjem,Magyarova Alexandra,/DO2023-01-10/SPDar pre generala Pavla,,,,Magyarova Alexandra,petr_pavel
+2023-01-11,50,CZK,Bezhotovostní příjem,PAVEL KADLEC,"DAR DO 2. KOLA PREZIDENTSKÉ VOLBY,HAVÍŘOV",,,2023,PAVEL KADLEC,petr_pavel
+2023-01-11,300000,CZK,Bezhotovostní příjem,JUDr.Prázdný Zdeněk,,0,,,JUDr.Prázdný Zdeněk,petr_pavel
+2023-01-11,2000,CZK,Bezhotovostní příjem,ŠTORKOVÁ JARMILA,Hodně štěstí,0,4,0,ŠTORKOVÁ JARMILA,petr_pavel
+2023-01-11,1000,CZK,Okamžitá příchozí platba,CHALUPA JAKUB,Dar na kampan generala Pavla,,,,CHALUPA JAKUB,petr_pavel
+2023-01-11,2000,CZK,Bezhotovostní příjem,TOMAS SEJHAR,PŘÍSPĚVEK NA VOLEBNÍ KAMPAŇ,,,,TOMAS SEJHAR,petr_pavel
+2023-01-11,2023,CZK,Bezhotovostní příjem,JAN PICHA,NA FINALE,,,,JAN PICHA,petr_pavel
+2023-01-10,5000,CZK,Okamžitá příchozí platba,U Tošovských s.r.o.,,0,5656257,,U Tošovských s.r.o.,petr_pavel
+2023-01-10,0.01,CZK,Okamžitá příchozí platba,RANDÁK JAROSLAV,NAKOPEJ TOMU BABIŠOVI PRDEL!,,,,RANDÁK JAROSLAV,petr_pavel
+2023-01-10,1000,CZK,Okamžitá příchozí platba,Golovynskyi Sergii,na kampan,0,,,Golovynskyi Sergii,petr_pavel
+2023-01-10,-2785.22,CZK,Karetní transakce,,"Nákup: Mailchimp, 678-9990141, US, dne 9.1.2023, částka  113.12 EUR",,7999,,"Nákup: Mailchimp, 678-9990141, US, dne 9.1.2023, částka  113.12 EUR",petr_pavel
+2023-01-10,-24200,CZK,Karetní transakce,,"Nákup: FACEBK H9FU2K3R32, fb.me/ads, IE, dne 10.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK H9FU2K3R32, fb.me/ads, IE, dne 10.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-10,-24200,CZK,Karetní transakce,,"Nákup: FACEBK NDQHJJ3Q32, fb.me/ads, IE, dne 9.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK NDQHJJ3Q32, fb.me/ads, IE, dne 9.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-10,-24200,CZK,Karetní transakce,,"Nákup: FACEBK WV4G2K3R32, fb.me/ads, IE, dne 9.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK WV4G2K3R32, fb.me/ads, IE, dne 9.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-10,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 5ER4YKBQ32, fb.me/ads, IE, dne 9.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 5ER4YKBQ32, fb.me/ads, IE, dne 9.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-10,10000,CZK,Okamžitá příchozí platba,Ing. Michal Pražák,Dar na kampan generala Pavla,,,,Ing. Michal Pražák,petr_pavel
+2023-01-10,300,CZK,Okamžitá příchozí platba,Polánka Tomáš,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Polánka Tomáš,petr_pavel
+2023-01-10,500,CZK,Okamžitá příchozí platba,"Ing.Metelka Tomáš,Ph",od Tomase Metelky,0,,,"Ing.Metelka Tomáš,Ph",petr_pavel
+2023-01-10,2500,CZK,Okamžitá příchozí platba,OLDŘICH VACEK,Dar na kampan generala Pavla,,,,OLDŘICH VACEK,petr_pavel
+2023-01-10,1000,CZK,Okamžitá příchozí platba,Ing.Bílek Milan,Hodně štěstí v boji o Hrad!,0,,,Ing.Bílek Milan,petr_pavel
 2023-01-10,5000,CZK,Bezhotovostní příjem,NOVÁK JAN,NOVÁK VŠJZ,0,0,0,NOVÁK JAN,petr_pavel
 2023-01-10,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2023-01-10,100000,CZK,Okamžitá příchozí platba,APFELTHALER LADISLAV,příspěvek volební kampaň - darovací smlouva z 6.1.2023,0,777760200,,APFELTHALER LADISLAV,petr_pavel

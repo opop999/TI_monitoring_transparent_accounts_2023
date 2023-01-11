@@ -1,4 +1,6 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-11,1000,CZK,Okamžitá příchozí platba,Tomáš Krátký,Tomáš Krátký,,,,Tomáš Krátký,jaroslav_basta
+2023-01-10,-500,CZK,Okamžitá odchozí platba,,"Dar bohužel musíme vrátit, po doplnění identifikace dárce dle www.jaroslavbastaprezident.cz v sekci Podpora jej lze přijmout.",,,,vrácení daru,jaroslav_basta
 2023-01-10,500,CZK,Okamžitá příchozí platba,HRADISKÝ JAROSL,podpora kampaně p. Bašty,,,,HRADISKÝ JAROSL,jaroslav_basta
 2023-01-10,500,CZK,Okamžitá příchozí platba,Libor Volf,"Pane Bašto, držíme Vám všechny palce!",,1,,Libor Volf,jaroslav_basta
 2023-01-10,1500,CZK,Bezhotovostní příjem,VERA KRIZOVA,VĚRA KŘÍŽOVÁ - DAR PRO VOLEBNÍ KAMPAŇ,,,,VERA KRIZOVA,jaroslav_basta

@@ -1,4 +1,354 @@
 entity,date,type,amount,currency,notes,contra_account_name,contra_account_number,contra_account_bank_code,vs,ks,ss
+danuse_nerudova,2023-01-10,Platba kartou,-15000,CZK,XXXXXXXXXXXX0214 d.tran.08.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 10.01.2023částka v Kč:       15000.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-10,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.08.01.2023IE  fb.me/ads       FACEBK *GTXJDNCZK     24200.00 d.zúč. 10.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-10,Platba kartou,-24200,CZK,XXXXXXXXXXXX0214 d.tran.08.01.2023IE  fb.me/ads       FACEBK GWCBQK7CZK     24200.00 d.zúč. 10.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-10,Platba kartou,-24200,CZK,XXXXXXXXXXXX0214 d.tran.08.01.2023IE  fb.me/ads       FACEBK D7UB2MTCZK     24200.00 d.zúč. 10.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-10,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.08.01.2023IE  fb.me/ads       FACEBK *MU5TAMCZK     24200.00 d.zúč. 10.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-10,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.08.01.2023IE  fb.me/ads       FACEBK *W22YSLCZK     24200.00 d.zúč. 10.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Příchozí úhrada,100,CZK,Než fráze Tutochvílačky raději generál na Hradě,Ing.Sedlák Josef,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Příchozí úhrada,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Příchozí úhrada,1500,CZK,"INT: 09.01.2023/7:13:24 0664448695, Danuše",IVA DOSTÁLOVÁ,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Příchozí úhrada,100,CZK,,JARÝ TOMÁŠ,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Platba kartou,-15000,CZK,XXXXXXXXXXXX0214 d.tran.07.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 09.01.2023částka v Kč:       15000.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Platba kartou,-15000,CZK,XXXXXXXXXXXX7023 d.tran.07.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 09.01.2023částka v Kč:       15000.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Příchozí úhrada,100,CZK,Danuše N,IVA DOSTÁLOVÁ,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Příchozí úhrada,150,CZK,"hrnek, Tereza Kučerová merch",KŘEMEČEK NIKOLAS,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.07.01.2023IE  fb.me/ads       FACEBK *LXPHZLCZK     24200.00 d.zúč. 09.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Platba kartou,-16338.32,CZK,XXXXXXXXXXXX7023 d.tran.07.01.2023IE  fb.me/ads       FACEBK *FA8JHLCZK     16338.32 d.zúč. 09.01.2023částka v Kč:       16338.32,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Platba kartou,-45000,CZK,XXXXXXXXXXXX7023 d.tran.07.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     45000.00 d.zúč. 09.01.2023částka v Kč:       45000.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Platba kartou,-5686.43,CZK,XXXXXXXXXXXX0214 d.tran.07.01.2023IE  fb.me/ads       FACEBK 3CEXQMFCZK      5686.43 d.zúč. 09.01.2023částka v Kč:        5686.43,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Platba kartou,-24200,CZK,XXXXXXXXXXXX0214 d.tran.07.01.2023IE  fb.me/ads       FACEBK DFZ7RMFCZK     24200.00 d.zúč. 09.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Platba kartou,-24200,CZK,XXXXXXXXXXXX0214 d.tran.07.01.2023IE  fb.me/ads       FACEBK 2FBQHLPCZK     24200.00 d.zúč. 09.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Příchozí úhrada,500,CZK,merch,JELINEK TOMAS,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Příchozí úhrada,0.01,CZK,Chodí vám již peníze od anonymníchdárců?,ROSSLER ANTONIN,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Příchozí úhrada,1000,CZK,Jaroslav Brdlík,BRDLIK JAROSLAV,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-0.01,CZK,vrácení daru Antonín Rossler 09.01.2022,000000-0100537032/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-0.2,CZK,vrácení daru 12.12.2022 - 09.01.2023,000000-1138524012/3030,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská příchozí úhrada kartou,6022,CZK,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",Global Payments s.r.,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-4840,CZK,"IČO: 02668777, pronájem prostor",000000-0263856185/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-447,CZK,"IČ:47114983, poštovné",000000-0100393657/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-10000,CZK,"Iveta Friedelová, koordinace kontaktní kampaně",000000-1130998010/3030,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-14940,CZK,"IČ: 17113431, tisk a výlep plakátů",000000-6231361329/0800,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-10169,CZK,"IČ:01785575, tisk plakátů",000000-2600434151/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-8000,CZK,"Jan Tříska, koordinace kontaktní kampaně ",000000-0279693544/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-20500,CZK,"IČ:09955232, produkce",000000-2114672242/2700,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-11938,CZK,"IČ:01785575, tisk informační letáky",000000-2600434151/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-25853.05,CZK,"IČ: 28408306, přeprava balíků ",000000-2500102344/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-10000,CZK,"Barbora Červenková, koordinace kontaktní kampaně",000000-0252433048/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-166375,CZK,"IČ: 62930711, pronájem sálu",000000-0279689086/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-2917.19,CZK,"DIČ: CZ685207352, tisk pohlednic, 5001345 ACZ12282830",000000-1387747073/2700,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-12500,CZK,"IČO: 73303127, koordinace kontaktní kampaně",000000-2302113608/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Příchozí úhrada,200,CZK,merch,"Vytlačil, Lukáš Mich",,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Příchozí úhrada,500,CZK,příspěvek na kampaň,"MGR.Svobodová Hana,P",,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Tuzemská odchozí úhrada,-4000,CZK,"IČ:47462965, pronájem prostor",000000-0026631601/0100,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Tuzemská odchozí úhrada,-8000,CZK,"IČ : 42189977, koordinace kontaktní kampaně",000000-0273858109/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Tuzemská odchozí úhrada,-7986,CZK,"IČ:63833913, pronájem prostor",000000-0011117386/5500,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Tuzemská odchozí úhrada,-10471,CZK,"IČ:09832017, koordinace kontaktní kampaně",000000-0203932289/0600,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Tuzemská odchozí úhrada,-6000,CZK,"IČ:25171950, pronájem prostor",000000-2517195022/5500,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Tuzemská odchozí úhrada,-10000,CZK,"IČ:66452520, koordinace kontaktní kampaně ",000000-1396220003/0800,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Tuzemská odchozí úhrada,-30000,CZK,"IČ: 88087565, produkce",000000-1157915027/3030,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Tuzemská odchozí úhrada,-10000,CZK,"Helena Šuranská, koordinace kontaktní kampaně",000000-1505769012/3030,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Tuzemská odchozí úhrada,-4500,CZK,"Ján Levársky, cestovní náklady",000043-7258170287/0100,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Tuzemská odchozí úhrada,-10000,CZK,"IČO: 17129508, koordinace kontaktní kampaně",000123-7548780227/0100,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Příchozí úhrada,200,CZK,,PECKA JIŘÍ,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Příchozí úhrada,555,CZK,Aneta Klimova - merch,Bc. Aneta Klímová,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Příchozí úhrada,1500,CZK,merch,VYROUBAL PETR,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Příchozí úhrada,200,CZK,"Jakub Bednář, plechacek+kulich",Bednář Jakub,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Příchozí úhrada,100,CZK,Pro Danušku do cílové rovinky od Petra Panáka!,Panák Petr,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Příchozí úhrada,200,CZK,merch,"Urminská, Nina",,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Tuzemská příchozí úhrada kartou,3000,CZK,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",Global Payments s.r.,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Příchozí úhrada,110,CZK,,Klára Plachá,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Příchozí úhrada,100,CZK,,Ondřej Drápela,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Platba kartou,-27311.31,CZK,XXXXXXXXXXXX7023 d.tran.07.01.2023IE  fb.me/ads       FACEBK *8TLH9MCZK     27311.31 d.zúč. 08.01.2023částka v Kč:       27311.31,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Příchozí úhrada,200,CZK,,STRASIK TOMAS,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Platba kartou,-15000,CZK,XXXXXXXXXXXX7023 d.tran.06.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 08.01.2023částka v Kč:       15000.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.06.01.2023IE  fb.me/ads       FACEBK TG94QMFCZK     24200.00 d.zúč. 08.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.06.01.2023IE  fb.me/ads       FACEBK XEH2PK7CZK     24200.00 d.zúč. 08.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-08,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.06.01.2023IE  fb.me/ads       FACEBK YY9LGLPCZK     24200.00 d.zúč. 08.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Příchozí úhrada,3000,CZK,,Ing.Pospíšil Patrik,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Platba kartou,-15000,CZK,XXXXXXXXXXXX7023 d.tran.05.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 07.01.2023částka v Kč:       15000.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Příchozí úhrada,1500,CZK,Veronika Vystavělová,"Vystavělová, Veronik",,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Příchozí úhrada,101,CZK,platím za Lucii Pouzarovou,HEROLDOVÁ ELIŠKA,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Příchozí úhrada,100,CZK,,Šanovec Václav,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Příchozí úhrada,100,CZK,,HEROLDOVÁ ELIŠKA,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Příchozí úhrada,1000,CZK,dar,MARIE DRDLOVÁ,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Příchozí úhrada,500,CZK,,Matěj Bělohlávek,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Příchozí úhrada,100,CZK,Filip Martin,Lenka Martinová,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Příchozí úhrada,100,CZK,,Michal Matěj,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Příchozí úhrada,1000,CZK,Martin Medelský clmedelsky@gmail.com,Bernartová Medelská,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Tuzemská příchozí úhrada kartou,300,CZK,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",Global Payments s.r.,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Platba kartou,-30000,CZK,XXXXXXXXXXXX7023 d.tran.05.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     30000.00 d.zúč. 07.01.2023částka v Kč:       30000.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.05.01.2023IE  fb.me/ads       FACEBK Y4PA5MXCZK     24200.00 d.zúč. 07.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-07,Příchozí úhrada,150,CZK,,Vladimír Martin,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-0.02,CZK,vrácení daru Daniel Synecký 02.01.2023,000000-2428234018/3030,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Příchozí úhrada,2000000,CZK,darovací smlouva T.Krsek,KRSEK TOMÁŠ,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-1126086.5,CZK,"IČ: 27593690, strategické poradenství, kreativa, výzkumy, reklamní a grafické služby",000000-5674048329/0800,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-51425,CZK,"IČ: 07155794, správa a optimalizace sociálních sítí",000000-2101444160/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-2202.12,CZK,"DIČ: CZ685207352, tisk pohlednic, 5001345 ACZ12282786",000000-1387747073/2700,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-30000,CZK,"IČ:07970242, mediální služby",000051-5710750247/0100,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-847000,CZK,"IČ:03299937, nákup marketingového prostoru",000000-3568672399/0800,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-20000,CZK,"IČ:06334130, správa sociálních sítí",000000-4791965033/0800,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-46800,CZK,"IČ:05371481, produkce",000000-1020667421/6100,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-33000,CZK,"IČ:17657661, grafické práce",000000-1637980012/3030,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-80000,CZK,"IČ:07311516, správa sociálních sítí",000000-2801477430/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-965.22,CZK,"IČO: 28287592, krabice",000000-2500110977/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-7127,CZK,"IČ:04845005 , propagační předměty",000000-0274741500/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-4514.87,CZK,"IČ: 27146979, tisk letáků",000000-0190058296/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-317,CZK,"Klára Plachá, poštovné",000000-2131190018/3030,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-100000,CZK,"IČ: 26168685, reklama Sklik",000000-0949949028/5500,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-96800,CZK,"IČ: 06023231, řízení digitální komunikace",000000-2401021688/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Příchozí úhrada,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.04.01.2023IE  fb.me/ads       FACEBK 7LZ2QLTCZK     24200.00 d.zúč. 06.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Platba kartou,-15000,CZK,XXXXXXXXXXXX7023 d.tran.04.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 06.01.2023částka v Kč:       15000.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská příchozí úhrada kartou,18100,CZK,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",Global Payments s.r.,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-06,Tuzemská odchozí úhrada,-1,CZK,vrácení daru Miloš Roušal 05.01.2023,000019-8179660207/0100,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Příchozí úhrada,250,CZK,,BOROVIČKA LADISLAV,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Příchozí úhrada,1,CZK,Turboprezidentku ne.,ROUŠALOVÁ LEONA,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Příchozí úhrada,500000,CZK,Kampan,Ing.Rádl Rogerová Di,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-1092177.46,CZK,"IČ:27593690, AV produkce, kreativní práce ",000000-5674048329/0800,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-1292162.63,CZK,"IČ: 27593690,  produkce TV spot, radiový spot, online kampaň",000000-5674048329/0800,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-11600,CZK,"Klára Plachá, koordinace kontaktní kampaně",000000-2131190018/3030,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Příchozí úhrada,500,CZK,,LINKA MARTIN,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Příchozí úhrada,500,CZK,Pavel Kroc,"Kroc, Pavel",,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Příchozí úhrada,100,CZK,,Schreinerová Monika,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-63000,CZK,"IČ:14368102, koordinace kampaně",000000-0256320534/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-60000,CZK,"IČ:70331189, fundraising",000000-2600902576/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-81526,CZK,"IČ:14228521, koordinace podporovatelů",670100-2203995721/6210,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-559,CZK,"Sabina Horáková, poštovné",000000-1762460016/3030,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-38000,CZK,"IČ: 17846196, produkce",000000-1574361010/3030,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-1200,CZK,"IČ: 06615708, expedice propagačních materiálů",000000-1020667966/5500,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-48919,CZK,"IČ:88862178, logistické služby",000000-7173506001/5500,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-89000,CZK,"IČ:05731488, produkce, protokol",000000-0219784444/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-50470,CZK,"IČ:8269254, fotografické služby",000000-0273336407/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská odchozí úhrada,-73361,CZK,"IČ:06457835, správa sociálních sítí",000000-2100348249/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Příchozí úhrada,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Platba kartou,-1821.58,CZK,XXXXXXXXXXXX7023 d.tran.03.01.2023US  WWW.ZOOM.US     ZOOM.US 888-79EUR        73.20 d.přep.03.01.202373.20 kurz EUR 24.885,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.03.01.2023IE  fb.me/ads       FACEBK 9YSR6M3CZK     24200.00 d.zúč. 05.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Platba kartou,-15000,CZK,XXXXXXXXXXXX7023 d.tran.03.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 05.01.2023částka v Kč:       15000.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Příchozí úhrada,500,CZK,Dar Danuše,HORÁK MARTIN,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Tuzemská příchozí úhrada kartou,21413,CZK,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",Global Payments s.r.,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Příchozí úhrada,30000,CZK,,HURÁBOVÁ JITKA,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Příchozí úhrada,1000,CZK,,HOJDAR IVAN,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-05,Příchozí úhrada,50,CZK,Pro Danuši,Romana Marie Zemanov,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,75000,CZK,Karel Týc,TYC KAREL,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,250,CZK,,Vetterová Beata,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,50000,CZK,,STAVITELSTVÍ - TRUNE,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Platba kartou,-15000,CZK,XXXXXXXXXXXX7023 d.tran.02.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 04.01.2023částka v Kč:       15000.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,200000,CZK,,ITS PRIVATE INVESTME,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Tuzemská příchozí úhrada kartou,2850,CZK,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",Global Payments s.r.,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,1000,CZK,Miloš Novák - držíme palce a děkujeme,"Novák, Miloš",,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,300,CZK,,Emil Tuchyňa,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,100,CZK,Hodně štestí k narozeninám,Adam Dalecký,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,2000,CZK,,URBANOVA LENKA,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,250,CZK,,Mgr. Radek Kabelka,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,1000,CZK,,SANPRI S.R.O.,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,16000,CZK,Držím pěsti pro štěstí,Horáček Jakub,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,250,CZK,dar pro DN - Jan Feit,FEIT JAN,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,2000,CZK,,BURGER JAROSLAV,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,1000,CZK,www.rybizak.cz.-.s.kódem.DANUSE.-.20%.sleva.na.vše!,ČERŇANSKÝ PETR,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,50,CZK,,Gerlichová Jarmila,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,250,CZK,,Řezáč Vilém,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-04,Příchozí úhrada,10000,CZK,,Laštůvka Igor,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-60500,CZK,"IČ: 04549538, péče o podporovatele",000000-0382096393/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Platba kartou,-4162.21,CZK,XXXXXXXXXXXX7023 d.tran.01.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK      4162.21 d.zúč. 03.01.2023částka v Kč:        4162.21,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-36300,CZK,"IČ:03299937, PR služby",000000-3568672399/0800,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-6585,CZK,"IČ: 04845005, propagační předměty",000000-0274741500/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-70000,CZK,"IČ:71977767, administrativa",000000-1020141227/5500,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-40000,CZK,"IČ: 76526313, organizace akcí a fundraising",000000-1177827083/0800,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-121000,CZK,"IČ:87358590, Produkční zázemí, produkce a koordinace kampaně",000123-5740680227/0100,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-15000,CZK,"IČ:15111482, účetní zpracování",000019-2213260227/0100,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-1471.88,CZK,"IČ:04235452, poplatek platební brána",000000-0055550202/0800,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-50400,CZK,"IČ: 07563540, mediální služby",000000-2900311225/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-63765,CZK," IČ: 71372563, koordinace dobrovolníků",000000-0237245671/0300,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-30000,CZK,"IČ: 11951761, fundraising",000000-2863579133/0800,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-47992,CZK,"IČ:17472318, produkce výjezdů",000000-0251848866/0600,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-121000,CZK,"IČ:08413371, administrativní náklady Donio kampaň",000000-1678785002/5500,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-33981.23,CZK,"IČO: 27593690, pronájem prostor",000000-5674048329/0800,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-15217.74,CZK,"IČ: 28408306, přeprava balíků",000000-2500102344/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-6080,CZK,"IČ: 28973445, placky",000000-0195374589/0600,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-4450,CZK,"IČ: 28356098, občerstvení",000000-2101215544/2010,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Příchozí úhrada,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-50000,CZK,"IČ: 26168685, reklama Sklik",000000-0949949028/5500,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Platba kartou,-9121.17,CZK,XXXXXXXXXXXX7023 d.tran.01.01.2023IE  DUBLIN 2        GOOGLE*GSUITEEUR       366.68 d.přep.01.01.2023366.68 kurz EUR 24.875,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.01.01.2023IE  fb.me/ads       FACEBK 5GT28NPCZK     24200.00 d.zúč. 03.01.2023částka v Kč:       24200.00,-,,,8012023,1178,4511610214
+danuse_nerudova,2023-01-03,Tuzemská odchozí úhrada,-60000,CZK,"IČ:07625375, správa sociálních sítí",000035-4902100287/0100,,,8012023,1178,4511610214
+tomas_zima,2023-01-10,Příchozí úhrada,150000,CZK,Tomáš Zima,MUDr. Tomáš Zima,,,,0,
+tomas_zima,2023-01-10,Tuzemská odchozí úhrada,-5,CZK,"Vraceni neidentifikovaneho daru, Vraceni neidentifikovaneho daru",000123-0409070207/0100,,,,0,
+tomas_zima,2023-01-09,Tuzemská odchozí úhrada,-125000,CZK,ZFP_zaloha,000000-6146768319/0800,,,,0,
+tomas_zima,2023-01-07,Příchozí úhrada,5,CZK,,KOLAŘÍK DALIBOR,,,,0,
+tomas_zima,2023-01-06,Příchozí úhrada,25000,CZK,Dar - podpora kampane - Pavel Martásek,Prof.MUDr.Martásek P,,,,0,
+tomas_zima,2023-01-05,Příchozí úhrada,10000,CZK,Dar od Beatrice Barathová,Barath Peter,,,,0,
+tomas_zima,2023-01-05,Tuzemská odchozí úhrada,-150000,CZK,ZFP_zaloha,000000-6146768319/0800,,,,0,
+tomas_zima,2023-01-03,Příchozí úhrada,50000,CZK,Štochl . Dar,ŠTOCHL JAROSLAV,,,,0,
+tomas_zima,2023-01-03,Tuzemská odchozí úhrada,-50000,CZK,ZFP_zaloha,000000-6146768319/0800,,,,0,
+pavel_fischer,2023-01-11,Tuzemská odchozí úhrada,-600,CZK,Výlep plakátů,000000-1482185339/0800,,,230100001,308,
+pavel_fischer,2023-01-11,Tuzemská odchozí úhrada,-55350,CZK,Grafické práce,000000-0115003359/0800,,,230100001,308,
+pavel_fischer,2023-01-11,Tuzemská odchozí úhrada,-33940.5,CZK,Tisk plakátů a samolepek,000000-0258861000/0300,,,230100001,308,
+pavel_fischer,2023-01-11,Tuzemská odchozí úhrada,-312.06,CZK,Plakátování,000027-6256170297/0100,,,230100001,308,
+pavel_fischer,2023-01-11,Příchozí úhrada,2000,CZK,"FISCHER kandidát na prezodenta, Ladislav Guttek, Zlín, 24.08.1955 dar",GUTTEK LADISLAV,,,230100001,308,
+pavel_fischer,2023-01-11,Tuzemská odchozí úhrada,-15125,CZK,Plakáty tisk,000000-0258861000/0300,,,230100001,308,
+pavel_fischer,2023-01-11,Příchozí úhrada,1000,CZK,,RUSNOKOVA NIKOLA,,,230100001,308,
+pavel_fischer,2023-01-11,Příchozí úhrada,2000,CZK,"podpora  Pavla Fischera -  slušnost, vzdělanost a kultivovanost","Fišerová, Iveta",,,230100001,308,
+pavel_fischer,2023-01-11,Příchozí úhrada,5000,CZK,,VYHLÍDKO FRANTIŠEK,,,230100001,308,
+pavel_fischer,2023-01-11,Tuzemská odchozí úhrada,-36300,CZK,Reklama CLV ve Zlíně,000035-4302140277/0100,,,230100001,308,
+pavel_fischer,2023-01-11,Příchozí úhrada,2000,CZK,"PAVEL FISCHER, PŘÍSPĚVEK NA VOLEBNÍ KAMPAŇ",TOMAS SEJHAR,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,500,CZK,"Hodně stestí, držím palce a vážím si vasich postoju",VORISEK MARTIN,,,230100001,308,
+pavel_fischer,2023-01-10,Tuzemská odchozí úhrada,-18150,CZK,"Podnájemné, kancelářské prostory, listopad 2022",000000-5756218002/2700,,,230100001,308,
+pavel_fischer,2023-01-10,Tuzemská odchozí úhrada,-72000,CZK,Výlep plakátů,000000-2700145824/2010,,,230100001,308,
+pavel_fischer,2023-01-10,Tuzemská odchozí úhrada,-60500,CZK,Internetová reklama,000000-0949949028/5500,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,5000,CZK,"Děkujeme vám, pane Fischere, pro nás jste nejlepší kandidát!",Ing.Hrůšová Barbora,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,5000,CZK,Příspevek na volebni kampaň 2023,MUDr.Šuláková Terezi,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,300,CZK,Nebojme se volit srdcem navzdory průzkumům,ŠTĚPÁNOVÁ DANA,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,Modlime se za Vas,VACHOVÁ KLÁRA,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,,KUBATKOVA JANA,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,500,CZK,,TEUER TOMÁŠ,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,500,CZK,,IB-PŘEV.PŘÍKAZY KK,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,,PULKRABKOVA MARTA,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1500,CZK,,NECHYBA PAVEL,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,500,CZK,držím palce,PETR HIRSCH,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,200,CZK,,Chlachulová Marie,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,3000,CZK,,BĚŤÁK JAN,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,3000,CZK,Václav Jirsa,JIRSA VÁCLAV,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,pro zem slusnosti a laskavosti,Jan Bleha,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,500,CZK,,KLUČKOVÁ LADISLAVA,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,10000,CZK,,Janeček Jiří,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,2000,CZK,pavelfischer,KNOTEK LADISLAV,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,5000,CZK,INT: 09.01.2023/23:41:43 0664802503,MUDR. MÁRIA PATÁKO,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,5000,CZK,Dar na kampaň pro P. Fischera,VOKOUNOVA MARIE,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,,SOUKUP ONDŘEJ,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,5000,CZK,na prezidentskou kampaň,JEDLICKOVA ALZBETA,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,,NOVAKOVA LENKA,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,2000,CZK,na prezidentskou kampaň,JEDLICKOVA HELENA,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,10000,CZK,"Pavel Fischer, podpora prezidentské kampaně",Hanus Tomáš,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,,IB-PŘEV.PŘÍKAZY KK,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,500,CZK,PF důstojná volba diky,PhDr. Hana Salajková,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,400,CZK,,Marek Schneider,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,Zuzana Braunová,BRAUN VLASTIMIL,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,500,CZK,Hodne stesti!,Kristýna Šimůnková,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,500,CZK,,Michaela Němcová,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,,Pitrun Vojtěch,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,,Bc.Kunc Martin,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,500,CZK,,Knapp Štěpán,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,dar,Mgr.Lstibůrek Mirosl,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,Pro mého prezidenta. Přeji vám hodně sil a štěstí. Vydržte!,Korábová Huyen,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,1000,CZK,Dar na kampaň Pavla Fischera,Iveta Patáková,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,10000,CZK,,BOUCNIK DAVID,,,230100001,308,
+pavel_fischer,2023-01-10,Příchozí úhrada,2000,CZK,Pavel Fischer,Šlégr Jiří,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,500,CZK,Prezident PF 2023,Zirhut David,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,1000,CZK,,LAKSAROVA MICHAELA,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,200,CZK,,Kristýna Smolová,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,1000,CZK,,HASMANDOVÁ MARTINA,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,1000,CZK,Držím palce!!!,ANNA ROMANOVSKÁ FLIE,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,1000,CZK,Držíme Vám palce.,"Skřivánek, Jiří",,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,2000,CZK,,Dohnal Jakub,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,500,CZK,Pravda a láska musí zvítězit nad lží a nenávistí. Držím palce,Lanč Jindřich,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,1000,CZK,,SCHOLZ ALENA,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,3000,CZK,,Krutský Jan,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,5000,CZK,"Podpora Pavel Fischer, kandidát naprezidenta",VONDRACKOVA KLARA,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,2000,CZK,Podpora Pavla Fischera,SLUNECKOVA MILUSKA,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,500,CZK,Příspěvek.,HOSEK FRANTISEK,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,1000,CZK,,Libuše Kolesíková,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,400,CZK,,HAJDUCH PETR,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,1000,CZK,,Marie Vahalová,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,500,CZK,,Libor Picek,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,1000,CZK,Prezident ČR 2023 - 2033 Pavel Fischer,MARTINA DOHNÁLKOVÁ,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,200,CZK,Platba,PETRA SASÝNOVÁ,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,300,CZK,,Ing.Honzová Petra,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,200,CZK,,Holcová Barbora,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,500,CZK,,"Jiráčková, Tereza",,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,1000,CZK,,Mgr.Ptáčková Mirosla,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,500,CZK,Díky za naději. Hodně štěstí...,Ing. David Hlaváč,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,100,CZK,,POSPÍŠIL JIŘÍ,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,3000,CZK,Pavel Fischer,VÝLETA MAREK,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,2000,CZK,"TRANSPARENTNÍ ÚČET PAVEL FISCHER, -",MARIE KURKOVA,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,230100001,308,
+pavel_fischer,2023-01-09,Platba kartou,-20000,CZK,XXXXXXXXXXXX6091 d.tran.08.01.2023IE  fb.me/ads       FACEBK *6LXR3LCZK     20000.00 d.zúč. 09.01.2023částka v Kč:       20000.00,-,,,230100001,308,
+pavel_fischer,2023-01-09,Platba kartou,-1353.5,CZK,XXXXXXXXXXXX5741 d.tran.07.01.2023CZ  VYSTAVNI        SHELL 8070CZK      1353.50 d.zúč. 09.01.2023částka v Kč:        1353.50,-,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,5000,CZK,,ČERVINKA JIŘÍ,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,2000,CZK,Pavel Fischer,ŠLAMBOROVÁ JANA,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,100000,CZK,Erlebachova bouda s.r.o.,"ERLEBACHOVA BOUDA, S",,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,500,CZK,,RUZEK VACLAV,,,230100001,308,
+pavel_fischer,2023-01-09,Příchozí úhrada,5000,CZK,"Pavel Fischer, prezident, Když Pavla, tak Fischera",MUDr. Martin THEIMER,,,230100001,308,
+pavel_fischer,2023-01-08,Příchozí úhrada,1000,CZK,,Pecha Josef,,,230100001,308,
+pavel_fischer,2023-01-08,Příchozí úhrada,500,CZK,,Ing.Kotyk Pavel,,,230100001,308,
+pavel_fischer,2023-01-08,Příchozí úhrada,500,CZK,,"Beneš, Antonín",,,230100001,308,
+pavel_fischer,2023-01-08,Výběr hotovosti z bankomatu ČS,-10000,CZK,"XXXXXXXXXXXX5741 d.tran.06.01.2023CZ  PRAHA 1         CS, VALDSTEJNSCZK     10000.00 d.zúč. 08.01.2023částka v Kč:       10000.00",-,,,230100001,308,
+pavel_fischer,2023-01-08,Příchozí úhrada,2000,CZK,,Marie Hrčková,,,230100001,308,
+pavel_fischer,2023-01-08,Příchozí úhrada,1000,CZK,,KAPLANEK MICHAL,,,230100001,308,
+pavel_fischer,2023-01-08,Příchozí úhrada,3000,CZK,"Ing. František Kalenda, 3.9. 1948, Zlaté Hory v Jeseníkách",Ing. František Kalen,,,230100001,308,
+pavel_fischer,2023-01-08,Příchozí úhrada,10000,CZK,,Jitka Báčová,,,230100001,308,
+pavel_fischer,2023-01-07,Příchozí úhrada,500,CZK,,Dalibor Tuž,,,230100001,308,
+pavel_fischer,2023-01-07,Příchozí úhrada,1000,CZK,,DUJSÍK JAROSLAV,,,230100001,308,
+pavel_fischer,2023-01-07,Příchozí úhrada,2000,CZK,Pavel Fischer prezidentem,VRABEC JAN,,,230100001,308,
+pavel_fischer,2023-01-07,Platba kartou,-13948.49,CZK,XXXXXXXXXXXX6091 d.tran.05.01.2023IE  fb.me/ads       FACEBK *UQRLZKCZK     13948.49 d.zúč. 07.01.2023částka v Kč:       13948.49,-,,,230100001,308,
+pavel_fischer,2023-01-07,Příchozí úhrada,1000,CZK,,Lukáš Dořičák,,,230100001,308,
+pavel_fischer,2023-01-07,Příchozí úhrada,7005,CZK,Prezident 2023,KLABAL JAROMIR,,,230100001,308,
+pavel_fischer,2023-01-07,Příchozí úhrada,1000,CZK,,"Nedomová, Dagmar",,,230100001,308,
+pavel_fischer,2023-01-07,Příchozí úhrada,200,CZK,DAR na kampaň od Bedac@seznam.cz,Beďač Pavel,,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,1000,CZK,,Paleček Jiří,,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,500,CZK,,Hrdina Jaroslav,,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,500,CZK,naděje pro zemi,Ryšavý Milan,,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,1000,CZK,Prezident 2023,Vilt Ondřej,,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,1000,CZK,,Tomáš Kasal,,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,200,CZK,,Štulíř Vlastislav,,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,1000,CZK,,RANDALL JIRI,,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,2000,CZK,PF president,Vladimír Vašků,,,230100001,308,
+pavel_fischer,2023-01-06,Tuzemská odchozí úhrada,-203733.75,CZK,Tisk volebních novin a doprava,000027-0471080297/0100,,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,5000,CZK,,"Hajdučík, Jakub",,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,1000,CZK,,NĚMEC VÍT,,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,1000,CZK,Příspěvek od R. Vambery,SADKOVA MARKETA,,,230100001,308,
+pavel_fischer,2023-01-06,Příchozí úhrada,1000,CZK,,Ing.Košina Ondřej,,,230100001,308,
+pavel_fischer,2023-01-05,Tuzemská odchozí úhrada,-302500,CZK,Internet reklama,000000-0949949028/5500,,,230100001,308,
+pavel_fischer,2023-01-05,Tuzemská odchozí úhrada,-1888,CZK,Výlep a pronájem plakátovacích ploch,000000-7107736001/5500,,,230100001,308,
+pavel_fischer,2023-01-05,Příchozí úhrada,0.31,CZK,,Adam Koziel,,,230100001,308,
+pavel_fischer,2023-01-05,Příchozí úhrada,5000,CZK,,Ing. Pavel Kilian,,,230100001,308,
+pavel_fischer,2023-01-05,Příchozí úhrada,1000,CZK,Jste nejlepší kandidát. Tečka.,Basovník Marek,,,230100001,308,
+pavel_fischer,2023-01-05,Příchozí úhrada,2000,CZK,Držím palce !!!,Eva Bouzková,,,230100001,308,
+pavel_fischer,2023-01-05,Příchozí úhrada,1000,CZK,Dar Mazini,MAZÍNI JAN,,,230100001,308,
+pavel_fischer,2023-01-05,Příchozí úhrada,500,CZK,,"Pokorná, Martina",,,230100001,308,
+pavel_fischer,2023-01-05,Příchozí úhrada,1000,CZK,Dáme to!,Bárta Zdeněk,,,230100001,308,
+pavel_fischer,2023-01-05,Příchozí úhrada,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,230100001,308,
+pavel_fischer,2023-01-05,Příchozí úhrada,1000,CZK,"PAVEL FISCHER - TRANSPARENTNÍ ÚČET, .",PAVEL CERNUSKA,,,230100001,308,
+pavel_fischer,2023-01-05,Příchozí úhrada,500,CZK,Fandím a volím,Šimková Marie,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,700,CZK,,Stanislav Strnad,,,230100001,308,
+pavel_fischer,2023-01-04,Tuzemská odchozí úhrada,-242,CZK,Nájem ploch pro reklamu,000000-0601436379/0800,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,11111,CZK,PF2023,Hana Basíková,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,5000,CZK,,Ondřej Bloudek,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,1000,CZK,,"Kyslík, Martin",,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,500,CZK,nejlepší prezident pro ČR,"Štefančík, Jozef",,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,1000,CZK,,Marie Hrčková,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,200,CZK,"PAVEL FISCHER, PŘEVOD PROSTŘEDKŮ",PETRA DANIELISOVA,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,10000,CZK,prezident,Hošková Martina,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,2000,CZK,,Ing. Ondřej Fabián,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,500000,CZK,"Pavel Fischer, Podpora nejlepšímu z kandidátů.PF 2023",DOKULIL JAN,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,2023,CZK,podporuji Pavla Fischera - PF2023,DOLEZAL JAN,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,2000,CZK,,LEMON VACLAV,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,230100001,308,
+pavel_fischer,2023-01-04,Tuzemská odchozí úhrada,-37873,CZK,Mobilní telefon a bezdrátový mikrofon,000000-2601014490/2010,,,230100001,308,
+pavel_fischer,2023-01-04,Tuzemská odchozí úhrada,-135000,CZK,"fotografování, střih videa, síťovápodpora, distribuce propagačních materiálů",000000-2702085159/2010,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,1000,CZK,prezident 2023,Ing. Jan Kňazovčík,,,230100001,308,
+pavel_fischer,2023-01-04,Tuzemská odchozí úhrada,-2662,CZK,Výlep reklamní plochy,000000-6660146002/5500,,,230100001,308,
+pavel_fischer,2023-01-04,Tuzemská odchozí úhrada,-61710,CZK,Mediální služby a konzultace,000000-0294516562/0300,,,230100001,308,
+pavel_fischer,2023-01-04,Tuzemská odchozí úhrada,-70500,CZK,"PR, mediální a strategická komunikace",000000-1944039329/0800,,,230100001,308,
+pavel_fischer,2023-01-04,Příchozí úhrada,500,CZK,,SVOBODOVÁ JOHANA,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,500,CZK,Helena Oulehle Mikolášková,MUDr.Oulehle Mikoláš,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,500,CZK,,PERINA PAVEL,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,2000,CZK,díky PF za statečnost a ochotu se angažovat,"Malaníková, Eva",,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,321,CZK,,Zadražil Jaroslav,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,10000,CZK,Pavel Fischer,KACHLÍK ANTONÍN,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,5000,CZK,,SANDHOLZ VLADIMÍR,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,200,CZK,,Jelínková Ludmila,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,100,CZK,,Poláková Eva,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,100,CZK,"PAVEL FISCHER, DAR",VERA PAPEZOVA,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,1000,CZK,"PAVEL FISCHER, PLATBA",VLADIMIR STEHLIK,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,1000,CZK,nejlepší kandidát,"Lázničková, Anna",,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,500,CZK,,SIMKOVA IRENA,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,500,CZK,Jezberová Hana,JEZBERA MILAN,,,230100001,308,
+pavel_fischer,2023-01-03,Příchozí úhrada,500,CZK,,Jan Imlauf,,,230100001,308,
 danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-2917.19,CZK,"DIČ: CZ685207352, tisk pohlednic, 5001345 ACZ12282830",000000-1387747073/2700,,,,,
 danuse_nerudova,2023-01-09,Tuzemská příchozí úhrada kartou,6022,CZK,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",Global Payments s.r.,,,,,
 danuse_nerudova,2023-01-09,Tuzemská odchozí úhrada,-10000,CZK,"Barbora Červenková, koordinace kontaktní kampaně",000000-0252433048/0300,,,,,
@@ -483,12 +833,6 @@ danuse_nerudova,2023-01-01,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.30.1
 danuse_nerudova,2023-01-01,Platba kartou,-15000,CZK,XXXXXXXXXXXX7023 d.tran.30.12.2022IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 01.01.2023částka v Kč:       15000.00,-,,,7012023,1178,4511617023
 danuse_nerudova,2023-01-01,Poskytnutí debetní karty,-25,CZK,,-,,,7012023,1178,4511617023
 danuse_nerudova,2023-01-01,Platba kartou,-24200,CZK,XXXXXXXXXXXX7023 d.tran.30.12.2022IE  fb.me/ads       FACEBK 326RFLKCZK     24200.00 d.zúč. 01.01.2023částka v Kč:       24200.00,-,,,7012023,1178,4511617023
-tomas_zima,2023-01-07,Příchozí úhrada,5,CZK,,KOLAŘÍK DALIBOR,,,,0,
-tomas_zima,2023-01-06,Příchozí úhrada,25000,CZK,Dar - podpora kampane - Pavel Martásek,Prof.MUDr.Martásek P,,,,0,
-tomas_zima,2023-01-05,Příchozí úhrada,10000,CZK,Dar od Beatrice Barathová,Barath Peter,,,,0,
-tomas_zima,2023-01-05,Tuzemská odchozí úhrada,-150000,CZK,ZFP_zaloha,000000-6146768319/0800,,,,0,
-tomas_zima,2023-01-03,Příchozí úhrada,50000,CZK,Štochl . Dar,ŠTOCHL JAROSLAV,,,,0,
-tomas_zima,2023-01-03,Tuzemská odchozí úhrada,-50000,CZK,ZFP_zaloha,000000-6146768319/0800,,,,0,
 tomas_zima,2023-01-02,Příchozí úhrada,100000,CZK,DAR,Jozef Šepetka,,,,0,
 tomas_zima,2023-01-02,Vklad hotovosti,5000,CZK,Pavel Henčl,,,,,0,
 tomas_zima,2023-01-02,Příchozí úhrada,300,CZK,Kekrt Vl. - podpora Vaší kandidatury na prezidenta republiky,"Kekrt, Vladimír",,,,0,
@@ -8666,6 +9010,29 @@ karel_divis,2022-08-05,Outgoing payment ,-20582.1,CZK,za organizaci prezidentske
 karel_divis,2022-07-15,Incoming instant payment ,100000,CZK,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",Mgr. Karel Diviš,317255001,5500,20220715,558,
 karel_divis,2022-07-15,Outgoing payment ,-210890,CZK,za organizaci prezidentske kampane- sber podpisu,,111120232,5500,20220715,,
 karel_divis,2022-07-12,Incoming instant payment ,200000,CZK,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",Mgr. Karel Diviš,317255001,5500,20220712,558,
+petr_pavel,2023-01-11,Okamžitá příchozí platba,0.01,CZK,Široký Radim,Široký Radim,,,,0,
+petr_pavel,2023-01-11,Okamžitá příchozí platba,500,CZK,Dar na kampaň generála Pavla Vaníček Josef,Vaníček Josef,,,,0,
+petr_pavel,2023-01-11,Platba převodem uvnitř banky,200,CZK,Dar na kampaň GP - snad to klapne - držím palce Dar na kampaň GP - snad to klapne - držím palce,"Kertész, Martina",,,,,
+petr_pavel,2023-01-11,Bezhotovostní příjem,93439.12,CZK,/DO2023-01-10/SPDar pre generala Pavla Magyarova Alexandra,Magyarova Alexandra,,,,,
+petr_pavel,2023-01-11,Bezhotovostní příjem,50,CZK,"DAR DO 2. KOLA PREZIDENTSKÉ VOLBY,HAVÍŘOV PAVEL KADLEC",PAVEL KADLEC,,,,,2023
+petr_pavel,2023-01-11,Bezhotovostní příjem,300000,CZK,JUDr.Prázdný Zdeněk,JUDr.Prázdný Zdeněk,,,,0,
+petr_pavel,2023-01-11,Bezhotovostní příjem,2000,CZK,Hodně štěstí ŠTORKOVÁ JARMILA,ŠTORKOVÁ JARMILA,,,4,0,0
+petr_pavel,2023-01-11,Okamžitá příchozí platba,1000,CZK,Dar na kampan generala Pavla CHALUPA JAKUB,CHALUPA JAKUB,,,,,
+petr_pavel,2023-01-11,Bezhotovostní příjem,2000,CZK,PŘÍSPĚVEK NA VOLEBNÍ KAMPAŇ TOMAS SEJHAR,TOMAS SEJHAR,,,,,
+petr_pavel,2023-01-11,Bezhotovostní příjem,2023,CZK,NA FINALE JAN PICHA,JAN PICHA,,,,,
+petr_pavel,2023-01-10,Okamžitá příchozí platba,5000,CZK,U Tošovských s.r.o.,U Tošovských s.r.o.,,,5656257,0,
+petr_pavel,2023-01-10,Okamžitá příchozí platba,0.01,CZK,NAKOPEJ TOMU BABIŠOVI PRDEL! RANDÁK JAROSLAV,RANDÁK JAROSLAV,,,,,
+petr_pavel,2023-01-10,Okamžitá příchozí platba,1000,CZK,na kampan Golovynskyi Sergii,Golovynskyi Sergii,,,,0,
+petr_pavel,2023-01-10,Karetní transakce,-2785.22,CZK,"Nákup: Mailchimp, 678-9990141, US, dne 9.1.2023, částka  113.12 EUR Nákup: Mailchimp, 678-9990141, US, dne 9.1.2023, částka  113.12 EUR",,,,7999,,
+petr_pavel,2023-01-10,Karetní transakce,-24200,CZK,"Nákup: FACEBK H9FU2K3R32, fb.me/ads, IE, dne 10.1.2023, částka  24200.00 CZK Nákup: FACEBK H9FU2K3R32, fb.me/ads, IE, dne 10.1.2023, částka  24200.00 CZK",,,,7999,,
+petr_pavel,2023-01-10,Karetní transakce,-24200,CZK,"Nákup: FACEBK NDQHJJ3Q32, fb.me/ads, IE, dne 9.1.2023, částka  24200.00 CZK Nákup: FACEBK NDQHJJ3Q32, fb.me/ads, IE, dne 9.1.2023, částka  24200.00 CZK",,,,7999,,
+petr_pavel,2023-01-10,Karetní transakce,-24200,CZK,"Nákup: FACEBK WV4G2K3R32, fb.me/ads, IE, dne 9.1.2023, částka  24200.00 CZK Nákup: FACEBK WV4G2K3R32, fb.me/ads, IE, dne 9.1.2023, částka  24200.00 CZK",,,,7999,,
+petr_pavel,2023-01-10,Karetní transakce,-24200,CZK,"Nákup: FACEBK 5ER4YKBQ32, fb.me/ads, IE, dne 9.1.2023, částka  24200.00 CZK Nákup: FACEBK 5ER4YKBQ32, fb.me/ads, IE, dne 9.1.2023, částka  24200.00 CZK",,,,7999,,
+petr_pavel,2023-01-10,Okamžitá příchozí platba,10000,CZK,Dar na kampan generala Pavla Ing. Michal Pražák,Ing. Michal Pražák,,,,,
+petr_pavel,2023-01-10,Okamžitá příchozí platba,300,CZK,DAR NA KAMPAŇ GENERÁLA PAVLA Polánka Tomáš,Polánka Tomáš,,,,0,
+petr_pavel,2023-01-10,Okamžitá příchozí platba,500,CZK,"od Tomase Metelky Ing.Metelka Tomáš,Ph","Ing.Metelka Tomáš,Ph",,,,0,
+petr_pavel,2023-01-10,Okamžitá příchozí platba,2500,CZK,Dar na kampan generala Pavla OLDŘICH VACEK,OLDŘICH VACEK,,,,,
+petr_pavel,2023-01-10,Okamžitá příchozí platba,1000,CZK,Hodně štěstí v boji o Hrad! Ing.Bílek Milan,Ing.Bílek Milan,,,,0,
 petr_pavel,2023-01-10,Bezhotovostní příjem,5000,CZK,NOVÁK VŠJZ NOVÁK JAN,NOVÁK JAN,,,0,0,0
 petr_pavel,2023-01-10,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,,,
 petr_pavel,2023-01-10,Okamžitá příchozí platba,100000,CZK,příspěvek volební kampaň - darovací smlouva z 6.1.2023 APFELTHALER LADISLAV,APFELTHALER LADISLAV,,,777760200,0,
@@ -8781,28 +9148,14 @@ petr_pavel,2023-01-03,Bezhotovostní příjem,100,CZK,Držím palce! PROSIL DANI
 petr_pavel,2023-01-03,Bezhotovostní příjem,800,CZK,ROŠTOK RADEK,ROŠTOK RADEK,,,,,
 petr_pavel,2023-01-03,Bezhotovostní platba,-3928.87,CZK,"IČ: 47451025, plakáty",,,,2049000769,,
 petr_pavel,2023-01-03,Bezhotovostní příjem,500,CZK,Dar SVOBODA TOMAS,SVOBODA TOMAS,,,0,,
-petr_pavel,2023-01-02,Okamžitá příchozí platba,0.01,CZK,DANUŠE NA HRAD! PAVEL ANI BABIŠ NE! Daniel Synecký,Daniel Synecký,,,,,
-petr_pavel,2023-01-02,Okamžitá příchozí platba,1000,CZK,DAR NA KAMPAŇ GENERÁLA PAVLA PhDr.Klicperová Mart,PhDr.Klicperová Mart,,,,0,
-petr_pavel,2023-01-02,Okamžitá příchozí platba,200,CZK,DAR NA KAMPAŇ GENERÁLA PAVLA Šimek Jiří,Šimek Jiří,,,,0,
-petr_pavel,2023-01-02,Okamžitá příchozí platba,300,CZK,Dum spiro spero Zdeněk Urbánek,Zdeněk Urbánek,,,,,
-petr_pavel,2023-01-02,Okamžitá příchozí platba,800,CZK,Hlaváček Karel,Hlaváček Karel,,,,0,
-petr_pavel,2023-01-02,Bezhotovostní příjem,2000,CZK,"Po dlouhé době vidím skutečného státníka,ale i obyčejného slušného člověka. Máte charisma.Pane Pavle,Vy jste pro mě už nyní Pan president. SVOBODA TOMÁŠ",SVOBODA TOMÁŠ,,,0,0,0
-petr_pavel,2023-01-02,Bezhotovostní příjem,1000,CZK,Dar na kampan generala Pavla PASSINGER VOJTECH,PASSINGER VOJTECH,,,0,,
-petr_pavel,2023-01-02,Okamžitá příchozí platba,2000,CZK,Miroslav Janatka,Miroslav Janatka,,,,,
-petr_pavel,2023-01-02,Okamžitá odchozí platba,-8243,CZK,"IČ: 02532352, produkční náklady",,,,,,
-petr_pavel,2023-01-02,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,,,
-petr_pavel,2023-01-02,Platba převodem uvnitř banky,1000,CZK,Dar pro gen. Ing. Pavla - Prezident jako velitel vojsk je Voják! Držím palce! Dar pro gen. Ing. Pavla - Prezident jako velitel vojsk je Voják! Držím palce!,"Šejna, Martin",,,1000,0,0
-petr_pavel,2023-01-02,Bezhotovostní příjem,2000,CZK,Karel Matoušek - generál Pavel MATOUSEK KAREL,MATOUSEK KAREL,,,0,,
-petr_pavel,2023-01-02,Bezhotovostní příjem,444.44,CZK,Dar na kampan generala Pavla LAHODA TOMÁŠ,LAHODA TOMÁŠ,,,,,
-petr_pavel,2023-01-02,Bezhotovostní platba,-13310,CZK,"IČ: 04847881, video",,,,220100068,308,
-petr_pavel,2023-01-02,Bezhotovostní platba,-87112,CZK,"IČ: 14279851, sociální média",,,,2022012,,
-petr_pavel,2023-01-02,Bezhotovostní příjem,5000,CZK,Hodne stesti ve volbe a po nasledujicich 5 let! RNDR. ZDENEK KOHN,RNDR. ZDENEK KOHN,,,0,,
-petr_pavel,2023-01-02,Bezhotovostní příjem,10000,CZK,Dar na kampaň Petra Pavla od PetraMáje - PETR MÁJ MAJ PETR,MAJ PETR,,,0,,
-petr_pavel,2023-01-02,Bezhotovostní příjem,20000,CZK,Dar na kampaň generála Pavla SKALKOVA HANA,SKALKOVA HANA,,,0,,
-petr_pavel,2023-01-02,Bezhotovostní příjem,5,CZK,jsi parazit JUDr.Hejl Karel,JUDr.Hejl Karel,,,600829,0,
-petr_pavel,2023-01-02,Bezhotovostní příjem,5000,CZK,DAR NA KAMPAŇ GENERÁLA PAVLA KŘÍŽOVÁ MICHAELA,KŘÍŽOVÁ MICHAELA,,,0,0,0
-petr_pavel,2023-01-02,Bezhotovostní příjem,1700,CZK,Dar na kampaň GENERÁLA PAVLA MATOUŠ JIŘÍ,MATOUŠ JIŘÍ,,,0,0,0
-petr_pavel,2023-01-02,Bezhotovostní příjem,100,CZK,"Držím pěsti, věřím ve vítězství autentickeho člověka, ne prázdné karieristky. BRUS JAKUB",BRUS JAKUB,,,0,,
+marek_hilser,2023-01-11,Karetní transakce,-1000,CZK,"Nákup: FACEBK DKDRWKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK Nákup: FACEBK DKDRWKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",,,,5298,,
+marek_hilser,2023-01-11,Karetní transakce,-1000,CZK,"Nákup: FACEBK DD3N2JFJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK Nákup: FACEBK DD3N2JFJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",,,,5298,,
+marek_hilser,2023-01-10,Karetní transakce,-1000,CZK,"Nákup: FACEBK 7T8MHJXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK Nákup: FACEBK 7T8MHJXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",,,,5298,,
+marek_hilser,2023-01-10,Karetní transakce,-1000,CZK,"Nákup: FACEBK XFGJWKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK Nákup: FACEBK XFGJWKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",,,,5298,,
+marek_hilser,2023-01-10,Karetní transakce,-1000,CZK,"Nákup: FACEBK KU2FWKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK Nákup: FACEBK KU2FWKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",,,,5298,,
+marek_hilser,2023-01-10,Bezhotovostní platba,-70000,CZK,faktura 11 - organizace volební kampaně - GS - prosinec 2022,,,,,,
+marek_hilser,2023-01-10,Bezhotovostní platba,-50650,CZK,"faktura 2022 / 004 - Produkční práce, organizace volební kampaně PJ - prosinec 2022",,,,,,
+marek_hilser,2023-01-10,Platba převodem uvnitř banky,250000,CZK,Financování prezidentské kampaně  - hnutí Marek Hilšer do Senátu Financování prezidentské kampaně  - hnutí Marek Hilšer do Senátu,„Marek Hilšer do Senátu“,,,,,
 marek_hilser,2023-01-10,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,,,
 marek_hilser,2023-01-10,Karetní transakce,-15000,CZK,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 9.1.2023, částka  15000.00 CZK Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 9.1.2023, částka  15000.00 CZK",,,,5298,,
 marek_hilser,2023-01-09,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,,,
@@ -8825,9 +9178,7 @@ marek_hilser,2023-01-03,Okamžitá příchozí platba,10000,CZK,"Ing. Václav Lh
 marek_hilser,2023-01-03,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,,,
 marek_hilser,2023-01-03,Bezhotovostní příjem,500,CZK,Pavel Pech 2.8.1981 Jaroměř PECH PAVEL,PECH PAVEL,,,0,0,0
 marek_hilser,2023-01-03,Bezhotovostní příjem,500,CZK,LEDVINOVÁ TEREZA,LEDVINOVÁ TEREZA,,,0,0,0
-marek_hilser,2023-01-02,Okamžitá příchozí platba,1200,CZK,"jiří bednář, 3. 6. 1971, Drnovice 315, 683 04 Jiří Bednář",Jiří Bednář,,,20123,,
-marek_hilser,2023-01-02,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,,,
-marek_hilser,2023-01-02,Karetní transakce,-6047.24,CZK,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.1.2023, částka  6047.24 CZK Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.1.2023, částka  6047.24 CZK",,,,5298,,
+josef_stredula,2023-01-11,Bezhotovostní příjem,0.1,CZK,"Pepa Středula,odborář známý,penízepro děti bolavé ukradl jménem své slávy,vydával se za hrdinu,bojovníka za lidská práva,avšak z oci koukal Tomáš Brunát",Tomáš Brunát,,,,0,
 josef_stredula,2023-01-10,Bezhotovostní příjem,1,CZK,"Jste hrozný slizoun, že vám není hanba sebrat prachy a na charitu nicnenechat. Ale na každou se vaří. NOVÁK VÍTĚZSLAV",NOVÁK VÍTĚZSLAV,,,0,0,0
 josef_stredula,2023-01-10,Okamžitá příchozí platba,0.01,CZK,"Neznal jsem, ale RIP Martin Kadlec",Martin Kadlec,,,,,
 josef_stredula,2023-01-10,Okamžitá příchozí platba,1,CZK,Zlodeji.cz TOMAS TROJAN,TOMAS TROJAN,,,,,
@@ -8841,10 +9192,8 @@ josef_stredula,2023-01-05,Bezhotovostní platba,-1200000,CZK,Josef Středula Ved
 josef_stredula,2023-01-05,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,5632,,
 josef_stredula,2023-01-04,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,5632,,
 josef_stredula,2023-01-03,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,5632,,
-josef_stredula,2023-01-02,Karetní transakce,-1155.28,CZK,"Nákup: GSUITE_stredula.cz, Dublin, IE, dne 1.1.2023, částka  1155.28 CZK Nákup: GSUITE_stredula.cz, Dublin, IE, dne 1.1.2023, částka  1155.28 CZK",,,,2172,,
-josef_stredula,2023-01-02,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,5632,,
-josef_stredula,2023-01-02,Bezhotovostní příjem,2000,CZK,NOGOL LEON,NOGOL LEON,,,0,308,
-josef_stredula,2023-01-02,Bezhotovostní příjem,2000,CZK,Bojuj s úsměvem. J. Zapletal ZAPLETAL JAN,ZAPLETAL JAN,,,0,0,0
+jaroslav_basta,2023-01-11,Okamžitá příchozí platba,1000,CZK,Tomáš Krátký Tomáš Krátký,Tomáš Krátký,,,,,
+jaroslav_basta,2023-01-10,Okamžitá odchozí platba,-500,CZK,"Dar bohužel musíme vrátit, po doplnění identifikace dárce dle www.jaroslavbastaprezident.cz v sekci Podpora jej lze přijmout. vrácení daru",,,,,,
 jaroslav_basta,2023-01-10,Okamžitá příchozí platba,500,CZK,podpora kampaně p. Bašty HRADISKÝ JAROSL,HRADISKÝ JAROSL,,,,,
 jaroslav_basta,2023-01-10,Okamžitá příchozí platba,500,CZK,"Pane Bašto, držíme Vám všechny palce! Libor Volf",Libor Volf,,,1,,
 jaroslav_basta,2023-01-10,Bezhotovostní příjem,1500,CZK,VĚRA KŘÍŽOVÁ - DAR PRO VOLEBNÍ KAMPAŇ VERA KRIZOVA,VERA KRIZOVA,,,,,
@@ -8880,6 +9229,35 @@ jaroslav_basta,2023-01-03,Bezhotovostní platba,-2479,CZK,placky - prezidentská
 jaroslav_basta,2023-01-03,Bezhotovostní platba,-2552,CZK,placky - prezidentská kampaň Jaroslava Bašty Michal Smrčina - Levneplacky.cz - prezidentská kampaň Jaroslava Bašty,,,,42023,,
 jaroslav_basta,2023-01-03,Okamžitá odchozí platba,-12100,CZK,"Jaroslav Bašta prezidentské volby - inzerce Deník Chomutov, Kroměříž Deník - inzerce Jaroslav Bašta prezidentské volby - Chomutov, Kroměříž",,,,2397000030,,
 jaroslav_basta,2023-01-03,Bezhotovostní příjem,1500,CZK,FINANCOVÁNÍ VOLEBNÍ KAMPANĚ - VĚRAKŘÍŽOVÁ VERA KRIZOVA,VERA KRIZOVA,,,,,
+petr_pavel,2023-01-02,Okamžitá příchozí platba,0.01,CZK,DANUŠE NA HRAD! PAVEL ANI BABIŠ NE! Daniel Synecký,Daniel Synecký,,,,,
+petr_pavel,2023-01-02,Okamžitá příchozí platba,1000,CZK,DAR NA KAMPAŇ GENERÁLA PAVLA PhDr.Klicperová Mart,PhDr.Klicperová Mart,,,,0,
+petr_pavel,2023-01-02,Okamžitá příchozí platba,200,CZK,DAR NA KAMPAŇ GENERÁLA PAVLA Šimek Jiří,Šimek Jiří,,,,0,
+petr_pavel,2023-01-02,Okamžitá příchozí platba,300,CZK,Dum spiro spero Zdeněk Urbánek,Zdeněk Urbánek,,,,,
+petr_pavel,2023-01-02,Okamžitá příchozí platba,800,CZK,Hlaváček Karel,Hlaváček Karel,,,,0,
+petr_pavel,2023-01-02,Bezhotovostní příjem,2000,CZK,"Po dlouhé době vidím skutečného státníka,ale i obyčejného slušného člověka. Máte charisma.Pane Pavle,Vy jste pro mě už nyní Pan president. SVOBODA TOMÁŠ",SVOBODA TOMÁŠ,,,0,0,0
+petr_pavel,2023-01-02,Bezhotovostní příjem,1000,CZK,Dar na kampan generala Pavla PASSINGER VOJTECH,PASSINGER VOJTECH,,,0,,
+petr_pavel,2023-01-02,Okamžitá příchozí platba,2000,CZK,Miroslav Janatka,Miroslav Janatka,,,,,
+petr_pavel,2023-01-02,Okamžitá odchozí platba,-8243,CZK,"IČ: 02532352, produkční náklady",,,,,,
+petr_pavel,2023-01-02,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,,,
+petr_pavel,2023-01-02,Platba převodem uvnitř banky,1000,CZK,Dar pro gen. Ing. Pavla - Prezident jako velitel vojsk je Voják! Držím palce! Dar pro gen. Ing. Pavla - Prezident jako velitel vojsk je Voják! Držím palce!,"Šejna, Martin",,,1000,0,0
+petr_pavel,2023-01-02,Bezhotovostní příjem,2000,CZK,Karel Matoušek - generál Pavel MATOUSEK KAREL,MATOUSEK KAREL,,,0,,
+petr_pavel,2023-01-02,Bezhotovostní příjem,444.44,CZK,Dar na kampan generala Pavla LAHODA TOMÁŠ,LAHODA TOMÁŠ,,,,,
+petr_pavel,2023-01-02,Bezhotovostní platba,-13310,CZK,"IČ: 04847881, video",,,,220100068,308,
+petr_pavel,2023-01-02,Bezhotovostní platba,-87112,CZK,"IČ: 14279851, sociální média",,,,2022012,,
+petr_pavel,2023-01-02,Bezhotovostní příjem,5000,CZK,Hodne stesti ve volbe a po nasledujicich 5 let! RNDR. ZDENEK KOHN,RNDR. ZDENEK KOHN,,,0,,
+petr_pavel,2023-01-02,Bezhotovostní příjem,10000,CZK,Dar na kampaň Petra Pavla od PetraMáje - PETR MÁJ MAJ PETR,MAJ PETR,,,0,,
+petr_pavel,2023-01-02,Bezhotovostní příjem,20000,CZK,Dar na kampaň generála Pavla SKALKOVA HANA,SKALKOVA HANA,,,0,,
+petr_pavel,2023-01-02,Bezhotovostní příjem,5,CZK,jsi parazit JUDr.Hejl Karel,JUDr.Hejl Karel,,,600829,0,
+petr_pavel,2023-01-02,Bezhotovostní příjem,5000,CZK,DAR NA KAMPAŇ GENERÁLA PAVLA KŘÍŽOVÁ MICHAELA,KŘÍŽOVÁ MICHAELA,,,0,0,0
+petr_pavel,2023-01-02,Bezhotovostní příjem,1700,CZK,Dar na kampaň GENERÁLA PAVLA MATOUŠ JIŘÍ,MATOUŠ JIŘÍ,,,0,0,0
+petr_pavel,2023-01-02,Bezhotovostní příjem,100,CZK,"Držím pěsti, věřím ve vítězství autentickeho člověka, ne prázdné karieristky. BRUS JAKUB",BRUS JAKUB,,,0,,
+marek_hilser,2023-01-02,Okamžitá příchozí platba,1200,CZK,"jiří bednář, 3. 6. 1971, Drnovice 315, 683 04 Jiří Bednář",Jiří Bednář,,,20123,,
+marek_hilser,2023-01-02,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,,,
+marek_hilser,2023-01-02,Karetní transakce,-6047.24,CZK,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.1.2023, částka  6047.24 CZK Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 1.1.2023, částka  6047.24 CZK",,,,5298,,
+josef_stredula,2023-01-02,Karetní transakce,-1155.28,CZK,"Nákup: GSUITE_stredula.cz, Dublin, IE, dne 1.1.2023, částka  1155.28 CZK Nákup: GSUITE_stredula.cz, Dublin, IE, dne 1.1.2023, částka  1155.28 CZK",,,,2172,,
+josef_stredula,2023-01-02,Okamžitá příchozí platba,0.01,CZK,alkoholdrink.cz Pavel Tr?ster,Pavel Tr?ster,,,5632,,
+josef_stredula,2023-01-02,Bezhotovostní příjem,2000,CZK,NOGOL LEON,NOGOL LEON,,,0,308,
+josef_stredula,2023-01-02,Bezhotovostní příjem,2000,CZK,Bojuj s úsměvem. J. Zapletal ZAPLETAL JAN,ZAPLETAL JAN,,,0,0,0
 jaroslav_basta,2023-01-02,Platba převodem uvnitř banky,1000,CZK,"Dar. ZAŘIĎTE MOŽNOST PDF LETÁKŮ A PLAKÁTŮ,ABY LIDI MOHLI TISKNOUT ,ROZNÁŠET,LEPIT Dar. ZAŘIĎTE MOŽNOST PDF LETÁKŮ A PLAKÁTŮ,ABY LIDI MOHLI TISKNOUT ,ROZNÁŠET,LEPIT","Konečný, Erik",,,,,
 petr_pavel,2023-01-01,Okamžitá příchozí platba,1000,CZK,Dar na kampan generala Pavla MUDr.Juklová Renáta,MUDr.Juklová Renáta,,,,0,
 petr_pavel,2023-01-01,Okamžitá příchozí platba,1000,CZK,Dar na kampaň generála Pavla JURÁK DUŠAN,JURÁK DUŠAN,,,,,
@@ -11059,22 +11437,56 @@ jaroslav_basta,2022-10-06,Okamžitá odchozí platba,-10000,CZK,FRIVA s.r.o.Tvor
 jaroslav_basta,2022-09-23,Poplatek,-50,CZK,"Filip Mruzek Filip Mruzek- Zprovoznění domén, webhostingu, databází - prezidentská kampaň Jaroslava Bašty",,,,,,
 jaroslav_basta,2022-09-23,Okamžitá odchozí platba,-5000,CZK,"Filip Mruzek Filip Mruzek Zprovoznění domén, webhostingu, databází - prezidentská kampaň Jaroslava Bašty",,,,2022065,,
 jaroslav_basta,2022-09-16,Bezhotovostní příjem,100000,CZK,JAROSLAV BAŠTA BAŠTA JAROSLAV,BAŠTA JAROSLAV,,,480515,0,0
-karel_janecek,2023-01-02,Odchozí platba,-55000,CZK,Vklad do kampaně,,,,0,0,0
-karel_janecek,2023-01-02,Odchozí platba,-42000,CZK,,,,,220100009,308,0
-karel_janecek,2023-01-02,Příchozí platba,91850,CZK,Vklad do kampaně,JANEČEK KAREL,,,0,0,0
-andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,babisovyzlociny.cz,Patrik Sokol,,,0,0,0
-andrej_babis,2023-01-10,Příchozí platba,2000,CZK,,OKNA FUCIMAN s.r.o.,,,0,0,0
-andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,0,0,0
-andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",ONDREJ SMID,,,25085,0,0
+karel_janecek,2023-01-10,Odchozí platba,-21,CZK,Vraceni prispevku na kampan,,,,0,0,0
+karel_janecek,2023-01-10,Odchozí platba,-100,CZK,Vraceni prispevku na kampan,,,,0,0,0
+karel_janecek,2023-01-10,Odchozí platba,-1,CZK,Vraceni prispevku na kampan,,,,0,0,0
+karel_janecek,2023-01-10,Odchozí platba,-500,CZK,Vraceni prispevku na kampan - děkuji,,,,0,0,0
+karel_janecek,2023-01-10,Odchozí platba,-333,CZK,Vraceni prispevku na kampan,,,,0,0,0
+karel_janecek,2023-01-10,Příchozí platba,1000,CZK,Vklad do kampaně,JANEČEK KAREL,,,0,0,0
+karel_janecek,2023-01-10,Odchozí platba,-500,CZK,Vraceni prispevku na kampan,,,,0,0,0
+karel_janecek,2023-01-10,Odchozí platba,-0.1,CZK,Vraceni prispevku na kampan,,,,0,0,0
+karel_janecek,2023-01-10,Odchozí platba,-100,CZK,Vraceni prispevku na kampan,,,,0,0,0
+karel_janecek,2023-01-10,Odchozí platba,-100,CZK,Vraceni prispevku na kampan,,,,0,0,0
+karel_janecek,2023-01-10,Odchozí platba,-63,CZK,Vraceni prispevku na kampan,,,,0,0,0
+andrej_babis,2023-01-11,Příchozí platba,0.01,CZK,"Jdi domů, Andreji, tady tě nikdo nechce....Česká republika má dost svých STB-áků .",Ing.Havlíčková Marie,,,0,0,0
+andrej_babis,2023-01-11,Příchozí platba,0.01,CZK,na logopeda,VYHNAL VÁCLAV,,,0,0,0
+andrej_babis,2023-01-11,Příchozí platba,0.01,CZK,"Verdikt soudu nic nemění na tom, že estébák Bureš nemá v politice co dělat!",Josef Sadílek,,,0,0,0
+andrej_babis,2023-01-11,Příchozí platba,0.01,CZK,"ČR MUSÍ MÍT I NADÁLE PREZIDENTA, ZA KTERÉHO SE OBČANÉ MOHOU STYDĚT - JAKO ZA KIKINU ČI MLHU! AŤ ŽIJE ZLODĚJ, LHÁŘ A PRÁSKAČ!","Mgr.Novák Vít,MBA",,,0,0,0
+andrej_babis,2023-01-11,Příchozí platba,0.01,CZK,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,Miloslava Sadílková,,,0,0,0
+andrej_babis,2023-01-11,Příchozí platba,0.01,CZK,"STBÁKU BUREŠI, OSTUDO ČR! PREZIDENTEM NEBUDEŠ! NIKDY!",Josef Sadílek,,,0,0,0
+andrej_babis,2023-01-11,Příchozí platba,0.01,CZK,Drahé Česko = záruka blahobytu Babiše,Milan Šmíd,,,25085,666,88
+andrej_babis,2023-01-11,Příchozí platba,0.01,CZK,Na korunovačné dluhopise,Milan Šmíd,,,25085,666,88
+andrej_babis,2023-01-11,Příchozí platba,0.01,CZK,Absencemi v práci posílíš mír!,Milan Šmíd,,,25085,666,88
+andrej_babis,2023-01-11,Příchozí platba,0.01,CZK,na teplake,Vehovský Roman,,,25085,666,0
+andrej_babis,2023-01-11,Příchozí platba,0.01,CZK,V TRADICI VLASTIZRÁDCŮ - KIKINA - MLHA - MŮŽE SPOLEHLIVĚ POKRAČOVAT JEN OVĚŘENÝ PRÁSKAČ!,"Mgr.Novák Vít,MBA",,,0,0,0
+andrej_babis,2023-01-10,Odchozí platba,-22.1,CZK,"odvod do statniho rozpoctu, nevyzadane platby",,,,20230110,558,0
+andrej_babis,2023-01-10,Odchozí platba,-777,CZK,Dekuji za podporu. Vazim si ji.,,,,20230110,558,0
+andrej_babis,2023-01-10,Odchozí platba,-20000,CZK,,,,,20230110,558,0
+andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,Na advokáta,VYHNAL VÁCLAV,,,0,0,0
 andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",ONDREJ SMID,,,25085,0,0
 andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,Miloslava Sadílková,,,0,0,0
-andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,"NESTYDĚLI JSME SE ZA PEROKRADA KIKINU ANI ZA ŘIŤOLEZCE A ALKÁČE MLHU,NEBUDE NÁM PROTO VADIT ANI VÝCHODNÍ ZLODĚJ A PRÁSKAČ!","Mgr.Novák Vít,MBA",,,0,0,0
-andrej_babis,2023-01-10,Příchozí platba,100,CZK,Čtyřlístek pro štěstí,Eva Spurná,,,27,0,0
-andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,"STBÁK, PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",Josef Sadílek,,,0,0,0
+andrej_babis,2023-01-10,Odchozí platba,-100,CZK,Dekuji za podporu. Vazim si ji.,,,,20230110,558,0
+andrej_babis,2023-01-10,Odchozí platba,-5,CZK,Dekuji za podporu. Vazim si ji.,,,,20230110,558,0
+andrej_babis,2023-01-10,Odchozí platba,-0.11,CZK,"odvod do statniho rozpoctu, nevyzadane platby",,,,20230110,558,0
 andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,Tahni kryple,Milan Vilím,,,0,0,0
-andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,Na advokáta,VYHNAL VÁCLAV,,,0,0,0
+andrej_babis,2023-01-10,Odchozí platba,-2000,CZK,Dekuji za podporu. Vazim si ji.,,,,20230110,558,0
+andrej_babis,2023-01-10,Odchozí platba,-44.44,CZK,Dekuji za podporu. Vazim si ji.,,,,20230110,558,0
 andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,kolik stoji osvobozujici rozsudek?,RADEK BŘENDA,,,0,0,0
+andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,"NESTYDĚLI JSME SE ZA PEROKRADA KIKINU ANI ZA ŘIŤOLEZCE A ALKÁČE MLHU,NEBUDE NÁM PROTO VADIT ANI VÝCHODNÍ ZLODĚJ A PRÁSKAČ!","Mgr.Novák Vít,MBA",,,0,0,0
+andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,0,0,0
+andrej_babis,2023-01-10,Příchozí platba,2000,CZK,,OKNA FUCIMAN s.r.o.,,,0,0,0
+andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,babisovyzlociny.cz,Patrik Sokol,,,0,0,0
+andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,Estébák Bureš ode mě hlas rozhodně nedostane. Nikdy! Nech si to zapamätá!,Josef Sadílek,,,0,0,0
+andrej_babis,2023-01-10,Odchozí platba,-0.44,CZK,Dekuji za podporu. Vazim si ji.,,,,20230110,558,0
+andrej_babis,2023-01-10,Odchozí platba,-1000,CZK,Dekuji za podporu. Vazim si ji.,,,,20230110,558,0
+andrej_babis,2023-01-10,Odchozí platba,-44.44,CZK,Dekuji za podporu. Vazim si ji.,,,,20230110,558,0
+andrej_babis,2023-01-10,Odchozí platba,-1000,CZK,Dekuji za podporu. Vazim si ji.,,,,20230110,558,0
+andrej_babis,2023-01-10,Příchozí platba,50,CZK,bankovni poplatky,ANO - PREZIDENT 2023,,,9,558,0
+andrej_babis,2023-01-10,Příchozí platba,100,CZK,Čtyřlístek pro štěstí,Eva Spurná,,,27,0,0
+andrej_babis,2023-01-10,Odchozí platba,-100,CZK,Dekuji za podporu. Vazim si ji.,,,,20230110,558,0
+andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,"STBÁK, PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",Josef Sadílek,,,0,0,0
 andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,na teplake,Vehovský Roman,,,25085,666,0
+andrej_babis,2023-01-10,Příchozí platba,0.01,CZK,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",ONDREJ SMID,,,25085,0,0
 andrej_babis,2023-01-09,Příchozí platba,0.01,CZK,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",Josef Sadílek,,,0,0,0
 andrej_babis,2023-01-09,Příchozí platba,0.01,CZK,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,Miloslava Sadílková,,,0,0,0
 andrej_babis,2023-01-09,Příchozí platba,0.01,CZK,Na homeopatika na křivdu,HÁNOVÁ MARTA,,,2023,0,0
@@ -11159,6 +11571,11 @@ andrej_babis,2023-01-03,Příchozí platba,0.01,CZK,"Jdi domů, Andreji, tady t�
 andrej_babis,2023-01-03,Příchozí platba,0.01,CZK,"MY, HNOJÁCI, NEPOTŘEBUJEME PREZIDENTA, KTERÝ UMÍ MLUVIT NEBO NĚCO VÍ,HLAVNĚ ŽE NÁM Z JEHO ANU VYPADNOU TEPLÉ KOBLIHY PŘÍMO DO HUBY!","Mgr.Novák Vít,MBA",,,0,0,0
 andrej_babis,2023-01-03,Příchozí platba,0.01,CZK,alkoholdrink.cz,Pavel Tr?ster,,,0,0,0
 andrej_babis,2023-01-03,Příchozí platba,0.01,CZK,"STBÁK, PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",Josef Sadílek,,,0,0,0
+denisa_rohanova,2023-01-04,Poplatek,-100,CZK,,,,,0,898,0
+denisa_rohanova,2023-01-04,,-9000,CZK,,Výběr,,,0,0,0
+karel_janecek,2023-01-02,Odchozí platba,-55000,CZK,Vklad do kampaně,,,,0,0,0
+karel_janecek,2023-01-02,Odchozí platba,-42000,CZK,,,,,220100009,308,0
+karel_janecek,2023-01-02,Příchozí platba,91850,CZK,Vklad do kampaně,JANEČEK KAREL,,,0,0,0
 andrej_babis,2023-01-02,Příchozí platba,0.01,CZK,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM ČR? NIKDY!",Josef Sadílek,,,0,0,0
 andrej_babis,2023-01-02,Příchozí platba,0.01,CZK,Lež má krátké - nohé! ...,KURFIRT ROMAN,,,0,0,0
 andrej_babis,2023-01-02,Příchozí platba,0.01,CZK,PROBOHA UŽ NĚKAM ZALEZ. JSI OSTUDA VŠECH OTCŮ. HANBA TI.,ALES JIRANEK,,,0,0,0
@@ -11192,8 +11609,6 @@ andrej_babis,2023-01-02,Příchozí platba,0.01,CZK,PREZIDENTEM ČR KŘIVOPŘÍS
 andrej_babis,2023-01-02,Příchozí platba,0.01,CZK,"na teplake, šmejde estébácký",VESELY RADEK,,,25085,0,0
 andrej_babis,2023-01-02,Příchozí platba,0.01,CZK,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,Miloslava Sadílková,,,0,0,0
 andrej_babis,2023-01-02,Příchozí platba,0.09,CZK,Abyste už nemusel čerpat,VANKAT PETR,,,0,0,0
-denisa_rohanova,2023-01-04,Poplatek,-100,CZK,,,,,0,898,0
-denisa_rohanova,2023-01-04,,-9000,CZK,,Výběr,,,0,0,0
 andrej_babis,2023-01-01,Příchozí platba,0.01,CZK,"MY, UCTÍVAČI ANU, CHCEME ZA PREZIDENTA JEDNOHO Z NÁS - VÝCHODNÍHO BURANA A SOUDY OPAKOVANĚ POTVRZENÉHO ZLODĚJE, LHÁŘE A PRÁSKAČE!","Mgr.Novák Vít,MBA",,,0,0,0
 andrej_babis,2023-01-01,Poplatek,-30,CZK,,,,,0,898,0
 karel_janecek,2022-12-31,Poplatek,-60,CZK,,,,,0,0,0

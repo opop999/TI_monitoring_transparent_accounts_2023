@@ -1,4 +1,12 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-11,-1000,CZK,Karetní transakce,,"Nákup: FACEBK DKDRWKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",,5298,,"Nákup: FACEBK DKDRWKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",marek_hilser
+2023-01-11,-1000,CZK,Karetní transakce,,"Nákup: FACEBK DD3N2JFJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",,5298,,"Nákup: FACEBK DD3N2JFJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",marek_hilser
+2023-01-10,-1000,CZK,Karetní transakce,,"Nákup: FACEBK 7T8MHJXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",,5298,,"Nákup: FACEBK 7T8MHJXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",marek_hilser
+2023-01-10,-1000,CZK,Karetní transakce,,"Nákup: FACEBK XFGJWKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",,5298,,"Nákup: FACEBK XFGJWKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",marek_hilser
+2023-01-10,-1000,CZK,Karetní transakce,,"Nákup: FACEBK KU2FWKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",,5298,,"Nákup: FACEBK KU2FWKTJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.1.2023, částka  1000.00 CZK",marek_hilser
+2023-01-10,-70000,CZK,Bezhotovostní platba,,,,,,faktura 11 - organizace volební kampaně - GS - prosinec 2022,marek_hilser
+2023-01-10,-50650,CZK,Bezhotovostní platba,,,,,,"faktura 2022 / 004 - Produkční práce, organizace volební kampaně PJ - prosinec 2022",marek_hilser
+2023-01-10,250000,CZK,Platba převodem uvnitř banky,„Marek Hilšer do Senátu“,Financování prezidentské kampaně  - hnutí Marek Hilšer do Senátu,,,,Financování prezidentské kampaně  - hnutí Marek Hilšer do Senátu,marek_hilser
 2023-01-10,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
 2023-01-10,-15000,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 9.1.2023, částka  15000.00 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 9.1.2023, částka  15000.00 CZK",marek_hilser
 2023-01-09,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
