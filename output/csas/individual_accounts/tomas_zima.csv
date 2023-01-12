@@ -1,4 +1,12 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2023-01-11,-175000,CZK,Tuzemská odchozí úhrada,,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
+2023-01-10,150000,CZK,Příchozí úhrada,,,,MUDr. Tomáš Zima,Tomáš Zima,tomas_zima
+2023-01-10,-5,CZK,Tuzemská odchozí úhrada,,,,000123-0409070207/0100,"Vraceni neidentifikovaneho daru, Vraceni neidentifikovaneho daru",tomas_zima
+2023-01-09,-125000,CZK,Tuzemská odchozí úhrada,,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
+2023-01-07,5,CZK,Příchozí úhrada,,,,KOLAŘÍK DALIBOR,,tomas_zima
+2023-01-06,25000,CZK,Příchozí úhrada,,,,Prof.MUDr.Martásek P,Dar - podpora kampane - Pavel Martásek,tomas_zima
+2023-01-05,10000,CZK,Příchozí úhrada,,,,Barath Peter,Dar od Beatrice Barathová,tomas_zima
+2023-01-05,-150000,CZK,Tuzemská odchozí úhrada,,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
 2023-01-10,150000,CZK,Příchozí úhrada,0,,,MUDr. Tomáš Zima,Tomáš Zima,tomas_zima
 2023-01-10,-5,CZK,Tuzemská odchozí úhrada,0,,,000123-0409070207/0100,"Vraceni neidentifikovaneho daru, Vraceni neidentifikovaneho daru",tomas_zima
 2023-01-09,-125000,CZK,Tuzemská odchozí úhrada,0,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
@@ -8,11 +16,6 @@ date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,ent
 2023-01-05,-150000,CZK,Tuzemská odchozí úhrada,0,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
 2023-01-03,50000,CZK,Příchozí úhrada,0,,,ŠTOCHL JAROSLAV,Štochl . Dar,tomas_zima
 2023-01-03,-50000,CZK,Tuzemská odchozí úhrada,0,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
-2023-01-09,-125000,CZK,Tuzemská odchozí úhrada,,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
-2023-01-07,5,CZK,Příchozí úhrada,,,,KOLAŘÍK DALIBOR,,tomas_zima
-2023-01-06,25000,CZK,Příchozí úhrada,,,,Prof.MUDr.Martásek P,Dar - podpora kampane - Pavel Martásek,tomas_zima
-2023-01-05,10000,CZK,Příchozí úhrada,,,,Barath Peter,Dar od Beatrice Barathová,tomas_zima
-2023-01-05,-150000,CZK,Tuzemská odchozí úhrada,,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
 2023-01-03,50000,CZK,Příchozí úhrada,,,,ŠTOCHL JAROSLAV,Štochl . Dar,tomas_zima
 2023-01-03,-50000,CZK,Tuzemská odchozí úhrada,,,,000000-6146768319/0800,ZFP_zaloha,tomas_zima
 2023-01-02,100000,CZK,Příchozí úhrada,,,,Jozef Šepetka,DAR,tomas_zima

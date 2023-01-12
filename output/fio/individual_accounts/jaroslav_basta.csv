@@ -1,4 +1,9 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-11,0.01,CZK,Okamžitá příchozí platba,Malík Matěj,"Prodám černou Škodu Fabia III, najeto 110 tisíc km. Vše v topu. Slevamožná, pokud mi přinesete znehodnocený vol. lístek Jaroslava Bašty.",0,,,Malík Matěj,jaroslav_basta
+2023-01-11,0.01,CZK,Okamžitá příchozí platba,Malík Matěj,"Dar, abys mohl odtáhnout do Moskvy za svým kamarádem Vládikem. S pozdravem a idi na chuj.",0,,,Malík Matěj,jaroslav_basta
+2023-01-11,13721.4,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-11,5000,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-11,-20000,CZK,Karetní transakce,,"Nákup: FACEBK NTYRRJ3272, fb.me/ads, IE, dne 10.1.2023, částka  20000.00 CZK",,4231,,"Nákup: FACEBK NTYRRJ3272, fb.me/ads, IE, dne 10.1.2023, částka  20000.00 CZK",jaroslav_basta
 2023-01-11,1000,CZK,Okamžitá příchozí platba,Tomáš Krátký,Tomáš Krátký,,,,Tomáš Krátký,jaroslav_basta
 2023-01-10,-500,CZK,Okamžitá odchozí platba,,"Dar bohužel musíme vrátit, po doplnění identifikace dárce dle www.jaroslavbastaprezident.cz v sekci Podpora jej lze přijmout.",,,,vrácení daru,jaroslav_basta
 2023-01-10,500,CZK,Okamžitá příchozí platba,HRADISKÝ JAROSL,podpora kampaně p. Bašty,,,,HRADISKÝ JAROSL,jaroslav_basta

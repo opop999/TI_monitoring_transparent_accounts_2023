@@ -1,4 +1,20 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-12,0.01,CZK,Okamžitá příchozí platba,Květoslava Kurinovsk,Fandim vám!!!!!!! Vyhrajete nad Babišem a tou ženou...general>>>>>babis a nerudova,,,,Květoslava Kurinovsk,petr_pavel
+2023-01-12,55,CZK,Bezhotovostní příjem,JIRI BREZINA,DAR NA KAMPAN GENERALA PAVLA,,,,JIRI BREZINA,petr_pavel
+2023-01-12,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2023-01-12,-3932.5,CZK,Bezhotovostní platba,,,,8122009248,,"IČ: 26155222, bannery",petr_pavel
+2023-01-12,2500,CZK,Bezhotovostní příjem,DOBEŠ PAVEL,"Pavel Dobeš, dar",,,,DOBEŠ PAVEL,petr_pavel
+2023-01-11,333,CZK,Okamžitá příchozí platba,Jan Teodor Kucharz,Dar na kampan generala Pavla,,,,Jan Teodor Kucharz,petr_pavel
+2023-01-11,1000,CZK,Okamžitá příchozí platba,Roman Chaluš,Dar na kampan generala Pavla,,,,Roman Chaluš,petr_pavel
+2023-01-11,-2100,CZK,Okamžitá odchozí platba,,,,,,"IČ: 69219672, produkční náklady",petr_pavel
+2023-01-11,9900,CZK,Okamžitá příchozí platba,Vávra Josef,Dar na kampaň generála Pavla,558,12023,2023,Vávra Josef,petr_pavel
+2023-01-11,10100,CZK,Okamžitá příchozí platba,Vávra Josef,Dar na kampaň generála Pavla,558,12023,2023,Vávra Josef,petr_pavel
+2023-01-11,10000,CZK,Okamžitá příchozí platba,Vávra Josef,Dar na kampaň generála Pavla,558,12023,2023,Vávra Josef,petr_pavel
+2023-01-11,-24200,CZK,Karetní transakce,,"Nákup: FACEBK SXCBZKBQ32, fb.me/ads, IE, dne 10.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK SXCBZKBQ32, fb.me/ads, IE, dne 10.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-11,-24200,CZK,Karetní transakce,,"Nákup: FACEBK A2HB3K3R32, fb.me/ads, IE, dne 10.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK A2HB3K3R32, fb.me/ads, IE, dne 10.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-11,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 3VW6BJTQ32, fb.me/ads, IE, dne 10.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 3VW6BJTQ32, fb.me/ads, IE, dne 10.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-11,770,CZK,Bezhotovostní příjem,MIKOLASEK DAVID,Petr Pavel,,0,,MIKOLASEK DAVID,petr_pavel
+2023-01-11,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
 2023-01-11,0.01,CZK,Okamžitá příchozí platba,Široký Radim,,0,,,Široký Radim,petr_pavel
 2023-01-11,500,CZK,Okamžitá příchozí platba,Vaníček Josef,Dar na kampaň generála Pavla,0,,,Vaníček Josef,petr_pavel
 2023-01-11,200,CZK,Platba převodem uvnitř banky,"Kertész, Martina",Dar na kampaň GP - snad to klapne - držím palce,,,,Dar na kampaň GP - snad to klapne - držím palce,petr_pavel

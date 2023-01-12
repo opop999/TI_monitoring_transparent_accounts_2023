@@ -1,6 +1,13 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bank_code,message_for_recipient,ks,vs,ss,currency,entity
-2023-01-02,1000,Incoming payment ,Šejbová Lenka,4278633003,800,Lenka Šejbová 16.12. 1959,0,,,CZK,libor_michalek
+2023-01-11,10000,Incoming instant payment ,Tomáš Svoboda,1849000012,3030,1101000 1101111 1100100 1101110 111 111 111111 100000 111111 111111 111 0100 111111 111111 1110011 1110100 111111,,,,CZK,karel_divis
+2023-01-11,-10000,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane,,20230110,,CZK,karel_divis
+2023-01-10,-0.01,Outgoing instant payment ,,1015832277,5500,"V debatě jste arogantní trouba stej ně jako v běžném životě. Takového p rezidenta již máme, jen mnohem st ar šího.",,,,CZK,karel_divis
+2023-01-10,-500,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane,,20230110,,CZK,karel_divis
+2023-01-10,500,Incoming instant payment ,Jan Štim,1272392014,3030,Musíte porazit ty dva prašivý komou še a tu divnou paní. Držím palce. P S: Průzkumy jsou k ničemu. Mě se ni kdo neptal.,,,,CZK,karel_divis
+2023-01-09,-199411.15,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane,,20230109,,CZK,karel_divis
+2023-01-09,0.01,Incoming instant payment ,Jan Zelman,1015832277,5500,"V debatě jste arogantní trouba stej ně jako v běžném životě. Takového p rezidenta již máme, jen mnohem star šího.",,,,CZK,karel_divis
 2023-01-05,200,Incoming instant payment ,Jakub Karský,157710,5500,Kvalitni a energicky kandidat.,,,,CZK,karel_divis
+2023-01-02,1000,Incoming payment ,Šejbová Lenka,4278633003,800,Lenka Šejbová 16.12. 1959,0,,,CZK,libor_michalek
 2023-01-03,-68970,Outgoing instant payment ,,111120232,5500,za organizaci prezidentske kampane - PR,,20230103,,CZK,karel_divis
 2023-01-03,208,Incoming instant payment ,JELÍNEK VÁCLAV,245120692,600,"Věřím, že máte šanci. Nepolevujte v úsilí. Pro mě jste jediná možná vo lba a budu Vám držet palce!",,,,CZK,karel_divis
 2023-01-03,2000,Incoming instant payment ,"Pakosta, Jaroslav",2200788719,2010,,,,,CZK,karel_divis
