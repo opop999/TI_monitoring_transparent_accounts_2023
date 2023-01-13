@@ -1,4 +1,8 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-12,-13721.4,CZK,Bezhotovostní platba,,"tisk plakátů, bilboardů atd.  pro prezidentskou kampaň Jaroslava Bašty",8,,,"D & S Design Prague s.r.o. - tisk plakátů, bilboardů atd. pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
+2023-01-12,-5000,CZK,Okamžitá odchozí platba,,spot - rozhlas -  prezid. kampaň J. Bašty,,,,Jaroslav Šimek - spot - rozhlas -  prezid. kampaň J. Bašty,jaroslav_basta
+2023-01-12,-1210,CZK,Platba převodem uvnitř banky,,ozvučení salonku - prezid. kampaň J. Bašty Vojanův Dvůr,,,,Petr Smetánka - ozvučení salonku - prezid. kampaň J. Bašty,jaroslav_basta
+2023-01-12,-60403,CZK,Okamžitá odchozí platba,,Floating Wide Square - prezidentská kampaň Jaroslava Bašty,308,2123000475,,"MAFRA, a.s. Floating Wide Square - prezidentská kampaň Jaroslava Bašty",jaroslav_basta
 2023-01-11,0.01,CZK,Okamžitá příchozí platba,Malík Matěj,"Prodám černou Škodu Fabia III, najeto 110 tisíc km. Vše v topu. Slevamožná, pokud mi přinesete znehodnocený vol. lístek Jaroslava Bašty.",0,,,Malík Matěj,jaroslav_basta
 2023-01-11,0.01,CZK,Okamžitá příchozí platba,Malík Matěj,"Dar, abys mohl odtáhnout do Moskvy za svým kamarádem Vládikem. S pozdravem a idi na chuj.",0,,,Malík Matěj,jaroslav_basta
 2023-01-11,13721.4,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta

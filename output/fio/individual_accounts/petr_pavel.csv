@@ -1,4 +1,42 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-13,1111,CZK,Bezhotovostní příjem,OPLUŠTIL MARTIN,jste nejlepší,0,0,0,OPLUŠTIL MARTIN,petr_pavel
+2023-01-13,4516,CZK,Platba převodem uvnitř banky,"Dyba, Alexandr",Společně to vyhrajeme,,,,Společně to vyhrajeme,petr_pavel
+2023-01-13,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2023-01-13,250,CZK,Okamžitá příchozí platba,Jan Tesárek,,,,,Jan Tesárek,petr_pavel
+2023-01-13,-30734,CZK,Bezhotovostní platba,,,,8122009333,,"IČ: 26155222, bannery",petr_pavel
+2023-01-13,-4030,CZK,Bezhotovostní platba,,,,202280,,"IČ: 73373575, korektury",petr_pavel
+2023-01-13,-58500,CZK,Bezhotovostní platba,,,,123,,"IČ: 66870305, grafika",petr_pavel
+2023-01-13,-65000,CZK,Bezhotovostní platba,,,,20220014,,"IČ: 05177880, marketing",petr_pavel
+2023-01-13,-66000,CZK,Platba převodem uvnitř banky,,,,2022043,,"IČ: 07169442, grafika",petr_pavel
+2023-01-13,-25000,CZK,Bezhotovostní platba,,,,77,,"IČ: 08318387, video",petr_pavel
+2023-01-13,-30000,CZK,Platba převodem uvnitř banky,,,,12023,,"IČ: 69328480, foto",petr_pavel
+2023-01-13,-50000,CZK,Bezhotovostní platba,,,,20220005,,"IČ: 07437455, mediální služby",petr_pavel
+2023-01-13,-10000,CZK,Bezhotovostní platba,,,,,,Jiří Němec DPP,petr_pavel
+2023-01-13,-76401,CZK,Bezhotovostní platba,,,,202208,,"IČ: 17121302, komunikace",petr_pavel
+2023-01-13,-65000,CZK,Bezhotovostní platba,,,,420,,"IČ: 87695022, vedení kampaně",petr_pavel
+2023-01-13,-12000,CZK,Bezhotovostní platba,,,,20220004,,"IČ: 17474591, doprava",petr_pavel
+2023-01-13,-42800,CZK,Bezhotovostní platba,,,,20220007,,"IČ: 17191173, služby",petr_pavel
+2023-01-13,-240.79,CZK,Bezhotovostní platba,,,308,22145619,,"IČ: 27920500, aquamat",petr_pavel
+2023-01-13,-6600,CZK,Platba převodem uvnitř banky,,,,21220033,,"IČ: 62595156, supervize",petr_pavel
+2023-01-13,-45000,CZK,Bezhotovostní platba,,,,2022000038,,"IČ: 87556669, marketing",petr_pavel
+2023-01-13,-30000,CZK,Bezhotovostní platba,,,,1222120002,,"IČ: 71967702, marketing",petr_pavel
+2023-01-13,-56500,CZK,Bezhotovostní platba,,,,162022,,"IČ: 88010520, AV produkce",petr_pavel
+2023-01-13,-148174.56,CZK,Platba cizoměnová či zahraniční,,,,29122022,,"IČ: 48260045, marketing",petr_pavel
+2023-01-13,-22500,CZK,Bezhotovostní platba,,,,202229,,"IČ: 61274925, služby",petr_pavel
+2023-01-13,-65000,CZK,Bezhotovostní platba,,,,2212,,"IČ: 08991278, služby",petr_pavel
+2023-01-13,-78650,CZK,Bezhotovostní platba,,,,2022145,,"IČ: 69219672, marketing",petr_pavel
+2023-01-13,-54600,CZK,Bezhotovostní platba,,,,202212,,"IČ: 02532352, služby",petr_pavel
+2023-01-13,-50000,CZK,Bezhotovostní platba,,,,20221201,,"IČ: 86586513, marketing",petr_pavel
+2023-01-12,1500,CZK,Okamžitá příchozí platba,KARIN ALEXANDROVÁ,Dar na kampan generala Pavla,,,,KARIN ALEXANDROVÁ,petr_pavel
+2023-01-12,10000,CZK,Okamžitá příchozí platba,OHLÍDAL VLADIMÍR,Dar NA KAMPAŇ GENERÁLA PAVLA,,511105191,,OHLÍDAL VLADIMÍR,petr_pavel
+2023-01-12,-458.54,CZK,Karetní transakce,,"Nákup: CLOUDFLARE, HTTPSWWW.CLOU, US, dne 11.1.2023, částka  20.00 USD",,7999,,"Nákup: CLOUDFLARE, HTTPSWWW.CLOU, US, dne 11.1.2023, částka  20.00 USD",petr_pavel
+2023-01-12,5000,CZK,Okamžitá příchozí platba,Bartuška Roman,Dar na kampan generala Pavla,0,,,Bartuška Roman,petr_pavel
+2023-01-12,-24200,CZK,Karetní transakce,,"Nákup: FACEBK UQRDCJTQ32, fb.me/ads, IE, dne 11.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK UQRDCJTQ32, fb.me/ads, IE, dne 11.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-12,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 7TLSKJ3Q32, fb.me/ads, IE, dne 11.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 7TLSKJ3Q32, fb.me/ads, IE, dne 11.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-12,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 9RN64K3R32, fb.me/ads, IE, dne 11.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 9RN64K3R32, fb.me/ads, IE, dne 11.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-12,-24200,CZK,Karetní transakce,,"Nákup: FACEBK QE7UZKBQ32, fb.me/ads, IE, dne 11.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK QE7UZKBQ32, fb.me/ads, IE, dne 11.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-12,2000,CZK,Platba převodem uvnitř banky,"MVDr. Raška, Vítězslav",Mnoho zdaru ve finiši!,,,,Mnoho zdaru ve finiši!,petr_pavel
+2023-01-12,1000,CZK,Bezhotovostní příjem,KLAJSNER VÁCLAV,"Konečně skvělý prezident, generál Pavel na hrad !!!",0,0,0,KLAJSNER VÁCLAV,petr_pavel
 2023-01-12,0.01,CZK,Okamžitá příchozí platba,Květoslava Kurinovsk,Fandim vám!!!!!!! Vyhrajete nad Babišem a tou ženou...general>>>>>babis a nerudova,,,,Květoslava Kurinovsk,petr_pavel
 2023-01-12,55,CZK,Bezhotovostní příjem,JIRI BREZINA,DAR NA KAMPAN GENERALA PAVLA,,,,JIRI BREZINA,petr_pavel
 2023-01-12,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
