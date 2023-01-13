@@ -248,14 +248,14 @@ load_combined_dataset <- function(dir_name, file_name = "all_banks_combined_data
 # Create a time series of cumulative spending/income
 create_time_series <- function(combined_dataset, start_date, end_date, type = c("income", "spend")) {
   if (type == "income") {
-    operator <- ">"
+    operator <- `>`
   } else if (type == "spend") {
-    operator <- "<"
+    operator <- `<`
   }
 
   combined_dataset %>%
     filter(date >= as.Date(start_date) &
-      date <= as.Date(end_date) & amount < 0) %>%
+      date <= as.Date(end_date) & operator(amount, 0)) %>%
     transmute(
       entity = as.factor(entity),
       date,
