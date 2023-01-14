@@ -1,4 +1,39 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-14,50,CZK,Okamžitá příchozí platba,JARKOVSKÝ MATĚJ,Sevents Czech Republic s.r.o.,,,,JARKOVSKÝ MATĚJ,petr_pavel
+2023-01-14,500,CZK,Platba převodem uvnitř banky,"Buchtík, Jan",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,RADMILA BUCHTÍKOVÁ,Dar na kampan generala Pavla,,,,RADMILA BUCHTÍKOVÁ,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,Jana Ticháčková,Dar na kampan generala Pavla,,,,Jana Ticháčková,petr_pavel
+2023-01-14,-11979,CZK,Bezhotovostní platba,,,,22210406,,"IČ: 27103269, technické zajištění",petr_pavel
+2023-01-14,-20000,CZK,Bezhotovostní platba,,,,22800013,,"IČ: 88225593, textařské práce",petr_pavel
+2023-01-13,2000,CZK,Okamžitá příchozí platba,Štěpánek Petr,Držím palce,0,,,Štěpánek Petr,petr_pavel
+2023-01-13,1000,CZK,Okamžitá příchozí platba,Tomáš Kural,Drzime palce!,,,,Tomáš Kural,petr_pavel
+2023-01-13,-80598.67,CZK,Karetní transakce,,"Nákup: FACEBK *9UKRJJKQ32, fb.me/ads, IE, dne 13.1.2023, částka  80598.67 CZK",,7999,,"Nákup: FACEBK *9UKRJJKQ32, fb.me/ads, IE, dne 13.1.2023, částka  80598.67 CZK",petr_pavel
+2023-01-13,5555.55,CZK,Okamžitá příchozí platba,BROŽ MAREK,"Jediny kandidat, ktery nas dokaze perfektne reprezentovat a vladu si srovna pekne do late.",,,,BROŽ MAREK,petr_pavel
+2023-01-13,-29570.68,CZK,Karetní transakce,,"Nákup: FACEBK 58JVHJKQ32, fb.me/ads, IE, dne 12.1.2023, částka  29570.68 CZK",,7999,,"Nákup: FACEBK 58JVHJKQ32, fb.me/ads, IE, dne 12.1.2023, částka  29570.68 CZK",petr_pavel
+2023-01-13,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 4YTLLJ3Q32, fb.me/ads, IE, dne 12.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 4YTLLJ3Q32, fb.me/ads, IE, dne 12.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-13,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 8N4ZCJTQ32, fb.me/ads, IE, dne 12.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 8N4ZCJTQ32, fb.me/ads, IE, dne 12.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-13,-311,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-245,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-157,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-313,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-192,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-1330,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-873,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-363,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-324,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-273,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-204,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-280,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-248,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-780,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-909.3,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-1270,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-754,CZK,Okamžitá odchozí platba,,,,,,"IČ: 17191173, produkční náklady",petr_pavel
+2023-01-13,-849,CZK,Okamžitá odchozí platba,,,,,,"IČ: 87556669, produkční náklady",petr_pavel
+2023-01-13,-1484,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2023-01-13,0.01,CZK,Okamžitá příchozí platba,Martin Kahoun,Instagram @martynscz,,,,Martin Kahoun,petr_pavel
+2023-01-13,108,CZK,Okamžitá příchozí platba,David Forman,Z těch hrozných kandidátů jste určitě nejlepší volba a to o poměrně dost..  Ale pořád je co zlepšovat.,,3,,David Forman,petr_pavel
+2023-01-13,1,CZK,Okamžitá příchozí platba,Martin Bušek,Zkouška sirén,,,,Martin Bušek,petr_pavel
 2023-01-13,1111,CZK,Bezhotovostní příjem,OPLUŠTIL MARTIN,jste nejlepší,0,0,0,OPLUŠTIL MARTIN,petr_pavel
 2023-01-13,4516,CZK,Platba převodem uvnitř banky,"Dyba, Alexandr",Společně to vyhrajeme,,,,Společně to vyhrajeme,petr_pavel
 2023-01-13,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel

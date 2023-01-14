@@ -1,15 +1,19 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
-361-13012023 1086 086142 503593,2023-01-13,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","PUTIN SI PŘEJE ZA PREZIDENTA ČR LHÁŘE, ZLODĚJE, SRABA, BURANA, PRÁSKAČE A BLBA A VOLÍ JEJ SKRZE HLASY POLYKAČŮ KOBLIH Z ANU!",CZK,0,0,0,andrej_babis
-120-20230112 272433258,2023-01-13,0.01,Příchozí platba,Tomáš Antonín,Příspěvek na politický důchod STBáku,CZK,0,0,0,andrej_babis
-361-13012023 1086 086149 502197,2023-01-13,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
-120-20230113 T02AR0HS1OLIE,2023-01-13,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
-120-20230113 T02AR0HS1OLIF,2023-01-13,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
 120-20230113 2227151636,2023-01-13,0.01,Příchozí platba,Josef Sadílek,"Lhal estébák Bureš včera? ANO, iDnes! Můj hlas nedostane!",CZK,0,0,0,andrej_babis
 120-20230113 2188838897,2023-01-13,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
-120-20230113 2188825535,2023-01-13,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
-361-13012023 1086 086150 101064,2023-01-13,0.01,Příchozí platba,"Kosinka, Jakub",no votes? what about koblih důchodcům?,CZK,0,0,0,andrej_babis
-120-20230113 00752997951,2023-01-13,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
+120-20230113 T02AR0HS1OLIF,2023-01-13,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
+120-20230113 T02AR0HS1OLIE,2023-01-13,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+001-13012023 1602 602031 745261,2023-01-13,-0.31,Odchozí platba,,"odvod do statniho rozpoctu, nevyzadane platby",CZK,20230113,558,0,andrej_babis
 361-13012023 1086 086149 100936,2023-01-13,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","JEN TUPÁ HOVADA SI ZVOLÍ ZA PREZIDENTA LHÁŘE, ZLODĚJE A PRÁSKAČE, ALETUPÝCH HOVAD JE V NÁRODĚ NEJVÍC!",CZK,0,0,0,andrej_babis
+361-13012023 1086 086150 101064,2023-01-13,0.01,Příchozí platba,"Kosinka, Jakub",no votes? what about koblih důchodcům?,CZK,0,0,0,andrej_babis
+361-13012023 1086 086149 502197,2023-01-13,0.01,Příchozí platba,Pavel Tr?ster,alkoholdrink.cz,CZK,0,0,0,andrej_babis
+361-13012023 1086 086142 503593,2023-01-13,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","PUTIN SI PŘEJE ZA PREZIDENTA ČR LHÁŘE, ZLODĚJE, SRABA, BURANA, PRÁSKAČE A BLBA A VOLÍ JEJ SKRZE HLASY POLYKAČŮ KOBLIH Z ANU!",CZK,0,0,0,andrej_babis
+361-13012023 1086 086144 107701,2023-01-13,0.01,Příchozí platba,DUDKOVÁ DANA,Konec Babiše v Čechách,CZK,0,0,0,andrej_babis
+361-13012023 1086 086151 508108,2023-01-13,0.01,Příchozí platba,"Bulka, Vladimír","Babiš je bezpečnostní riziko, NEVOLIT : https://www.forum24.cz/tajna-analyticka-zprava/",CZK,0,0,0,andrej_babis
+120-20230113 2188825535,2023-01-13,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+120-20230112 272433258,2023-01-13,0.01,Příchozí platba,Tomáš Antonín,Příspěvek na politický důchod STBáku,CZK,0,0,0,andrej_babis
+001-13012023 1602 602018 635981,2023-01-13,-128,Odchozí platba,,Dekuji za podporu. Vazim si ji.,CZK,20230113,558,0,andrej_babis
+120-20230113 00752997951,2023-01-13,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20230112 PR00000491921,2023-01-12,0.01,Příchozí platba,SYNAK VOJTECH,literally Palpatine... to fakt chceš. Jen Sith Lord to eště není. Asi. Zdravim Septimu,CZK,0,0,0,andrej_babis
 120-20230112 2227151561,2023-01-12,0.01,Příchozí platba,Josef Sadílek,Verdikt Evropského úřadu pro boj proti podvodům OLAF platí. Čapí hnízdo nemělo na dotace nárok! Estébák Bureš při žádosti o dotaci lhal!,CZK,0,0,0,andrej_babis
 120-20230112 2186625103,2023-01-12,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis

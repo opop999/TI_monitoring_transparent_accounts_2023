@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-14,25,CZK,Okamžitá příchozí platba,STAVJAŘ MICHAEL,"mrzí mě, že máte na účtu míň než já... aby jste měl aspoň na chleba",,,,STAVJAŘ MICHAEL,josef_stredula
 2023-01-13,0.01,CZK,Okamžitá příchozí platba,VACH JAROSLAV,Zkousim jestli to funguje!,,,,VACH JAROSLAV,josef_stredula
 2023-01-13,0.01,CZK,Bezhotovostní příjem,Květoslava Kurinovsk,"Pepo, nevadí že jsi nevyhrál, ale hlavní je že jsi se zůčastnil. Zkusto za 5 let třeba to vyjde!!",,,,Květoslava Kurinovsk,josef_stredula
 2023-01-12,0.69,CZK,Okamžitá příchozí platba,Tikal Matěj,Sledujte instagram @cesi_na_internetu,0,,,Tikal Matěj,josef_stredula

@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-13,-20000,CZK,Karetní transakce,,"Nákup: FACEBK MH4ZSJXY62, fb.me/ads, IE, dne 12.1.2023, částka  20000.00 CZK",,4231,,"Nákup: FACEBK MH4ZSJXY62, fb.me/ads, IE, dne 12.1.2023, částka  20000.00 CZK",jaroslav_basta
 2023-01-12,-13721.4,CZK,Bezhotovostní platba,,"tisk plakátů, bilboardů atd.  pro prezidentskou kampaň Jaroslava Bašty",8,,,"D & S Design Prague s.r.o. - tisk plakátů, bilboardů atd. pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
 2023-01-12,-5000,CZK,Okamžitá odchozí platba,,spot - rozhlas -  prezid. kampaň J. Bašty,,,,Jaroslav Šimek - spot - rozhlas -  prezid. kampaň J. Bašty,jaroslav_basta
 2023-01-12,-1210,CZK,Platba převodem uvnitř banky,,ozvučení salonku - prezid. kampaň J. Bašty Vojanův Dvůr,,,,Petr Smetánka - ozvučení salonku - prezid. kampaň J. Bašty,jaroslav_basta
