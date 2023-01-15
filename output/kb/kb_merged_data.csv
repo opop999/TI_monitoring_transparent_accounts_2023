@@ -113,6 +113,9 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 120-20230109 2183048457,2023-01-09,0.01,Příchozí platba,Miloslava Sadílková,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,CZK,0,0,0,andrej_babis
 120-20230109 T02AR0HROG74C,2023-01-09,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
 120-20230109 T02AR0HROG74B,2023-01-09,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+372-11012023 1086 086153 500056,2023-01-11,-3461.31,,Ostatní,"EXE167 EX 22025/14-422 KAMI, s.r.o.",CZK,220118932,51,2202514,denisa_rohanova
+372-11012023 1086 086153 100054,2023-01-11,-453.8,,Ostatní,"EXE167 EX 22025/14-422 KAMI, s.r.o.",CZK,220118932,51,2202514,denisa_rohanova
+372-11012023 1086 086153 100057,2023-01-11,-16028.61,,Ostatní,"EXE167 EX 22025/14-422 KAMI, s.r.o.",CZK,220118932,51,2202514,denisa_rohanova
 120-20230106 T02AR0HRMPQDA,2023-01-06,0.01,Příchozí platba,ONDREJ SMID,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",CZK,25085,0,0,andrej_babis
 120-20230106 2178545926,2023-01-06,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
 120-20230106 2178542305,2023-01-06,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
@@ -127,9 +130,6 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 361-06012023 1086 086149 503744,2023-01-06,0.01,Příchozí platba,Rubáš Marek,"Kontrolní otázka: Kdo by byl lepším prezidentem, ty nebo Kajínek??? Vyšlo by to nastejno, jen Kajínek je na tom z pohledu psychiatra lépe.",CZK,25085,0,0,andrej_babis
 361-06012023 1086 086142 104981,2023-01-06,1,Příchozí platba,MIROSLAV TOMÁŠEK,Jste pro mne nepřijatelný prezident České republiky protože neumíte mluvit česky!,CZK,0,0,0,andrej_babis
 361-06012023 1086 086151 505548,2023-01-06,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","NEJEN HNOJÁCI A HOTENTOTI, ALE I VŠICHNI CHOVANCI S DIAGNÓZOU POKROČILÉ DEBILITY BUDOU VOLIT ZLODĚJE, LHÁŘE A PRÁSKAČE!",CZK,0,0,0,andrej_babis
-372-11012023 1086 086153 500056,2023-01-11,-3461.31,,Ostatní,"EXE167 EX 22025/14-422 KAMI, s.r.o.",CZK,220118932,51,2202514,denisa_rohanova
-372-11012023 1086 086153 100054,2023-01-11,-453.8,,Ostatní,"EXE167 EX 22025/14-422 KAMI, s.r.o.",CZK,220118932,51,2202514,denisa_rohanova
-372-11012023 1086 086153 100057,2023-01-11,-16028.61,,Ostatní,"EXE167 EX 22025/14-422 KAMI, s.r.o.",CZK,220118932,51,2202514,denisa_rohanova
 001-05012023 1602 602028 843881,2023-01-05,0.01,Příchozí platba,HÁNOVÁ MARTA,Na psychiatra Andrej,CZK,2023,0,0,andrej_babis
 120-20230105 00749063555,2023-01-05,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20230105 2176693801,2023-01-05,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis

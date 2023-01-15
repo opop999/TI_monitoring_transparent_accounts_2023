@@ -1,4 +1,138 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2023-01-14,-15000,CZK,Platba kartou,1178,13012023,4598766091,-,XXXXXXXXXXXX6091 d.tran.13.01.2023IE  cc@google.com   GOOGLE *ADS960CZK     15000.00 d.zúč. 14.01.2023částka v Kč:       15000.00,pavel_fischer
+2023-01-14,-10000,CZK,Výběr hotovosti z bankomatu ČS,1178,13012023,4598766091,-,"XXXXXXXXXXXX5741 d.tran.12.01.2023CZ  PRAHA 1         CS, VALDSTEJNSCZK     10000.00 d.zúč. 14.01.2023částka v Kč:       10000.00",pavel_fischer
+2023-01-14,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Novotná Jana,,pavel_fischer
+2023-01-13,1400,CZK,Příchozí úhrada,1178,13012023,4598766091,KONARIK FRANTISEK,Pán Bůh požehnej hodně štěstí v presidentské volbě.Jsme již penzistí.,pavel_fischer
+2023-01-13,-20000,CZK,Platba kartou,1178,13012023,4598766091,-,XXXXXXXXXXXX6091 d.tran.11.01.2023IE  fb.me/ads       FACEBK *XUX86LCZK     20000.00 d.zúč. 13.01.2023částka v Kč:       20000.00,pavel_fischer
+2023-01-13,-15000,CZK,Platba kartou,1178,13012023,4598766091,-,XXXXXXXXXXXX6091 d.tran.11.01.2023IE  cc@google.com   GOOGLE *ADS960CZK     15000.00 d.zúč. 13.01.2023částka v Kč:       15000.00,pavel_fischer
+2023-01-13,0.01,CZK,Příchozí úhrada,1178,13012023,4598766091,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2023-01-13,111,CZK,Příchozí úhrada,1178,13012023,4598766091,"Kriegler, Radek",RK,pavel_fischer
+2023-01-13,0.01,CZK,Příchozí úhrada,1178,13012023,4598766091,Květoslava Kurinovsk,"Pájo, zkoušel jsi to i minulý rok anevyšlo to.. Vypadá to, že to nevyjde ani letos. Zkus to příští rok..Držím palečky. Pac a pusa",pavel_fischer
+2023-01-13,2023,CZK,Příchozí úhrada,1178,13012023,4598766091,Martin Tábor,Dar,pavel_fischer
+2023-01-13,5,CZK,Příchozí úhrada,1178,13012023,4598766091,Koňařík Pavel,"Pavel Koňařík - Pájo, věřím v tebe! Potvrzeno! V prvním kole 63,53 procent!",pavel_fischer
+2023-01-13,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Bečička Pavel,fischer,pavel_fischer
+2023-01-13,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,"Beneš, Jan","Potvrzení - je-li možné Ing.Jan Beneš, Šmejkalova 27, 61600 Brno; ingjanbenes@volny.cz",pavel_fischer
+2023-01-12,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Jan Černý,Dar k volbám od Jan Černý,pavel_fischer
+2023-01-12,200,CZK,Příchozí úhrada,1178,13012023,4598766091,Božena Bícová,Josef Bíca Dar,pavel_fischer
+2023-01-12,-500,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000000-0166553609/0300,Vrácení daru,pavel_fischer
+2023-01-12,-3256,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000000-0164094066/0600,Výlep plakátů,pavel_fischer
+2023-01-12,-9997,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000027-4380840287/0100,Reklamní předměty,pavel_fischer
+2023-01-12,-23958,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000000-1101107725/5500,Pronájem auta,pavel_fischer
+2023-01-12,3000,CZK,Příchozí úhrada,1178,13012023,4598766091,Barbora Hermanová,Hodně štěstí nám všem ! A díky moc.,pavel_fischer
+2023-01-12,-9000,CZK,Platba kartou,1178,13012023,4598766091,-,XXXXXXXXXXXX6091 d.tran.10.01.2023IE  cc@google.com   GOOGLE *ADS960CZK      9000.00 d.zúč. 12.01.2023částka v Kč:        9000.00,pavel_fischer
+2023-01-12,-75683.08,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000000-0258861000/0300,Tisk bannerů 4 typy,pavel_fischer
+2023-01-12,0.01,CZK,Příchozí úhrada,1178,13012023,4598766091,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2023-01-11,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Dvořák Daniel,Hodne Stesti!,pavel_fischer
+2023-01-11,-36300,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000035-4302140277/0100,Reklama CLV ve Zlíně,pavel_fischer
+2023-01-11,0.01,CZK,Příchozí úhrada,1178,13012023,4598766091,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2023-01-11,-1500,CZK,Platba kartou,1178,13012023,4598766091,-,XXXXXXXXXXXX6091 d.tran.10.01.2023IE  cc@google.com   GOOGLE *ADS960CZK      1500.00 d.zúč. 11.01.2023částka v Kč:        1500.00,pavel_fischer
+2023-01-11,-6000,CZK,Platba kartou,1178,13012023,4598766091,-,XXXXXXXXXXXX6091 d.tran.10.01.2023IE  cc@google.com   GOOGLE *ADS960CZK      6000.00 d.zúč. 11.01.2023částka v Kč:        6000.00,pavel_fischer
+2023-01-11,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,LUCIE HOUDKOVA,"PAVEL FISCHER, PLATBA",pavel_fischer
+2023-01-11,5000,CZK,Příchozí úhrada,1178,13012023,4598766091,VYHLÍDKO FRANTIŠEK,,pavel_fischer
+2023-01-11,2000,CZK,Příchozí úhrada,1178,13012023,4598766091,"Fišerová, Iveta","podpora  Pavla Fischera -  slušnost, vzdělanost a kultivovanost",pavel_fischer
+2023-01-11,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,RUSNOKOVA NIKOLA,,pavel_fischer
+2023-01-11,2000,CZK,Příchozí úhrada,1178,13012023,4598766091,TOMAS SEJHAR,"PAVEL FISCHER, PŘÍSPĚVEK NA VOLEBNÍ KAMPAŇ",pavel_fischer
+2023-01-11,2000,CZK,Příchozí úhrada,1178,13012023,4598766091,GUTTEK LADISLAV,"FISCHER kandidát na prezodenta, Ladislav Guttek, Zlín, 24.08.1955 dar",pavel_fischer
+2023-01-11,-312.06,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000027-6256170297/0100,Plakátování,pavel_fischer
+2023-01-11,-33940.5,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000000-0258861000/0300,Tisk plakátů a samolepek,pavel_fischer
+2023-01-11,-15125,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000000-0258861000/0300,Plakáty tisk,pavel_fischer
+2023-01-11,-600,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000000-1482185339/0800,Výlep plakátů,pavel_fischer
+2023-01-11,-55350,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000000-0115003359/0800,Grafické práce,pavel_fischer
+2023-01-11,10000,CZK,Příchozí úhrada,1178,13012023,4598766091,Miňová Mária,,pavel_fischer
+2023-01-10,10000,CZK,Příchozí úhrada,1178,13012023,4598766091,BOUCNIK DAVID,,pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Iveta Patáková,Dar na kampaň Pavla Fischera,pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Korábová Huyen,Pro mého prezidenta. Přeji vám hodně sil a štěstí. Vydržte!,pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Mgr.Lstibůrek Mirosl,dar,pavel_fischer
+2023-01-10,500,CZK,Příchozí úhrada,1178,13012023,4598766091,Knapp Štěpán,,pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Bc.Kunc Martin,,pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Pitrun Vojtěch,,pavel_fischer
+2023-01-10,500,CZK,Příchozí úhrada,1178,13012023,4598766091,Michaela Němcová,,pavel_fischer
+2023-01-10,500,CZK,Příchozí úhrada,1178,13012023,4598766091,Kristýna Šimůnková,Hodne stesti!,pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,BRAUN VLASTIMIL,Zuzana Braunová,pavel_fischer
+2023-01-10,400,CZK,Příchozí úhrada,1178,13012023,4598766091,Marek Schneider,,pavel_fischer
+2023-01-10,500,CZK,Příchozí úhrada,1178,13012023,4598766091,VORISEK MARTIN,"Hodně stestí, držím palce a vážím si vasich postoju",pavel_fischer
+2023-01-10,-18150,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000000-5756218002/2700,"Podnájemné, kancelářské prostory, listopad 2022",pavel_fischer
+2023-01-10,-72000,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000000-2700145824/2010,Výlep plakátů,pavel_fischer
+2023-01-10,-60500,CZK,Tuzemská odchozí úhrada,1178,13012023,4598766091,000000-0949949028/5500,Internetová reklama,pavel_fischer
+2023-01-10,2000,CZK,Příchozí úhrada,1178,13012023,4598766091,Šlégr Jiří,Pavel Fischer,pavel_fischer
+2023-01-10,5000,CZK,Příchozí úhrada,1178,13012023,4598766091,MUDr.Šuláková Terezi,Příspevek na volebni kampaň 2023,pavel_fischer
+2023-01-10,300,CZK,Příchozí úhrada,1178,13012023,4598766091,ŠTĚPÁNOVÁ DANA,Nebojme se volit srdcem navzdory průzkumům,pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,VACHOVÁ KLÁRA,Modlime se za Vas,pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,KUBATKOVA JANA,,pavel_fischer
+2023-01-10,0.01,CZK,Příchozí úhrada,1178,13012023,4598766091,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2023-01-10,500,CZK,Příchozí úhrada,1178,13012023,4598766091,TEUER TOMÁŠ,,pavel_fischer
+2023-01-10,500,CZK,Příchozí úhrada,1178,13012023,4598766091,IB-PŘEV.PŘÍKAZY KK,,pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,PULKRABKOVA MARTA,,pavel_fischer
+2023-01-10,1500,CZK,Příchozí úhrada,1178,13012023,4598766091,NECHYBA PAVEL,,pavel_fischer
+2023-01-10,500,CZK,Příchozí úhrada,1178,13012023,4598766091,PETR HIRSCH,držím palce,pavel_fischer
+2023-01-10,200,CZK,Příchozí úhrada,1178,13012023,4598766091,Chlachulová Marie,,pavel_fischer
+2023-01-10,3000,CZK,Příchozí úhrada,1178,13012023,4598766091,BĚŤÁK JAN,,pavel_fischer
+2023-01-10,3000,CZK,Příchozí úhrada,1178,13012023,4598766091,JIRSA VÁCLAV,Václav Jirsa,pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Jan Bleha,pro zem slusnosti a laskavosti,pavel_fischer
+2023-01-10,500,CZK,Příchozí úhrada,1178,13012023,4598766091,KLUČKOVÁ LADISLAVA,,pavel_fischer
+2023-01-10,10000,CZK,Příchozí úhrada,1178,13012023,4598766091,Janeček Jiří,,pavel_fischer
+2023-01-10,2000,CZK,Příchozí úhrada,1178,13012023,4598766091,KNOTEK LADISLAV,pavelfischer,pavel_fischer
+2023-01-10,5000,CZK,Příchozí úhrada,1178,13012023,4598766091,MUDR. MÁRIA PATÁKO,INT: 09.01.2023/23:41:43 0664802503,pavel_fischer
+2023-01-10,5000,CZK,Příchozí úhrada,1178,13012023,4598766091,VOKOUNOVA MARIE,Dar na kampaň pro P. Fischera,pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,SOUKUP ONDŘEJ,,pavel_fischer
+2023-01-10,5000,CZK,Příchozí úhrada,1178,13012023,4598766091,JEDLICKOVA ALZBETA,na prezidentskou kampaň,pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,NOVAKOVA LENKA,,pavel_fischer
+2023-01-10,2000,CZK,Příchozí úhrada,1178,13012023,4598766091,JEDLICKOVA HELENA,na prezidentskou kampaň,pavel_fischer
+2023-01-10,10000,CZK,Příchozí úhrada,1178,13012023,4598766091,Hanus Tomáš,"Pavel Fischer, podpora prezidentské kampaně",pavel_fischer
+2023-01-10,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,IB-PŘEV.PŘÍKAZY KK,,pavel_fischer
+2023-01-10,500,CZK,Příchozí úhrada,1178,13012023,4598766091,PhDr. Hana Salajková,PF důstojná volba diky,pavel_fischer
+2023-01-10,5000,CZK,Příchozí úhrada,1178,13012023,4598766091,Ing.Hrůšová Barbora,"Děkujeme vám, pane Fischere, pro nás jste nejlepší kandidát!",pavel_fischer
+2023-01-09,500,CZK,Příchozí úhrada,1178,13012023,4598766091,Zirhut David,Prezident PF 2023,pavel_fischer
+2023-01-09,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,LAKSAROVA MICHAELA,,pavel_fischer
+2023-01-09,5000,CZK,Příchozí úhrada,1178,13012023,4598766091,MUDr. Martin THEIMER,"Pavel Fischer, prezident, Když Pavla, tak Fischera",pavel_fischer
+2023-01-09,500,CZK,Příchozí úhrada,1178,13012023,4598766091,RUZEK VACLAV,,pavel_fischer
+2023-01-09,100000,CZK,Příchozí úhrada,1178,13012023,4598766091,"ERLEBACHOVA BOUDA, S",Erlebachova bouda s.r.o.,pavel_fischer
+2023-01-09,2000,CZK,Příchozí úhrada,1178,13012023,4598766091,ŠLAMBOROVÁ JANA,Pavel Fischer,pavel_fischer
+2023-01-09,5000,CZK,Příchozí úhrada,1178,13012023,4598766091,ČERVINKA JIŘÍ,,pavel_fischer
+2023-01-09,-1353.5,CZK,Platba kartou,1178,13012023,4598766091,-,XXXXXXXXXXXX5741 d.tran.07.01.2023CZ  VYSTAVNI        SHELL 8070CZK      1353.50 d.zúč. 09.01.2023částka v Kč:        1353.50,pavel_fischer
+2023-01-09,-20000,CZK,Platba kartou,1178,13012023,4598766091,-,XXXXXXXXXXXX6091 d.tran.08.01.2023IE  fb.me/ads       FACEBK *6LXR3LCZK     20000.00 d.zúč. 09.01.2023částka v Kč:       20000.00,pavel_fischer
+2023-01-09,0.01,CZK,Příchozí úhrada,1178,13012023,4598766091,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
+2023-01-09,2000,CZK,Příchozí úhrada,1178,13012023,4598766091,MARIE KURKOVA,"TRANSPARENTNÍ ÚČET PAVEL FISCHER, -",pavel_fischer
+2023-01-09,3000,CZK,Příchozí úhrada,1178,13012023,4598766091,VÝLETA MAREK,Pavel Fischer,pavel_fischer
+2023-01-09,100,CZK,Příchozí úhrada,1178,13012023,4598766091,POSPÍŠIL JIŘÍ,,pavel_fischer
+2023-01-09,500,CZK,Příchozí úhrada,1178,13012023,4598766091,Ing. David Hlaváč,Díky za naději. Hodně štěstí...,pavel_fischer
+2023-01-09,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Mgr.Ptáčková Mirosla,,pavel_fischer
+2023-01-09,500,CZK,Příchozí úhrada,1178,13012023,4598766091,"Jiráčková, Tereza",,pavel_fischer
+2023-01-09,200,CZK,Příchozí úhrada,1178,13012023,4598766091,Holcová Barbora,,pavel_fischer
+2023-01-09,200,CZK,Příchozí úhrada,1178,13012023,4598766091,Kristýna Smolová,,pavel_fischer
+2023-01-09,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,HASMANDOVÁ MARTINA,,pavel_fischer
+2023-01-09,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,ANNA ROMANOVSKÁ FLIE,Držím palce!!!,pavel_fischer
+2023-01-09,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,"Skřivánek, Jiří",Držíme Vám palce.,pavel_fischer
+2023-01-09,2000,CZK,Příchozí úhrada,1178,13012023,4598766091,Dohnal Jakub,,pavel_fischer
+2023-01-09,500,CZK,Příchozí úhrada,1178,13012023,4598766091,Lanč Jindřich,Pravda a láska musí zvítězit nad lží a nenávistí. Držím palce,pavel_fischer
+2023-01-09,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,SCHOLZ ALENA,,pavel_fischer
+2023-01-09,3000,CZK,Příchozí úhrada,1178,13012023,4598766091,Krutský Jan,,pavel_fischer
+2023-01-09,5000,CZK,Příchozí úhrada,1178,13012023,4598766091,VONDRACKOVA KLARA,"Podpora Pavel Fischer, kandidát naprezidenta",pavel_fischer
+2023-01-09,2000,CZK,Příchozí úhrada,1178,13012023,4598766091,SLUNECKOVA MILUSKA,Podpora Pavla Fischera,pavel_fischer
+2023-01-09,500,CZK,Příchozí úhrada,1178,13012023,4598766091,HOSEK FRANTISEK,Příspěvek.,pavel_fischer
+2023-01-09,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Libuše Kolesíková,,pavel_fischer
+2023-01-09,400,CZK,Příchozí úhrada,1178,13012023,4598766091,HAJDUCH PETR,,pavel_fischer
+2023-01-09,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Marie Vahalová,,pavel_fischer
+2023-01-09,500,CZK,Příchozí úhrada,1178,13012023,4598766091,Libor Picek,,pavel_fischer
+2023-01-09,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,MARTINA DOHNÁLKOVÁ,Prezident ČR 2023 - 2033 Pavel Fischer,pavel_fischer
+2023-01-09,200,CZK,Příchozí úhrada,1178,13012023,4598766091,PETRA SASÝNOVÁ,Platba,pavel_fischer
+2023-01-09,300,CZK,Příchozí úhrada,1178,13012023,4598766091,Ing.Honzová Petra,,pavel_fischer
+2023-01-08,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,KAPLANEK MICHAL,,pavel_fischer
+2023-01-08,3000,CZK,Příchozí úhrada,1178,13012023,4598766091,Ing. František Kalen,"Ing. František Kalenda, 3.9. 1948, Zlaté Hory v Jeseníkách",pavel_fischer
+2023-01-08,-10000,CZK,Výběr hotovosti z bankomatu ČS,1178,13012023,4598766091,-,"XXXXXXXXXXXX5741 d.tran.06.01.2023CZ  PRAHA 1         CS, VALDSTEJNSCZK     10000.00 d.zúč. 08.01.2023částka v Kč:       10000.00",pavel_fischer
+2023-01-08,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Pecha Josef,,pavel_fischer
+2023-01-08,500,CZK,Příchozí úhrada,1178,13012023,4598766091,Ing.Kotyk Pavel,,pavel_fischer
+2023-01-08,500,CZK,Příchozí úhrada,1178,13012023,4598766091,"Beneš, Antonín",,pavel_fischer
+2023-01-08,10000,CZK,Příchozí úhrada,1178,13012023,4598766091,Jitka Báčová,,pavel_fischer
+2023-01-08,2000,CZK,Příchozí úhrada,1178,13012023,4598766091,Marie Hrčková,,pavel_fischer
+2023-01-07,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,Lukáš Dořičák,,pavel_fischer
+2023-01-07,7005,CZK,Příchozí úhrada,1178,13012023,4598766091,KLABAL JAROMIR,Prezident 2023,pavel_fischer
+2023-01-07,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,"Nedomová, Dagmar",,pavel_fischer
+2023-01-07,500,CZK,Příchozí úhrada,1178,13012023,4598766091,Dalibor Tuž,,pavel_fischer
+2023-01-07,1000,CZK,Příchozí úhrada,1178,13012023,4598766091,DUJSÍK JAROSLAV,,pavel_fischer
+2023-01-07,-13948.49,CZK,Platba kartou,1178,13012023,4598766091,-,XXXXXXXXXXXX6091 d.tran.05.01.2023IE  fb.me/ads       FACEBK *UQRLZKCZK     13948.49 d.zúč. 07.01.2023částka v Kč:       13948.49,pavel_fischer
+2023-01-07,200,CZK,Příchozí úhrada,1178,13012023,4598766091,Beďač Pavel,DAR na kampaň od Bedac@seznam.cz,pavel_fischer
+2023-01-07,2000,CZK,Příchozí úhrada,1178,13012023,4598766091,VRABEC JAN,Pavel Fischer prezidentem,pavel_fischer
 2023-01-13,111,CZK,Příchozí úhrada,308,63920263,,"Kriegler, Radek",RK,pavel_fischer
 2023-01-13,0.01,CZK,Příchozí úhrada,308,63920263,,Pavel Tr?ster,alkoholdrink.cz,pavel_fischer
 2023-01-13,-15000,CZK,Platba kartou,308,63920263,,-,XXXXXXXXXXXX6091 d.tran.11.01.2023IE  cc@google.com   GOOGLE *ADS960CZK     15000.00 d.zúč. 13.01.2023částka v Kč:       15000.00,pavel_fischer

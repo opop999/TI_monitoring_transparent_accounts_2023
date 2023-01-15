@@ -1,4 +1,298 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-15,1000,CZK,Okamžitá příchozí platba,NECHUTA DAVID,Dar na kampan generala Pavla,,,,NECHUTA DAVID,petr_pavel
+2023-01-15,5000,CZK,Okamžitá příchozí platba,KRUPIČKA VÁCLAV,"Pane generále, na Vaši klidnou a slušnou kampaň, děkuji Vám",,730407,,KRUPIČKA VÁCLAV,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,KARAVAN JAN,dar na kampaň generála Pavla,,,,KARAVAN JAN,petr_pavel
+2023-01-15,5000,CZK,Okamžitá příchozí platba,Ing. PETR NĚMEC,Pavel na Hrad !,,,,Ing. PETR NĚMEC,petr_pavel
+2023-01-15,4000,CZK,Okamžitá příchozí platba,Monika Bělová,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,Monika Bělová,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Gallová Renáta,Dar na kampan generala Pavla,0,,,Gallová Renáta,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Mgr. VLASTIMIL ŠTEFL,Dar na kampan generala Pavla,,,,Mgr. VLASTIMIL ŠTEFL,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,PETR JANÁČ,Platba,0,0,0,PETR JANÁČ,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Hana Panošová,Dar na kampan generala Pavla,,,,Hana Panošová,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Michal Konečný,Dar na kampan generala Pavla,,,,Michal Konečný,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Mgr. Petra Bernatová,Dar na kampan generala Pavla,,,,Mgr. Petra Bernatová,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Eva Sajdlová,"Držíme vám palce, generále.",,,,Eva Sajdlová,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,Karolina Rojková,Vyhrajete!,0,,,Karolina Rojková,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,ŠPAČKOVÁ ANDREA,DAR NA KAMPAN GENERALA PAVLA,,,,ŠPAČKOVÁ ANDREA,petr_pavel
+2023-01-15,100,CZK,Okamžitá příchozí platba,IVANA VAŘECHOVÁ,Dar na kampan generala Pavla,,,,IVANA VAŘECHOVÁ,petr_pavel
+2023-01-15,200,CZK,Okamžitá příchozí platba,VERONIKA ŠTUKAVCOVÁ,Dar na kampan generala Pavla,,,,VERONIKA ŠTUKAVCOVÁ,petr_pavel
+2023-01-15,7000,CZK,Okamžitá příchozí platba,Sedlák Martin,Dar na kampan generala Pavla,0,,,Sedlák Martin,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,TEREZA MATTANELLI,Dar na kampan generala Pavla,,,,TEREZA MATTANELLI,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,Jana Hůlová,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,Jana Hůlová,petr_pavel
+2023-01-15,200,CZK,Okamžitá příchozí platba,Slunečko Tomáš,Dar na kampan generala Pavla,0,,,Slunečko Tomáš,petr_pavel
+2023-01-15,1337,CZK,Okamžitá příchozí platba,Denis Dubský,Dar na kampan generala Pavla,,,,Denis Dubský,petr_pavel
+2023-01-15,5000,CZK,Platba převodem uvnitř banky,"Kuběnka, Zdeněk",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-15,1000,CZK,Platba převodem uvnitř banky,"JUDr. Sklenka, Jakub",nakopejte tomu makakovi zadek!,,,,nakopejte tomu makakovi zadek!,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Jakub Sládek,"Dar na kampan generala Pavla, Babiše do koše!",,,,Jakub Sládek,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Levý Robert,,0,,,Levý Robert,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,VLADIMÍR JAKUBAL,Dar na kampaň - pro zachování demokracie a slušnosti v ČR,,,,VLADIMÍR JAKUBAL,petr_pavel
+2023-01-15,1000,CZK,Platba převodem uvnitř banky,"Buzín, Tomáš",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Šnoblová Veronika,Dar na kampan generala Pavla,0,,,Šnoblová Veronika,petr_pavel
+2023-01-15,1500,CZK,Okamžitá příchozí platba,Lupač Ondřej,Dar na kampan generala Pavla,0,,,Lupač Ondřej,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Heimlichová Martina,Dar na kampan generala Pavla,0,,,Heimlichová Martina,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Hana Leňová,Dar na kampan generala Pavla,,,,Hana Leňová,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Olga Jiroušková,Dar na kampan generala Pavla,,,,Olga Jiroušková,petr_pavel
+2023-01-15,2023,CZK,Okamžitá příchozí platba,Eva Vaňková,Hodně štěstí! DAR na vítězství,8,14012023,,Eva Vaňková,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,CHVAPIL STANISLAV,Pro naši budoucnost - Dar pro generála,,,,CHVAPIL STANISLAV,petr_pavel
+2023-01-15,1000,CZK,Platba převodem uvnitř banky,"Ing. Bareš, Jan",DAR NA KAMPAŇ GENERÁLA PAVLA,,,,DAR NA KAMPAŇ GENERÁLA PAVLA,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Miroslav Kubín,Dar na kampan generala Pavla,0,,,Miroslav Kubín,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,SQUIBB HANA,Dar na kampan generala Pavla,,,,SQUIBB HANA,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Eis Jakub,Dar na kampan generala Pavla,0,,,Eis Jakub,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Jiří Moravec,Dar na kampan generala Pavla,,,,Jiří Moravec,petr_pavel
+2023-01-15,40000,CZK,Okamžitá příchozí platba,ZDENĚK TŮMA,Dar na kampan generala Pavla,,,,ZDENĚK TŮMA,petr_pavel
+2023-01-15,5000,CZK,Okamžitá příchozí platba,Ing. Pavel Jirka,Držte se!,,,,Ing. Pavel Jirka,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Miroslava Šimková,"Dar na kampan generala Pavla (nemuzeme moc, ale moc chceme pomoci mit Vas na Hrade)",,,,Miroslava Šimková,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,Helena Palas Nebeská,Dar na kampan generala Pavla,,,,Helena Palas Nebeská,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,Mgr. Filip Rachůnek,Dar na kampan generala Pavla,,,,Mgr. Filip Rachůnek,petr_pavel
+2023-01-15,1004,CZK,Okamžitá příchozí platba,Michal Voříšek,Dar na kampan generala Pavla,,,,Michal Voříšek,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Mgr.Petrová Veronika,Dar na kampan generala Pavla,0,,,Mgr.Petrová Veronika,petr_pavel
+2023-01-15,100,CZK,Okamžitá příchozí platba,BARTÁL LUBOMÍR,Poražte agenta StB jste poslední naděje naší země,,,,BARTÁL LUBOMÍR,petr_pavel
+2023-01-15,1000,CZK,Platba převodem uvnitř banky,"Rumlová, Alena","Dar na kampaň genrála Pavla Alena Rumlová, 14.4.1947, Praha 3",,,,"Dar na kampaň genrála Pavla Alena Rumlová, 14.4.1947, Praha 3",petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,HAAK LUDĚK,Dar na kampan generala Pavla,,,,HAAK LUDĚK,petr_pavel
+2023-01-15,1000,CZK,Platba převodem uvnitř banky,"Mgr. Cabák, Radim",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,BEZ KARTY,Dar na kampan generala Pavla,,,,BEZ KARTY,petr_pavel
+2023-01-15,2000,CZK,Platba převodem uvnitř banky,"Zlesák, Petr",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Aleš Káčerek,Dar na kampan generala Pavla,,,,Aleš Káčerek,petr_pavel
+2023-01-15,2023,CZK,Platba převodem uvnitř banky,"DiS. Bukovská, Laura",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Jan Matoušek,Dar na kampan generala Pavla,,,,Jan Matoušek,petr_pavel
+2023-01-15,250,CZK,Okamžitá příchozí platba,JONÁŠ PELČÁK,DAR NA KAMPAŇ GENERÁLA PAVLA,0,0,0,JONÁŠ PELČÁK,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Ing. Martin Bušek,Dar na kampan generala Pavla,,,,Ing. Martin Bušek,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,WÖLFELOVÁ VERONIKA,Dar na kampan generala Pavla,,,,WÖLFELOVÁ VERONIKA,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,VESELOVSKÝ ONDŘEJ,Na boj proti zlu,,,,VESELOVSKÝ ONDŘEJ,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Eva Kohoutová,Dar na kampan generala Pavla,,,,Eva Kohoutová,petr_pavel
+2023-01-15,2023,CZK,Okamžitá příchozí platba,Ing.Paleček Martin,Porazit neřáda a neklid.,0,,,Ing.Paleček Martin,petr_pavel
+2023-01-15,5000,CZK,Okamžitá příchozí platba,Petr Moravec,Dar na kampan generala Pavla,,,,Petr Moravec,petr_pavel
+2023-01-15,700,CZK,Okamžitá příchozí platba,Robin Šoukal,,,,,Robin Šoukal,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Černikovský Petr,,0,,,Černikovský Petr,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Ing. Zbyněk Pouzar,Dar na kampan generala Pavla,0,,,Ing. Zbyněk Pouzar,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Ing.Luňáček Patrik,Dar na kampan generala Pavla,0,,,Ing.Luňáček Patrik,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,JAKUB MACOUN,Dar na kampaň generála Pavla,,,,JAKUB MACOUN,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Kamila Víšková,Dar na kampan generala Pavla,,,,Kamila Víšková,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Šárka Škurlová,Dar na kampan generala Pavla,,,,Šárka Škurlová,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Ing.Čihák Matouš,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Ing.Čihák Matouš,petr_pavel
+2023-01-15,999.99,CZK,Okamžitá příchozí platba,ROBERT MUSIL,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,ROBERT MUSIL,petr_pavel
+2023-01-15,300,CZK,Okamžitá příchozí platba,Daniel Kyral,Dar na kampan generala Pavla,,,,Daniel Kyral,petr_pavel
+2023-01-15,2023,CZK,Okamžitá příchozí platba,Novotná Petra,Dar na kampan generala Pavla,0,,,Novotná Petra,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Ing. Milan Černík,Dar pro vítězství nad zlem,,,,Ing. Milan Černík,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Petr Olša,Dar na kampan generala Pavla,,,,Petr Olša,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Vacek Oldřich,Na výhru,0,,,Vacek Oldřich,petr_pavel
+2023-01-15,2500,CZK,Okamžitá příchozí platba,Sojková Iveta,Dar na kampaň generala Petra Pavla. Hodně štěstí! Pomůžeme vám!,0,9966,,Sojková Iveta,petr_pavel
+2023-01-15,200,CZK,Okamžitá příchozí platba,Kyral Daniel,Dar na kampan generala Pavla,0,,,Kyral Daniel,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Ing.Uchytil Petr,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Ing.Uchytil Petr,petr_pavel
+2023-01-15,5000,CZK,Okamžitá příchozí platba,Šebková Dana,Dar na kampan generala Pavla,0,,,Šebková Dana,petr_pavel
+2023-01-15,300,CZK,Okamžitá příchozí platba,Ing.Průšová Iva,Dar na kampan generala Pavla,0,,,Ing.Průšová Iva,petr_pavel
+2023-01-15,2199,CZK,Okamžitá příchozí platba,Ing.Verner Marie,Dar na kampan generala Pavla,0,,,Ing.Verner Marie,petr_pavel
+2023-01-15,1500,CZK,Okamžitá příchozí platba,Jakub Honc,Dar na kampan generala Pavla,,,,Jakub Honc,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Tomáš Píč,Dar na kampan generala Pavla,,,,Tomáš Píč,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Ing.Půta Milan,Dar na kampan generala Pavla,0,,,Ing.Půta Milan,petr_pavel
+2023-01-15,150,CZK,Platba převodem uvnitř banky,"Heiduk, Slávek",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-15,200,CZK,Okamžitá příchozí platba,Michal Marhoul,Dar na kampan generala Pavla,,,,Michal Marhoul,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Jan Mašek,Dar na kampan generala Pavla,,,,Jan Mašek,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Vašák Lukáš,Dar na kampan generala Pavla,0,,,Vašák Lukáš,petr_pavel
+2023-01-15,250,CZK,Okamžitá příchozí platba,Ungrová Balušíková J,Dar na kampan generala Pavla,0,,,Ungrová Balušíková J,petr_pavel
+2023-01-15,343,CZK,Okamžitá příchozí platba,MAREK MATĚJ,Dar pro Generála do bitvy se zlem,,,,MAREK MATĚJ,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Hlavatý Matěj,Dar na kampan generala Pavla,0,,,Hlavatý Matěj,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,JIŘÍ ŠKVOR,Držím palce!,,,,JIŘÍ ŠKVOR,petr_pavel
+2023-01-15,100,CZK,Okamžitá příchozí platba,Petr Miskai,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,Petr Miskai,petr_pavel
+2023-01-15,250,CZK,Platba převodem uvnitř banky,"Mgr. Konkoľ, Karol","pevné nervy do druhého kola, to je des, čo ten makak robí!",,,,"pevné nervy do druhého kola, to je des, čo ten makak robí!",petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Jan Ziemba,Nakopejte tomu zmrdovi prdel :-),,,,Jan Ziemba,petr_pavel
+2023-01-15,3000,CZK,Platba převodem uvnitř banky,"Ing.arch. Kohelová, Iveta",Dar na kampaň gen. Pavla na boj proti estébákovi,,,,Dar na kampaň gen. Pavla na boj proti estébákovi,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Mgr. Jana Dostálová,Dar na kampan generala Pavla,,,,Mgr. Jana Dostálová,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,Jakub Švanda,Dar na kampan generala Pavla,,,,Jakub Švanda,petr_pavel
+2023-01-15,300,CZK,Platba převodem uvnitř banky,"Vyplašil, Pavel",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,RYJÁČEK JAKUB,"Dar na kampaň Petra Pavla. Ať máme konečně prezidenta, za kterého se nemusíme stydět",,,,RYJÁČEK JAKUB,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,ALENA PILAŘOVÁ,na prezidenta!!,,,,ALENA PILAŘOVÁ,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Štěpánka Rozmarová,Dar na kampan generala Pavla,,,,Štěpánka Rozmarová,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,David Poukar,Dar na kampan generala Pavla,,,,David Poukar,petr_pavel
+2023-01-15,2500,CZK,Okamžitá příchozí platba,VESELÝ MAREK,Dar na kampan generala Pavla,,,,VESELÝ MAREK,petr_pavel
+2023-01-15,1000,CZK,Platba převodem uvnitř banky,"Tupý, Radek",Pro slušného prezidenta!,,660531,,Pro slušného prezidenta!,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Vratislav Batala,Dar na kampan generala Pavla,,,,Vratislav Batala,petr_pavel
+2023-01-15,300,CZK,Okamžitá příchozí platba,Mgr.Děžinská Jana,,0,,,Mgr.Děžinská Jana,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Michal Budina,Dar NA KAMPAŇ GENERÁLA PAVLA,,,,Michal Budina,petr_pavel
+2023-01-15,500,CZK,Platba převodem uvnitř banky,"Ing. Čepová, Hana",příspěvek na chov makaků v klecích,,,,příspěvek na chov makaků v klecích,petr_pavel
+2023-01-15,400,CZK,Okamžitá příchozí platba,KUKLA LUKÁŠ,Dar na kampan generala Pavla,,,,KUKLA LUKÁŠ,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Prchala Petr,Dar na kampan generala Pavla,0,,,Prchala Petr,petr_pavel
+2023-01-15,10000,CZK,Okamžitá příchozí platba,MUSIL KAREL,abychom meli po 20 letech zase slusneho prezidenta,,,,MUSIL KAREL,petr_pavel
+2023-01-15,300,CZK,Okamžitá příchozí platba,Mgr. KAROLINA ADAMCO,Dar na kampan generala Pavla,,,,Mgr. KAROLINA ADAMCO,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,ANNA RAYMANOVÁ,Dar na kampan generala Pavla,0,0,0,ANNA RAYMANOVÁ,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,Ing. Eva Koktanová,Dar na kampaň generála Pavla Koktan Jan a Eva,,,,Ing. Eva Koktanová,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,Michnová Marie,Dar pro PP,,,,Michnová Marie,petr_pavel
+2023-01-15,25000,CZK,Okamžitá příchozí platba,Dražební společnost,Dar generál Petr Pavel,,26275953,,Dražební společnost,petr_pavel
+2023-01-15,3000,CZK,Okamžitá příchozí platba,MUDr. Jiří Buchar,Dar na kampan generala Pavla,,,,MUDr. Jiří Buchar,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Mgr. Barbora Daňková,Dar na kampan generala Pavla,,,,Mgr. Barbora Daňková,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,prof. ing.Dohnal Jan,,0,,,prof. ing.Dohnal Jan,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Wurmová Marta,DAR NA KAMPAŇ GENERÁLA PAVLA.  Hodně štěstí.,0,,,Wurmová Marta,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Olga Dondová,Dar na kampan generala Pavla,,,,Olga Dondová,petr_pavel
+2023-01-15,2000,CZK,Platba převodem uvnitř banky,"Brich, Radek",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Martinková Barbora,Dar na kampan generala Pavla,0,,,Martinková Barbora,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Ing.Příhoda Miroslav,Dar na kampan generala Pavla,0,,,Ing.Příhoda Miroslav,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Jindřiška Durizzová,"Gratulace a dar na vítězství generála Pavla, ať se na Hrad vrátí pokora, slušnost a úcta k ústavě, lidem a k demokracii !",,,,Jindřiška Durizzová,petr_pavel
+2023-01-15,2000,CZK,Platba převodem uvnitř banky,"Vaněk, Štěpán",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-15,1000,CZK,Platba převodem uvnitř banky,"Kořínková, Regina",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,Kateřina Kolářová,Dar na kampan generala Pavla,,,,Kateřina Kolářová,petr_pavel
+2023-01-15,865,CZK,Okamžitá příchozí platba,Ing.Němec Jaroslav,"Dar na kampan generala Pavla, Jaroslav Nemec",0,,,Ing.Němec Jaroslav,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Mgr. PETR ZIFČÁK,Pro lepší budoucnost. Děkujeme.,,,,Mgr. PETR ZIFČÁK,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Linda Schneiderwindo,Dar na kampan generala Pavla,,,,Linda Schneiderwindo,petr_pavel
+2023-01-15,1111,CZK,Okamžitá příchozí platba,Ing. Petr Kučera,Dar na kampan generala Pavla,,,,Ing. Petr Kučera,petr_pavel
+2023-01-15,5000,CZK,Okamžitá příchozí platba,MUDr.Kleindienstová,Dar na kampan generala Pavla,0,,,MUDr.Kleindienstová,petr_pavel
+2023-01-15,20000,CZK,Platba převodem uvnitř banky,"Mises, Pavel",Dar na kampaň generála Pavla,,,,Dar na kampaň generála Pavla,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,KATARÍNA ŠUBRTOVÁ,příspěvek na kampaň,,,,KATARÍNA ŠUBRTOVÁ,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,Zdeňka Tomíčková,Dar na kampan generala Pavla,,,,Zdeňka Tomíčková,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Smutný Miloslav,Dar na kampan generala Pavla,0,,,Smutný Miloslav,petr_pavel
+2023-01-15,4000,CZK,Platba převodem uvnitř banky,"Mgr. Švejnohová, Alena",Švejnohovi - na kampaň pana generála,,,,Švejnohovi - na kampaň pana generála,petr_pavel
+2023-01-15,5000,CZK,Okamžitá příchozí platba,RENÉ VÁPENÍK,Příspěvek na kampaň generála Pavla,308,,,RENÉ VÁPENÍK,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,ZUNTOVÁ JANA,Dar na kampaň generála Pavla,,,,ZUNTOVÁ JANA,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Krupa Vratislav,Gratulujeme a volíme Vás i ve 2.kole!,0,2023,,Krupa Vratislav,petr_pavel
+2023-01-15,200,CZK,Okamžitá příchozí platba,Pavel Přikryl,Gratuluji pane Prezidente a pevné nervy do 2. kola,,,,Pavel Přikryl,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Eva Papoušková,...na flákotu pro českého lva!,,,,Eva Papoušková,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,"Ing.Drchal Jan,Ph.D.",Dar na kampan generala Pavla,0,,,"Ing.Drchal Jan,Ph.D.",petr_pavel
+2023-01-15,3000,CZK,Okamžitá příchozí platba,Hradilová Adéla,Dar na kampan generala Pavla,0,,,Hradilová Adéla,petr_pavel
+2023-01-15,5000,CZK,Okamžitá příchozí platba,Ing. TOMÁŠ HLINKA,DAR NA KAMPAŇ GENERÁLA PAVLA,,5907120582,,Ing. TOMÁŠ HLINKA,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Švecová Petra,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Švecová Petra,petr_pavel
+2023-01-15,200000,CZK,Okamžitá příchozí platba,SEBOR PAVEL,Dar na kampan generala Pavla,0,,,SEBOR PAVEL,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Gregor Vladimír,Dar na kampaň generála Pavla,0,1,,Gregor Vladimír,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Petra Mžourková,"Dar na kampan generala Pavla, na finále, na vítězství! :)",,,,Petra Mžourková,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Lucie Burianová,Dar na kampan generala Pavla,,,,Lucie Burianová,petr_pavel
+2023-01-15,3000,CZK,Okamžitá příchozí platba,PECH DANIEL,Držíme Vám palce!,,,,PECH DANIEL,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Kateřina Fišerová,dar na kampaň Petra Pavla,,,,Kateřina Fišerová,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Hamplová Petra,"Dar V srdci Havel, na hrad Pavel.",0,,,Hamplová Petra,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Pavel Zadina,Dar na kampan generala Pavla,,,,Pavel Zadina,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Rippelová Jiřina,Dar na kampan generala Pavla,0,,,Rippelová Jiřina,petr_pavel
+2023-01-15,250,CZK,Okamžitá příchozí platba,Jan Bílek,Dar na kampan generala Pavla - držíme palce,,,,Jan Bílek,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,VERONIKA ŘEHÁKOVÁ,pro prezidenta :-),,,,VERONIKA ŘEHÁKOVÁ,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,Mgr. Andrea Adamcová,Dar pro Petr Pavel,,,,Mgr. Andrea Adamcová,petr_pavel
+2023-01-15,500,CZK,Platba převodem uvnitř banky,"Eitlerová, Anna","Dar pro generála Pavla - chceme na Hradě lva, ne krysu.",,,,"Dar pro generála Pavla - chceme na Hradě lva, ne krysu.",petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Drásta Lukáš,Dar na kampan generala Pavla,0,,,Drásta Lukáš,petr_pavel
+2023-01-15,200,CZK,Okamžitá příchozí platba,Alena Hüttlová,Alena Hüttlová dar PP,,9,,Alena Hüttlová,petr_pavel
+2023-01-15,2000,CZK,Okamžitá příchozí platba,Matyáš Jiří,Dar na kampan generala Pavla,0,,,Matyáš Jiří,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,NGUYEN THANH TRUNG,Na podporu Generála Pavla :),,,,NGUYEN THANH TRUNG,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Kamarýt Alexander,Dar na kampan generala Pavla,0,,,Kamarýt Alexander,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Ing.Kovář Milan,"Dar na kampan generala Pavla, Dipl.Ing. Milan Kovář 3.5.61 Benecko",0,,,Ing.Kovář Milan,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,akad.mal.Doležalová,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,akad.mal.Doležalová,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,KRIŠKA PETR,Dar na kampan generala Pavla,,,,KRIŠKA PETR,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Kroužková Karolína,,0,,,Kroužková Karolína,petr_pavel
+2023-01-15,500,CZK,Platba převodem uvnitř banky,"Kuna, Jiří",pane prezidente :),,,,pane prezidente :),petr_pavel
+2023-01-15,-14440,CZK,Bezhotovostní platba,,,,22000083,,"IČ: 02706385, čepice",petr_pavel
+2023-01-15,100,CZK,Okamžitá příchozí platba,Ing.Lokvenc Ondřej,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Ing.Lokvenc Ondřej,petr_pavel
+2023-01-15,5000,CZK,Okamžitá příchozí platba,Šimon Petr,Dar na kampaň generála Pavla (a natřete to tomu hovadu),0,,,Šimon Petr,petr_pavel
+2023-01-15,100,CZK,Okamžitá příchozí platba,Ondryáš Marek,Dar na kampan generala Pavla,0,,,Ondryáš Marek,petr_pavel
+2023-01-15,500,CZK,Okamžitá příchozí platba,Petr Lozan,Dar na kampan Petra Pavla,,,,Petr Lozan,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,MALEČEK JIŘÍ,Dar na kampaň generála Pavla,,,,MALEČEK JIŘÍ,petr_pavel
+2023-01-15,500,CZK,Platba převodem uvnitř banky,"Machovcová, Kateřina",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-15,1000,CZK,Okamžitá příchozí platba,Velísek Martin,Dar na kampan generala Pavla,0,,,Velísek Martin,petr_pavel
+2023-01-15,3000,CZK,Okamžitá příchozí platba,Damián Šimčík,Dar na kampan generala Pavla,,,,Damián Šimčík,petr_pavel
+2023-01-15,3000,CZK,Platba převodem uvnitř banky,"Barták, Jan",údaje v mailu u p.Michaely,308,1,,údaje v mailu u p.Michaely,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,Jan Bureš,,,,,Jan Bureš,petr_pavel
+2023-01-14,200,CZK,Okamžitá příchozí platba,Tomášková Magdalena,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Tomášková Magdalena,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Zuzana Prouzová,Dar na kampan generala Pavla,,,,Zuzana Prouzová,petr_pavel
+2023-01-14,5000,CZK,Okamžitá příchozí platba,"RNDr. MARTIN LEPŠÍK,",DAR NA KAMPAŇ GENERÁLA PAVLA,,,,"RNDr. MARTIN LEPŠÍK,",petr_pavel
+2023-01-14,2000,CZK,Platba převodem uvnitř banky,"Mgr. Zemánková, Romana",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-14,350,CZK,Okamžitá příchozí platba,Radek Ožana,Dar na kampan generala Pavla,,,,Radek Ožana,petr_pavel
+2023-01-14,300,CZK,Okamžitá příchozí platba,RADKA NEUGEBAUEROVÁ,Dar na kampan generala Pavla,,,,RADKA NEUGEBAUEROVÁ,petr_pavel
+2023-01-14,2500,CZK,Okamžitá příchozí platba,Alexandr Křížek,Dar na kampan generala Pavla,,,,Alexandr Křížek,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Kofroň Petr,Dar na vitezstvi,0,,,Kofroň Petr,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Jana Cardová,Do toho! Nenecháme si ukrást zem křivým populistou.,,,,Jana Cardová,petr_pavel
+2023-01-14,5000,CZK,Okamžitá příchozí platba,Mgr.Chalupa Zdeněk,podpora v prezidentské kampani,0,,,Mgr.Chalupa Zdeněk,petr_pavel
+2023-01-14,1000,CZK,Platba převodem uvnitř banky,"ing. Hladký, Adam",DAR NA KAMPAŇ GENERÁLA PAVLA,,,,DAR NA KAMPAŇ GENERÁLA PAVLA,petr_pavel
+2023-01-14,10000,CZK,Okamžitá příchozí platba,Šatava Alois,Dar na kampan generala Pavla,0,,,Šatava Alois,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,MARTIN ROUBAL,Dar na kampan generala Pavla,,,,MARTIN ROUBAL,petr_pavel
+2023-01-14,3000,CZK,Okamžitá příchozí platba,KOŘÍNEK FILIP MGR. -,Dar na kampan generala Pavla,,,,KOŘÍNEK FILIP MGR. -,petr_pavel
+2023-01-14,1500,CZK,Okamžitá příchozí platba,PhDr.Michal Frainšic,Podpora,,,,PhDr.Michal Frainšic,petr_pavel
+2023-01-14,2500,CZK,Okamžitá příchozí platba,KUTÍLEK PETR,"Dar na kampaň Petra Pavla - ať se na Hrad vrátí pokora a služba státu a všem jeho občanům a občankám, zkrátka úcta k Ústavě a demokracii",,,,KUTÍLEK PETR,petr_pavel
+2023-01-14,5000,CZK,Okamžitá příchozí platba,MAREK MACHALA,držím palce,,7504,,MAREK MACHALA,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Ondřej Kallasch,Dar na kampan generala Pavla,,,,Ondřej Kallasch,petr_pavel
+2023-01-14,271.06,CZK,Okamžitá příchozí platba,Rais Šimon,Musí to vyjít!,0,,,Rais Šimon,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Mgr.Kostovič Jan,příspěvek na vakcinaci proti makakum,0,,,Mgr.Kostovič Jan,petr_pavel
+2023-01-14,1111,CZK,Platba převodem uvnitř banky,"Ing. Bednářová, Štěpánka",držím pěsti,,1,,držím pěsti,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Kantorová Marie,DAR NA KAPMAN GENERALA PAVLA,0,,,Kantorová Marie,petr_pavel
+2023-01-14,2000,CZK,Okamžitá příchozí platba,VITÁČEK PAVEL,Gratuluji a držím palce do druhého kola,,,,VITÁČEK PAVEL,petr_pavel
+2023-01-14,5000,CZK,Okamžitá příchozí platba,Josef Hrubeš,Podpora kampaně Petra Pavla,,,,Josef Hrubeš,petr_pavel
+2023-01-14,250,CZK,Okamžitá příchozí platba,Bc. Vítězslav Prchal,Dar na kampan generala Pavla,,,,Bc. Vítězslav Prchal,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,Novotný Lukáš,"Babiše se nelekej, jen vyškol jej vesele, chrabrý Pavel hradu pán, ten který měl smělý plán, naplní vše do puntíku, bude dělat politiku.",0,,,Novotný Lukáš,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,NADĚŽDA FANFULOVÁ,Vyhrajte!,,,,NADĚŽDA FANFULOVÁ,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Václav Stránský,Dar na kampan generala Pavla,,,,Václav Stránský,petr_pavel
+2023-01-14,15000,CZK,Okamžitá příchozí platba,"Duras Pavel,Ing.",Dar na podporu kampane.,0,,,"Duras Pavel,Ing.",petr_pavel
+2023-01-14,1401,CZK,Okamžitá příchozí platba,Martin Urbanec,Dar na kampan generala Pavla: hodně štěstí do druhého kola voleb,,,,Martin Urbanec,petr_pavel
+2023-01-14,2000,CZK,Okamžitá příchozí platba,Ing. LENKA ZAHÁLKOVÁ,Dar na kampan generala Pavla,,,,Ing. LENKA ZAHÁLKOVÁ,petr_pavel
+2023-01-14,10000,CZK,Okamžitá příchozí platba,"Bc.Blažek Martin,MBA",Podpora kampaně,0,,,"Bc.Blažek Martin,MBA",petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Zdeňka Filipová,"Drzime pesti, strasne si prejeme, abyste vyhral! Filipovi",,,,Zdeňka Filipová,petr_pavel
+2023-01-14,250,CZK,Okamžitá příchozí platba,JAKUB ČERVENÝ,Dar na kampan generala Pavla,,,,JAKUB ČERVENÝ,petr_pavel
+2023-01-14,3000,CZK,Platba převodem uvnitř banky,"Nováková, Klára",Na vaše vítězství ve 2. kole!!,,,,Na vaše vítězství ve 2. kole!!,petr_pavel
+2023-01-14,1000,CZK,Platba převodem uvnitř banky,"Ing. Sáblík, Milan",Dar na kampaň generála Pavla,,,,Dar na kampaň generála Pavla,petr_pavel
+2023-01-14,2000,CZK,Okamžitá příchozí platba,Petr Beránek,Verim vam!,,,,Petr Beránek,petr_pavel
+2023-01-14,300,CZK,Okamžitá příchozí platba,Martin Pávis,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,Martin Pávis,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Daniela Goldbach,Dar na kampan generala Pavla,,,,Daniela Goldbach,petr_pavel
+2023-01-14,1500,CZK,Okamžitá příchozí platba,Osobní Jiří Kubal,Dar na kampan generala Pavla,,,,Osobní Jiří Kubal,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,Eva Zákravská,"Pane Pavle, hodne stesti a porazte toho makaka!",,,,Eva Zákravská,petr_pavel
+2023-01-14,50000,CZK,Okamžitá příchozí platba,Petr Pála,Hodně štěstí ve finále,,,,Petr Pála,petr_pavel
+2023-01-14,3000,CZK,Okamžitá příchozí platba,Martin Kopecký,Dar na kampan generala Pavla,,,,Martin Kopecký,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Roušová Olga,Dar na kampan generala Pavla,0,,,Roušová Olga,petr_pavel
+2023-01-14,2000,CZK,Okamžitá příchozí platba,Trávníková Hana,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Trávníková Hana,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,Ivan Šendula,Pavel patří na hrad,,,,Ivan Šendula,petr_pavel
+2023-01-14,2000,CZK,Okamžitá příchozí platba,Vyhnánek Pavel,Dar na kampan generala Pavla,0,,,Vyhnánek Pavel,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,MICHAEL HARTMAN,Dar na kampan generala Pavla,,,,MICHAEL HARTMAN,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,ONDŘEJ HEŘMANSKÝ,Aspon par drobnych. Hodne stesti,0,0,0,ONDŘEJ HEŘMANSKÝ,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,Dagmar Šendula,Přeji Vám úspěch ve druhém kole,,,,Dagmar Šendula,petr_pavel
+2023-01-14,222,CZK,Platba převodem uvnitř banky,"Kapičák, Ivan",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-14,1350,CZK,Okamžitá příchozí platba,Tadičová Radka,Dar na kampan generala Pavla,0,,,Tadičová Radka,petr_pavel
+2023-01-14,2000,CZK,Okamžitá příchozí platba,Moschella Lucie,Malý příspěvek pro velkou výhru!,0,,,Moschella Lucie,petr_pavel
+2023-01-14,300000,CZK,Okamžitá příchozí platba,Hana Blovská,Hodně štěstí ve finále,,,,Hana Blovská,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,Michal Silovský,Dar na kampan generala Pavla,,,,Michal Silovský,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Marietta Prajslerová,Pavel na Hrad!,,,,Marietta Prajslerová,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,STAŇKOVÁ PETRA,Dar na kampan generala Pavla,,,,STAŇKOVÁ PETRA,petr_pavel
+2023-01-14,500,CZK,Platba převodem uvnitř banky,"Varga, Roman",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-14,10000,CZK,Okamžitá příchozí platba,KUČEROVÁ ALENA,DAR NA KAMPAŇ GENERÁLA PAVLA,0,22023,0,KUČEROVÁ ALENA,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Ing.Klimša Petr,Dar na kampan generala Pavla,0,,,Ing.Klimša Petr,petr_pavel
+2023-01-14,5000,CZK,Okamžitá příchozí platba,Mgr. JAKUB COUFAL,Dar na kampan generala Pavla,,,,Mgr. JAKUB COUFAL,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Sedlář Martin,Na boj s urputným hovadem...,0,,,Sedlář Martin,petr_pavel
+2023-01-14,5000,CZK,Okamžitá příchozí platba,BERÁNEK ONDŘEJ,Dar na kampan generala Pavla,,20230128,,BERÁNEK ONDŘEJ,petr_pavel
+2023-01-14,200,CZK,Okamžitá příchozí platba,POSPÍŠILOVÁ LUCIE,Dar na kampaň generála Pavla,,,,POSPÍŠILOVÁ LUCIE,petr_pavel
+2023-01-14,2023,CZK,Okamžitá příchozí platba,ŠTĚPÁNKOVÁ KATEŘINA,na vitezstvi ve 2.kole,0,2023,0,ŠTĚPÁNKOVÁ KATEŘINA,petr_pavel
+2023-01-14,7000,CZK,Okamžitá příchozí platba,Ing. Petr Knap,Uspesne druhe kolo preju!!,,,,Ing. Petr Knap,petr_pavel
+2023-01-14,100,CZK,Platba převodem uvnitř banky,"Grůza, Zdeněk",Držím palce v 2. kole,,,,Držím palce v 2. kole,petr_pavel
+2023-01-14,2023,CZK,Okamžitá příchozí platba,Ing.Veselý Michal,asi holinky budou třeba,0,,,Ing.Veselý Michal,petr_pavel
+2023-01-14,2000,CZK,Okamžitá příchozí platba,Ing.Štěpánek Jan,"Dar na kampan generala Pavla, Prosim vyhrajte - Mgr. Ing. Jan Štěpánek",0,,,Ing.Štěpánek Jan,petr_pavel
+2023-01-14,1000,CZK,Platba převodem uvnitř banky,"Ing. Mucha, Marek",,,,,,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,BALVÍN MAREK,Dar na kampan generala Pavla,,,,BALVÍN MAREK,petr_pavel
+2023-01-14,100,CZK,Platba převodem uvnitř banky,"Grůza, Petr",Hodně štěstí do 2. kola,,,,Hodně štěstí do 2. kola,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,VLADIMÍR SKALLA,Koukejte to vyhrát! V.Skalla,,,,VLADIMÍR SKALLA,petr_pavel
+2023-01-14,2508.5,CZK,Okamžitá příchozí platba,Jan Kubát,Drobný za deratizaci Průhonic.,,,,Jan Kubát,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Petr Lukeš,Dar na kampan generala Pavla,,,,Petr Lukeš,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Kýr Aleš,Ať řád a klid zvítězí nad chaosem a nenávistí.,0,,,Kýr Aleš,petr_pavel
+2023-01-14,2000,CZK,Okamžitá příchozí platba,Ondřej Konvička,Dar na kampan generala Pavla,,,,Ondřej Konvička,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Klára Toráčová,Pevné nervy v 2. kole,,,,Klára Toráčová,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Schovancová Jaroslav,Petr Pavel na Hrad,0,,,Schovancová Jaroslav,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,DANIELA VOTÝPKOVÁ,Na budoucnost bez Babiše. Hodně štěstí do druhého kola!,0,0,0,DANIELA VOTÝPKOVÁ,petr_pavel
+2023-01-14,5000,CZK,Okamžitá příchozí platba,Mgr. LUDMILA OLIVERI,Dar na kampan generala Pavla,,,,Mgr. LUDMILA OLIVERI,petr_pavel
+2023-01-14,2298,CZK,Okamžitá příchozí platba,Ivo Zelinka,Zlomte vaz!,,,,Ivo Zelinka,petr_pavel
+2023-01-14,5000,CZK,Okamžitá příchozí platba,MUDr. Tomáš Bauer,Příspěvek pro naši budoucnost bez Babiše,0,,,MUDr. Tomáš Bauer,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,Jakub Výmola,Dar na kampaň generála Pavla,,,,Jakub Výmola,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,Jan Bareš,,,,,Jan Bareš,petr_pavel
+2023-01-14,5000,CZK,Platba převodem uvnitř banky,"Haissinger, Viktor",,,,,,petr_pavel
+2023-01-14,3000,CZK,Okamžitá příchozí platba,Filip Novotný,Na výhru v 2. kole,,,,Filip Novotný,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,KOPINEC JIŘÍ,Hodně štěstí nám všem v druhém kole ;),,,,KOPINEC JIŘÍ,petr_pavel
+2023-01-14,1100,CZK,Platba převodem uvnitř banky,"Zajícová, Martina",DAR NA KAMPAŇ GENERÁLA PAVLA,,,,DAR NA KAMPAŇ GENERÁLA PAVLA,petr_pavel
+2023-01-14,830,CZK,Okamžitá příchozí platba,Petr Němeček,Dar na kampan generala Pavla,,,,Petr Němeček,petr_pavel
+2023-01-14,2000,CZK,Okamžitá příchozí platba,Michal Šuráň,Dar na kampan generala Pavla,,,,Michal Šuráň,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Barbora Vacková,Dar na kampan generala Pavla,,,,Barbora Vacková,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,Pavel Borkovec,Dar na kampan generala Pavla,,,,Pavel Borkovec,petr_pavel
+2023-01-14,1000,CZK,Platba převodem uvnitř banky,"Šťastný, Ondřej",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-14,5000,CZK,Platba převodem uvnitř banky,"Sklář, Zdeněk",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,HANA ŠKARPOVÁ,Hodně štěsti v druhém kole! Dáme to!,0,0,0,HANA ŠKARPOVÁ,petr_pavel
+2023-01-14,1000,CZK,Platba převodem uvnitř banky,"Ing. Vašák, Kamil",,,,,,petr_pavel
+2023-01-14,2000,CZK,Okamžitá příchozí platba,Jiří Šebek,Na boj proti populismu,,,,Jiří Šebek,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,Jiří Šebek,Dar na kampan generala Pavla,,,,Jiří Šebek,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Evženie Tzoumasová,Přeji Vám hodně zdaru a nám také.,,,,Evženie Tzoumasová,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,KOŽUCHOVÁ LENKA,Dar na kampan generala Pavla,,,,KOŽUCHOVÁ LENKA,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Jakub Kudrna,"Pane ganerále, do boje!",,,,Jakub Kudrna,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,PAVLA JIRŮTKOVÁ,"jen symbolicky, ale prosím, udělejte vše, ať toho mafiána porazíte",,,,PAVLA JIRŮTKOVÁ,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,BURDA DAVID,"Na vítězství ve druhém kole, pane generále",,,,BURDA DAVID,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Zdeňka Ovsjannikova,Dar na kampan generala Pavla,,,,Zdeňka Ovsjannikova,petr_pavel
+2023-01-14,1200,CZK,Platba převodem uvnitř banky,"Pešík, Jiří",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-14,500,CZK,Okamžitá příchozí platba,PAVLÍNA POŠVOVÁ SLÁD,;-) ať úspěšně zvládnete 2. kolo,,,,PAVLÍNA POŠVOVÁ SLÁD,petr_pavel
+2023-01-14,300,CZK,Okamžitá příchozí platba,ALENA SUCHÁNKOVÁ,Držím Vám pěsti,,,,ALENA SUCHÁNKOVÁ,petr_pavel
+2023-01-14,1000,CZK,Okamžitá příchozí platba,Ing.Žabka Vojtěch,,0,,,Ing.Žabka Vojtěch,petr_pavel
+2023-01-14,200,CZK,Okamžitá příchozí platba,Illeš Michal,,0,,,Illeš Michal,petr_pavel
+2023-01-14,10000,CZK,Okamžitá příchozí platba,MIKYSKA DAVID,Hodne stesti v 2. kole!,,,,MIKYSKA DAVID,petr_pavel
 2023-01-14,50,CZK,Okamžitá příchozí platba,JARKOVSKÝ MATĚJ,Sevents Czech Republic s.r.o.,,,,JARKOVSKÝ MATĚJ,petr_pavel
 2023-01-14,500,CZK,Platba převodem uvnitř banky,"Buchtík, Jan",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
 2023-01-14,500,CZK,Okamžitá příchozí platba,RADMILA BUCHTÍKOVÁ,Dar na kampan generala Pavla,,,,RADMILA BUCHTÍKOVÁ,petr_pavel
@@ -161,19 +455,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2023-01-07,-7207.21,CZK,Karetní transakce,,"Nákup: FACEBK CLBRFJ3Q32, fb.me/ads, IE, dne 6.1.2023, částka  7207.21 CZK",,7999,,"Nákup: FACEBK CLBRFJ3Q32, fb.me/ads, IE, dne 6.1.2023, částka  7207.21 CZK",petr_pavel
 2023-01-07,12000,CZK,Okamžitá příchozí platba,KUČEROVÁ ALENA,DAR NA KAMPAŇ GENERÁLA PAVLA,,12023,,KUČEROVÁ ALENA,petr_pavel
 2023-01-07,100,CZK,Okamžitá příchozí platba,JANDA FILIP,,,,,JANDA FILIP,petr_pavel
-2023-01-06,500,CZK,Okamžitá příchozí platba,Miloslava Hechtová,moje 87 letá maminka přispívá mým prostřenictvím. hodně štěstí!,,,,Miloslava Hechtová,petr_pavel
-2023-01-06,1000,CZK,Okamžitá příchozí platba,Miloslava Hechtová,držím nám všem palce,,,,Miloslava Hechtová,petr_pavel
-2023-01-06,925,CZK,Okamžitá příchozí platba,Mgr. Vilém Tanzer,Ať se daří!,,,,Mgr. Vilém Tanzer,petr_pavel
-2023-01-06,-24200,CZK,Karetní transakce,,"Nákup: FACEBK TFFG7JTQ32, fb.me/ads, IE, dne 5.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK TFFG7JTQ32, fb.me/ads, IE, dne 5.1.2023, částka  24200.00 CZK",petr_pavel
-2023-01-06,-7610.9,CZK,Karetní transakce,,"Nákup: SOLIDPIXELS, PRAHA, CZ, dne 5.1.2023, částka  7610.90 CZK",,7999,,"Nákup: SOLIDPIXELS, PRAHA, CZ, dne 5.1.2023, částka  7610.90 CZK",petr_pavel
-2023-01-06,2000,CZK,Okamžitá příchozí platba,Jan Vítů,Držím palce! Přeji si Vás jako prezidenta na Hradě.,,,,Jan Vítů,petr_pavel
-2023-01-06,1111,CZK,Okamžitá příchozí platba,DUNDÁČEK PETR,Petr Dundáček,,1,,DUNDÁČEK PETR,petr_pavel
-2023-01-06,5000,CZK,Platba převodem uvnitř banky,"Vu Thi, Tham",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
-2023-01-06,-199999.79,CZK,Platba převodem uvnitř banky,,,,20230003,,"IČ: 07323841, mediální náklady",petr_pavel
-2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
-2023-01-06,30000,CZK,Okamžitá příchozí platba,HVÍŽĎALA JAN,,,,,HVÍŽĎALA JAN,petr_pavel
-2023-01-06,2000,CZK,Bezhotovostní příjem,STEPANEK ZDENEK,Věříme Vám,,0,,STEPANEK ZDENEK,petr_pavel
-2023-01-06,-3418.25,CZK,Bezhotovostní platba,,,,8122008980,,"IČ: 26155222, billboard",petr_pavel
 2023-01-13,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
 2023-01-13,-1000,CZK,Karetní transakce,,"Nákup: FACEBK 2K9JKJXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.1.2023, částka  1000.00 CZK",,5298,,"Nákup: FACEBK 2K9JKJXJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.1.2023, částka  1000.00 CZK",marek_hilser
 2023-01-13,-1000,CZK,Karetní transakce,,"Nákup: FACEBK CAAN4JFJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.1.2023, částka  1000.00 CZK",,5298,,"Nákup: FACEBK CAAN4JFJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.1.2023, částka  1000.00 CZK",marek_hilser
@@ -194,7 +475,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2023-01-10,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
 2023-01-10,-15000,CZK,Karetní transakce,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 9.1.2023, částka  15000.00 CZK",,5298,,"Nákup: GOOGLE *ADS5553232196,  70 Sir John Rogerson's Quay, 650-253-0000, 2, IRL, dne 9.1.2023, částka  15000.00 CZK",marek_hilser
 2023-01-09,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
-2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
 2023-01-14,25,CZK,Okamžitá příchozí platba,STAVJAŘ MICHAEL,"mrzí mě, že máte na účtu míň než já... aby jste měl aspoň na chleba",,,,STAVJAŘ MICHAEL,josef_stredula
 2023-01-13,0.01,CZK,Okamžitá příchozí platba,VACH JAROSLAV,Zkousim jestli to funguje!,,,,VACH JAROSLAV,josef_stredula
 2023-01-13,0.01,CZK,Bezhotovostní příjem,Květoslava Kurinovsk,"Pepo, nevadí že jsi nevyhrál, ale hlavní je že jsi se zůčastnil. Zkusto za 5 let třeba to vyjde!!",,,,Květoslava Kurinovsk,josef_stredula
@@ -207,9 +487,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2023-01-09,3,CZK,Platba převodem uvnitř banky,"Lejčko, Jan","Pepíku díky, posílám aspoň na rohlíček 3 Kč ve slevě.",3,3,3,"Pepíku díky, posílám aspoň na rohlíček 3 Kč ve slevě.",josef_stredula
 2023-01-09,-220000,CZK,Bezhotovostní platba,,Josef Středula,308,230100006,,vedení kampaně 01/23,josef_stredula
 2023-01-09,100000,CZK,Platba převodem uvnitř banky,SPOLEČNĚ PRO LIDI z.s.,Společně pro lidi z.s. - dar,,20230109,,Společně pro lidi z.s. - dar,josef_stredula
-2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
-2023-01-06,-170000,CZK,Bezhotovostní platba,,Josef Středula,308,230100005,,kvantitativní průzkum Josef Středula,josef_stredula
-2023-01-06,-150000,CZK,Bezhotovostní platba,,Josef Středula,308,230100004,,web Josef Středula,josef_stredula
 2023-01-13,-20000,CZK,Karetní transakce,,"Nákup: FACEBK MH4ZSJXY62, fb.me/ads, IE, dne 12.1.2023, částka  20000.00 CZK",,4231,,"Nákup: FACEBK MH4ZSJXY62, fb.me/ads, IE, dne 12.1.2023, částka  20000.00 CZK",jaroslav_basta
 2023-01-12,-13721.4,CZK,Bezhotovostní platba,,"tisk plakátů, bilboardů atd.  pro prezidentskou kampaň Jaroslava Bašty",8,,,"D & S Design Prague s.r.o. - tisk plakátů, bilboardů atd. pro prezidentskou kampaň Jaroslava Bašty",jaroslav_basta
 2023-01-12,-5000,CZK,Okamžitá odchozí platba,,spot - rozhlas -  prezid. kampaň J. Bašty,,,,Jaroslav Šimek - spot - rozhlas -  prezid. kampaň J. Bašty,jaroslav_basta
@@ -238,6 +515,23 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2023-01-09,1,CZK,Platba převodem uvnitř banky,"Konečný, Erik","ZA TUTO JEDNU KORUNU PROSÍM ROBINA DURECA,ABY SI UVĚDOMIL,ŽE JE KOMPLETNĚ VYLÍZANÝ MOZKOVĚ,TAKŽE DIAGNOZA. PŘEDEM DĚKUJI A JSEMS POZDRAVEM.",,,,"ZA TUTO JEDNU KORUNU PROSÍM ROBINA DURECA,ABY SI UVĚDOMIL,ŽE JE KOMPLETNĚ VYLÍZANÝ MOZKOVĚ,TAKŽE DIAGNOZA. PŘEDEM DĚKUJI A JSEMS POZDRAVEM.",jaroslav_basta
 2023-01-09,1,CZK,Bezhotovostní příjem,ROBIN DUREC,"ZA TUTO JEDNU KORUNU PROSÍM, ABY PAN BAŠTA VYLÍZAL PANU OKAMUROVI JEHO ŘITNÍ OTVOR. PŘEDEM DĚKUJI A JSEMS POZDRAVEM.",,666,,ROBIN DUREC,jaroslav_basta
 2023-01-09,1,CZK,Okamžitá příchozí platba,TADEÁŠ HLAVICA,PROSÍM VZDEJTE SE KANDIDATURY,0,0,0,TADEÁŠ HLAVICA,jaroslav_basta
+2023-01-06,500,CZK,Okamžitá příchozí platba,Miloslava Hechtová,moje 87 letá maminka přispívá mým prostřenictvím. hodně štěstí!,,,,Miloslava Hechtová,petr_pavel
+2023-01-06,1000,CZK,Okamžitá příchozí platba,Miloslava Hechtová,držím nám všem palce,,,,Miloslava Hechtová,petr_pavel
+2023-01-06,925,CZK,Okamžitá příchozí platba,Mgr. Vilém Tanzer,Ať se daří!,,,,Mgr. Vilém Tanzer,petr_pavel
+2023-01-06,-24200,CZK,Karetní transakce,,"Nákup: FACEBK TFFG7JTQ32, fb.me/ads, IE, dne 5.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK TFFG7JTQ32, fb.me/ads, IE, dne 5.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-06,-7610.9,CZK,Karetní transakce,,"Nákup: SOLIDPIXELS, PRAHA, CZ, dne 5.1.2023, částka  7610.90 CZK",,7999,,"Nákup: SOLIDPIXELS, PRAHA, CZ, dne 5.1.2023, částka  7610.90 CZK",petr_pavel
+2023-01-06,2000,CZK,Okamžitá příchozí platba,Jan Vítů,Držím palce! Přeji si Vás jako prezidenta na Hradě.,,,,Jan Vítů,petr_pavel
+2023-01-06,1111,CZK,Okamžitá příchozí platba,DUNDÁČEK PETR,Petr Dundáček,,1,,DUNDÁČEK PETR,petr_pavel
+2023-01-06,5000,CZK,Platba převodem uvnitř banky,"Vu Thi, Tham",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
+2023-01-06,-199999.79,CZK,Platba převodem uvnitř banky,,,,20230003,,"IČ: 07323841, mediální náklady",petr_pavel
+2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,petr_pavel
+2023-01-06,30000,CZK,Okamžitá příchozí platba,HVÍŽĎALA JAN,,,,,HVÍŽĎALA JAN,petr_pavel
+2023-01-06,2000,CZK,Bezhotovostní příjem,STEPANEK ZDENEK,Věříme Vám,,0,,STEPANEK ZDENEK,petr_pavel
+2023-01-06,-3418.25,CZK,Bezhotovostní platba,,,,8122008980,,"IČ: 26155222, billboard",petr_pavel
+2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,,,Pavel Tr?ster,marek_hilser
+2023-01-06,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,alkoholdrink.cz,,5632,,Pavel Tr?ster,josef_stredula
+2023-01-06,-170000,CZK,Bezhotovostní platba,,Josef Středula,308,230100005,,kvantitativní průzkum Josef Středula,josef_stredula
+2023-01-06,-150000,CZK,Bezhotovostní platba,,Josef Středula,308,230100004,,web Josef Středula,josef_stredula
 2023-01-06,100,CZK,Platba převodem uvnitř banky,"Konečný, Erik",Dar. HLAVNĚ SI POHLÍDEJTE SPRAVEDLIVÉ SČÍTÁNÍ - PŘÍKLAD PODVODNÝCH VOLEB BIDEN/TRUMP JE MEMENTEM !!!!,,,,Dar. HLAVNĚ SI POHLÍDEJTE SPRAVEDLIVÉ SČÍTÁNÍ - PŘÍKLAD PODVODNÝCH VOLEB BIDEN/TRUMP JE MEMENTEM !!!!,jaroslav_basta
 2023-01-05,1500,CZK,Okamžitá příchozí platba,HORNÍK FRANTIŠEK,"Pro chlapíka, co se nebojí. Vyhrajte to, držím palce.",,,,HORNÍK FRANTIŠEK,petr_pavel
 2023-01-05,400,CZK,Okamžitá příchozí platba,Ing.Požárek Václav,Plnej tiket na Eurojackpot. Good luck!,0,,,Ing.Požárek Václav,petr_pavel
