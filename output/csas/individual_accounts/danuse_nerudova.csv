@@ -1,4 +1,135 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2023-01-16,-8537,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0002239111/0100,"IČ: 00069922, pronájem prostor, Danuše Nerudová",danuse_nerudova
+2023-01-16,-7718.06,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2500102344/2010,"IČ: 28408306, přeprava balíků ",danuse_nerudova
+2023-01-16,-11200,CZK,Tuzemská odchozí úhrada,308,660106,,000000-1034802487/5500,"IČ: 61874817, produkční práce",danuse_nerudova
+2023-01-16,-8651.5,CZK,Tuzemská odchozí úhrada,308,660106,,000000-1851601183/0800,"IČ:02762382, animace videa",danuse_nerudova
+2023-01-16,-7107,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0008991822/0800,"IČ: 01551906, občerstvení",danuse_nerudova
+2023-01-16,-11790,CZK,Tuzemská odchozí úhrada,308,660106,,000000-1468734039/3030,"IČ: 02618788, produkce",danuse_nerudova
+2023-01-16,-44770,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0377426001/5500,"IČ:68566476, náklady moderování debat",danuse_nerudova
+2023-01-15,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.13.01.2023IE  fb.me/ads       FACEBK *7SVWVMCZK     24200.00 d.zúč. 15.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-15,-15000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.13.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 15.01.2023částka v Kč:       15000.00,danuse_nerudova
+2023-01-15,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.13.01.2023IE  fb.me/ads       FACEBK *HL8VSLCZK     24200.00 d.zúč. 15.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-15,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.13.01.2023IE  fb.me/ads       FACEBK *ZWZZWLCZK     24200.00 d.zúč. 15.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-15,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.13.01.2023IE  fb.me/ads       FACEBK *KL2GBMCZK     24200.00 d.zúč. 15.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-15,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.13.01.2023IE  fb.me/ads       FACEBK *6P7J6MCZK     24200.00 d.zúč. 15.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-15,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.13.01.2023IE  fb.me/ads       FACEBK FSN7XLTCZK     24200.00 d.zúč. 15.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-15,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.13.01.2023IE  fb.me/ads       FACEBK PXH3VK7CZK     24200.00 d.zúč. 15.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-14,-15000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.13.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 14.01.2023částka v Kč:       15000.00,danuse_nerudova
+2023-01-14,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.12.01.2023IE  fb.me/ads       FACEBK *CWAPWLCZK     24200.00 d.zúč. 14.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-14,-10000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2602248897/2010,"IČ: 66363497, pronájem prostor",danuse_nerudova
+2023-01-14,-25155,CZK,Tuzemská odchozí úhrada,308,660106,,000000-1161149011/3030,"IČ:03601536, produkce",danuse_nerudova
+2023-01-14,-3200,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0009037221/0100,"IČ: 16980182, pronájem",danuse_nerudova
+2023-01-14,-15000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.12.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 14.01.2023částka v Kč:       15000.00,danuse_nerudova
+2023-01-14,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.12.01.2023IE  fb.me/ads       FACEBK *TAYXTKCZK     24200.00 d.zúč. 14.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-14,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.12.01.2023IE  fb.me/ads       FACEBK *F4ZDWLCZK     24200.00 d.zúč. 14.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-14,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.12.01.2023IE  fb.me/ads       FACEBK *5S43BMCZK     24200.00 d.zúč. 14.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-14,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.12.01.2023IE  fb.me/ads       FACEBK *XJ9QTKCZK     24200.00 d.zúč. 14.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-14,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.12.01.2023IE  fb.me/ads       FACEBK *6QTP5MCZK     24200.00 d.zúč. 14.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-13,-3700,CZK,Tuzemská odchozí úhrada,308,660106,,000115-3247080237/0100,"IČ: 25627406, pronájem",danuse_nerudova
+2023-01-13,-47008.5,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0193181046/0300,"IČ: 27203719, mikiny, trika s potiskem",danuse_nerudova
+2023-01-13,-3630,CZK,Tuzemská odchozí úhrada,308,660106,,000000-3609060277/0100,"IČ: 26464080, pronájem sálu",danuse_nerudova
+2023-01-13,-2500,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2601870430/2010,"IČ: 09428623, pronájem studia",danuse_nerudova
+2023-01-13,-80000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2400082059/2010,"IČ:17748160, správa sociálních sítí",danuse_nerudova
+2023-01-13,-10000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-5350802399/0800,"IČ: 05609810, pronájem prostor",danuse_nerudova
+2023-01-13,-4000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0004921851/0100,"IČ:00303780, hudební produkce",danuse_nerudova
+2023-01-13,-10000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0294579897/0300,"IČ: 09325522, pronájem prostor",danuse_nerudova
+2023-01-13,-10000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2101175335/2010,"Veronika Vystavělová,  koordinace kontaktní kampaně",danuse_nerudova
+2023-01-13,-10000,CZK,Tuzemská odchozí úhrada,308,660106,,670100-2209114497/6210,"IČ: 87666383, produkční služby",danuse_nerudova
+2023-01-13,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.11.01.2023IE  fb.me/ads       FACEBK *C5XHUMCZK     24200.00 d.zúč. 13.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-13,-10000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-4003529063/0800,"Ondřej Mucha, hudební produkce",danuse_nerudova
+2023-01-13,-10000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2302403648/2010,"IČ:87339382, pronájem prostor",danuse_nerudova
+2023-01-13,-10000,CZK,Tuzemská odchozí úhrada,308,660106,,000035-6741510267/0100,"IČ:87561930, koordinace kontaktní kampaně",danuse_nerudova
+2023-01-13,-4235,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0103785680/2250,"IČ: 28103807, pronájem prostor",danuse_nerudova
+2023-01-13,-15000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.11.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 13.01.2023částka v Kč:       15000.00,danuse_nerudova
+2023-01-13,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.11.01.2023IE  fb.me/ads       FACEBK *J4EDSLCZK     24200.00 d.zúč. 13.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-13,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.11.01.2023IE  fb.me/ads       FACEBK *QFMAVLCZK     24200.00 d.zúč. 13.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-13,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.11.01.2023IE  fb.me/ads       FACEBK *6BKUSKCZK     24200.00 d.zúč. 13.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-13,-6000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.11.01.2023CZ  PLANA           GOPAY  *GOSMS.CZK      6000.00 d.zúč. 13.01.2023částka v Kč:        6000.00,danuse_nerudova
+2023-01-13,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.11.01.2023IE  fb.me/ads       FACEBK *PBM9RLCZK     24200.00 d.zúč. 13.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-13,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.11.01.2023IE  fb.me/ads       FACEBK *H4NYFNCZK     24200.00 d.zúč. 13.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-12,-1114.9,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2101175335/2010,"Veronika Vystavělová, občerstvení",danuse_nerudova
+2023-01-12,-15000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.10.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 12.01.2023částka v Kč:       15000.00,danuse_nerudova
+2023-01-12,-9475,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0247788792/0600,"IČ: 17122937, práce na web stránkách",danuse_nerudova
+2023-01-12,-56167.32,CZK,Tuzemská odchozí úhrada,308,660106,,000000-5674048329/0800,"IČ:27593690, pronájem prostor",danuse_nerudova
+2023-01-12,-1938,CZK,Tuzemská odchozí úhrada,308,660106,,000000-1792101030/3030,"IČ:04242254, překlad",danuse_nerudova
+2023-01-12,-500,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0214183172/0300,vrácení daru Tomáš Jelínek z 09.01. - neúplné údaje,danuse_nerudova
+2023-01-12,-12922,CZK,Tuzemská odchozí úhrada,308,660106,,000000-6231361329/0800,"IČ: 17113431, tisk a výlep plakátů",danuse_nerudova
+2023-01-12,-2000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-1992266024/3030,"IČ: 08875561, cestovné",danuse_nerudova
+2023-01-12,-5000,CZK,Tuzemská odchozí úhrada,308,660106,,000051-5866720247/0100,"IČ:49544322, zvukařské práce",danuse_nerudova
+2023-01-12,-103099,CZK,Tuzemská odchozí úhrada,308,660106,,000000-6231361329/0800,"IČ: 17113431, tisk a výlep plakátů",danuse_nerudova
+2023-01-12,-8452,CZK,Tuzemská odchozí úhrada,308,660106,,000000-1387915364/2700,"IČ: 04625242, pronájem prostor, catering",danuse_nerudova
+2023-01-12,-30000,CZK,Výběr hotovosti z bankomatu ČS,308,660106,,-,"XXXXXXXXXXXX7023 d.tran.12.01.2023146  Praha 3           ČS, TáboritCZK      30000.00 d.zúč.12.01.2023částka v Kč:      30000.00",danuse_nerudova
+2023-01-12,-15000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.11.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 12.01.2023částka v Kč:       15000.00,danuse_nerudova
+2023-01-12,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.11.01.2023IE  fb.me/ads       FACEBK *SRYVTMCZK     24200.00 d.zúč. 12.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-12,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.10.01.2023IE  fb.me/ads       FACEBK *TVCZBMCZK     24200.00 d.zúč. 12.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-12,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.10.01.2023IE  fb.me/ads       FACEBK *RU7UKLCZK     24200.00 d.zúč. 12.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-12,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.10.01.2023IE  fb.me/ads       FACEBK *ZA87SKCZK     24200.00 d.zúč. 12.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-12,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.10.01.2023IE  fb.me/ads       FACEBK *XGZ3TMCZK     24200.00 d.zúč. 12.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-12,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.10.01.2023IE  fb.me/ads       FACEBK *C6RFSKCZK     24200.00 d.zúč. 12.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-12,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.10.01.2023IE  fb.me/ads       FACEBK *GYE64MCZK     24200.00 d.zúč. 12.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-12,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.10.01.2023IE  fb.me/ads       FACEBK *X65EQLCZK     24200.00 d.zúč. 12.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-12,-160000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0084694002/5500,"IČ: 06156550, catering",danuse_nerudova
+2023-01-11,-213868,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2500207971/2010,"IČ:66452759, strategické poradenství",danuse_nerudova
+2023-01-11,-15000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.09.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 11.01.2023částka v Kč:       15000.00,danuse_nerudova
+2023-01-11,-20000,CZK,Výběr hotovosti z bankomatu ČS,308,660106,,-,"XXXXXXXXXXXX7023 d.tran.11.01.2023146  Praha 3           ČS, TáboritCZK      20000.00 d.zúč.11.01.2023částka v Kč:      20000.00",danuse_nerudova
+2023-01-11,-5260.41,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0001230211/0100,"IČ:00360139, pronájem prostor",danuse_nerudova
+2023-01-11,-3070,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0003136851/0100,"IČ:00098574, pronájem prostor",danuse_nerudova
+2023-01-11,-137325,CZK,Tuzemská odchozí úhrada,308,660106,,000000-6231361329/0800,"IČ: 17113431, tisk a výlep plakátů",danuse_nerudova
+2023-01-11,-50000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0949949028/5500,"IČ: 26168685, reklama Sklik",danuse_nerudova
+2023-01-11,-10000,CZK,Tuzemská odchozí úhrada,308,660106,,670100-2215929457/6210,"IČ: 17599458,  koordinace kontaktní kampaně",danuse_nerudova
+2023-01-11,-50000,CZK,Tuzemská odchozí úhrada,308,660106,,000107-1441170237/0100,"IČ:11940565, mediální PR služby",danuse_nerudova
+2023-01-11,-43000,CZK,Tuzemská odchozí úhrada,308,660106,,000019-5489120237/0100,"IČ: 06427782, produkce",danuse_nerudova
+2023-01-11,-1200,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2600578964/2010,"IČ: 00118516, pronájem prostor ",danuse_nerudova
+2023-01-11,-15000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.10.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 11.01.2023částka v Kč:       15000.00,danuse_nerudova
+2023-01-11,-3545,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.09.01.2023US  ATLASSIAN.COM   TRELLO.COM* ATUSD       151.25 d.přep.09.01.2023151.25 kurz USD 23.438,danuse_nerudova
+2023-01-11,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.09.01.2023IE  fb.me/ads       FACEBK *PDPSSMCZK     24200.00 d.zúč. 11.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-11,-105000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.09.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK    105000.00 d.zúč. 11.01.2023částka v Kč:      105000.00,danuse_nerudova
+2023-01-11,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.09.01.2023IE  fb.me/ads       FACEBK *76YD8MCZK     24200.00 d.zúč. 11.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-11,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.09.01.2023IE  fb.me/ads       FACEBK *D8YMSMCZK     24200.00 d.zúč. 11.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-11,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.09.01.2023IE  fb.me/ads       FACEBK *YZ93RKCZK     24200.00 d.zúč. 11.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-11,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.09.01.2023IE  fb.me/ads       FACEBK *DPB4ENCZK     24200.00 d.zúč. 11.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-11,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.09.01.2023IE  fb.me/ads       FACEBK *HZJDBMCZK     24200.00 d.zúč. 11.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-11,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.09.01.2023IE  fb.me/ads       FACEBK *GZG7PLCZK     24200.00 d.zúč. 11.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-11,-680020,CZK,Tuzemská odchozí úhrada,308,660106,,000000-5674048329/0800,"IČ:27593690, kreativní a grafické práce, strategické konzultace",danuse_nerudova
+2023-01-10,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.08.01.2023IE  fb.me/ads       FACEBK *MU5TAMCZK     24200.00 d.zúč. 10.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-10,-15000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.08.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 10.01.2023částka v Kč:       15000.00,danuse_nerudova
+2023-01-10,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.08.01.2023IE  fb.me/ads       FACEBK D7UB2MTCZK     24200.00 d.zúč. 10.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-10,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.08.01.2023IE  fb.me/ads       FACEBK GWCBQK7CZK     24200.00 d.zúč. 10.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-10,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.08.01.2023IE  fb.me/ads       FACEBK *GTXJDNCZK     24200.00 d.zúč. 10.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-10,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.08.01.2023IE  fb.me/ads       FACEBK *W22YSLCZK     24200.00 d.zúč. 10.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-09,-2917.19,CZK,Tuzemská odchozí úhrada,308,660106,,000000-1387747073/2700,"DIČ: CZ685207352, tisk pohlednic, 5001345 ACZ12282830",danuse_nerudova
+2023-01-09,6022,CZK,Tuzemská příchozí úhrada kartou,308,660106,,Global Payments s.r.,"DANUSE NERUDOVA, AKCEPTACE PLATEBNICH KARET",danuse_nerudova
+2023-01-09,-10000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0252433048/0300,"Barbora Červenková, koordinace kontaktní kampaně",danuse_nerudova
+2023-01-09,-25853.05,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2500102344/2010,"IČ: 28408306, přeprava balíků ",danuse_nerudova
+2023-01-09,-11938,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2600434151/2010,"IČ:01785575, tisk informační letáky",danuse_nerudova
+2023-01-09,-20500,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2114672242/2700,"IČ:09955232, produkce",danuse_nerudova
+2023-01-09,-8000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0279693544/0300,"Jan Tříska, koordinace kontaktní kampaně ",danuse_nerudova
+2023-01-09,-10169,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2600434151/2010,"IČ:01785575, tisk plakátů",danuse_nerudova
+2023-01-09,-14940,CZK,Tuzemská odchozí úhrada,308,660106,,000000-6231361329/0800,"IČ: 17113431, tisk a výlep plakátů",danuse_nerudova
+2023-01-09,-10000,CZK,Tuzemská odchozí úhrada,308,660106,,000000-1130998010/3030,"Iveta Friedelová, koordinace kontaktní kampaně",danuse_nerudova
+2023-01-09,-447,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0100393657/0300,"IČ:47114983, poštovné",danuse_nerudova
+2023-01-09,-4840,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0263856185/0300,"IČO: 02668777, pronájem prostor",danuse_nerudova
+2023-01-09,-12500,CZK,Tuzemská odchozí úhrada,308,660106,,000000-2302113608/2010,"IČO: 73303127, koordinace kontaktní kampaně",danuse_nerudova
+2023-01-09,-0.2,CZK,Tuzemská odchozí úhrada,308,660106,,000000-1138524012/3030,vrácení daru 12.12.2022 - 09.01.2023,danuse_nerudova
+2023-01-09,-0.01,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0100537032/0300,vrácení daru Antonín Rossler 09.01.2022,danuse_nerudova
+2023-01-09,100,CZK,Příchozí úhrada,308,660106,,Ing.Sedlák Josef,Než fráze Tutochvílačky raději generál na Hradě,danuse_nerudova
+2023-01-09,0.01,CZK,Příchozí úhrada,308,660106,,Pavel Tr?ster,alkoholdrink.cz,danuse_nerudova
+2023-01-09,1500,CZK,Příchozí úhrada,308,660106,,IVA DOSTÁLOVÁ,"INT: 09.01.2023/7:13:24 0664448695, Danuše",danuse_nerudova
+2023-01-09,100,CZK,Příchozí úhrada,308,660106,,JARÝ TOMÁŠ,,danuse_nerudova
+2023-01-09,-15000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.07.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 09.01.2023částka v Kč:       15000.00,danuse_nerudova
+2023-01-09,-15000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.07.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 09.01.2023částka v Kč:       15000.00,danuse_nerudova
+2023-01-09,100,CZK,Příchozí úhrada,308,660106,,IVA DOSTÁLOVÁ,Danuše N,danuse_nerudova
+2023-01-09,150,CZK,Příchozí úhrada,308,660106,,KŘEMEČEK NIKOLAS,"hrnek, Tereza Kučerová merch",danuse_nerudova
+2023-01-09,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.07.01.2023IE  fb.me/ads       FACEBK *LXPHZLCZK     24200.00 d.zúč. 09.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-09,-16338.32,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.07.01.2023IE  fb.me/ads       FACEBK *FA8JHLCZK     16338.32 d.zúč. 09.01.2023částka v Kč:       16338.32,danuse_nerudova
+2023-01-09,-45000,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX7023 d.tran.07.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     45000.00 d.zúč. 09.01.2023částka v Kč:       45000.00,danuse_nerudova
+2023-01-09,-5686.43,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.07.01.2023IE  fb.me/ads       FACEBK 3CEXQMFCZK      5686.43 d.zúč. 09.01.2023částka v Kč:        5686.43,danuse_nerudova
+2023-01-09,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.07.01.2023IE  fb.me/ads       FACEBK DFZ7RMFCZK     24200.00 d.zúč. 09.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-09,-24200,CZK,Platba kartou,308,660106,,-,XXXXXXXXXXXX0214 d.tran.07.01.2023IE  fb.me/ads       FACEBK 2FBQHLPCZK     24200.00 d.zúč. 09.01.2023částka v Kč:       24200.00,danuse_nerudova
+2023-01-09,500,CZK,Příchozí úhrada,308,660106,,JELINEK TOMAS,merch,danuse_nerudova
+2023-01-09,0.01,CZK,Příchozí úhrada,308,660106,,ROSSLER ANTONIN,Chodí vám již peníze od anonymníchdárců?,danuse_nerudova
+2023-01-09,1000,CZK,Příchozí úhrada,308,660106,,BRDLIK JAROSLAV,Jaroslav Brdlík,danuse_nerudova
+2023-01-09,-166375,CZK,Tuzemská odchozí úhrada,308,660106,,000000-0279689086/0300,"IČ: 62930711, pronájem sálu",danuse_nerudova
 2023-01-15,-15000,CZK,Platba kartou,1178,13012023,4511610214,-,XXXXXXXXXXXX0214 d.tran.13.01.2023IE  g.co/HelpPay#   GOOGLE *ADS875CZK     15000.00 d.zúč. 15.01.2023částka v Kč:       15000.00,danuse_nerudova
 2023-01-15,-24200,CZK,Platba kartou,1178,13012023,4511610214,-,XXXXXXXXXXXX0214 d.tran.13.01.2023IE  fb.me/ads       FACEBK FSN7XLTCZK     24200.00 d.zúč. 15.01.2023částka v Kč:       24200.00,danuse_nerudova
 2023-01-15,-24200,CZK,Platba kartou,1178,13012023,4511610214,-,XXXXXXXXXXXX7023 d.tran.13.01.2023IE  fb.me/ads       FACEBK *6P7J6MCZK     24200.00 d.zúč. 15.01.2023částka v Kč:       24200.00,danuse_nerudova
