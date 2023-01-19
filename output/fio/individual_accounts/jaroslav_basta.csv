@@ -1,4 +1,8 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-18,75867,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-18,43560,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-18,1962444.55,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-18,1872314.68,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2023-01-17,-500,CZK,Okamžitá odchozí platba,,Dar bohužel musíme vrátit - zaslán po lhůtě pro přijímání darů kandidáta.,,,,vrácení daru,jaroslav_basta
 2023-01-17,-1000,CZK,Okamžitá odchozí platba,,Dar bohužel musíme vrátit - zaslán po lhůtě pro přijímání darů kandidáta.,,,,vrácení daru,jaroslav_basta
 2023-01-17,-0.01,CZK,Okamžitá odchozí platba,,vrácení daru,,,,vrácení daru,jaroslav_basta

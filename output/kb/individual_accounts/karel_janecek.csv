@@ -1,6 +1,6 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
-001-18012023 1602 602012 902361,2023-01-18,-194481,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-18012023 1602 602005 897111,2023-01-18,194481,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
+001-18012023 1602 602012 902361,2023-01-18,-194481,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-16012023 1602 602001 008291,2023-01-16,35000,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-16012023 1602 602006 021661,2023-01-16,-35000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-10012023 1602 602009 919501,2023-01-10,-21,Odchozí platba,,Vraceni prispevku na kampan,CZK,0,0,0,karel_janecek
