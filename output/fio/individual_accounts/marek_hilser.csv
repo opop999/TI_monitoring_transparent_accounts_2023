@@ -1,4 +1,8 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-20,-9680,CZK,Okamžitá odchozí platba,,,,2023000033,,Faktura - daňový doklad č. 2023000033 - pronájem prostoru - tisková konference - Impact Hub,marek_hilser
+2023-01-20,-5263,CZK,Platba převodem uvnitř banky,,,,2310013,,FAKTURA č. 2310013 - tisk volebních letáků,marek_hilser
+2023-01-20,-34000,CZK,Okamžitá odchozí platba,,,,,,"2023 / 001 - organizace kampaně, komunikace s médii, produkce leden 2023",marek_hilser
+2023-01-20,-40688,CZK,Okamžitá odchozí platba,,,,,,"Faktura 1/23 - organizace volební kampaně, produkce, leden 2023",marek_hilser
 2023-01-17,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,,,,Pavel Tr?ster,marek_hilser
 2023-01-17,-40000,CZK,Platba převodem uvnitř banky,,,,,,Faktura 2023001 -  správa sociálních sítí prosinec - leden 2023,marek_hilser
 2023-01-16,-2500,CZK,Okamžitá odchozí platba,,,,,,faktura 19 - správa sociálních sítí 1/2 leden 2023,marek_hilser

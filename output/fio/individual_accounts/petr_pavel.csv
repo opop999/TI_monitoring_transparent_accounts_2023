@@ -1,4 +1,59 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-20,1000,CZK,Okamžitá příchozí platba,Schneiderová Irena,dar,0,,,Schneiderová Irena,petr_pavel
+2023-01-20,100,CZK,Okamžitá příchozí platba,PETRELLI DAMIAN,"Konečně prezident, za kterého se nebudu stydět.",,,,PETRELLI DAMIAN,petr_pavel
+2023-01-20,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,,,,Pavel Tr?ster,petr_pavel
+2023-01-20,3000,CZK,Okamžitá příchozí platba,Mgr.Matásková Simona,dar,0,,,Mgr.Matásková Simona,petr_pavel
+2023-01-20,2000,CZK,Okamžitá příchozí platba,"KAMIL KOPECKÝ,Ph.D.",Podporuji generála Pavla!          Kamil Kopecký,,,,"KAMIL KOPECKÝ,Ph.D.",petr_pavel
+2023-01-20,500,CZK,Okamžitá příchozí platba,Nosek Jiří,neco malo do posledni bitvy  dik,0,,,Nosek Jiří,petr_pavel
+2023-01-20,1000,CZK,Okamžitá příchozí platba,"Ing.Kopečný Jan,DrSc",,0,520616,,"Ing.Kopečný Jan,DrSc",petr_pavel
+2023-01-20,100,CZK,Okamžitá příchozí platba,Cipra Petr,na svěrací kazajky pro Nedozrála aspol.,0,,,Cipra Petr,petr_pavel
+2023-01-20,0.01,CZK,Okamžitá příchozí platba,Květoslava Kurinovsk,Love general,,,,Květoslava Kurinovsk,petr_pavel
+2023-01-20,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","Vládní Fialový KRVAVÝ Generalissimus a tak plně podoruje ""Mírové mise"" NATO,tedy bestiální okupace ostaních států,a masové vyvraždování NATO",0,0,0,"Vládní Fialový KRVAVÝ Generalissimus a tak plně podoruje ""Mírové mise"" NATO,tedy bestiální okupace ostaních států,a masové vyvraždování NATO",petr_pavel
+2023-01-20,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek",Vládní Fialový KRVAVÝ Generalissimus a tak plně podoruje probíhající 3.WW v Malorusku a faktické zatažení ČR do ní se všemi důsledky pro ČR.,0,0,0,Vládní Fialový KRVAVÝ Generalissimus a tak plně podoruje probíhající 3.WW v Malorusku a faktické zatažení ČR do ní se všemi důsledky pro ČR.,petr_pavel
+2023-01-20,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","Vládní Fialový KRVAVÝ Generalissimus vrcholný pohlavár v útočném válečném NATO,který bestiálně přepadl Srbsko 1999,Afghanistán, Irák, Libyi",0,0,0,"Vládní Fialový KRVAVÝ Generalissimus vrcholný pohlavár v útočném válečném NATO,který bestiálně přepadl Srbsko 1999,Afghanistán, Irák, Libyi",petr_pavel
+2023-01-20,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek",Vladní Fialový KRVAVÝ Generalissimus a tak plně podporuje fakticky běžící vojenskou materiálovou a žoldáckou podporu NATO v Malorusku a 3.WW,0,0,0,Vladní Fialový KRVAVÝ Generalissimus a tak plně podporuje fakticky běžící vojenskou materiálovou a žoldáckou podporu NATO v Malorusku a 3.WW,petr_pavel
+2023-01-20,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek",Vládní Fialový KRVAVÝ Generalissimus a tak plně podoruje vraždění Kyjevské Banderovské junty v občanské válce od roku 2014 a nyní 3.WW ! ! !,0,0,0,Vládní Fialový KRVAVÝ Generalissimus a tak plně podoruje vraždění Kyjevské Banderovské junty v občanské válce od roku 2014 a nyní 3.WW ! ! !,petr_pavel
+2023-01-20,100,CZK,Okamžitá příchozí platba,Cipra Petr,na ochranu před Nedozrálem a spol.,0,,,Cipra Petr,petr_pavel
+2023-01-20,500,CZK,Okamžitá příchozí platba,Alexandr Jeništa,,,,,Alexandr Jeništa,petr_pavel
+2023-01-20,3000,CZK,Bezhotovostní příjem,KONEČNÁ BOHUMILA,,,,,KONEČNÁ BOHUMILA,petr_pavel
+2023-01-20,111,CZK,Bezhotovostní příjem,KRYSTOF SEDLACEK,"JSEM STUDENT. NEMÁM ANI NA JÍDLO. ALE RADŠI UMŘU HLADY, NEŽ V RUKOU BABIŠE.",4,4,4,KRYSTOF SEDLACEK,petr_pavel
+2023-01-20,1000,CZK,Bezhotovostní příjem,LENKA TICHOTOVA,DRŽÍM NÁM PALCE!,,,,LENKA TICHOTOVA,petr_pavel
+2023-01-20,111,CZK,Okamžitá příchozí platba,Zuzana Čechová,Lepší než žvaniti a krásti: odčinit chybu službou vlasti! Dar na kampaň g. Pavla,,,,Zuzana Čechová,petr_pavel
+2023-01-20,1000,CZK,Bezhotovostní příjem,VOSÁHLO LADISLAV,L. Vosáhlo - podpora Petra Pavla,0,1,0,VOSÁHLO LADISLAV,petr_pavel
+2023-01-20,-250000,CZK,Platba převodem uvnitř banky,,,308,230100008,,"IČ: 05852803, výlep",petr_pavel
+2023-01-20,-236850,CZK,Bezhotovostní platba,,,,350004,,"IČ: 28232771, video",petr_pavel
+2023-01-20,-2553.1,CZK,Bezhotovostní platba,,,,20230016,,"IČ: 25753771, tisk",petr_pavel
+2023-01-20,2000,CZK,Bezhotovostní příjem,KOLARIKOVA ILONA,Dar na kampaň generála Pavla - Ilona Koláriková,,0,,KOLARIKOVA ILONA,petr_pavel
+2023-01-20,1,CZK,Bezhotovostní příjem,BURGET MICHAL,Na zápisky až budete na hradě.,0,0,0,BURGET MICHAL,petr_pavel
+2023-01-20,100,CZK,Okamžitá příchozí platba,Marek Josef,"vydržet 7 dnů, sametová a FLANELOVÁ revoluce",0,,,Marek Josef,petr_pavel
+2023-01-20,500,CZK,Bezhotovostní příjem,KLEIN BARBORA,držíme moc palce B+J+Š+M+A+B Kleinovi,,0,,KLEIN BARBORA,petr_pavel
+2023-01-20,0.01,CZK,Bezhotovostní příjem,KRONDRÁF KAREL,"Eva obdiv k Gotwaldovi, změnila zaidol nový. Místo politruka s náma,chce teď býti první dáma.",,,,KRONDRÁF KAREL,petr_pavel
+2023-01-20,0.01,CZK,Bezhotovostní příjem,KRONDRÁF KAREL,"Klobouk tedy musí dolů, s Putinem máš stejnou školu a teď nevím Petřejistě, komu přísahat chceš příště.",,,,KRONDRÁF KAREL,petr_pavel
+2023-01-20,0.13,CZK,Bezhotovostní příjem,KLIMA STANISLAV,Pro nejhorší škodnou v historii střední Evropy,,0,,KLIMA STANISLAV,petr_pavel
+2023-01-20,200,CZK,Bezhotovostní příjem,KATERINA ZAVADILOVA,"ZA SVOBODU A ČEST TÉHLE ZEMĚ,VYHRAJTE. KATEŘINA ZAVADILOVÁ",,,,KATERINA ZAVADILOVA,petr_pavel
+2023-01-19,2000,CZK,Okamžitá příchozí platba,Neumann Martin,dar na kampaň generála Pavla,0,,,Neumann Martin,petr_pavel
+2023-01-19,100,CZK,Okamžitá příchozí platba,Petr Boček,"Pro prezidenta, který nebude ufňukaným lhářem.",,,,Petr Boček,petr_pavel
+2023-01-19,1000,CZK,Okamžitá příchozí platba,Tomáš Zderadíček,Dar na kampaň generála Pavla,,,,Tomáš Zderadíček,petr_pavel
+2023-01-19,1000,CZK,Okamžitá příchozí platba,Podešvová Vladimira,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Podešvová Vladimira,petr_pavel
+2023-01-19,200,CZK,Okamžitá příchozí platba,DZURIKOVÁ KAMILA,"Dar na kampaň Generála Pavla. Studentský příspěvek, abych se nemusela dalších 5 let stydět .",,,,DZURIKOVÁ KAMILA,petr_pavel
+2023-01-19,1000,CZK,Okamžitá příchozí platba,KAZDERA LUKÁŠ,DAR NA KAMPAŇ GENERÁLA PAVLA,,,,KAZDERA LUKÁŠ,petr_pavel
+2023-01-19,10000,CZK,Okamžitá příchozí platba,Ondřej Pasch,"Až budete president, moc rád s Vámi vystoupím na nějaký český kopec a moc rád promluvím s presidentem! Držím Vám pakce",,,,Ondřej Pasch,petr_pavel
+2023-01-19,500,CZK,Okamžitá příchozí platba,Grillová Eva,Drzim Vam palce! Potrebujeme Vas. Ne makaka a knu.,0,,,Grillová Eva,petr_pavel
+2023-01-19,300,CZK,Okamžitá příchozí platba,Marek Josef,chrchel káča hájkovic je piča,0,,,Marek Josef,petr_pavel
+2023-01-19,100,CZK,Okamžitá příchozí platba,Marek Josef,"za naše děti, už se ruSSčobolem nechci špinit ####",0,,,Marek Josef,petr_pavel
+2023-01-19,20,CZK,Okamžitá příchozí platba,HÁJKOVÁ KATEŘINA,Nedozral Marek je kokot,,,,HÁJKOVÁ KATEŘINA,petr_pavel
+2023-01-19,2000,CZK,Okamžitá příchozí platba,Škopán Miloš,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Škopán Miloš,petr_pavel
+2023-01-19,-24200,CZK,Karetní transakce,,"Nákup: FACEBK W86N7LBQ32, fb.me/ads, IE, dne 18.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK W86N7LBQ32, fb.me/ads, IE, dne 18.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-19,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 7FEVWJPQ32, fb.me/ads, IE, dne 18.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 7FEVWJPQ32, fb.me/ads, IE, dne 18.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-19,-24200,CZK,Karetní transakce,,"Nákup: FACEBK U5L7KK7Q32, fb.me/ads, IE, dne 18.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK U5L7KK7Q32, fb.me/ads, IE, dne 18.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-19,-24200,CZK,Karetní transakce,,"Nákup: FACEBK FGU5JJTQ32, fb.me/ads, IE, dne 18.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK FGU5JJTQ32, fb.me/ads, IE, dne 18.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-19,400,CZK,Platba převodem uvnitř banky,"Škrabal, Jakub","Dobrý den. Dostal jsem donate od voliče pane Babiše, takové dary nechci a raději je přepošlu vám na kampaň. Hodně štěstí ve volbách.",,,,"Dobrý den. Dostal jsem donate od voliče pane Babiše, takové dary nechci a raději je přepošlu vám na kampaň. Hodně štěstí ve volbách.",petr_pavel
+2023-01-19,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","Generalissimo volební heslo:""Řád a klid"" neboli bolschevické ""Klid na práci"" neboli nacistické ""Ruhe und ordnung"" Hesla Pětidemolice ketasů",0,0,0,"Generalissimo volební heslo:""Řád a klid"" neboli bolschevické ""Klid na práci"" neboli nacistické ""Ruhe und ordnung"" Hesla Pětidemolice ketasů",petr_pavel
+2023-01-19,400,CZK,Okamžitá příchozí platba,PISCOVÁ EWA,"Věřím Vám, jen Vy můžete udělat tady pořádek",,,,PISCOVÁ EWA,petr_pavel
+2023-01-19,13.13,CZK,Bezhotovostní příjem,KLIMA STANISLAV,Na důchodce a jeho gely .,,0,,KLIMA STANISLAV,petr_pavel
+2023-01-19,200,CZK,Okamžitá příchozí platba,Ing.Harabiš Zdeněk,"ZVÍTĚZÍME, držim palce!!!",0,,,Ing.Harabiš Zdeněk,petr_pavel
+2023-01-19,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","Takovému PSYCHOPATOVI nemůže býti hanba! Celý život se cvičil na VÁLKU, tedy na MASOVÉ VRAŽDĚNÍ napřed pro Maskvu, pak pro Washington-NATO!!",0,0,0,"Takovému PSYCHOPATOVI nemůže býti hanba! Celý život se cvičil na VÁLKU, tedy na MASOVÉ VRAŽDĚNÍ napřed pro Maskvu, pak pro Washington-NATO!!",petr_pavel
+2023-01-19,0.01,CZK,Okamžitá příchozí platba,JAMRICHOVÁ PAVLA,Že Vám není hanba.,,,,JAMRICHOVÁ PAVLA,petr_pavel
 2023-01-19,2000,CZK,Okamžitá příchozí platba,Kalivoda Roman,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Kalivoda Roman,petr_pavel
 2023-01-19,1000,CZK,Bezhotovostní příjem,KRISTYNA SLUNSKA HRU,VYDRZTE!!!!,,,,KRISTYNA SLUNSKA HRU,petr_pavel
 2023-01-19,0.1,CZK,Bezhotovostní příjem,KLIMA STANISLAV,Na lampasáckou skvělou familii,,0,,KLIMA STANISLAV,petr_pavel
