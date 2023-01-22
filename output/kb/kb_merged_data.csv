@@ -270,6 +270,8 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 361-18012023 1086 086151 502702,2023-01-18,0.01,Příchozí platba,Ing. Tomáš Vondra,"Příspěvek nenasytnému oligarchovi k těm jeho miliardám. Pořád má pocit, že má málo, tak ať se těmi penězi třeba udáví.",CZK,25085,25085,25085,andrej_babis
 361-18012023 1086 086146 502918,2023-01-18,0.07,Příchozí platba,TOUSEK JIRI,"Pamatuj, na prezidentské vlajce stojí: ""Pravda vítězí""",CZK,0,0,0,andrej_babis
 361-18012023 1086 086150 102929,2023-01-18,0.01,Příchozí platba,Vojtěch Košárek,www.10web.cz - Tvorba webů a e-shopů na míru,CZK,420,69,0,andrej_babis
+301-16012023 1008 702707 390359,2023-01-16,-100,Poplatek,,,CZK,0,898,0,denisa_rohanova
+301-16012023 1008 702707 390358,2023-01-16,-10500,,Výběr,,CZK,0,0,0,denisa_rohanova
 361-18012023 1086 086143 503129,2023-01-18,0.01,Příchozí platba,Kocanda Samuel,Generál forever,CZK,0,0,0,andrej_babis
 361-18012023 1086 086150 503371,2023-01-18,0.01,Příchozí platba,Martina Havránková,"Babiš mírotvůrce :D Co jsi udělal doteď pro mír v Evropě ty diplomate?! Na promo s Macronem si čas najdeš co? Denně umírají nevinní, už rok!",CZK,0,0,0,andrej_babis
 361-18012023 1086 086147 103404,2023-01-18,1,Příchozí platba,"Šimeček, Jan","Vezmi 1Kč a táhni už jednou provždy do hajzlu, ty zoufalej skřehotavej ubožáku",CZK,0,0,0,andrej_babis
@@ -288,8 +290,6 @@ id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,
 120-20230118 T02AR0HS6734Q,2023-01-18,0.1,Příchozí platba,JAN HASTRDLO,VOLÍM GENERÁLA PAVLA. BUREŠE DO KOŠE!,CZK,0,0,0,andrej_babis
 120-20230117 00755646563,2023-01-18,0.01,Příchozí platba,ŠTĚPÁNOVÁ ANDREA,BUREŠE DO KOŠE!,CZK,0,0,0,andrej_babis
 001-18012023 1602 602015 373991,2023-01-18,0.01,Příchozí platba,ŠÍP RADEK,Poděl se o můj dar s Dluženou a Monče. Ukňučená kobliha na hrad!,CZK,0,0,0,andrej_babis
-301-16012023 1008 702707 390359,2023-01-16,-100,Poplatek,,,CZK,0,898,0,denisa_rohanova
-301-16012023 1008 702707 390358,2023-01-16,-10500,,Výběr,,CZK,0,0,0,denisa_rohanova
 120-20230117 296613828,2023-01-18,0.01,Příchozí platba,Ing. Jiří Ženíšek,"Andreji, ty ses měl původně narodit jako krysa, ale pánbůh si to na poslední chvíli rozmyslel -D",CZK,25085,308,0,andrej_babis
 120-20230118 00755810379,2023-01-18,0.01,Příchozí platba,Vehovský Roman,na teplake,CZK,25085,666,0,andrej_babis
 120-20230118 2194673148,2023-01-18,0.01,Příchozí platba,Josef Sadílek,"STBÁKU BUREŠI, OSTUDO ČR! PREZIDENTEM NEBUDEŠ! NIKDY!",CZK,0,0,0,andrej_babis
