@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-23,-25400,CZK,Okamžitá odchozí platba,,,,2023000092,,Faktura 2023000092 - Produkce volební štáb 14.1.2023,marek_hilser
 2023-01-22,-415.82,CZK,Karetní transakce,,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",,5298,,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",marek_hilser
 2023-01-20,-9680,CZK,Okamžitá odchozí platba,,,,2023000033,,Faktura - daňový doklad č. 2023000033 - pronájem prostoru - tisková konference - Impact Hub,marek_hilser
 2023-01-20,-5263,CZK,Platba převodem uvnitř banky,,,,2310013,,FAKTURA č. 2310013 - tisk volebních letáků,marek_hilser

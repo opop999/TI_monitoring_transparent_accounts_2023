@@ -1,4 +1,7 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
+361-23012023 1086 086146 508051,2023-01-23,111,Příchozí platba,"Konečný, Erik","Dar. Asi byste měl pane Janečku,pomoci Babišovi,protože on je blíž míru než Pavel,podporující válkychtivou vládu!!!",CZK,0,0,0,karel_janecek
+001-23012023 1602 602007 091531,2023-01-23,-221000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
+001-23012023 1602 602018 078691,2023-01-23,221000,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-18012023 1602 602005 897111,2023-01-18,194481,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-18012023 1602 602012 902361,2023-01-18,-194481,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-16012023 1602 602001 008291,2023-01-16,35000,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
