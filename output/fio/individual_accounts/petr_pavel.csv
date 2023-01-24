@@ -1,4 +1,32 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-24,500,CZK,Okamžitá příchozí platba,JUDr.Němcová Jana,Pro budoucího prezidenta!,0,,,JUDr.Němcová Jana,petr_pavel
+2023-01-24,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,,,,Pavel Tr?ster,petr_pavel
+2023-01-24,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","VLÁDNÍ KRVAVÝ Generalissimus Pávek! Takže podporuje ŠÍLENÉ tvrzení KRVAVÉHO VÁLEČNÉHO ZLOČINCE Fialy a CENZURY, že ""Jsme ve válce s Ruskem""",0,0,0,"VLÁDNÍ KRVAVÝ Generalissimus Pávek! Takže podporuje ŠÍLENÉ tvrzení KRVAVÉHO VÁLEČNÉHO ZLOČINCE Fialy a CENZURY, že ""Jsme ve válce s Ruskem""",petr_pavel
+2023-01-24,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","VLÁDNÍ KRVAVÝ Generalissimus Pávek! takže plně podporuje FIALOVÝ TEROR 2x vyšší inflace,6x vyšších cen české elektřiny než v okolních zemích",0,0,0,"VLÁDNÍ KRVAVÝ Generalissimus Pávek! takže plně podporuje FIALOVÝ TEROR 2x vyšší inflace,6x vyšších cen české elektřiny než v okolních zemích",petr_pavel
+2023-01-24,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek",VLÁDNÍ KRVAVÝ Generalissimus Pávek! Podporuje masivní dodávky zbraní do Maloruska a tím přímo vzájemné vyvraždování a zapojení ČR do 3.WW !,0,0,0,VLÁDNÍ KRVAVÝ Generalissimus Pávek! Podporuje masivní dodávky zbraní do Maloruska a tím přímo vzájemné vyvraždování a zapojení ČR do 3.WW !,petr_pavel
+2023-01-24,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","VLÁDNÍ Generalissimus Soudruh Pávek! Za naše zájmy války, vojensko-průmyslového komplexu USA ! Bran válku a udávej!  https://branmecesko.eu/",0,0,0,"VLÁDNÍ Generalissimus Soudruh Pávek! Za naše zájmy války, vojensko-průmyslového komplexu USA ! Bran válku a udávej!  https://branmecesko.eu/",petr_pavel
+2023-01-24,500,CZK,Okamžitá příchozí platba,Ráczová Marie,"Chci být zase pyšná na svého prezidenta, 15 let tomu tak není. Zvítězíte, věřím Vám, pane generále Pavle.",0,,,Ráczová Marie,petr_pavel
+2023-01-24,200,CZK,Bezhotovostní příjem,STANISLAV BROZEK,"PŘÍSPĚVEK NA IBALGIN! DRŽÍM PALCE A VEMTE SI POD BUNDU TEPLÝ SVETR, AŤ TOMU HRABIŠOVI POŘÁDNĚ ,,NAKOPETE,, ZADEK! :-)      STANISLAV BROŽEK",,28012023,,STANISLAV BROZEK,petr_pavel
+2023-01-24,-3630,CZK,Platba převodem uvnitř banky,,,,2023010,,"IČ: 29060460, pronájem techniky",petr_pavel
+2023-01-24,-3000,CZK,Bezhotovostní platba,,,308,20230001,,"Erik Duraja, výlep",petr_pavel
+2023-01-24,-6651,CZK,Bezhotovostní platba,,,,82300138,,"IČ: 03506037, pronájem techniky",petr_pavel
+2023-01-24,100,CZK,Bezhotovostní příjem,WEINER JIŘÍ,Ještě jednou - držte se,1147,2301202023,23012023,WEINER JIŘÍ,petr_pavel
+2023-01-23,111,CZK,Okamžitá příchozí platba,Martina Havránková,BUDETE SKVĚLÝ PREZIDENT A VAŠE PANÍ SKVĚLÁ PRVNÍ DÁMA :) DĚKUJEME !!!,,,,Martina Havránková,petr_pavel
+2023-01-23,1000,CZK,Okamžitá příchozí platba,Tomáš Píč,,,,,Tomáš Píč,petr_pavel
+2023-01-23,2000,CZK,Okamžitá příchozí platba,Lišková Renata,DAR NA KAMPAŇ GENERÁLA PAVLA. Nejnebezpečnější chvíle přichází spolu s vítězstvím. Napoleon Bonaparte,0,,,Lišková Renata,petr_pavel
+2023-01-23,-1403,CZK,Okamžitá odchozí platba,,,,,,"IČ: 61274925, produkční náklady",petr_pavel
+2023-01-23,-1823,CZK,Okamžitá odchozí platba,,,,,,"IČ: 61274925, produkční náklady",petr_pavel
+2023-01-23,-1696.5,CZK,Okamžitá odchozí platba,,,,,,"IČ: 61274925, produkční náklady",petr_pavel
+2023-01-23,-270,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2023-01-23,-1484,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2023-01-23,-1615,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2023-01-23,-2048,CZK,Okamžitá odchozí platba,,,,,,"IČ: 02532352, produkční náklady",petr_pavel
+2023-01-23,-1174,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2023-01-23,-339,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2023-01-23,-7457,CZK,Okamžitá odchozí platba,,,,,,"IČ: 08991278, produkční náklady",petr_pavel
+2023-01-23,-24200,CZK,Karetní transakce,,"Nákup: FACEBK MMAVSJKQ32, fb.me/ads, IE, dne 22.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK MMAVSJKQ32, fb.me/ads, IE, dne 22.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-23,-24200,CZK,Karetní transakce,,"Nákup: FACEBK Z8LD2KPQ32, fb.me/ads, IE, dne 22.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK Z8LD2KPQ32, fb.me/ads, IE, dne 22.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-23,100,CZK,Okamžitá příchozí platba,Cipra Petr,"Nedozrále, Tr?stere, Eliaši, ulevilo se vám?                   tohle je ale účet prezidenta",0,,,Cipra Petr,petr_pavel
 2023-01-23,5004,CZK,Vklad v hotovosti,desátník Herda,,558,,,desátník Herda,petr_pavel
 2023-01-23,0.13,CZK,Bezhotovostní příjem,KLIMA STANISLAV,"Na nemocného chcípaka, co v zimě frajeří v kožené bundičce.",,0,,KLIMA STANISLAV,petr_pavel
 2023-01-23,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","Generalissimus Maršál Maskvy dvojitý KONTRÁŠ Sovětské GRU, předseda ZO KSČ, UDAVAČ.     https://www.youtube.com/watch?v=mrujrUfQaOU",0,0,0,"Generalissimus Maršál Maskvy dvojitý KONTRÁŠ Sovětské GRU, předseda ZO KSČ, UDAVAČ.     https://www.youtube.com/watch?v=mrujrUfQaOU",petr_pavel
