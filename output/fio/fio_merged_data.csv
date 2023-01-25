@@ -1,4 +1,40 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-25,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,,,,Pavel Tr?ster,petr_pavel
+2023-01-25,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","VLÁDNÍ Generalissimus Soudruh Pávek! Za naše zájmy války, vojensko-průmyslového komplexu USA ! Bran válku a udávej! https://branmecesko.eu/",0,0,0,"VLÁDNÍ Generalissimus Soudruh Pávek! Za naše zájmy války, vojensko-průmyslového komplexu USA ! Bran válku a udávej! https://branmecesko.eu/",petr_pavel
+2023-01-25,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek",Generalissimus AGENT Pávek! Absolvent NEVYŠŠÍHO Sovětského zpravodajského kurzu pro KONTRÁŠE !  https://www.youtube.com/watch?v=imGLzh9qx5w,0,0,0,Generalissimus AGENT Pávek! Absolvent NEVYŠŠÍHO Sovětského zpravodajského kurzu pro KONTRÁŠE !  https://www.youtube.com/watch?v=imGLzh9qx5w,petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. GBVALK7Q32, dat. 19.1.2023",petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. PFV2TJ3Q32, dat. 19.1.2023",petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. MT7YSJ3Q32, dat. 19.1.2023",petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. NMN58LBQ32, dat. 18.1.2023",petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. 88DBAK3R32, dat. 18.1.2023",petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. XKNERJ3Q32, dat. 17.1.2023",petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. 44MMRJXP32, dat. 17.1.2023",petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. 8BRSUJFQ32, dat. 16.1.2023",petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. DCNDQJ3Q32, dat. 16.1.2023",petr_pavel
+2023-01-25,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek",VLÁDNÍ KRVAVÝ Generalissimus Pávek! Podporuje Fialův TEROR PLÁNOVANÉ DEINDUSTRIALIZACE ČR jako jen Protektorátu EU a totálního ožebračení!!!,0,0,0,VLÁDNÍ KRVAVÝ Generalissimus Pávek! Podporuje Fialův TEROR PLÁNOVANÉ DEINDUSTRIALIZACE ČR jako jen Protektorátu EU a totálního ožebračení!!!,petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. LXJA8K3R32 , dat. 16.1.2023",petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. S5VJ5LBQ32 , dat. 15.1.2023",petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. Q7V3UKXQ32, dat. 15.1.2023",petr_pavel
+2023-01-25,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. 86Q9TKXQ32 , dat. 14.1.2023",petr_pavel
+2023-01-25,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","VLÁDNÍ KRVAVÝ Generalissimus Pávek! Podporuje ŠÍLENÉHO KRVAVÉHO VÁLEČNÉHO ZLOČINCE Manipulátora Fialu jeho CENZURU, ""Jsme ve válce s Ruskem""",0,0,0,"VLÁDNÍ KRVAVÝ Generalissimus Pávek! Podporuje ŠÍLENÉHO KRVAVÉHO VÁLEČNÉHO ZLOČINCE Manipulátora Fialu jeho CENZURU, ""Jsme ve válce s Ruskem""",petr_pavel
+2023-01-25,-24797.61,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. M3XWMJ3Q32 , dat. 13.1.2023",petr_pavel
+2023-01-25,1234,CZK,Okamžitá příchozí platba,Spolek Společný prez,Adam Coubal Spolek Spolecny Prezident,0,,,Spolek Společný prez,petr_pavel
+2023-01-25,82.8,CZK,Bezhotovostní příjem,VÝMOLA RADEK,"Veliteli, prosím pro ČR, opakovaněi důsledně vyzvěte k zastavení vyhrožování i vydírání. kb.cz/cs/transparentni-ucty/123-8794230217 Děkuji.",0,8280,8280,VÝMOLA RADEK,petr_pavel
+2023-01-25,-6897,CZK,Bezhotovostní platba,,,,8122009565,,"IČ: 26155222, billboardy",petr_pavel
+2023-01-25,100,CZK,Okamžitá příchozí platba,Cipra Petr,"Ať zvítězí pravda a slušnost nad lží a nenávistí, pane prezidente Pavle.",0,,,Cipra Petr,petr_pavel
+2023-01-25,10000,CZK,Bezhotovostní příjem,PÍTROVÁ JULIE,dar na kampaň generála Pavla,,,,PÍTROVÁ JULIE,petr_pavel
+2023-01-25,8.73,CZK,Okamžitá příchozí platba,David Forman,,,,,David Forman,petr_pavel
+2023-01-24,100,CZK,Okamžitá příchozí platba,Štieberová Marika,Malý příspěvek pro velkého prezidenta :) DĚKUJI!,0,,,Štieberová Marika,petr_pavel
+2023-01-24,-20000,CZK,Okamžitá odchozí platba,,,,23800002,,"IČ: 88225593, kreativní práce",petr_pavel
+2023-01-24,1,CZK,Okamžitá příchozí platba,Zdeněk Valíček,"Jsem pro mír. Nefandím Rusku. Pro mír by snad úplně stačilo, kdyby Ukrajina vrátila území které ji daroval Lenin. Každá příčina má důsledek.",308,100,,Zdeněk Valíček,petr_pavel
+2023-01-24,10,CZK,Okamžitá příchozí platba,Ing.Velich Zdeněk,"Volím mír a spravedlnost, proto Babiš. Nevolím válku a totalitu, Fialovu vládu ani generála Pavla.",0,,,Ing.Velich Zdeněk,petr_pavel
+2023-01-24,1,CZK,Okamžitá příchozí platba,JINDŘICH BENDA,"Pane Pávek, ať KSČ zase vrátíte zašlý lesk a slávu!",,,,JINDŘICH BENDA,petr_pavel
+2023-01-24,-24200,CZK,Karetní transakce,,"Nákup: FACEBK ZFZMEK3R32, fb.me/ads, IE, dne 23.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK ZFZMEK3R32, fb.me/ads, IE, dne 23.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-24,-24200,CZK,Karetní transakce,,"Nákup: FACEBK WTSKEK3R32, fb.me/ads, IE, dne 23.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK WTSKEK3R32, fb.me/ads, IE, dne 23.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-24,-24200,CZK,Karetní transakce,,"Nákup: FACEBK HUU93LXQ32, fb.me/ads, IE, dne 23.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK HUU93LXQ32, fb.me/ads, IE, dne 23.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-24,-1089,CZK,Okamžitá odchozí platba,,,,2202300023,,"IČ: 03161412, licence",petr_pavel
+2023-01-24,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 4QP23LXQ32, fb.me/ads, IE, dne 23.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 4QP23LXQ32, fb.me/ads, IE, dne 23.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-24,500,CZK,Bezhotovostní příjem,RACEK ONDŘEJ,Dar na kampan generala Pavla,0,0,0,RACEK ONDŘEJ,petr_pavel
 2023-01-24,500,CZK,Okamžitá příchozí platba,JUDr.Němcová Jana,Pro budoucího prezidenta!,0,,,JUDr.Němcová Jana,petr_pavel
 2023-01-24,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,,,,Pavel Tr?ster,petr_pavel
 2023-01-24,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","VLÁDNÍ KRVAVÝ Generalissimus Pávek! Takže podporuje ŠÍLENÉ tvrzení KRVAVÉHO VÁLEČNÉHO ZLOČINCE Fialy a CENZURY, že ""Jsme ve válce s Ruskem""",0,0,0,"VLÁDNÍ KRVAVÝ Generalissimus Pávek! Takže podporuje ŠÍLENÉ tvrzení KRVAVÉHO VÁLEČNÉHO ZLOČINCE Fialy a CENZURY, že ""Jsme ve válce s Ruskem""",petr_pavel
@@ -932,6 +968,33 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2023-01-17,111,CZK,Platba převodem uvnitř banky,"Schindler, Jiří",Pro slušného prezidenta.,,,,Pro slušného prezidenta.,petr_pavel
 2023-01-17,1000,CZK,Okamžitá příchozí platba,Mgr. KARLA BAUEROVÁ,DAR NA KAMPAŇ GENERÁLA PAVLA       Musí to vyjít!! Děkuji a hodně sil!,,,,Mgr. KARLA BAUEROVÁ,petr_pavel
 2023-01-17,3000,CZK,Okamžitá příchozí platba,LOUDOVÁ JARMILA MU,"Prošel jste jako voják jistě větším peklem, než je AB. !! Zvládnete to, všichni slušní lidé v této zemi stojí za Vámi. Loudová",,,,LOUDOVÁ JARMILA MU,petr_pavel
+2023-01-24,-5000,CZK,Platba převodem uvnitř banky,,,,,,propagace a podpora prezidentského kandidáta PP ve 2. kole - Brno 22.1.2023,marek_hilser
+2023-01-24,-15500,CZK,Okamžitá odchozí platba,,,,,,faktura 2023/001 - produkční práce + administrace webových stránek říjen-leden,marek_hilser
+2023-01-24,-20000,CZK,Platba převodem uvnitř banky,,,,220100019,,Faktura 220100019 - propagační materiály,marek_hilser
+2023-01-23,-25400,CZK,Okamžitá odchozí platba,,,,2023000092,,Faktura 2023000092 - Produkce volební štáb 14.1.2023,marek_hilser
+2023-01-22,-415.82,CZK,Karetní transakce,,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",,5298,,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",marek_hilser
+2023-01-20,-9680,CZK,Okamžitá odchozí platba,,,,2023000033,,Faktura - daňový doklad č. 2023000033 - pronájem prostoru - tisková konference - Impact Hub,marek_hilser
+2023-01-20,-5263,CZK,Platba převodem uvnitř banky,,,,2310013,,FAKTURA č. 2310013 - tisk volebních letáků,marek_hilser
+2023-01-20,-34000,CZK,Okamžitá odchozí platba,,,,,,"2023 / 001 - organizace kampaně, komunikace s médii, produkce leden 2023",marek_hilser
+2023-01-20,-40688,CZK,Okamžitá odchozí platba,,,,,,"Faktura 1/23 - organizace volební kampaně, produkce, leden 2023",marek_hilser
+2023-01-17,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,,,,Pavel Tr?ster,marek_hilser
+2023-01-17,-40000,CZK,Platba převodem uvnitř banky,,,,,,Faktura 2023001 -  správa sociálních sítí prosinec - leden 2023,marek_hilser
+2023-01-23,-17593.91,CZK,Karetní transakce,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",,4231,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",jaroslav_basta
+2023-01-20,-220000,CZK,Bezhotovostní platba,,23100002 - Jaroslav Bašta letáky pro prezidentskou kampaň,308,,,Tiskárna Bílý slon - letáky pro prezidentskou kampaň Jaroslava Bašty,jaroslav_basta
+2023-01-20,-7000,CZK,Okamžitá odchozí platba,,pronájem sálu - zprostředkování,308,20230002,,Jiří Gaudin - pronájem sálu,jaroslav_basta
+2023-01-19,250000,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-19,-7018,CZK,Platba převodem uvnitř banky,,občerstvení - akce Na pivo s Baštou - prezidentská kampaň Jaroslava Bašty,,3012023,,Vladimíra Bondarenková - občerstvení - akce Na pivo s Baštou - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2023-01-19,-1962444.55,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023 (PL18137915/JV),,,,"BigMedia, spol. s r.o. pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023",jaroslav_basta
+2023-01-19,-1872314.68,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023 (PS18136407/JV),,,,"BigMedia, spol. s r.o. pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023",jaroslav_basta
+2023-01-19,-43560,CZK,Bezhotovostní platba,,2 bannery s oky pro prezidentskou kampaň Jaroslava Bašty leden 2023,,,,"BigMedia, spol. s r.o. 2 bannery s oky pro prezidentskou kampaň Jaroslava Bašty leden 2023",jaroslav_basta
+2023-01-19,-75867,CZK,Okamžitá odchozí platba,,Volební štáb Jaroslava Bašty - technické zajištění,,230070004,,"Volební štáb Jaroslava Bašty, kandidáta na prezidenta - technické zajištění",jaroslav_basta
+2023-01-18,75867,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-18,43560,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-18,1962444.55,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-18,1872314.68,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-17,-500,CZK,Okamžitá odchozí platba,,Dar bohužel musíme vrátit - zaslán po lhůtě pro přijímání darů kandidáta.,,,,vrácení daru,jaroslav_basta
+2023-01-17,-1000,CZK,Okamžitá odchozí platba,,Dar bohužel musíme vrátit - zaslán po lhůtě pro přijímání darů kandidáta.,,,,vrácení daru,jaroslav_basta
+2023-01-17,-0.01,CZK,Okamžitá odchozí platba,,vrácení daru,,,,vrácení daru,jaroslav_basta
 2023-01-16,1500,CZK,Okamžitá příchozí platba,PhDr. Eva Dosedělová,"Moc si vás vážím, konečně někdo, kdo nás vyvede z toho marasmu",,123,,PhDr. Eva Dosedělová,petr_pavel
 2023-01-16,500,CZK,Okamžitá příchozí platba,Daniela Hlavicová,Hodně sil a štěstí,,,,Daniela Hlavicová,petr_pavel
 2023-01-16,10000,CZK,Okamžitá příchozí platba,Říčka Jan,Dar na kampaň generala Pavla,0,,,Říčka Jan,petr_pavel
@@ -1992,36 +2055,9 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2023-01-16,500,CZK,Okamžitá příchozí platba,Daniel Dobiášovský,Dar na kampaň.,,,,Daniel Dobiášovský,petr_pavel
 2023-01-16,3000,CZK,Okamžitá příchozí platba,Jan Malát,"Držím palce, generále! Vydržte ať do finiše!",,,,Jan Malát,petr_pavel
 2023-01-16,500,CZK,Okamžitá příchozí platba,Sýkorová Jiřina,zvítězíme,0,,,Sýkorová Jiřina,petr_pavel
-2023-01-24,-5000,CZK,Platba převodem uvnitř banky,,,,,,propagace a podpora prezidentského kandidáta PP ve 2. kole - Brno 22.1.2023,marek_hilser
-2023-01-24,-15500,CZK,Okamžitá odchozí platba,,,,,,faktura 2023/001 - produkční práce + administrace webových stránek říjen-leden,marek_hilser
-2023-01-24,-20000,CZK,Platba převodem uvnitř banky,,,,220100019,,Faktura 220100019 - propagační materiály,marek_hilser
-2023-01-23,-25400,CZK,Okamžitá odchozí platba,,,,2023000092,,Faktura 2023000092 - Produkce volební štáb 14.1.2023,marek_hilser
-2023-01-22,-415.82,CZK,Karetní transakce,,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",,5298,,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",marek_hilser
-2023-01-20,-9680,CZK,Okamžitá odchozí platba,,,,2023000033,,Faktura - daňový doklad č. 2023000033 - pronájem prostoru - tisková konference - Impact Hub,marek_hilser
-2023-01-20,-5263,CZK,Platba převodem uvnitř banky,,,,2310013,,FAKTURA č. 2310013 - tisk volebních letáků,marek_hilser
-2023-01-20,-34000,CZK,Okamžitá odchozí platba,,,,,,"2023 / 001 - organizace kampaně, komunikace s médii, produkce leden 2023",marek_hilser
-2023-01-20,-40688,CZK,Okamžitá odchozí platba,,,,,,"Faktura 1/23 - organizace volební kampaně, produkce, leden 2023",marek_hilser
-2023-01-17,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,,,,Pavel Tr?ster,marek_hilser
-2023-01-17,-40000,CZK,Platba převodem uvnitř banky,,,,,,Faktura 2023001 -  správa sociálních sítí prosinec - leden 2023,marek_hilser
 2023-01-16,-2500,CZK,Okamžitá odchozí platba,,,,,,faktura 19 - správa sociálních sítí 1/2 leden 2023,marek_hilser
 2023-01-16,-80000,CZK,Okamžitá odchozí platba,,,,,,Faktura 1/23 - Grafické práce červen 2022 - leden 2023,marek_hilser
 2023-01-16,0.01,CZK,Okamžitá příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,,,,Pavel Tr?ster,marek_hilser
-2023-01-23,-17593.91,CZK,Karetní transakce,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",,4231,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",jaroslav_basta
-2023-01-20,-220000,CZK,Bezhotovostní platba,,23100002 - Jaroslav Bašta letáky pro prezidentskou kampaň,308,,,Tiskárna Bílý slon - letáky pro prezidentskou kampaň Jaroslava Bašty,jaroslav_basta
-2023-01-20,-7000,CZK,Okamžitá odchozí platba,,pronájem sálu - zprostředkování,308,20230002,,Jiří Gaudin - pronájem sálu,jaroslav_basta
-2023-01-19,250000,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-19,-7018,CZK,Platba převodem uvnitř banky,,občerstvení - akce Na pivo s Baštou - prezidentská kampaň Jaroslava Bašty,,3012023,,Vladimíra Bondarenková - občerstvení - akce Na pivo s Baštou - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
-2023-01-19,-1962444.55,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023 (PL18137915/JV),,,,"BigMedia, spol. s r.o. pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023",jaroslav_basta
-2023-01-19,-1872314.68,CZK,Bezhotovostní platba,,pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023 (PS18136407/JV),,,,"BigMedia, spol. s r.o. pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023",jaroslav_basta
-2023-01-19,-43560,CZK,Bezhotovostní platba,,2 bannery s oky pro prezidentskou kampaň Jaroslava Bašty leden 2023,,,,"BigMedia, spol. s r.o. 2 bannery s oky pro prezidentskou kampaň Jaroslava Bašty leden 2023",jaroslav_basta
-2023-01-19,-75867,CZK,Okamžitá odchozí platba,,Volební štáb Jaroslava Bašty - technické zajištění,,230070004,,"Volební štáb Jaroslava Bašty, kandidáta na prezidenta - technické zajištění",jaroslav_basta
-2023-01-18,75867,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-18,43560,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-18,1962444.55,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-18,1872314.68,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-17,-500,CZK,Okamžitá odchozí platba,,Dar bohužel musíme vrátit - zaslán po lhůtě pro přijímání darů kandidáta.,,,,vrácení daru,jaroslav_basta
-2023-01-17,-1000,CZK,Okamžitá odchozí platba,,Dar bohužel musíme vrátit - zaslán po lhůtě pro přijímání darů kandidáta.,,,,vrácení daru,jaroslav_basta
-2023-01-17,-0.01,CZK,Okamžitá odchozí platba,,vrácení daru,,,,vrácení daru,jaroslav_basta
 2023-01-16,500,CZK,Okamžitá příchozí platba,Jiří Semrád,"Věřím, že zlo porazite, držím palce.",,,,Jiří Semrád,petr_pavel
 2023-01-16,111,CZK,Okamžitá příchozí platba,Jílek Pavel,"Věřím, že rozumných lidí je více, než tupounů, kteří věří lžím.  Lidi, jděte k volbám!",0,,,Jílek Pavel,petr_pavel
 2023-01-16,300,CZK,Okamžitá příchozí platba,JANUSOVÁ VERONIKA,,,,,JANUSOVÁ VERONIKA,petr_pavel

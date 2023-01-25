@@ -1,6 +1,6 @@
 entity,total_transactions_spend,total_spend_million,per_transaction_avg_spend_thousand
-danuse_nerudova,4158,165.905,39.9
-petr_pavel,840,43.703,52.028
+danuse_nerudova,4254,168.602,39.634
+petr_pavel,861,44.167,51.298
 karel_janecek,63,35.478,563.14
 pavel_fischer,891,27.188,30.514
 jaroslav_basta,82,17.617,214.844
@@ -10,5 +10,5 @@ karel_divis,26,6.781,260.795
 tomas_zima,62,6.326,102.025
 marek_hilser,115,1.735,15.091
 libor_michalek,40,0.887,22.182
-andrej_babis,36,0.067,1.859
+andrej_babis,94,0.291,3.099
 denisa_rohanova,18,0.04,2.232

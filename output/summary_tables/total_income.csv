@@ -1,6 +1,6 @@
 entity,total_transactions_income,total_income_million,per_transaction_avg_income_thousand
 danuse_nerudova,2115,128.507,60.76
-petr_pavel,5248,49.153,9.366
+petr_pavel,5263,49.165,9.342
 karel_janecek,43,35.478,825.071
 pavel_fischer,4117,23.203,5.636
 jaroslav_basta,60,17.64,294.001
@@ -10,5 +10,5 @@ karel_divis,32,6.781,211.896
 tomas_zima,117,5.225,44.657
 marek_hilser,139,1.749,12.582
 libor_michalek,100,0.801,8.006
-andrej_babis,2516,0.238,0.095
+andrej_babis,2588,0.239,0.092
 denisa_rohanova,27,0.04,1.493
