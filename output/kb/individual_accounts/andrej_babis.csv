@@ -1,48 +1,107 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
-361-25012023 1086 086147 102725,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,Andrej Babiš vede silně dezinformační kampaň. Asi nás má za hlupáky.,CZK,25085,25085,25085,andrej_babis
-120-20230125 T02AR0HSC5O7D,2023-01-25,0.01,Příchozí platba,JAN KUZELKA,"PŘÍSPĚVEK NA SLABIKÁŘ, HOTENTOTE.",CZK,0,0,0,andrej_babis
-120-20230125 T02AR0HSC4JIR,2023-01-25,0.01,Příchozí platba,JAN KUZELKA,"NESTRAŠ VÁLKOU, SJEDNOTITELI. TVÉ BABIŠKY JSOU VYDĚŠENÉ.",CZK,0,0,0,andrej_babis
-001-25012023 1602 602015 137601,2023-01-25,0.23,Příchozí SEPA platba,OLEKSANDRA DIHULJAR,"EKONOMICKA ANARCHIE, HROZI TI BASA",CZK,0,6020000000,2684054212,andrej_babis
-361-25012023 1086 086148 502182,2023-01-25,0.01,Příchozí platba,Josef Sadílek,"Ukňučený estébák Bureš se asi za výroky o Vrběticích, ani za ochotu zradit spojence nikdy neomluví. Je to holt proruský kolaborant.",CZK,0,0,0,andrej_babis
-120-20230124 0033255241110,2023-01-25,0.01,Příchozí platba,"Šejna, Martin","Pan Babiš zkrátka nemá kredit čestného a férového člověka pro post prezidenta, ku kterému bych mohl zpívat obdobu ""Kdož sú boží bojovníci""..",CZK,0,0,0,andrej_babis
-361-25012023 1086 086143 502080,2023-01-25,1,Příchozí platba,Hanzelková Zina,"Jablka hrušky míchám do dobré marmelády.Vy, z toho vaříte smradlavou,lživou kampaň,abyste mohl dál okrádat lidí i stát Zpět se na Slovensko",CZK,0,0,0,andrej_babis
-361-25012023 1086 086151 502059,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Nejvíce se bojí ten, kdo sám strach rozsévá a šíří :-):-):-)",CZK,0,0,0,andrej_babis
-361-25012023 1086 086142 502041,2023-01-25,0.01,Příchozí platba,Michnová Marie,Jen vůl sám na sebe podá hůl. A že jich už podal :-):-):-),CZK,0,0,0,andrej_babis
-361-25012023 1086 086148 501999,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Pane generále, parket TV je opět Váš, gratulace předem :-):-):-)",CZK,0,0,0,andrej_babis
-361-25012023 1086 086147 501982,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Nechci prezidenta, který by z Hradu mohl ovládat hnutí ANO a AGROFERT a který by mohl ovlivnit, co budou psát v MF a v Lidovkách.",CZK,25085,25085,25085,andrej_babis
-361-25012023 1086 086147 101986,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Podlosti na 1000 + 1 způsob, tomu AB rozumí, to umí :-):-):-)",CZK,0,0,0,andrej_babis
-361-25012023 1086 086150 101944,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Medvídku, medvídku, když strkáš čenich do včelína,... :-):-):-)",CZK,0,0,0,andrej_babis
-361-25012023 1086 086146 101924,2023-01-25,0.01,Příchozí platba,Michnová Marie,Babiš je nahý. A svlékl se sám :-):-):-),CZK,0,0,0,andrej_babis
-361-25012023 1086 086142 501904,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Někoho si koupíš za deci vína, někoho za jitrnici, moudrého nikdy :-):-):-)",CZK,0,0,0,andrej_babis
-361-25012023 1086 086149 501864,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Neučil se, neučil se, neučil se, proto nic neumí, neumí, neumí :-):-):-)",CZK,0,0,0,andrej_babis
-361-25012023 1086 086149 101846,2023-01-25,0.01,Příchozí platba,Michnová Marie,"AB, ten je nebezpečný i sám sobě. Na Hrad ani náhodou",CZK,0,0,0,andrej_babis
-361-25012023 1086 086150 101810,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Mohl byste vyjmenovat planety Sluneční soustavy? ""Ježišmarjá .. no MĚSÍC .. eee .. Mars .. Pluto .. Saturn .. co je tam ještě? ... SLUNCE.""",CZK,25085,25085,25085,andrej_babis
-361-25012023 1086 086142 101805,2023-01-25,0.01,Příchozí platba,Michnová Marie,"AB o sobě - jsem urputné hovado. Má pravdu, předsedo, má pravdu :-):-):-)",CZK,0,0,0,andrej_babis
-361-25012023 1086 086149 501762,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Moderátor: Chtěl bych vás poprosit, abyste byl v odpovědích koncentrovaný jako váš protikandidát. Babiš: Ale on je vládní kandidát.",CZK,25085,25085,25085,andrej_babis
-361-25012023 1086 086151 501647,2023-01-25,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,CZK,0,0,0,andrej_babis
-361-25012023 1086 086143 101328,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Žákyně základní školy: ""Uveďte nejznámější dílo Jaroslava Haška."" Kandidát na prezidenta Babiš: ""To nevím.""",CZK,25085,25085,25085,andrej_babis
-361-25012023 1086 086142 501280,2023-01-25,0.01,Příchozí platba,"Jadamus, Bogdan","Když prohrajete, tak to bude jasným signálem se stáhnout z politiky a budete mít alespoň dost času na vyřizování dotací pro své projekty.",CZK,0,0,0,andrej_babis
-120-20230125 0033255682861,2023-01-25,0.1,Příchozí platba,"Hastrdlo, Jan",Volím Generála Pavla. Bureše do koše!,CZK,0,0,0,andrej_babis
-120-20230124 0033255243490,2023-01-25,0.01,Příchozí platba,"Šejna, Martin","Takže buďme slušní a féroví i vůči protistraně osoby p. Babiše už proto, že si to přeje i náš budoucí pan prezident Pavel, kterého chceme!",CZK,0,0,0,andrej_babis
-120-20230124 T02AR0HSBND2Q,2023-01-25,0.01,Příchozí platba,MILOSLAV ZOBAL,"TAKÉ JSEM UŽ NAŠEL VYSTŘELENOU NÁBOJNICI, DOKONCE NĚKOLIK. CHCI OCHRANKU.",CZK,0,0,0,andrej_babis
+361-26012023 1086 086148 102572,2023-01-26,0.01,Příchozí platba,Hlavizňa Antonín,Na provoz flašinetu slovenského šaška,CZK,0,0,0,andrej_babis
+361-26012023 1086 086150 502407,2023-01-26,0.01,Příchozí platba,DANDUL IVO,"to neděláš dobře, andreji s tím lhaním",CZK,25085,0,0,andrej_babis
+361-26012023 1086 086151 502367,2023-01-26,0.01,Příchozí platba,DANDUL IVO,zbabělci a hlupákovi na učebnice ZŠ,CZK,25085,0,0,andrej_babis
+361-26012023 1086 086145 102333,2023-01-26,0.01,Příchozí platba,DANDUL IVO,"amorálnímu blbečkovi na kapesníčke,až bude v sobotu večer zase fňukat,že nevyhrál",CZK,25085,0,0,andrej_babis
+361-26012023 1086 086144 102063,2023-01-26,0.01,Příchozí platba,Ing. Tomáš Vondra,https://www.seznamzpravy.cz/clanek/volby-prezidentske-buresovo-pres-noc-se-zmenily-cedule-obce-pruhonice-224317#dop_ab_variant=0&dop_source_,CZK,25085,25085,25085,andrej_babis
+361-26012023 1086 086146 101953,2023-01-26,0.01,Příchozí platba,Michnová Marie,"Kopání do živých, trpících, umírajících? Vrchol pohrdání vším, co dělá člověka člověkem",CZK,0,0,0,andrej_babis
+361-26012023 1086 086148 101896,2023-01-26,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,CZK,0,0,0,andrej_babis
+361-26012023 1086 086142 501888,2023-01-26,0.01,Příchozí platba,Michnová Marie,AB - chladnokrevný bezcitný manipulátor bez úcty k životu a hodnotám,CZK,0,0,0,andrej_babis
+361-26012023 1086 086148 101857,2023-01-26,0.01,Příchozí platba,Michnová Marie,"Zastavme Babiše, dokud je čas",CZK,0,0,0,andrej_babis
+361-26012023 1086 086150 501843,2023-01-26,0.01,Příchozí platba,Michnová Marie,"Legrace skončila, na Hrad se Babiš nesmí nikdy dostat",CZK,0,0,0,andrej_babis
+361-26012023 1086 086144 501835,2023-01-26,0.01,Příchozí platba,Michnová Marie,"AB na Hradě? Běda, třikrát běda této zemi",CZK,0,0,0,andrej_babis
+361-26012023 1086 086149 101818,2023-01-26,0.01,Příchozí platba,Michnová Marie,"AB? Přes spáleniště, přes krvavé řeky,...",CZK,0,0,0,andrej_babis
+361-26012023 1086 086146 101804,2023-01-26,0.01,Příchozí platba,Michnová Marie,Maska konečně s konečnou platností bez milosti stržena,CZK,0,0,0,andrej_babis
+361-26012023 1086 086149 501412,2023-01-26,0.01,Příchozí platba,Ing. Tomáš Vondra,PRAVDA VÍTĚZÍ! Lháři musí z kola ven! VOLTE PETRA PAVLA!,CZK,25085,25085,25085,andrej_babis
+361-26012023 1086 086150 101347,2023-01-26,0.01,Příchozí platba,Ing. Tomáš Vondra,"Nechci prezidenta, který by z Hradu mohl ovládat hnutí ANO a AGROFERT a který by mohl ovlivnit, co budou psát v MF a v Lidovkách.",CZK,25085,25085,25085,andrej_babis
+361-26012023 1086 086143 501285,2023-01-26,0.01,Příchozí platba,Ing. Tomáš Vondra,"Žákyně základní školy: ""Uveďte nejznámější dílo Jaroslava Haška."" Kandidát na prezidenta Babiš: ""To nevím.""",CZK,25085,25085,25085,andrej_babis
+361-26012023 1086 086144 501256,2023-01-26,0.01,Příchozí platba,Ing. Tomáš Vondra,Z naší vlasti se nesmí stát Agrofertistán! Volte Petra Pavla!,CZK,25085,25085,25085,andrej_babis
+120-20230126 0033260733988,2023-01-26,0.1,Příchozí platba,"Hastrdlo, Jan",Volím Generála Pavla. Bureše do koše!,CZK,0,0,0,andrej_babis
+120-20230126 T02AR0HSCNS8I,2023-01-26,0.01,Příchozí platba,JAN KUZELKA,JSI NEMOCNÝ. PROTOPOPOV TĚ VYLÉČÍ.,CZK,0,0,0,andrej_babis
+120-20230125 T02AR0HSCKJDQ,2023-01-26,0.01,Příchozí platba,JAN KUZELKA,"ANDREJI, PŘESVĚDČIL JSI MĚ. DĚKUJI.",CZK,0,0,0,andrej_babis
+120-20230126 T02AR0HSCQPP9,2023-01-26,0.01,Příchozí platba,JAN KUZELKA,"BABIŠI, KONČÍŠ.",CZK,0,0,0,andrej_babis
+120-20230125 T02AR0HSCNDR2,2023-01-26,0.01,Příchozí platba,JAN KUZELKA,"TEBE PRÁVĚ ZNÁME, BUREŠI. PROTO TEBE NIKDY. ZAPAMATUJ SI TO...",CZK,0,0,0,andrej_babis
+120-20230126 T02AR0HSCQQ0H,2023-01-26,0.01,Příchozí platba,JAN KUZELKA,"PRCHALE, KONČÍŠ.",CZK,0,0,0,andrej_babis
+120-20230125 T02AR0HSCKBQB,2023-01-26,0.01,Příchozí platba,JAN KUZELKA,"KDYŽ KANDIDUJE KLAUNE, MUSÍME VYDRŽET CIRKUSE.",CZK,0,0,0,andrej_babis
+120-20230126 T02AR0HSCQ1KO,2023-01-26,0.1,Příchozí platba,JAN HASTRDLO,VOLÍM GENERÁLA PAVLA. BUREŠE DO KOŠE!,CZK,0,0,0,andrej_babis
+120-20230126 2204620580,2023-01-26,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
+120-20230126 2204607789,2023-01-26,0.01,Příchozí platba,Josef Sadílek,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",CZK,0,0,0,andrej_babis
+001-26012023 1602 602020 000791,2023-01-26,0.01,Příchozí platba,FOREJT PAVEL,"Soudruhu Babiši, můj hlas ve volbách prezidenta nedostanete, ani kdybyste si prst v prdeli zlomil !!!",CZK,0,0,0,andrej_babis
+120-20230125 0033259886798,2023-01-26,0.01,Příchozí platba,"Babický, Michal","Negramota za prezidenta fakt nechceme, Bláboliši, radši už neříkej vůbec nic, vrať titul a jdi se dovzdělat na základku!",CZK,666,0,666,andrej_babis
+361-26012023 1086 086149 500866,2023-01-26,10000,Příchozí platba,LBCC Real Estate and,Děkuji panu Babišovi za přímou osobní podporu dostupného bydlení v ČR. Velmi si toho všichni vážíme. Děkujeme!,CZK,0,0,0,andrej_babis
+361-26012023 1086 086148 500850,2023-01-26,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","NA BOTY, JAKO ZOSOBNĚNÁ LEŽ JICH MUSÍŠ PROŠOUPAT TUNY. JEN ŠOUPEJ DÁL, VÝCHODNÍ ŠUPÁKU!",CZK,0,0,0,andrej_babis
+361-26012023 1086 086149 500810,2023-01-26,0.01,Příchozí platba,Dolínek Václav,jestli se staneš prezidentem bude další defenestrace. StB zkurvená táhni odkud jsi přišel. zatloukači zasranej.,CZK,7350,0,0,andrej_babis
+361-26012023 1086 086142 500799,2023-01-26,0.01,Příchozí platba,Josef Ambrož,Tahni ty svine stbacka tam odkad prisels,CZK,7350,0,0,andrej_babis
+361-26012023 1086 086148 500711,2023-01-26,0.01,Příchozí platba,Ing. Tomáš Vondra,https://cs.wikipedia.org/wiki/Andrej_Babi%C5%A1#/media/Soubor:B2.webp,CZK,25085,25085,25085,andrej_babis
+361-26012023 1086 086144 500688,2023-01-26,0.01,Příchozí platba,Ing. Tomáš Vondra,https://m.facebook.com/groups/milionchvilek/posts/1057842894559175/,CZK,25085,25085,25085,andrej_babis
+361-26012023 1086 086149 500630,2023-01-26,0.01,Příchozí platba,RADEK BŘENDA,"Uz okradate i mrtve v Hustopecich? Vy jste spina, okradac mrtvol, udavac, unosce syna, syn zlodeje, hanba",CZK,0,0,0,andrej_babis
+120-20230125 PR00000434679,2023-01-26,0.01,Příchozí platba,BAKES PETR,"Vždy jakmile kadíš, zakřič hrdě Babiš ! Vždycky totiž ti bude ouvej, vyřeší to strýček Andrej! Proto PETR PAVEL babišáci!",CZK,0,0,0,andrej_babis
+120-20230125 PR00000428917,2023-01-26,0.01,Příchozí platba,BAKES PETR,"Větší ostudu česká politika ještě nezažila. Posílám příspěvek na logopeda, prezident by měl umět mluvit řečí země, ve které chce vládnout .",CZK,0,0,0,andrej_babis
+120-20230125 PR00000428687,2023-01-26,0.01,Příchozí platba,BAKES PETR,"Prezidentský duel Novinky.cz Arogantní ulhaný šašek Bureš okřikuje moderátorku, dělá ostudu a už se zcela ztrácí ve svých lžích.",CZK,0,0,0,andrej_babis
+120-20230125 PR00000415134,2023-01-26,1,Příchozí platba,KACIRKOVA ANNA,jsem r. 1945 neurážejte slušné lidinaučte se slušnému chování,CZK,0,0,0,andrej_babis
+361-26012023 1086 086151 100097,2023-01-26,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","JAK NEJLÍP ZAMÉST VŠECHNO DOSAVADNÍ SVINSTVO VYKÁLENÉ NA HRADĚ SEMTAMKUNDEM, HLADOVÝM PRASETEM A RUSKÝM ŠVÁBEM POD STŮL? BLBIŠEM!",CZK,0,0,0,andrej_babis
+361-26012023 1086 086147 500077,2023-01-26,0.01,Příchozí platba,"Mgr.Novák Vít,MBA",JAK JINAK KRÁST DALŠÍ MILIARDY Z DOTACÍ A ERÁRU? PROTO BLBIŠ!,CZK,0,0,0,andrej_babis
+001-26012023 1602 602014 577451,2023-01-26,500,Příchozí platba,ŠPRINGL MARTIN,Vaši nepřátelé nás spojují,CZK,0,0,0,andrej_babis
+001-26012023 1602 602023 545721,2023-01-26,0.01,Příchozí platba,BINAR ALEŠ,"Pane Babiši, tady máte na napravení chyb v kampani kterých si nejste vědom. Další budou dle Vaších vyjádření následovat",CZK,0,0,0,andrej_babis
+361-26012023 1086 086148 100400,2023-01-26,0.01,Příchozí platba,"Bulka, Vladimír",Babiš je agentem KGB !!!! https://www.forum24.cz/tajna-analyticka-zprava/,CZK,0,0,0,andrej_babis
 120-20230125 T02AR0HSC2E4P,2023-01-25,0.01,Příchozí platba,KAREL KRBA,VOLIT VÁS PANE BABIŠ JE JAKO VOLIT ČISTÉ ZLO....,CZK,9876543210,558,0,andrej_babis
+000-25012023-005-005-001367501,2023-01-25,0.01,Trvalý příkaz,SKŘIVÁNEK TOMÁŠ,WWW.BABISJELHAR.CZ,CZK,0,0,0,andrej_babis
+120-20230125 T02AR0HSC4JIR,2023-01-25,0.01,Příchozí platba,JAN KUZELKA,"NESTRAŠ VÁLKOU, SJEDNOTITELI. TVÉ BABIŠKY JSOU VYDĚŠENÉ.",CZK,0,0,0,andrej_babis
+120-20230125 0033255682861,2023-01-25,0.1,Příchozí platba,"Hastrdlo, Jan",Volím Generála Pavla. Bureše do koše!,CZK,0,0,0,andrej_babis
 120-20230125 T02AR0HSC1I8A,2023-01-25,0.1,Příchozí platba,JAN HASTRDLO,VOLÍM GENERÁLA PAVLA. BUREŠE DO KOŠE!,CZK,0,0,0,andrej_babis
-120-20230125 2204285315,2023-01-25,0.01,Příchozí platba,Josef Sadílek,"STBÁKU BUREŠI, OSTUDO ČR! PREZIDENTEM NEBUDEŠ! NIKDY!",CZK,0,0,0,andrej_babis
+001-25012023 1602 602013 637451,2023-01-25,0.01,Příchozí platba,DANÍČEK LADISLAV,Pokuř koně! https://youtu.be/joS8GmN1ulQ,CZK,69,0,0,andrej_babis
+000-25012023-005-005-001305041,2023-01-25,0.01,Trvalý příkaz,MARTAN MILOSLAV,VOLÍM GENERÁLA PAVLA!,CZK,25085,308,0,andrej_babis
 120-20230125 2204311223,2023-01-25,0.01,Příchozí platba,Miloslava Sadílková,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,CZK,0,0,0,andrej_babis
-361-25012023 1086 086145 501167,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Oligarcha a AGROBARON Babiš má za to, že kráva používá žaludek (žaludky) k výrobě mléka.",CZK,25085,25085,25085,andrej_babis
-361-25012023 1086 086150 501125,2023-01-25,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","HEJ, HLAVO VEPŘOVÁ, SEŠ BLBEJ TAK,ŽE VOLÍŠ BLBIŠ? TO SI PIŠ!",CZK,0,0,0,andrej_babis
-361-25012023 1086 086144 501016,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Babiš nejen že z devíti nejznámějších planet Sluneční soustavy správně vyjmenoval jen tři, ale nevzpomněl si ani na planetu jménem ZEMĚ!!!",CZK,25085,25085,25085,andrej_babis
-361-25012023 1086 086147 500981,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Mohl byste vyjmenovat planety Sluneční soustavy? ""Ježišmarjá .. no MĚSÍC .. eee .. Mars .. Pluto .. Saturn .. co je tam ještě? ... SLUNCE.""",CZK,25085,25085,25085,andrej_babis
-361-25012023 1086 086147 100944,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Babiš nejen že z devíti nejznámějších planet Sluneční soustavy správně vyjmenoval jen dvě, ale nevzpomněl si ani na planetu jménem ZEMĚ!!!",CZK,25085,25085,25085,andrej_babis
-361-25012023 1086 086142 100871,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Vypadá to, jako by se Babiš chtěl stát králem dezinformátorů, ale není to tak, potřebuje je jen jejich hlasy.",CZK,25085,25085,25085,andrej_babis
-361-25012023 1086 086143 500830,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Mohl byste vyjmenovat planety Sluneční soustavy? Babiš:""Ježišmarjá ... no MĚSÍC ... eee ... Mars ... Pluto ... co je tam ještě? ... SLUNCE.""",CZK,25085,25085,25085,andrej_babis
-361-25012023 1086 086148 500802,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,https://www.forum24.cz/ziskali-jsme-svedectvi-o-puvodu-babisova-bohatstvi-tajne-konto-a-ve-vaduzu/?utm_source=www.seznam.cz&utm_medium=sekce,CZK,25085,25085,25085,andrej_babis
+001-25012023 1602 602030 686461,2023-01-25,0.01,Příchozí platba,FOREJT PAVEL,"Soudruh ing.Andrej Babiš, řadový čelen KSČ, řadový člen StB a samozvaný spasitel zeměkoule. Tahle osoba opravdu nemá na hradě co pohledávat!",CZK,0,0,0,andrej_babis
+120-20230124 T02AR0HSBND2Q,2023-01-25,0.01,Příchozí platba,MILOSLAV ZOBAL,"TAKÉ JSEM UŽ NAŠEL VYSTŘELENOU NÁBOJNICI, DOKONCE NĚKOLIK. CHCI OCHRANKU.",CZK,0,0,0,andrej_babis
 361-25012023 1086 086142 100134,2023-01-25,0.01,Příchozí platba,Jirkovský Milan,Bezskrupulózní přivandrovalce a slováka na Hradě nechceme. Nejvíc nám pomůžeš když si vytvoříš Čobolstán mimo ČR.,CZK,0,0,0,andrej_babis
-361-25012023 1086 086144 100149,2023-01-25,0.01,Příchozí platba,"Šejna, Martin","PROSÍM! Chceme přeci po našem novém prezidentovi morální kredit, důstojnost a další kréda, tak se tak chovejte!",CZK,0,0,0,andrej_babis
 361-25012023 1086 086145 100140,2023-01-25,0.01,Příchozí platba,"Šejna, Martin",PROSÍM! Spolupodporovatele a spoluvoliče pana Pavla BUĎTE SLUŠNÍ A DŮSTOJNÍ i k Babišovi. Zakládáte nám na veřejnou ostudu!,CZK,0,0,0,andrej_babis
+361-25012023 1086 086144 100149,2023-01-25,0.01,Příchozí platba,"Šejna, Martin","PROSÍM! Chceme přeci po našem novém prezidentovi morální kredit, důstojnost a další kréda, tak se tak chovejte!",CZK,0,0,0,andrej_babis
 361-25012023 1086 086151 500166,2023-01-25,0.01,Příchozí platba,"Šejna, Martin","Babiš si tímto postojem vše způsobuje sám, nemohu ho přijmout za prezidenta! Zkrátka na to nemá osobní kredit a přesto ho neurážím!",CZK,0,0,0,andrej_babis
 361-25012023 1086 086151 500301,2023-01-25,500,Příchozí platba,Legnerová Jana,"Dar - To co se děje je za hranici lidskosti a člověčenství, proto Vás pane Babiši ve volách podpořím!",CZK,0,0,0,andrej_babis
 361-25012023 1086 086144 100465,2023-01-25,0.01,Příchozí platba,"Landa, Jan",,CZK,0,0,0,andrej_babis
+361-25012023 1086 086148 500802,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,https://www.forum24.cz/ziskali-jsme-svedectvi-o-puvodu-babisova-bohatstvi-tajne-konto-a-ve-vaduzu/?utm_source=www.seznam.cz&utm_medium=sekce,CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086143 500830,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Mohl byste vyjmenovat planety Sluneční soustavy? Babiš:""Ježišmarjá ... no MĚSÍC ... eee ... Mars ... Pluto ... co je tam ještě? ... SLUNCE.""",CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086142 100871,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Vypadá to, jako by se Babiš chtěl stát králem dezinformátorů, ale není to tak, potřebuje je jen jejich hlasy.",CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086147 100944,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Babiš nejen že z devíti nejznámějších planet Sluneční soustavy správně vyjmenoval jen dvě, ale nevzpomněl si ani na planetu jménem ZEMĚ!!!",CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086147 500981,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Mohl byste vyjmenovat planety Sluneční soustavy? ""Ježišmarjá .. no MĚSÍC .. eee .. Mars .. Pluto .. Saturn .. co je tam ještě? ... SLUNCE.""",CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086144 501016,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Babiš nejen že z devíti nejznámějších planet Sluneční soustavy správně vyjmenoval jen tři, ale nevzpomněl si ani na planetu jménem ZEMĚ!!!",CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086150 501125,2023-01-25,0.01,Příchozí platba,"Mgr.Novák Vít,MBA","HEJ, HLAVO VEPŘOVÁ, SEŠ BLBEJ TAK,ŽE VOLÍŠ BLBIŠ? TO SI PIŠ!",CZK,0,0,0,andrej_babis
+361-25012023 1086 086145 501167,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Oligarcha a AGROBARON Babiš má za to, že kráva používá žaludek (žaludky) k výrobě mléka.",CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086142 501280,2023-01-25,0.01,Příchozí platba,"Jadamus, Bogdan","Když prohrajete, tak to bude jasným signálem se stáhnout z politiky a budete mít alespoň dost času na vyřizování dotací pro své projekty.",CZK,0,0,0,andrej_babis
+361-25012023 1086 086143 101328,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Žákyně základní školy: ""Uveďte nejznámější dílo Jaroslava Haška."" Kandidát na prezidenta Babiš: ""To nevím.""",CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086151 501647,2023-01-25,0.01,Příchozí platba,Pavel Tr?ster,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,CZK,0,0,0,andrej_babis
+361-25012023 1086 086149 501762,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Moderátor: Chtěl bych vás poprosit, abyste byl v odpovědích koncentrovaný jako váš protikandidát. Babiš: Ale on je vládní kandidát.",CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086142 101805,2023-01-25,0.01,Příchozí platba,Michnová Marie,"AB o sobě - jsem urputné hovado. Má pravdu, předsedo, má pravdu :-):-):-)",CZK,0,0,0,andrej_babis
+361-25012023 1086 086150 101810,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Mohl byste vyjmenovat planety Sluneční soustavy? ""Ježišmarjá .. no MĚSÍC .. eee .. Mars .. Pluto .. Saturn .. co je tam ještě? ... SLUNCE.""",CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086149 101846,2023-01-25,0.01,Příchozí platba,Michnová Marie,"AB, ten je nebezpečný i sám sobě. Na Hrad ani náhodou",CZK,0,0,0,andrej_babis
+361-25012023 1086 086149 501864,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Neučil se, neučil se, neučil se, proto nic neumí, neumí, neumí :-):-):-)",CZK,0,0,0,andrej_babis
+361-25012023 1086 086142 501904,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Někoho si koupíš za deci vína, někoho za jitrnici, moudrého nikdy :-):-):-)",CZK,0,0,0,andrej_babis
+361-25012023 1086 086146 101924,2023-01-25,0.01,Příchozí platba,Michnová Marie,Babiš je nahý. A svlékl se sám :-):-):-),CZK,0,0,0,andrej_babis
+361-25012023 1086 086150 101944,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Medvídku, medvídku, když strkáš čenich do včelína,... :-):-):-)",CZK,0,0,0,andrej_babis
+361-25012023 1086 086147 101986,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Podlosti na 1000 + 1 způsob, tomu AB rozumí, to umí :-):-):-)",CZK,0,0,0,andrej_babis
+361-25012023 1086 086147 501982,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Nechci prezidenta, který by z Hradu mohl ovládat hnutí ANO a AGROFERT a který by mohl ovlivnit, co budou psát v MF a v Lidovkách.",CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086148 501999,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Pane generále, parket TV je opět Váš, gratulace předem :-):-):-)",CZK,0,0,0,andrej_babis
+361-25012023 1086 086142 502041,2023-01-25,0.01,Příchozí platba,Michnová Marie,Jen vůl sám na sebe podá hůl. A že jich už podal :-):-):-),CZK,0,0,0,andrej_babis
+361-25012023 1086 086151 502059,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Nejvíce se bojí ten, kdo sám strach rozsévá a šíří :-):-):-)",CZK,0,0,0,andrej_babis
+361-25012023 1086 086143 502080,2023-01-25,1,Příchozí platba,Hanzelková Zina,"Jablka hrušky míchám do dobré marmelády.Vy, z toho vaříte smradlavou,lživou kampaň,abyste mohl dál okrádat lidí i stát Zpět se na Slovensko",CZK,0,0,0,andrej_babis
+361-25012023 1086 086148 502182,2023-01-25,0.01,Příchozí platba,Josef Sadílek,"Ukňučený estébák Bureš se asi za výroky o Vrběticích, ani za ochotu zradit spojence nikdy neomluví. Je to holt proruský kolaborant.",CZK,0,0,0,andrej_babis
+361-25012023 1086 086147 102725,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,Andrej Babiš vede silně dezinformační kampaň. Asi nás má za hlupáky.,CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086150 503919,2023-01-25,0.01,Příchozí platba,Ondřej Zengler,na ty francouzské tepláke,CZK,0,0,0,andrej_babis
+361-25012023 1086 086143 503960,2023-01-25,0.01,Příchozí platba,Tomáš Hora,"Na ruSSké ambasádě jsem nikdy nebyl. Vlastně byl, ale jako soukromá osoba. Chi v čele státu čestného chlapa a ne tohoto lháře. PROTO PAVEL",CZK,0,0,0,andrej_babis
+361-25012023 1086 086148 104034,2023-01-25,0.01,Příchozí platba,Lukáš Losleben,"Nejprve společnost rozdělíte, pak si stěžujete. Výhružky jakéhokoliv typu odsuzuji, nicmene, bohuzel, kdo seje vítr, sklízí bouři.",CZK,0,0,0,andrej_babis
+361-25012023 1086 086145 104038,2023-01-25,8.88,Příchozí platba,Lucie Prachařová,"Přeji hodně síly i vaší paní. Věřím, že vyhrajete, a nenechte se vyprovokovat,média to zkouší furt,ty otázky mi přijdou směšné, hlavu vzhůru",CZK,0,0,0,andrej_babis
+361-25012023 1086 086148 104063,2023-01-25,8.88,Příchozí platba,Lucie Prachařová,"Sám jste dříč, a jako, že jste jeden ,a proti Vám musí být strany dohromady,aby Vás porazily je zbabělství. vyhrajete Andreji. Palečky.",CZK,0,0,0,andrej_babis
+361-25012023 1086 086149 504088,2023-01-25,0.01,Příchozí platba,Ing. Tomáš Vondra,"Žákyně základní školy: ""Uveďte nejznámější dílo Jaroslava Haška."" Kandidát na prezidenta Babiš: ""To nevím.""",CZK,25085,25085,25085,andrej_babis
+361-25012023 1086 086150 104109,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Ještěři, žehlíte, co vyžehlit ani omluvit se nedá, zrada zůstane zradou",CZK,0,0,0,andrej_babis
+361-25012023 1086 086151 504126,2023-01-25,0.01,Příchozí platba,Michnová Marie,"AB o sobě - jsem outsider. Pozdní poznání a přiznání, ale i tak díky za tato pravdivá slova :-):-):-)",CZK,0,0,0,andrej_babis
+361-25012023 1086 086145 104144,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Panno Batlerovno Urputná, to zas bude večer mazec, Generál Tě utancuje :-):-):-)",CZK,0,0,0,andrej_babis
+361-25012023 1086 086146 504719,2023-01-25,0.01,Příchozí platba,Michnová Marie,"Prezident Andrzej Duda, skvělá glosa na účet AB, perfektní práce, díky moc, to je spojenec, bravissimo :-):-):-)",CZK,0,0,0,andrej_babis
+120-20230124 0033255243490,2023-01-25,0.01,Příchozí platba,"Šejna, Martin","Takže buďme slušní a féroví i vůči protistraně osoby p. Babiše už proto, že si to přeje i náš budoucí pan prezident Pavel, kterého chceme!",CZK,0,0,0,andrej_babis
+120-20230125 2204285315,2023-01-25,0.01,Příchozí platba,Josef Sadílek,"STBÁKU BUREŠI, OSTUDO ČR! PREZIDENTEM NEBUDEŠ! NIKDY!",CZK,0,0,0,andrej_babis
+001-25012023 1602 602015 137601,2023-01-25,0.23,Příchozí SEPA platba,OLEKSANDRA DIHULJAR,"EKONOMICKA ANARCHIE, HROZI TI BASA",CZK,0,6020000000,2684054212,andrej_babis
+120-20230124 0033255241110,2023-01-25,0.01,Příchozí platba,"Šejna, Martin","Pan Babiš zkrátka nemá kredit čestného a férového člověka pro post prezidenta, ku kterému bych mohl zpívat obdobu ""Kdož sú boží bojovníci""..",CZK,0,0,0,andrej_babis
+120-20230125 T02AR0HSC5O7D,2023-01-25,0.01,Příchozí platba,JAN KUZELKA,"PŘÍSPĚVEK NA SLABIKÁŘ, HOTENTOTE.",CZK,0,0,0,andrej_babis
 001-24012023 1602 602011 420281,2023-01-24,-100,Odchozí platba,,Dekuji za podporu. Vazim si ji.,CZK,9,558,0,andrej_babis
 001-24012023 1602 602024 411161,2023-01-24,-7.77,Odchozí platba,,Dekuji za podporu. Vazim si ji.,CZK,9,558,0,andrej_babis
 120-20230123 00758048265,2023-01-24,1,Příchozí platba,HÁLA ALEŠ,"zasranej hajzle, chcíplá komunistická mrdko, nikdy nevyhrajes",CZK,0,0,0,andrej_babis
