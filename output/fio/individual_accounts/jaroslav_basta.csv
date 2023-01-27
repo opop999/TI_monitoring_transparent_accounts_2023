@@ -1,4 +1,9 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-26,-22385,CZK,Platba převodem uvnitř banky,,SP-Solutions s.r.o. - zajištění bezpečnosti na více akcích - prezidentská kampaň Jaroslava Bašty,308,2023002,,SP-Solutions s.r.o. - zajištění bezpečnosti na více akcích - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2023-01-26,-121304,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty- fotografie, správa webu, cloud atd.",,20232101,,"Cecílie Jílková prezidentská kampaň Jaroslava Bašty - fotografie, správa webu, cloud atd.",jaroslav_basta
+2023-01-26,22385,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-26,121304,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-26,25450,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
 2023-01-23,-17593.91,CZK,Karetní transakce,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",,4231,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",jaroslav_basta
 2023-01-20,-220000,CZK,Bezhotovostní platba,,23100002 - Jaroslav Bašta letáky pro prezidentskou kampaň,308,,,Tiskárna Bílý slon - letáky pro prezidentskou kampaň Jaroslava Bašty,jaroslav_basta
 2023-01-20,-7000,CZK,Okamžitá odchozí platba,,pronájem sálu - zprostředkování,308,20230002,,Jiří Gaudin - pronájem sálu,jaroslav_basta

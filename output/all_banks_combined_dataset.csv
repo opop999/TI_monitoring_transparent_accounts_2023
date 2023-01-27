@@ -1,4 +1,92 @@
 entity,date,type,amount,currency,notes,contra_account_name,contra_account_number,contra_account_bank_code,vs,ks,ss
+danuse_nerudova,2023-01-25,Tuzemská odchozí úhrada,-17240,CZK,"IČ:16164989, technické zajištění, požární dozor",000035-6771280247/0100,,,20230002,308,
+danuse_nerudova,2023-01-25,Tuzemská odchozí úhrada,-176176,CZK,"IČ: 09839194,  Technická produkce",000000-1387919939/2700,,,20230002,308,
+danuse_nerudova,2023-01-25,Tuzemská odchozí úhrada,-872773,CZK,"IČO: 27593690, kreativni a grafické práce, strategické poradenství, AV produkce, produkce",000000-5674048329/0800,,,20230002,308,
+danuse_nerudova,2023-01-25,Tuzemská odchozí úhrada,-49047,CZK,"IČ: 06156550, pronájem prostor a služby",000000-0084694002/5500,,,20230002,308,
+danuse_nerudova,2023-01-25,Tuzemská odchozí úhrada,-30000,CZK,"IČ: 87666383, Produkční služby ",670100-2209114497/6210,,,20230002,308,
+danuse_nerudova,2023-01-25,Tuzemská odchozí úhrada,-13007.5,CZK,"IČ: 03423379, personální zajištění volebního štábu",000000-0020010222/2010,,,20230002,308,
+danuse_nerudova,2023-01-25,Tuzemská odchozí úhrada,-2500,CZK,"IČ:71217975, pronájem ",000000-0309485085/0300,,,20230002,308,
+danuse_nerudova,2023-01-25,Tuzemská odchozí úhrada,-217800,CZK,"IČ:03299937, Nákup marketingového prostoru",000000-3568672399/0800,,,20230002,308,
+danuse_nerudova,2023-01-24,Tuzemská odchozí úhrada,-13220,CZK,"Sabina Horáková, koordinace kontaktní kampaně",000000-1762460016/3030,,,20230002,308,
+danuse_nerudova,2023-01-24,Tuzemská odchozí úhrada,-52000,CZK,"IČ:88862178, logistické služby",000000-7173506001/5500,,,20230002,308,
+danuse_nerudova,2023-01-24,Tuzemská odchozí úhrada,-10000,CZK,"IČ: 74688782, pronájem prostor",000000-2401196154/2010,,,20230002,308,
+danuse_nerudova,2023-01-24,Tuzemská odchozí úhrada,-7250.32,CZK,"IČ:44080697, koordinaci kontaktní kampaně",000000-3440996319/0800,,,20230002,308,
+danuse_nerudova,2023-01-23,Tuzemská odchozí úhrada,-20000,CZK,"IČ: 07827245, správa webu a soc. sítí",000000-2282544012/3030,,,20230002,308,
+danuse_nerudova,2023-01-23,Tuzemská odchozí úhrada,-4223,CZK,"IČ: 04876881, pronájem AV techniky",000000-2700963835/2010,,,20230002,308,
+danuse_nerudova,2023-01-23,Tuzemská odchozí úhrada,-2287,CZK,"IČ 04845005, náramky s potiskem",000000-0274741500/0300,,,20230002,308,
+danuse_nerudova,2023-01-23,Tuzemská odchozí úhrada,-90600,CZK,"IČ:09734686, videoreporty",000000-0198537961/0300,,,20230002,308,
+danuse_nerudova,2023-01-23,Tuzemská odchozí úhrada,-4840,CZK,"IČ:02762382, animace",000000-1851601183/0800,,,20230002,308,
+danuse_nerudova,2023-01-23,Tuzemská odchozí úhrada,-2500,CZK,"IČ: 24269662, pronájem plochy",000000-8759760001/5500,,,20230002,308,
+danuse_nerudova,2023-01-23,Tuzemská odchozí úhrada,-13733.5,CZK,"IČ:75718243, Koordinace kontaktní kampaně ",000000-0194403464/0300,,,20230002,308,
+danuse_nerudova,2023-01-23,Tuzemská odchozí úhrada,-10000,CZK,"IČ: 87094584, web volebnikomise.cz",000000-7001046619/8040,,,20230002,308,
+danuse_nerudova,2023-01-23,Tuzemská odchozí úhrada,-8507.51,CZK,"IČ: 28408306, přeprava balíků",000000-2500102344/2010,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-30000,CZK,"IČ: 88087565, produkce",000000-1157915027/3030,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-26456,CZK,"IČ: 87561930, Koordinace kontaktní kampaně",000035-6741510267/0100,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-9500,CZK,"IČ:04678575, pronájem prostor",000115-1614170287/0100,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-50000,CZK,"IČ:11940565, mediální PR služby",000107-1441170237/0100,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-56865,CZK,"IČ:8269254, fotografické služby",000000-0273336407/0300,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-7200,CZK,"IČ: 27501485, pronájem prostor",000000-2201018070/2010,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-17008.6,CZK,"IČ: 08413371, poplatek platební brána Donio kampaň",000000-1678785002/5500,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-1000,CZK,"IČ:41435974, hudební produkce",000000-0549569093/0800,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-357.8,CZK,"Karel Šuranský, cestovné",000000-2400807590/2010,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-22875,CZK,"IČ:09955232, produkce",000000-2114672242/2700,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-10600,CZK,"Sabina Horáková, koordinace kontaktní kampaně",000000-1762460016/3030,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-4730.86,CZK,"IČ:63839997, poskytnutí licence",000019-0000235061/0100,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-1149.5,CZK,"IČ: 65415141, administrativní práce",000000-3605050207/0100,,,20230002,308,
+danuse_nerudova,2023-01-20,Tuzemská odchozí úhrada,-10000,CZK,"Klára Plachá, koordinace kontaktní kampaně",000000-2131190018/3030,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-1000,CZK,"IČ : 01000624, pronájem prostor",000123-4658760207/0100,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-181500,CZK,"IČ:87358590, Produkční zázemí, produkce a koordinace kampaně",000123-5740680227/0100,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-43500,CZK,"IČ:17657661, grafické práce",000000-1637980012/3030,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-10000,CZK,"IČ:66452520, koordinace kontaktní kampaně",000000-1396220003/0800,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-10579,CZK,"IČ:09832017, koordinace kontaktní kampaně",000000-0203932289/0600,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-8000,CZK,"IČ : 42189977, Koordinace kontaktní kampaně",000000-0273858109/0300,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-10000,CZK,"IČ: 73303127, Koordinace kontaktní kampaně ",000000-2302113608/2010,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-5573,CZK,"Klára Plachá, tisk letáků",000000-2131190018/3030,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-93300,CZK,"IČ:07311516, správa sociálních sítí",000000-2801477430/2010,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-35000,CZK,"IČ:15111482, konzultace při účetním zpracování",000019-2213260227/0100,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-10860,CZK,"IČO: 17599458,  Koordinace kontaktní kampaně",670100-2215929457/6210,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-850,CZK,"Adéla Grůzová, poštovné",000000-4089178013/0800,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-5000,CZK,"IČ: 09471944, fotoreportáž",000000-1321832064/3030,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-10000,CZK,"Barbora Červenková, koordinace kontaktní kampaně",000000-0252433048/0300,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-40000,CZK,"IČ:17748160, správa sociálních sítí",000000-2400082059/2010,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-40000,CZK,"IČ:76611710, konzultace ke kampani",000051-0047590247/0100,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-6000,CZK,"IČ:07995148, Fotoreportáž",000000-1458335018/3030,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-8000,CZK,"Jan Tříska, koordinace kontaktní kampaně",000000-0279693544/0300,,,20230002,308,
+danuse_nerudova,2023-01-19,Tuzemská odchozí úhrada,-10000,CZK,"IČ: 17129508, Koordinace kontaktní kampaně ",000123-7548780227/0100,,,20230002,308,
+tomas_zima,2023-01-25,Tuzemská odchozí úhrada,-7260,CZK,Platba faktury FVT-257/2023,000000-1014979656/5500,,,1007257,308,
+tomas_zima,2023-01-20,Příchozí úhrada,38000,CZK,Tomáš Zima,MUDr. Tomáš Zima,,,1007257,308,
+tomas_zima,2023-01-20,Tuzemská odchozí úhrada,-38000,CZK,"Vratka - chybna platba, Vratka - chybna platba",000000-1001112850/5500,,,1007257,308,
+pavel_fischer,2023-01-24,Příchozí úhrada,3150,CZK,"Pavel Fischer, DOBV 2315001 / FV2 2315003",Atkins a Langford De,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-500,CZK,Spoluúčast náhrada škody u auta,000000-2000005505/8040,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2688632063/0800,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-2023,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-1334014028/3030,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2958159123/0800,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2101727208/2010,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-111,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2300623436/2010,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1400,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-0286495511/0300,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-200,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-0597529002/5500,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-1239032105/5500,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-3000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-1656196012/3030,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-1854603053/0800,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-10000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2104412033/0800,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-23958,CZK,Pronájem auta,000000-2000005505/8040,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",670100-2208198262/6210,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-2275,CZK,Fotografické služby,000000-1814915028/3030,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-4901,CZK,výroba orientačních cedulí,000027-4380840287/0100,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-32000,CZK,Natáčení podporovatelských videí,000000-0208354203/0600,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-15000,CZK,Práce spojené s finálním vyúčtováním kampaně,000000-2999687133/0800,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-33880,CZK,Výroba a instalace reklamního banneru,000000-2672664001/5500,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-5000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000019-1254290217/0100,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-2000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2200105279/2010,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Zákon jsme dostali po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-0282234226/0300,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-2000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Zákon jsme dostali po termínu, protoposílám zpět. V úctě Pavel Fischer",670100-2207265005/6210,,,22215255,0,
+pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-2000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Zákon jsme dostali po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2605452084/2700,,,22215255,0,
+pavel_fischer,2023-01-20,Tuzemská odchozí úhrada,-22137,CZK,Účetní práce na prezidentské kampani,000000-2999687133/0800,,,22215255,0,
+pavel_fischer,2023-01-20,Tuzemská odchozí úhrada,-50500,CZK,Mediální služby a konzultace,000000-0294516562/0300,,,22215255,0,
+pavel_fischer,2023-01-20,Tuzemská odchozí úhrada,-1260,CZK,Výlep plakátů,000000-2500346218/2010,,,22215255,0,
+pavel_fischer,2023-01-20,Tuzemská odchozí úhrada,-84000,CZK,Mediální a strategická komunikace,000000-1944039329/0800,,,22215255,0,
+pavel_fischer,2023-01-19,Tuzemská odchozí úhrada,-588,CZK,Výlep plakátů,000107-9397630297/0100,,,22215255,0,
+pavel_fischer,2023-01-19,Tuzemská odchozí úhrada,-70000,CZK,"Strategie sociálních sítí, PR služby",000000-0313200468/0300,,,22215255,0,
 danuse_nerudova,2023-01-25,Tuzemská odchozí úhrada,-30000,CZK,"IČ: 87666383, Produkční služby ",670100-2209114497/6210,,,142023,0,
 danuse_nerudova,2023-01-25,Tuzemská odchozí úhrada,-176176,CZK,"IČ: 09839194,  Technická produkce",000000-1387919939/2700,,,142023,0,
 danuse_nerudova,2023-01-25,Tuzemská odchozí úhrada,-17240,CZK,"IČ:16164989, technické zajištění, požární dozor",000035-6771280247/0100,,,142023,0,
@@ -74,40 +162,6 @@ danuse_nerudova,2023-01-18,Tuzemská odchozí úhrada,-40000,CZK,"IČ:70374759, 
 danuse_nerudova,2023-01-18,Tuzemská odchozí úhrada,-10000,CZK,"IČ:3471454, zvukový doprovod",670100-2212191442/6210,,,142023,0,
 danuse_nerudova,2023-01-18,Tuzemská odchozí úhrada,-10000,CZK,"Klára Plachá, koordinace kontaktní kampaně",000000-2131190018/3030,,,142023,0,
 danuse_nerudova,2023-01-18,Tuzemská odchozí úhrada,-10000,CZK,"Veronika Vystavělová, koordinace kontaktní kampaně",000000-2101175335/2010,,,142023,0,
-tomas_zima,2023-01-25,Tuzemská odchozí úhrada,-7260,CZK,Platba faktury FVT-257/2023,000000-1014979656/5500,,,1007257,308,
-tomas_zima,2023-01-20,Příchozí úhrada,38000,CZK,Tomáš Zima,MUDr. Tomáš Zima,,,1007257,308,
-tomas_zima,2023-01-20,Tuzemská odchozí úhrada,-38000,CZK,"Vratka - chybna platba, Vratka - chybna platba",000000-1001112850/5500,,,1007257,308,
-pavel_fischer,2023-01-24,Příchozí úhrada,3150,CZK,"Pavel Fischer, DOBV 2315001 / FV2 2315003",Atkins a Langford De,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-500,CZK,Spoluúčast náhrada škody u auta,000000-2000005505/8040,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2688632063/0800,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-2023,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-1334014028/3030,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2958159123/0800,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-200,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-0597529002/5500,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2101727208/2010,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-111,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2300623436/2010,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1400,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-0286495511/0300,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-1239032105/5500,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-3000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-1656196012/3030,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-1854603053/0800,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-10000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2104412033/0800,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-23958,CZK,Pronájem auta,000000-2000005505/8040,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",670100-2208198262/6210,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-15000,CZK,Práce spojené s finálním vyúčtováním kampaně,000000-2999687133/0800,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-2275,CZK,Fotografické služby,000000-1814915028/3030,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-4901,CZK,výroba orientačních cedulí,000027-4380840287/0100,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-32000,CZK,Natáčení podporovatelských videí,000000-0208354203/0600,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-33880,CZK,Výroba a instalace reklamního banneru,000000-2672664001/5500,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-5000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000019-1254290217/0100,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-2000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Dostali jsme ho až po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2200105279/2010,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-1000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Zákon jsme dostali po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-0282234226/0300,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-2000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Zákon jsme dostali po termínu, protoposílám zpět. V úctě Pavel Fischer",670100-2207265005/6210,,,22215255,0,
-pavel_fischer,2023-01-23,Tuzemská odchozí úhrada,-2000,CZK,"Děkuji za Váš dar na transparentníúčet před prezidentským volbami. Zákon jsme dostali po termínu, protoposílám zpět. V úctě Pavel Fischer",000000-2605452084/2700,,,22215255,0,
-pavel_fischer,2023-01-20,Tuzemská odchozí úhrada,-22137,CZK,Účetní práce na prezidentské kampani,000000-2999687133/0800,,,22215255,0,
-pavel_fischer,2023-01-20,Tuzemská odchozí úhrada,-50500,CZK,Mediální služby a konzultace,000000-0294516562/0300,,,22215255,0,
-pavel_fischer,2023-01-20,Tuzemská odchozí úhrada,-1260,CZK,Výlep plakátů,000000-2500346218/2010,,,22215255,0,
-pavel_fischer,2023-01-20,Tuzemská odchozí úhrada,-84000,CZK,Mediální a strategická komunikace,000000-1944039329/0800,,,22215255,0,
-pavel_fischer,2023-01-19,Tuzemská odchozí úhrada,-588,CZK,Výlep plakátů,000107-9397630297/0100,,,22215255,0,
-pavel_fischer,2023-01-19,Tuzemská odchozí úhrada,-70000,CZK,"Strategie sociálních sítí, PR služby",000000-0313200468/0300,,,22215255,0,
 danuse_nerudova,2023-01-24,Tuzemská odchozí úhrada,-7250.32,CZK,"IČ:44080697, koordinaci kontaktní kampaně",000000-3440996319/0800,,,23004,,
 danuse_nerudova,2023-01-24,Tuzemská odchozí úhrada,-10000,CZK,"IČ: 74688782, pronájem prostor",000000-2401196154/2010,,,23004,,
 danuse_nerudova,2023-01-24,Tuzemská odchozí úhrada,-13220,CZK,"Sabina Horáková, koordinace kontaktní kampaně",000000-1762460016/3030,,,23004,,
@@ -11872,6 +11926,53 @@ karel_divis,2022-08-05,Outgoing payment ,-20582.1,CZK,za organizaci prezidentske
 karel_divis,2022-07-15,Incoming instant payment ,100000,CZK,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",Mgr. Karel Diviš,317255001,5500,20220715,558,
 karel_divis,2022-07-15,Outgoing payment ,-210890,CZK,za organizaci prezidentske kampane- sber podpisu,,111120232,5500,20220715,,
 karel_divis,2022-07-12,Incoming instant payment ,200000,CZK,"Karel Diviš, 24.3.1976, Menclova 2478/12, Praha 8, 180 00",Mgr. Karel Diviš,317255001,5500,20220712,558,
+petr_pavel,2023-01-27,Bezhotovostní příjem,500,CZK,Pro dobro LADMAN ADÉLA,LADMAN ADÉLA,,,0,0,0
+petr_pavel,2023-01-27,Okamžitá příchozí platba,1111.11,CZK,"Posílám pro Záměr:Ať zvítězí Pravda, Čest, Klid, Řád, Důstojnost, Spravedlnost, Právo a Kvalita.Ať můžeme být po letech na prezidenta hrdí.. Ing.Žížková Marta",Ing.Žížková Marta,,,,0,
+petr_pavel,2023-01-27,Platba převodem uvnitř banky,1111.11,CZK,ať konečně zvítězí rozum a důstojnost nad lží a vypočítavosti .  držím palce jste pro nás jednička !!! ať konečně zvítězí rozum a důstojnost nad lží a vypočítavosti .  držím palce jste pro nás jednička !!!,"Rezek, Pavel",,,,,
+petr_pavel,2023-01-27,Okamžitá příchozí platba,0.01,CZK,"Vaši předchůdci ve funkci NGŠ AČR pánové K.Pezl, J.Nekvasil, J.Šedivý, P.Štefka a V.Picek jsou páni generály. Jen Vy jste soudruh generál. Ing. Ján Eliaš",Ing. Ján Eliaš,,,,,
+petr_pavel,2023-01-27,Okamžitá příchozí platba,0.01,CZK,"Dále čtu "" Zvolme si pravdu a důstojnost"". Myslíte tím tu Vaši bolševickou pravdu? Vy ani jinou neznáte. Byl ste odložené dítě v Opavě! Ing. Ján Eliaš",Ing. Ján Eliaš,,,,,
+petr_pavel,2023-01-27,Okamžitá příchozí platba,0.01,CZK,"Čtu reklamu ""Lhaní a strašení bylo dost"". Tak proč stým lhaním užneskončite! Dobře Vás vyškolili na komunistického rezvědčíka. Lžete! Ing. Ján Eliaš",Ing. Ján Eliaš,,,,,
+petr_pavel,2023-01-27,Okamžitá příchozí platba,0.01,CZK,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/ Pavel Tr?ster,Pavel Tr?ster,,,,,
+petr_pavel,2023-01-27,Platba převodem uvnitř banky,0.01,CZK,"Fialový GENERALISSIMUS ""Maršal Maskvy"" Pávek, ""ze zadnice Maskvy expresně do zadnice Washingtonu https://www.youtube.com/watch?v=mrujrUfQaOU Fialový GENERALISSIMUS ""Maršal Maskvy"" Pávek, ""ze zadnice Maskvy expresně do zadnice Washingtonu https://www.youtube.com/watch?v=mrujrUfQaOU","Nedozrál, Marek",,,0,0,0
+petr_pavel,2023-01-27,Platba převodem uvnitř banky,0.01,CZK,"VLÁDNÍ AGENT Pávek! APOŠTOL SMRTI v AGRESIVNÍM, ÚTOČNÉM KRVAVÉM paktu NATO,který BEZ MANDÁTU OSN napadl Srbsko 1999,Afghanistán,Irák, Libyi VLÁDNÍ AGENT Pávek! APOŠTOL SMRTI v AGRESIVNÍM, ÚTOČNÉM KRVAVÉM paktu NATO,který BEZ MANDÁTU OSN napadl Srbsko 1999,Afghanistán,Irák, Libyi","Nedozrál, Marek",,,0,0,0
+petr_pavel,2023-01-27,Platba převodem uvnitř banky,0.01,CZK,"VLÁDNÍ Generalissimus Pávek,podporuje KRVAVOU hůzovládu těžkých válečných psychopatických zločinců,kteří ČR přímo zatáhli do 3.WW v Evropě ! VLÁDNÍ Generalissimus Pávek,podporuje KRVAVOU hůzovládu těžkých válečných psychopatických zločinců,kteří ČR přímo zatáhli do 3.WW v Evropě !","Nedozrál, Marek",,,0,0,0
+petr_pavel,2023-01-27,Platba převodem uvnitř banky,0.01,CZK,"VLÁDNÍ Generalissimus Pávek,podporuje hrůzovládu Fialových Banderovských NACISTŮ,kteří provokovali útok NATO za Banderovskou raketu v Polsku VLÁDNÍ Generalissimus Pávek,podporuje hrůzovládu Fialových Banderovských NACISTŮ,kteří provokovali útok NATO za Banderovskou raketu v Polsku","Nedozrál, Marek",,,0,0,0
+petr_pavel,2023-01-27,Platba převodem uvnitř banky,0.01,CZK,"Generalissimus Pávek -projekt obchod.zástupce US zbrojních korporací,APOŠTOLA SMRTI Koláře https://www.youtube.com/watch?v=ai1B7tFvpEs&t=12s Generalissimus Pávek -projekt obchod.zástupce US zbrojních korporací,APOŠTOLA SMRTI Koláře https://www.youtube.com/watch?v=ai1B7tFvpEs&t=12s","Nedozrál, Marek",,,0,0,0
+petr_pavel,2023-01-27,Platba převodem uvnitř banky,0.01,CZK,Pávek APOŠTOL SMRTI https://www.parlamentnilisty.cz/arena/rozhovory/General-Pelz-Jsme-ve-valce-jen-vam-to-nerekli-Totalita-uz-je-727286 Pávek APOŠTOL SMRTI https://www.parlamentnilisty.cz/arena/rozhovory/General-Pelz-Jsme-ve-valce-jen-vam-to-nerekli-Totalita-uz-je-727286,"Nedozrál, Marek",,,0,0,0
+petr_pavel,2023-01-27,Platba převodem uvnitř banky,-4174.5,CZK,"IČ: 13497791, plakáty",,,,12200561,,
+petr_pavel,2023-01-27,Okamžitá příchozí platba,100,CZK,"Konečně člověk, který bude důstojně reprezentovat náš stát! TOMÁŠ JEZIORSKÝ",TOMÁŠ JEZIORSKÝ,,,,,
+petr_pavel,2023-01-27,Bezhotovostní příjem,10.48,CZK,TATÝREK LUKÁŠ,TATÝREK LUKÁŠ,,,0,0,0
+petr_pavel,2023-01-27,Bezhotovostní příjem,777,CZK,Na vítězství Marta Hánová,Marta Hánová,,,279,0,
+petr_pavel,2023-01-27,Bezhotovostní platba,-450000,CZK,"IČ: 28232771, video",,,,350022,,
+petr_pavel,2023-01-27,Bezhotovostní platba,-33660,CZK,"IČ: 04625242, pronájem",,,,230100018,308,
+petr_pavel,2023-01-27,Bezhotovostní platba,-250000,CZK,"IČ: 25420160, plakáty",,,,1014249,,
+petr_pavel,2023-01-27,Bezhotovostní platba,-695750,CZK,"IČ: 12229385, letáky",,,,230100065,,
+petr_pavel,2023-01-27,Bezhotovostní platba,-2178,CZK,"IČ: 27240835, pronájem",,,,23200085,308,
+petr_pavel,2023-01-27,Platba převodem uvnitř banky,-125114,CZK,"IČ: 07926928, kšiltovky",,,,79230006,,
+petr_pavel,2023-01-27,Bezhotovostní platba,-26499,CZK,"IČ: 12229385, plakáty",,,,230100074,,
+petr_pavel,2023-01-27,Bezhotovostní platba,-24200,CZK,"IČ: 40767328, pronájem",,,,5230004,,
+petr_pavel,2023-01-27,Platba převodem uvnitř banky,-5808,CZK,"IČ: 25036629, reklamní plochy",,,,2300101027,308,
+petr_pavel,2023-01-27,Bezhotovostní platba,-8000,CZK,"IČ: 43052851, maskér",,,,12023,,
+petr_pavel,2023-01-27,Bezhotovostní platba,-30250,CZK,"IČ: 05103991, pronájem",,,,230100013,,1534
+petr_pavel,2023-01-27,Bezhotovostní platba,-741.75,CZK,"IČ: 27920500, aquamat",,,,231100269,308,
+petr_pavel,2023-01-27,Bezhotovostní platba,-7150,CZK,"IČ: 88683401, video",,,,20230001,,
+petr_pavel,2023-01-27,Bezhotovostní platba,-30000,CZK,"IČ: 08318387, video",,,,1,,
+petr_pavel,2023-01-27,Platba převodem uvnitř banky,-30000,CZK,"IČ: 69328480, foto",,,,22023,,
+petr_pavel,2023-01-27,Bezhotovostní platba,-42350,CZK,"IČ: 76326381, grafické práce",,,,20230001,308,
+petr_pavel,2023-01-27,Bezhotovostní platba,-10164,CZK,"IČ: 12229385, letáky",,,,230100010,,
+petr_pavel,2023-01-27,Bezhotovostní platba,-23619.2,CZK,"IČ: 27170012, samolepky",,,,530001,,
+petr_pavel,2023-01-27,Platba převodem uvnitř banky,-10890,CZK,"IČ: 07323841, bannery",,,,20220206,,
+petr_pavel,2023-01-27,Bezhotovostní platba,-44912.78,CZK,"IČ: 26197740, nájem",,,,103001620,,
+petr_pavel,2023-01-26,Okamžitá příchozí platba,100,CZK,"Držíme pěsti ke zvolení. Je zajímavé jak velká většina voličů nevidí, proč chce pan Babiš na hrad. Kvůli imunitě. Lidé jsou mu někde. Bc.Vjačková Šárka",Bc.Vjačková Šárka,,,,0,
+petr_pavel,2023-01-26,Okamžitá odchozí platba,-499,CZK,"IČ: 87556669, produkční náklady",,,,,,
+petr_pavel,2023-01-26,Okamžitá odchozí platba,-996,CZK,"IČ: 17191173, produkční náklady",,,,,,
+petr_pavel,2023-01-26,Okamžitá odchozí platba,-248,CZK,"IČ: 17191173, produkční náklady",,,,,,
+petr_pavel,2023-01-26,Okamžitá odchozí platba,-202,CZK,"IČ: 17191173, produkční náklady",,,,,,
+petr_pavel,2023-01-26,Okamžitá odchozí platba,-236,CZK,"IČ: 17191173, produkční náklady",,,,,,
+petr_pavel,2023-01-26,Okamžitá odchozí platba,-230,CZK,"IČ: 17191173, produkční náklady",,,,,,
+petr_pavel,2023-01-26,Okamžitá odchozí platba,-397,CZK,"IČ: 17191173, produkční náklady",,,,,,
+petr_pavel,2023-01-26,Okamžitá příchozí platba,100,CZK,"Nedozrále, Tr?stere, zavíráme. Takzase za pět let. Tedy, jestli vám v sobotu nepraskne cévka. :) Cipra Petr",Cipra Petr,,,,0,
+petr_pavel,2023-01-26,Karetní transakce,-24200,CZK,"Nákup: FACEBK AXH34KFQ32, fb.me/ads, IE, dne 25.1.2023, částka  24200.00 CZK Nákup: FACEBK AXH34KFQ32, fb.me/ads, IE, dne 25.1.2023, částka  24200.00 CZK",,,,7999,,
 petr_pavel,2023-01-26,Platba převodem uvnitř banky,0.01,CZK,Pávek APOŠTOL SMRTI https://www.parlamentnilisty.cz/arena/rozhovory/General-Pelz-Jsme-ve-valce-jen-vam-to-nerekli-Totalita-uz-je-727286 Pávek APOŠTOL SMRTI https://www.parlamentnilisty.cz/arena/rozhovory/General-Pelz-Jsme-ve-valce-jen-vam-to-nerekli-Totalita-uz-je-727286,"Nedozrál, Marek",,,0,0,0
 petr_pavel,2023-01-26,Okamžitá příchozí platba,0.01,CZK,Květoslava Kurinovsk,Květoslava Kurinovsk,,,,,
 petr_pavel,2023-01-26,Platba převodem uvnitř banky,0.01,CZK,"Generalissimus Pávek -projekt obchod.zástupce US zbrojních korporací,APOŠTOLA SMRTI Koláře https://www.youtube.com/watch?v=ai1B7tFvpEs&t=12s Generalissimus Pávek -projekt obchod.zástupce US zbrojních korporací,APOŠTOLA SMRTI Koláře https://www.youtube.com/watch?v=ai1B7tFvpEs&t=12s","Nedozrál, Marek",,,0,0,0
@@ -12167,6 +12268,29 @@ petr_pavel,2023-01-19,Bezhotovostní příjem,1111,CZK,DAR NA KAMPAŇ GENERÁLA 
 petr_pavel,2023-01-19,Bezhotovostní příjem,1000,CZK,Dar na kampaň generála Pavla PALLA TOMÁŠ,PALLA TOMÁŠ,,,,,
 petr_pavel,2023-01-19,Bezhotovostní příjem,1000,CZK,general pavel for president! BARTA PAVEL,BARTA PAVEL,,,0,,
 petr_pavel,2023-01-19,Bezhotovostní příjem,100,CZK,"NECHCI HULVÁTA NA HRADĚ, VĚŘÍM, ŽEVYHRAJETE! MIROSLAV KARPISEK",MIROSLAV KARPISEK,,,,,
+marek_hilser,2023-01-24,Platba převodem uvnitř banky,-5000,CZK,propagace a podpora prezidentského kandidáta PP ve 2. kole - Brno 22.1.2023,,,,,,
+marek_hilser,2023-01-24,Okamžitá odchozí platba,-15500,CZK,faktura 2023/001 - produkční práce + administrace webových stránek říjen-leden,,,,,,
+marek_hilser,2023-01-24,Platba převodem uvnitř banky,-20000,CZK,Faktura 220100019 - propagační materiály,,,,220100019,,
+marek_hilser,2023-01-23,Okamžitá odchozí platba,-25400,CZK,Faktura 2023000092 - Produkce volební štáb 14.1.2023,,,,2023000092,,
+marek_hilser,2023-01-22,Karetní transakce,-415.82,CZK,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",,,,5298,,
+marek_hilser,2023-01-20,Okamžitá odchozí platba,-9680,CZK,Faktura - daňový doklad č. 2023000033 - pronájem prostoru - tisková konference - Impact Hub,,,,2023000033,,
+marek_hilser,2023-01-20,Platba převodem uvnitř banky,-5263,CZK,FAKTURA č. 2310013 - tisk volebních letáků,,,,2310013,,
+marek_hilser,2023-01-20,Okamžitá odchozí platba,-34000,CZK,"2023 / 001 - organizace kampaně, komunikace s médii, produkce leden 2023",,,,,,
+marek_hilser,2023-01-20,Okamžitá odchozí platba,-40688,CZK,"Faktura 1/23 - organizace volební kampaně, produkce, leden 2023",,,,,,
+jaroslav_basta,2023-01-26,Platba převodem uvnitř banky,-22385,CZK,SP-Solutions s.r.o. - zajištění bezpečnosti na více akcích - prezidentská kampaň Jaroslava Bašty SP-Solutions s.r.o. - zajištění bezpečnosti na více akcích - prezidentská kampaň Jaroslava Bašty,,,,2023002,308,
+jaroslav_basta,2023-01-26,Bezhotovostní platba,-121304,CZK,"prezidentská kampaň Jaroslava Bašty- fotografie, správa webu, cloud atd. Cecílie Jílková prezidentská kampaň Jaroslava Bašty - fotografie, správa webu, cloud atd.",,,,20232101,,
+jaroslav_basta,2023-01-26,Platba převodem uvnitř banky,22385,CZK,Dar - prezidentská kampaň Jaroslav Bašta Dar - prezidentská kampaň Jaroslav Bašta,Svoboda a přímá demokracie (SPD),,,4134940,,
+jaroslav_basta,2023-01-26,Platba převodem uvnitř banky,121304,CZK,Dar - prezidentská kampaň Jaroslav Bašta Dar - prezidentská kampaň Jaroslav Bašta,Svoboda a přímá demokracie (SPD),,,4134940,,
+jaroslav_basta,2023-01-26,Platba převodem uvnitř banky,25450,CZK,Dar - prezidentská kampaň Jaroslav Bašta Dar - prezidentská kampaň Jaroslav Bašta,Svoboda a přímá demokracie (SPD),,,4134940,,
+jaroslav_basta,2023-01-23,Karetní transakce,-17593.91,CZK,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",,,,4231,,
+jaroslav_basta,2023-01-20,Bezhotovostní platba,-220000,CZK,23100002 - Jaroslav Bašta letáky pro prezidentskou kampaň Tiskárna Bílý slon - letáky pro prezidentskou kampaň Jaroslava Bašty,,,,,308,
+jaroslav_basta,2023-01-20,Okamžitá odchozí platba,-7000,CZK,pronájem sálu - zprostředkování Jiří Gaudin - pronájem sálu,,,,20230002,308,
+jaroslav_basta,2023-01-19,Platba převodem uvnitř banky,250000,CZK,Dar - prezidentská kampaň Jaroslav Bašta Dar - prezidentská kampaň Jaroslav Bašta,Svoboda a přímá demokracie (SPD),,,4134940,,
+jaroslav_basta,2023-01-19,Platba převodem uvnitř banky,-7018,CZK,občerstvení - akce Na pivo s Baštou - prezidentská kampaň Jaroslava Bašty Vladimíra Bondarenková - občerstvení - akce Na pivo s Baštou - prezidentská kampaň Jaroslava Bašty,,,,3012023,,
+jaroslav_basta,2023-01-19,Bezhotovostní platba,-1962444.55,CZK,"pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023 (PL18137915/JV) BigMedia, spol. s r.o. pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023",,,,,,
+jaroslav_basta,2023-01-19,Bezhotovostní platba,-1872314.68,CZK,"pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023 (PS18136407/JV) BigMedia, spol. s r.o. pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023",,,,,,
+jaroslav_basta,2023-01-19,Bezhotovostní platba,-43560,CZK,"2 bannery s oky pro prezidentskou kampaň Jaroslava Bašty leden 2023 BigMedia, spol. s r.o. 2 bannery s oky pro prezidentskou kampaň Jaroslava Bašty leden 2023",,,,,,
+jaroslav_basta,2023-01-19,Okamžitá odchozí platba,-75867,CZK,"Volební štáb Jaroslava Bašty - technické zajištění Volební štáb Jaroslava Bašty, kandidáta na prezidenta - technické zajištění",,,,230070004,,
 petr_pavel,2023-01-18,Okamžitá příchozí platba,2028,CZK,Dar na kampaň generála Pavla. Zraje to. Vyjde to! Ing.Klaban Jaromír,Ing.Klaban Jaromír,,,,0,
 petr_pavel,2023-01-18,Okamžitá příchozí platba,44.44,CZK,"Castka pouze symbolicka, snad to nevadi ;) Drzte se, nenechame vyhrat uknourany hovado, co neumi ani cesky! ANDRÝS LUBOŠ",ANDRÝS LUBOŠ,,,1,,
 petr_pavel,2023-01-18,Okamžitá příchozí platba,2000,CZK,"Aby se děti ve škole nemusely dívat na obraz populisty, lháře a manipulátora. Grgič Oliver",Grgič Oliver,,,,0,
@@ -12292,24 +12416,6 @@ petr_pavel,2023-01-18,Okamžitá příchozí platba,1000,CZK,Musite vyhrat!!! RN
 petr_pavel,2023-01-18,Bezhotovostní příjem,2023,CZK,Datum porážky zlagenerálem Petrem Pavlemjako můj příspěvek KARASEK JIRI,KARASEK JIRI,,,0,,
 petr_pavel,2023-01-18,Bezhotovostní příjem,1000,CZK,DAR NA KAMPAŇ GENERÁLA PAVLA MATEJ KRUPCIK,MATEJ KRUPCIK,,,,,
 petr_pavel,2023-01-18,Bezhotovostní příjem,600,CZK,DAR NA KAMPAŇ GENERÁLA PAVLA DANA KORINKOVA,DANA KORINKOVA,,,,,
-marek_hilser,2023-01-24,Platba převodem uvnitř banky,-5000,CZK,propagace a podpora prezidentského kandidáta PP ve 2. kole - Brno 22.1.2023,,,,,,
-marek_hilser,2023-01-24,Okamžitá odchozí platba,-15500,CZK,faktura 2023/001 - produkční práce + administrace webových stránek říjen-leden,,,,,,
-marek_hilser,2023-01-24,Platba převodem uvnitř banky,-20000,CZK,Faktura 220100019 - propagační materiály,,,,220100019,,
-marek_hilser,2023-01-23,Okamžitá odchozí platba,-25400,CZK,Faktura 2023000092 - Produkce volební štáb 14.1.2023,,,,2023000092,,
-marek_hilser,2023-01-22,Karetní transakce,-415.82,CZK,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",,,,5298,,
-marek_hilser,2023-01-20,Okamžitá odchozí platba,-9680,CZK,Faktura - daňový doklad č. 2023000033 - pronájem prostoru - tisková konference - Impact Hub,,,,2023000033,,
-marek_hilser,2023-01-20,Platba převodem uvnitř banky,-5263,CZK,FAKTURA č. 2310013 - tisk volebních letáků,,,,2310013,,
-marek_hilser,2023-01-20,Okamžitá odchozí platba,-34000,CZK,"2023 / 001 - organizace kampaně, komunikace s médii, produkce leden 2023",,,,,,
-marek_hilser,2023-01-20,Okamžitá odchozí platba,-40688,CZK,"Faktura 1/23 - organizace volební kampaně, produkce, leden 2023",,,,,,
-jaroslav_basta,2023-01-23,Karetní transakce,-17593.91,CZK,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",,,,4231,,
-jaroslav_basta,2023-01-20,Bezhotovostní platba,-220000,CZK,23100002 - Jaroslav Bašta letáky pro prezidentskou kampaň Tiskárna Bílý slon - letáky pro prezidentskou kampaň Jaroslava Bašty,,,,,308,
-jaroslav_basta,2023-01-20,Okamžitá odchozí platba,-7000,CZK,pronájem sálu - zprostředkování Jiří Gaudin - pronájem sálu,,,,20230002,308,
-jaroslav_basta,2023-01-19,Platba převodem uvnitř banky,250000,CZK,Dar - prezidentská kampaň Jaroslav Bašta Dar - prezidentská kampaň Jaroslav Bašta,Svoboda a přímá demokracie (SPD),,,4134940,,
-jaroslav_basta,2023-01-19,Platba převodem uvnitř banky,-7018,CZK,občerstvení - akce Na pivo s Baštou - prezidentská kampaň Jaroslava Bašty Vladimíra Bondarenková - občerstvení - akce Na pivo s Baštou - prezidentská kampaň Jaroslava Bašty,,,,3012023,,
-jaroslav_basta,2023-01-19,Bezhotovostní platba,-1962444.55,CZK,"pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023 (PL18137915/JV) BigMedia, spol. s r.o. pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023",,,,,,
-jaroslav_basta,2023-01-19,Bezhotovostní platba,-1872314.68,CZK,"pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023 (PS18136407/JV) BigMedia, spol. s r.o. pronájem rekl. panelů pro prezidentskou kampaň Jaroslava Bašty leden 2023",,,,,,
-jaroslav_basta,2023-01-19,Bezhotovostní platba,-43560,CZK,"2 bannery s oky pro prezidentskou kampaň Jaroslava Bašty leden 2023 BigMedia, spol. s r.o. 2 bannery s oky pro prezidentskou kampaň Jaroslava Bašty leden 2023",,,,,,
-jaroslav_basta,2023-01-19,Okamžitá odchozí platba,-75867,CZK,"Volební štáb Jaroslava Bašty - technické zajištění Volební štáb Jaroslava Bašty, kandidáta na prezidenta - technické zajištění",,,,230070004,,
 jaroslav_basta,2023-01-18,Platba převodem uvnitř banky,75867,CZK,Dar - prezidentská kampaň Jaroslav Bašta Dar - prezidentská kampaň Jaroslav Bašta,Svoboda a přímá demokracie (SPD),,,4134940,,
 jaroslav_basta,2023-01-18,Platba převodem uvnitř banky,43560,CZK,Dar - prezidentská kampaň Jaroslav Bašta Dar - prezidentská kampaň Jaroslav Bašta,Svoboda a přímá demokracie (SPD),,,4134940,,
 jaroslav_basta,2023-01-18,Platba převodem uvnitř banky,1962444.55,CZK,Dar - prezidentská kampaň Jaroslav Bašta Dar - prezidentská kampaň Jaroslav Bašta,Svoboda a přímá demokracie (SPD),,,4134940,,
@@ -18591,57 +18697,118 @@ jaroslav_basta,2022-10-06,Okamžitá odchozí platba,-10000,CZK,FRIVA s.r.o.Tvor
 jaroslav_basta,2022-09-23,Poplatek,-50,CZK,"Filip Mruzek Filip Mruzek- Zprovoznění domén, webhostingu, databází - prezidentská kampaň Jaroslava Bašty",,,,,,
 jaroslav_basta,2022-09-23,Okamžitá odchozí platba,-5000,CZK,"Filip Mruzek Filip Mruzek Zprovoznění domén, webhostingu, databází - prezidentská kampaň Jaroslava Bašty",,,,2022065,,
 jaroslav_basta,2022-09-16,Bezhotovostní příjem,100000,CZK,JAROSLAV BAŠTA BAŠTA JAROSLAV,BAŠTA JAROSLAV,,,480515,0,0
+karel_janecek,2023-01-27,Odchozí platba,-6700,CZK,Vklad do kampaně,,,,0,0,0
 karel_janecek,2023-01-26,Příchozí platba,50000,CZK,Vklad do kampaně,JANEČEK KAREL,,,0,0,0
+karel_janecek,2023-01-26,Odchozí platba,-111,CZK,Vrácení příspěvku na kampaň,,,,0,0,0
 karel_janecek,2023-01-23,Příchozí platba,221000,CZK,Vklad do kampaně,JANEČEK KAREL,,,0,0,0
 karel_janecek,2023-01-23,Příchozí platba,111,CZK,"Dar. Asi byste měl pane Janečku,pomoci Babišovi,protože on je blíž míru než Pavel,podporující válkychtivou vládu!!!","Konečný, Erik",,,0,0,0
 karel_janecek,2023-01-23,Odchozí platba,-221000,CZK,Vklad do kampaně,,,,0,0,0
-karel_janecek,2023-01-18,Příchozí platba,194481,CZK,Vklad do kampaně,JANEČEK KAREL,,,0,0,0
-karel_janecek,2023-01-18,Odchozí platba,-194481,CZK,Vklad do kampaně,,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,Na provoz flašinetu slovenského šaška,Hlavizňa Antonín,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"to neděláš dobře, andreji s tím lhaním",DANDUL IVO,,,25085,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,zbabělci a hlupákovi na učebnice ZŠ,DANDUL IVO,,,25085,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"amorálnímu blbečkovi na kapesníčke,až bude v sobotu večer zase fňukat,že nevyhrál",DANDUL IVO,,,25085,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,https://www.seznamzpravy.cz/clanek/volby-prezidentske-buresovo-pres-noc-se-zmenily-cedule-obce-pruhonice-224317#dop_ab_variant=0&dop_source_,Ing. Tomáš Vondra,,,25085,25085,25085
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Kopání do živých, trpících, umírajících? Vrchol pohrdání vším, co dělá člověka člověkem",Michnová Marie,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,Pavel Tr?ster,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,AB - chladnokrevný bezcitný manipulátor bez úcty k životu a hodnotám,Michnová Marie,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Zastavme Babiše, dokud je čas",Michnová Marie,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Legrace skončila, na Hrad se Babiš nesmí nikdy dostat",Michnová Marie,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"AB na Hradě? Běda, třikrát běda této zemi",Michnová Marie,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"AB? Přes spáleniště, přes krvavé řeky,...",Michnová Marie,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,Maska konečně s konečnou platností bez milosti stržena,Michnová Marie,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,PRAVDA VÍTĚZÍ! Lháři musí z kola ven! VOLTE PETRA PAVLA!,Ing. Tomáš Vondra,,,25085,25085,25085
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Nechci prezidenta, který by z Hradu mohl ovládat hnutí ANO a AGROFERT a který by mohl ovlivnit, co budou psát v MF a v Lidovkách.",Ing. Tomáš Vondra,,,25085,25085,25085
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Žákyně základní školy: ""Uveďte nejznámější dílo Jaroslava Haška."" Kandidát na prezidenta Babiš: ""To nevím.""",Ing. Tomáš Vondra,,,25085,25085,25085
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,Z naší vlasti se nesmí stát Agrofertistán! Volte Petra Pavla!,Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"NASTAL ČAS, ABY PRAVDA A LÁSKA OPĚT ZVÍTĚZILA NAD ANDREJEM A BABIŠEM.",JAN KUZELKA,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"NASTAL ČAS, ABY PRAVDA A LÁSKA OPĚT ZVÍTĚZILA NAD ANDREJEM A BABIŠEM.",JAN KUZELKA,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"NASTAL ČAS, ABY PRAVDA A LÁSKA OPĚT ZVÍTĚZILA NAD ANDREJEM A BABIŠEM.",JAN KUZELKA,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"NASTAL ČAS, ABY PRAVDA A LÁSKA OPĚT ZVÍTĚZILA NAD ANDREJEM A BABIŠEM.",JAN KUZELKA,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"NASTAL ČAS, ABY PRAVDA A LÁSKA OPĚT ZVÍTĚZILA NAD ANDREJEM A BABIŠEM.",JAN KUZELKA,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,Pavel Tr?ster,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,babisovyzlociny.cz,Měšťan Tomáš,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,Babiš svou výzvou včera připravil své voliče o desítky milionů ve prospěch sázkovek. Zaplatí to těm svým ovečkám po prohře ze svého?,Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-27,Příchozí platba,1,CZK,Víc nepotřebujete. Nakradeno máte už dost.,TOMÁŠ JEZIORSKÝ,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.1,CZK,Volím Generála Pavla. Bureše do koše!,"Hastrdlo, Jan",,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"PAL VOCUĎ, HAJZLE ESTÉBÁCKÁ!",ONDREJ SMID,,,25085,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",ONDREJ SMID,,,25085,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.1,CZK,VOLÍM GENERÁLA PAVLA. BUREŠE DO KOŠE!,JAN HASTRDLO,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,NA SNAHU O VRÁCENÍ NADAČNÍHO PŘÍSPĚVKU AGROFERTU KDYSI POSKYTNUTÉHO SPOLKU PROVOZUJÍCÍHO HOSPIC V HUSTOPEČÍCH - NECHUTNÉ!,IVO SCHOTTA,,,558,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,Miloslava Sadílková,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"STBÁK BUREŠ - LHÁŘ, PODVODNÍK A OSTUDA ČR PREZIDENTEM? NIKDY!",Josef Sadílek,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,ŘEKNĚME SI TO NAROVINU - AGROFERT JEN PRODUKUJE HOVNA A TY SEŠ TO NEJVĚTŠÍ Z NICH!,"Mgr.Novák Vít,MBA",,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"tak se prosím podívej na rozhovor s Janem Krausem, aby jsi si vzpomněl, že jsi STBák, když jsi na to takrychle zapomněl",Dolínek Václav,,,666666666,6666,666666666
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"Tak se prosím podívej na rozhovor s Janem Krausem, aby jsi si vzpoměl, že jsi STBák, když jsi na to tak rychle zapoměl",Josef Ambrož,,,666666666,666666666,666666666
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"Nenechte se zlákat planými sliby, jitrnicemi a koblihami nenasytného oligarchy !",Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"Nenechte se zlákat oligarchou, který jen touží po moci",Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"Pane Babiši, nejvíce lidem této země pomůžete, když odejdete z politiky.",Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,ZASTAVTE OLIGARCHU nenasytného po ekonomické a politické moci !!!!,Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"Mohl byste vyjmenovat planety Sluneční soustavy? Babiš:""Ježišmarjá ... no MĚSÍC ... eee ... Mars ... Pluto ... co je tam ještě? ... SLUNCE.""",Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"AGENTE 25085, MAZEJ PRYČ A VEZMI MOTYKE + TUNDE.",Šimoník Jakub,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"Oligarcha a AGROBARON Babiš má za to, že kráva používá žaludek (žaludky) k výrobě mléka.",Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"MAKAKU BUREŠI, PŘIPRAVUJ SI TEPLÁKE, MÍROV VOLÁ !",Šimoník Jakub,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,"Žákyně základní školy: ""Uveďte nejznámější dílo Jaroslava Haška."" Kandidát na prezidenta Babiš: ""To nevím.""",Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,Rolničke pro hradního šaške Bureše,KUDELKA TOMÁŠ,,,666,666,666
+andrej_babis,2023-01-27,Příchozí platba,150,CZK,"Mé přání je: že každý v životě dělá chyby, poučit z chyb není špatné, ale to, že náš Babiš budiš Slovák kořeny, něco dokázal. Na Hrad jen.",Lucie Prachařová,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,8,CZK,Jsem samoživitelka se 3 dětmi. Vsadila jsem na vás v Tipsportu poslední moje úspory. Protože Vám věřím a vím co děláte. Držím palce .T.Š.,"Šnebergová, Tereza",,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,0.01,CZK,na plínky ty posero :)) nejhorší je mít za prezidenta sráče,BIRGUS JIŘÍ,,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,1,CZK,"Čechy nejsou vaše země, vraťte se prosím do vaší rodné země. A klidně si tam vemte Alenku a spol.","Harvánek, Filip",,,0,0,0
+andrej_babis,2023-01-27,Příchozí platba,20000,CZK,"Verime Vam , jako vsechni Manzele kluci a Matky deti . Musite to vihrat Opcany Ceske republiky a tak dale .",Gelius Star s.r.o.,,,0,0,0
+andrej_babis,2023-01-26,Trvalý příkaz,0.01,CZK,WWW.BABISJELHAR.CZ,SKŘIVÁNEK TOMÁŠ,,,0,0,0
+andrej_babis,2023-01-26,Odchozí platba,-8.88,CZK,"Dekuji za podporu, vazim si ji.",,,,9,558,0
 andrej_babis,2023-01-26,Příchozí platba,0.1,CZK,Volím Generála Pavla. Bureše do koše!,"Hastrdlo, Jan",,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,JSI NEMOCNÝ. PROTOPOPOV TĚ VYLÉČÍ.,JAN KUZELKA,,,0,0,0
 andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"ANDREJI, PŘESVĚDČIL JSI MĚ. DĚKUJI.",JAN KUZELKA,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"BABIŠI, KONČÍŠ.",JAN KUZELKA,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"TEBE PRÁVĚ ZNÁME, BUREŠI. PROTO TEBE NIKDY. ZAPAMATUJ SI TO...",JAN KUZELKA,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"PRCHALE, KONČÍŠ.",JAN KUZELKA,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"KDYŽ KANDIDUJE KLAUNE, MUSÍME VYDRŽET CIRKUSE.",JAN KUZELKA,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.1,CZK,VOLÍM GENERÁLA PAVLA. BUREŠE DO KOŠE!,JAN HASTRDLO,,,0,0,0
 andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,STBÁK A KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ PREZIDENTEM ČR? NIKDY!,Miloslava Sadílková,,,0,0,0
 andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"STBÁK BUREŠ - PODVODNÍK, LHÁŘ A OSTUDA ČR PREZIDENTEM? NIKDY!",Josef Sadílek,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Soudruhu Babiši, můj hlas ve volbách prezidenta nedostanete, ani kdybyste si prst v prdeli zlomil !!!",FOREJT PAVEL,,,0,0,0
+andrej_babis,2023-01-26,Odchozí platba,-500,CZK,"Dekuji za podporu, vazim si ji.",,,,9,558,0
+andrej_babis,2023-01-26,Odchozí platba,-100,CZK,"Dekuji za podporu, vazim si ji.",,,,9,558,0
+andrej_babis,2023-01-26,Příchozí platba,0.1,CZK,VOLÍM GENERÁLA PAVLA. BUREŠE DO KOŠE!,JAN HASTRDLO,,,0,0,0
 andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Negramota za prezidenta fakt nechceme, Bláboliši, radši už neříkej vůbec nic, vrať titul a jdi se dovzdělat na základku!","Babický, Michal",,,666,0,666
-andrej_babis,2023-01-26,Příchozí platba,10000,CZK,Děkuji panu Babišovi za přímou osobní podporu dostupného bydlení v ČR. Velmi si toho všichni vážíme. Děkujeme!,LBCC Real Estate and,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"NA BOTY, JAKO ZOSOBNĚNÁ LEŽ JICH MUSÍŠ PROŠOUPAT TUNY. JEN ŠOUPEJ DÁL, VÝCHODNÍ ŠUPÁKU!","Mgr.Novák Vít,MBA",,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,jestli se staneš prezidentem bude další defenestrace. StB zkurvená táhni odkud jsi přišel. zatloukači zasranej.,Dolínek Václav,,,7350,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,Tahni ty svine stbacka tam odkad prisels,Josef Ambrož,,,7350,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,https://cs.wikipedia.org/wiki/Andrej_Babi%C5%A1#/media/Soubor:B2.webp,Ing. Tomáš Vondra,,,25085,25085,25085
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,https://m.facebook.com/groups/milionchvilek/posts/1057842894559175/,Ing. Tomáš Vondra,,,25085,25085,25085
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Uz okradate i mrtve v Hustopecich? Vy jste spina, okradac mrtvol, udavac, unosce syna, syn zlodeje, hanba",RADEK BŘENDA,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Vždy jakmile kadíš, zakřič hrdě Babiš ! Vždycky totiž ti bude ouvej, vyřeší to strýček Andrej! Proto PETR PAVEL babišáci!",BAKES PETR,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Větší ostudu česká politika ještě nezažila. Posílám příspěvek na logopeda, prezident by měl umět mluvit řečí země, ve které chce vládnout .",BAKES PETR,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"BABIŠI, KONČÍŠ.",JAN KUZELKA,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Soudruhu Babiši, můj hlas ve volbách prezidenta nedostanete, ani kdybyste si prst v prdeli zlomil !!!",FOREJT PAVEL,,,0,0,0
+andrej_babis,2023-01-26,Odchozí platba,-9.99,CZK,"Dekuji za podporu, vazim si ji.",,,,9,558,0
+andrej_babis,2023-01-26,Odchozí platba,-100,CZK,"Dekuji za podporu, vazim si ji.",,,,9,558,0
+andrej_babis,2023-01-26,Odchozí platba,-8.88,CZK,"Dekuji za podporu, vazim si ji.",,,,9,558,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"TEBE PRÁVĚ ZNÁME, BUREŠI. PROTO TEBE NIKDY. ZAPAMATUJ SI TO...",JAN KUZELKA,,,0,0,0
 andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Prezidentský duel Novinky.cz Arogantní ulhaný šašek Bureš okřikuje moderátorku, dělá ostudu a už se zcela ztrácí ve svých lžích.",BAKES PETR,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,1,CZK,jsem r. 1945 neurážejte slušné lidinaučte se slušnému chování,KACIRKOVA ANNA,,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"JAK NEJLÍP ZAMÉST VŠECHNO DOSAVADNÍ SVINSTVO VYKÁLENÉ NA HRADĚ SEMTAMKUNDEM, HLADOVÝM PRASETEM A RUSKÝM ŠVÁBEM POD STŮL? BLBIŠEM!","Mgr.Novák Vít,MBA",,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,JAK JINAK KRÁST DALŠÍ MILIARDY Z DOTACÍ A ERÁRU? PROTO BLBIŠ!,"Mgr.Novák Vít,MBA",,,0,0,0
-andrej_babis,2023-01-26,Příchozí platba,500,CZK,Vaši nepřátelé nás spojují,ŠPRINGL MARTIN,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,JSI NEMOCNÝ. PROTOPOPOV TĚ VYLÉČÍ.,JAN KUZELKA,,,0,0,0
+andrej_babis,2023-01-26,Odchozí platba,-14.18,CZK,"odvod do statniho rozpoctu, nevyzadane platby",,,,20230126,558,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Větší ostudu česká politika ještě nezažila. Posílám příspěvek na logopeda, prezident by měl umět mluvit řečí země, ve které chce vládnout .",BAKES PETR,,,0,0,0
 andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Pane Babiši, tady máte na napravení chyb v kampani kterých si nejste vědom. Další budou dle Vaších vyjádření následovat",BINAR ALEŠ,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,500,CZK,Vaši nepřátelé nás spojují,ŠPRINGL MARTIN,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,JAK JINAK KRÁST DALŠÍ MILIARDY Z DOTACÍ A ERÁRU? PROTO BLBIŠ!,"Mgr.Novák Vít,MBA",,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"JAK NEJLÍP ZAMÉST VŠECHNO DOSAVADNÍ SVINSTVO VYKÁLENÉ NA HRADĚ SEMTAMKUNDEM, HLADOVÝM PRASETEM A RUSKÝM ŠVÁBEM POD STŮL? BLBIŠEM!","Mgr.Novák Vít,MBA",,,0,0,0
 andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,Babiš je agentem KGB !!!! https://www.forum24.cz/tajna-analyticka-zprava/,"Bulka, Vladimír",,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Uz okradate i mrtve v Hustopecich? Vy jste spina, okradac mrtvol, udavac, unosce syna, syn zlodeje, hanba",RADEK BŘENDA,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,https://m.facebook.com/groups/milionchvilek/posts/1057842894559175/,Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,https://cs.wikipedia.org/wiki/Andrej_Babi%C5%A1#/media/Soubor:B2.webp,Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,Tahni ty svine stbacka tam odkad prisels,Josef Ambrož,,,7350,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,jestli se staneš prezidentem bude další defenestrace. StB zkurvená táhni odkud jsi přišel. zatloukači zasranej.,Dolínek Václav,,,7350,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"NA BOTY, JAKO ZOSOBNĚNÁ LEŽ JICH MUSÍŠ PROŠOUPAT TUNY. JEN ŠOUPEJ DÁL, VÝCHODNÍ ŠUPÁKU!","Mgr.Novák Vít,MBA",,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,10000,CZK,Děkuji panu Babišovi za přímou osobní podporu dostupného bydlení v ČR. Velmi si toho všichni vážíme. Děkujeme!,LBCC Real Estate and,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,Z naší vlasti se nesmí stát Agrofertistán! Volte Petra Pavla!,Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Žákyně základní školy: ""Uveďte nejznámější dílo Jaroslava Haška."" Kandidát na prezidenta Babiš: ""To nevím.""",Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Nechci prezidenta, který by z Hradu mohl ovládat hnutí ANO a AGROFERT a který by mohl ovlivnit, co budou psát v MF a v Lidovkách.",Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,PRAVDA VÍTĚZÍ! Lháři musí z kola ven! VOLTE PETRA PAVLA!,Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,Maska konečně s konečnou platností bez milosti stržena,Michnová Marie,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"AB? Přes spáleniště, přes krvavé řeky,...",Michnová Marie,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"AB na Hradě? Běda, třikrát běda této zemi",Michnová Marie,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Legrace skončila, na Hrad se Babiš nesmí nikdy dostat",Michnová Marie,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Zastavme Babiše, dokud je čas",Michnová Marie,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,AB - chladnokrevný bezcitný manipulátor bez úcty k životu a hodnotám,Michnová Marie,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,https://alkoholdrink.cz/alkohol-drink-agent-pavek-agent-bures-a-blondyna-z-diplomove-afery-3-kupredu-leva/,Pavel Tr?ster,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Kopání do živých, trpících, umírajících? Vrchol pohrdání vším, co dělá člověka člověkem",Michnová Marie,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,https://www.seznamzpravy.cz/clanek/volby-prezidentske-buresovo-pres-noc-se-zmenily-cedule-obce-pruhonice-224317#dop_ab_variant=0&dop_source_,Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"amorálnímu blbečkovi na kapesníčke,až bude v sobotu večer zase fňukat,že nevyhrál",DANDUL IVO,,,25085,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,zbabělci a hlupákovi na učebnice ZŠ,DANDUL IVO,,,25085,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"to neděláš dobře, andreji s tím lhaním",DANDUL IVO,,,25085,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,Na provoz flašinetu slovenského šaška,Hlavizňa Antonín,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,opravdu chceme LHÁŘE na Hradě???,Rostislav Suchánek,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"to je v republice opravdu 2.000.000 lidí, kterým přijde úplně normální, že by prezident byl LHÁŘ?",Rostislav Suchánek,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Nikdy jsem se nesetkal s ruským velvyslancem, nikdy jsem nebyl na ruské ambasádě, řekl v debatě serveru Novinky.cz Andrej Babiš.",Rostislav Suchánek,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Byl jste na ruské ambasádě, je z toho fotografie, kontroval Petr Pavel.",Rostislav Suchánek,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Určitě ne. Není to pravda. Nebyl. Lžete, prohlásil Babiš. Popřete nos mezi očima, řekl Pavel.",Rostislav Suchánek,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,Ruský tajný agent prezidentem je přímé ohrožení státu! https://www.forum24.cz/tajna-analyticka-zprava/,"Bulka, Vladimír",,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"MAKAK ANDY, KRIMINÁL VOLÁ. NA VÝBĚR - ILAVA, LEOPOLDOV, SABINOV.",Šimoník Jakub,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,7,CZK,"Hodně štěstí, z toho co tu lidé předvádějí je mi na zvracení. Debatu na Primě jste na celé čáře vyhrál.","Lokaj, Ondřej",,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"KDO LŽE, DO PEKLA SE HRABE. BUREŠI, TY TAM BUDEŠ ZA KRÁLE.",Šimoník Jakub,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.1,CZK,Zdravím Andrej nabízím Vám za mírny poplatek že vás v krátke době naučím správně mluvit česky budete jako rodilý čech nikoliv jako Husák...,"Samko, Ľubomír",,,20230113,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"ZASTAVTE OLIGARCHU nenasytného po ekonomické a politické moci, VOLTE PETRA PAVLA !!!",Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"PUTINOVA HRADNÍ TROJKA - SEMTAMKUND, HLADOVÉ PRASE A RUSKÝ ŠVÁB - VOLÍ PRÁSKAČE Z ANU, PROČ ASI?","Mgr.Novák Vít,MBA",,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,https://www.seznamzpravy.cz/clanek/volby-prezidentske-podivejte-se-na-rozhovor-kteremu-se-babis-vyhybal-224336#dop_ab_variant=0&dop_source_z,Ing. Tomáš Vondra,,,25085,25085,25085
+andrej_babis,2023-01-26,Odchozí platba,-10000,CZK,"Dekuji za podporu, vazim si ji.",,,,9,558,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"Vždy jakmile kadíš, zakřič hrdě Babiš ! Vždycky totiž ti bude ouvej, vyřeší to strýček Andrej! Proto PETR PAVEL babišáci!",BAKES PETR,,,0,0,0
+andrej_babis,2023-01-26,Příchozí platba,1,CZK,jsem r. 1945 neurážejte slušné lidinaučte se slušnému chování,KACIRKOVA ANNA,,,0,0,0
+andrej_babis,2023-01-26,Odchozí platba,-8.88,CZK,"Dekuji za podporu, vazim si ji.",,,,9,558,0
+andrej_babis,2023-01-26,Odchozí platba,-8.88,CZK,"Dekuji za podporu, vazim si ji.",,,,9,558,0
+andrej_babis,2023-01-26,Odchozí platba,-8.88,CZK,"Dekuji za podporu, vazim si ji.",,,,9,558,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"KDYŽ KANDIDUJE KLAUNE, MUSÍME VYDRŽET CIRKUSE.",JAN KUZELKA,,,0,0,0
+andrej_babis,2023-01-26,Odchozí platba,-500,CZK,"Dekuji za podporu, vazim si ji.",,,,9,558,0
+andrej_babis,2023-01-26,Příchozí platba,0.01,CZK,"PRCHALE, KONČÍŠ.",JAN KUZELKA,,,0,0,0
+andrej_babis,2023-01-26,Trvalý příkaz,0.01,CZK,VOLÍM GENERÁLA PAVLA!,MARTAN MILOSLAV,,,25085,308,0
 andrej_babis,2023-01-25,Příchozí platba,0.01,CZK,VOLIT VÁS PANE BABIŠ JE JAKO VOLIT ČISTÉ ZLO....,KAREL KRBA,,,9876543210,558,0
 andrej_babis,2023-01-25,Trvalý příkaz,0.01,CZK,WWW.BABISJELHAR.CZ,SKŘIVÁNEK TOMÁŠ,,,0,0,0
 andrej_babis,2023-01-25,Příchozí platba,0.01,CZK,"NESTRAŠ VÁLKOU, SJEDNOTITELI. TVÉ BABIŠKY JSOU VYDĚŠENÉ.",JAN KUZELKA,,,0,0,0
@@ -18836,6 +19003,8 @@ andrej_babis,2023-01-23,Příchozí platba,0.01,CZK,Andrej Babis agent STB c. 25
 andrej_babis,2023-01-23,Příchozí platba,0.01,CZK,AL ČAPONE UŽ JE HODNÝ...,JAN KUZELKA,,,0,0,0
 andrej_babis,2023-01-23,Příchozí platba,0.01,CZK,MÍR NAJDEŠ NA MÍROVĚ,JAN KUZELKA,,,0,0,0
 andrej_babis,2023-01-23,Příchozí platba,0.1,CZK,Volím Generála Pavla. Bureše do koše!,"Hastrdlo, Jan",,,0,0,0
+karel_janecek,2023-01-18,Příchozí platba,194481,CZK,Vklad do kampaně,JANEČEK KAREL,,,0,0,0
+karel_janecek,2023-01-18,Odchozí platba,-194481,CZK,Vklad do kampaně,,,,0,0,0
 andrej_babis,2023-01-23,Příchozí platba,0.01,CZK,PREZIDENTEM ČR KŘIVOPŘÍSEŽNÍK NA ZDRAVÍ SVÝCH DĚTÍ? NIKDY!,Miloslava Sadílková,,,0,0,0
 andrej_babis,2023-01-23,Příchozí platba,0.01,CZK,Andrej Babis agent STB c. 25085 kryci jmeno Bures,VESELOVSKÝ ONDŘEJ,,,0,0,0
 andrej_babis,2023-01-23,Trvalý příkaz,0.01,CZK,VOLÍM GENERÁLA PAVLA!,MARTAN MILOSLAV,,,25085,308,0
