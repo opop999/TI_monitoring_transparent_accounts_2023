@@ -1,4 +1,10 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-30,50,CZK,Platba převodem uvnitř banky,"Dřínek, Vratislav","Příspěvek na deratizaci hradu, zvládněte to! Gratuluji, věřím, že konečně budeme mít pořádného prezidenta!",,,,"Příspěvek na deratizaci hradu, zvládněte to! Gratuluji, věřím, že konečně budeme mít pořádného prezidenta!",petr_pavel
+2023-01-30,-5599.88,CZK,Bezhotovostní platba,,,,20230093,,"IČ: 25753771, tisk",petr_pavel
+2023-01-30,-254100,CZK,Bezhotovostní platba,,,,107327,,"IČ: 48587001, analýza",petr_pavel
+2023-01-29,23,CZK,Platba převodem uvnitř banky,"Lejčko, Jan",Tak na dalších 10 let. Děkuji za kandidaturu a držím pěsti do budoucna :),2023,2023,2033,Tak na dalších 10 let. Děkuji za kandidaturu a držím pěsti do budoucna :),petr_pavel
+2023-01-29,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 7UGQTK7Q32, fb.me/ads, IE, dne 28.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 7UGQTK7Q32, fb.me/ads, IE, dne 28.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-29,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 9EBLJK3R32, fb.me/ads, IE, dne 28.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 9EBLJK3R32, fb.me/ads, IE, dne 28.1.2023, částka  24200.00 CZK",petr_pavel
 2023-01-28,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","Přežili jsme Generála SS R.Heydricha, K.H.Franka, přežijeme i Maršala Maskvy a Generalisima KRVAVÉHO NATO Pávka!  http://branmecesko.eu",0,0,0,"Přežili jsme Generála SS R.Heydricha, K.H.Franka, přežijeme i Maršala Maskvy a Generalisima KRVAVÉHO NATO Pávka!  http://branmecesko.eu",petr_pavel
 2023-01-28,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","Mimořádně snadno VYDÍRATELNÝ ""člověk"", vzhledem k prokázanému kurzu na KONTRÁŠE ZS/GŠ ČSLA tak v GRU Sovětské svazu, vázací svazky v Maskvě!",0,0,0,"Mimořádně snadno VYDÍRATELNÝ ""člověk"", vzhledem k prokázanému kurzu na KONTRÁŠE ZS/GŠ ČSLA tak v GRU Sovětské svazu, vázací svazky v Maskvě!",petr_pavel
 2023-01-28,33,CZK,Okamžitá příchozí platba,MARTIN HORÁK,Gratulujeme pane PREZIDENTE. Jirka a Martin,,,,MARTIN HORÁK,petr_pavel

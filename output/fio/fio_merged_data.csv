@@ -1,4 +1,10 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-30,50,CZK,Platba převodem uvnitř banky,"Dřínek, Vratislav","Příspěvek na deratizaci hradu, zvládněte to! Gratuluji, věřím, že konečně budeme mít pořádného prezidenta!",,,,"Příspěvek na deratizaci hradu, zvládněte to! Gratuluji, věřím, že konečně budeme mít pořádného prezidenta!",petr_pavel
+2023-01-30,-5599.88,CZK,Bezhotovostní platba,,,,20230093,,"IČ: 25753771, tisk",petr_pavel
+2023-01-30,-254100,CZK,Bezhotovostní platba,,,,107327,,"IČ: 48587001, analýza",petr_pavel
+2023-01-29,23,CZK,Platba převodem uvnitř banky,"Lejčko, Jan",Tak na dalších 10 let. Děkuji za kandidaturu a držím pěsti do budoucna :),2023,2023,2033,Tak na dalších 10 let. Děkuji za kandidaturu a držím pěsti do budoucna :),petr_pavel
+2023-01-29,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 7UGQTK7Q32, fb.me/ads, IE, dne 28.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 7UGQTK7Q32, fb.me/ads, IE, dne 28.1.2023, částka  24200.00 CZK",petr_pavel
+2023-01-29,-24200,CZK,Karetní transakce,,"Nákup: FACEBK 9EBLJK3R32, fb.me/ads, IE, dne 28.1.2023, částka  24200.00 CZK",,7999,,"Nákup: FACEBK 9EBLJK3R32, fb.me/ads, IE, dne 28.1.2023, částka  24200.00 CZK",petr_pavel
 2023-01-28,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","Přežili jsme Generála SS R.Heydricha, K.H.Franka, přežijeme i Maršala Maskvy a Generalisima KRVAVÉHO NATO Pávka!  http://branmecesko.eu",0,0,0,"Přežili jsme Generála SS R.Heydricha, K.H.Franka, přežijeme i Maršala Maskvy a Generalisima KRVAVÉHO NATO Pávka!  http://branmecesko.eu",petr_pavel
 2023-01-28,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","Mimořádně snadno VYDÍRATELNÝ ""člověk"", vzhledem k prokázanému kurzu na KONTRÁŠE ZS/GŠ ČSLA tak v GRU Sovětské svazu, vázací svazky v Maskvě!",0,0,0,"Mimořádně snadno VYDÍRATELNÝ ""člověk"", vzhledem k prokázanému kurzu na KONTRÁŠE ZS/GŠ ČSLA tak v GRU Sovětské svazu, vázací svazky v Maskvě!",petr_pavel
 2023-01-28,33,CZK,Okamžitá příchozí platba,MARTIN HORÁK,Gratulujeme pane PREZIDENTE. Jirka a Martin,,,,MARTIN HORÁK,petr_pavel
@@ -208,6 +214,18 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2023-01-22,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","KRVAVÝ Generalissimus KRVAVÉHO Fialového Fialového ZLO režimu, který donutil energetickým ZLEM už desítky ožebračených lidí k sebevraždám!",0,0,0,"KRVAVÝ Generalissimus KRVAVÉHO Fialového Fialového ZLO režimu, který donutil energetickým ZLEM už desítky ožebračených lidí k sebevraždám!",petr_pavel
 2023-01-22,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","Vládní KRVAVÝ Generalissimus,Fialovi nazi ordneři měsíce bestiálně napadají lidi pravdy a jejich kandidáta.Nikdy takovému ZLU neustoupíme!!!",0,0,0,"Vládní KRVAVÝ Generalissimus,Fialovi nazi ordneři měsíce bestiálně napadají lidi pravdy a jejich kandidáta.Nikdy takovému ZLU neustoupíme!!!",petr_pavel
 2023-01-22,2500,CZK,Okamžitá příchozí platba,VERONIKA SVÁDOVÁ,Dar na kampaň generála Pavla. Cílová rovinka,,,,VERONIKA SVÁDOVÁ,petr_pavel
+2023-01-24,-5000,CZK,Platba převodem uvnitř banky,,,,,,propagace a podpora prezidentského kandidáta PP ve 2. kole - Brno 22.1.2023,marek_hilser
+2023-01-24,-15500,CZK,Okamžitá odchozí platba,,,,,,faktura 2023/001 - produkční práce + administrace webových stránek říjen-leden,marek_hilser
+2023-01-24,-20000,CZK,Platba převodem uvnitř banky,,,,220100019,,Faktura 220100019 - propagační materiály,marek_hilser
+2023-01-23,-25400,CZK,Okamžitá odchozí platba,,,,2023000092,,Faktura 2023000092 - Produkce volební štáb 14.1.2023,marek_hilser
+2023-01-22,-415.82,CZK,Karetní transakce,,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",,5298,,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",marek_hilser
+2023-01-30,10197,CZK,Platba převodem uvnitř banky,SPOLEČNĚ PRO LIDI z.s.,Společně pro lidi z.s.- dar,,20230130,,Společně pro lidi z.s.- dar,josef_stredula
+2023-01-26,-22385,CZK,Platba převodem uvnitř banky,,SP-Solutions s.r.o. - zajištění bezpečnosti na více akcích - prezidentská kampaň Jaroslava Bašty,308,2023002,,SP-Solutions s.r.o. - zajištění bezpečnosti na více akcích - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2023-01-26,-121304,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty- fotografie, správa webu, cloud atd.",,20232101,,"Cecílie Jílková prezidentská kampaň Jaroslava Bašty - fotografie, správa webu, cloud atd.",jaroslav_basta
+2023-01-26,22385,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-26,121304,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-26,25450,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-23,-17593.91,CZK,Karetní transakce,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",,4231,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",jaroslav_basta
 2023-01-21,15.9,CZK,Okamžitá příchozí platba,Ciprys Štěpán,"Chábři z Moravy, swag.",0,,,Ciprys Štěpán,petr_pavel
 2023-01-21,200,CZK,Platba převodem uvnitř banky,"Centko, Pavol","1.kolo Fischer, 2. kolo Pavel ---- NE LHÁŘ  BABIŠ",,,,"1.kolo Fischer, 2. kolo Pavel ---- NE LHÁŘ  BABIŠ",petr_pavel
 2023-01-21,50,CZK,Okamžitá příchozí platba,Jiří Matula,"držím palce, ať potazite toho Slovenského StBaka",,7,,Jiří Matula,petr_pavel
@@ -220,17 +238,6 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2023-01-21,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek",https://www.youtube.com/watch?v=ai1B7tFvpEs  Prof.Ševčík o demokratuře globalistické mediokracie a jejím globalistickém válečném štvaní....,0,0,0,https://www.youtube.com/watch?v=ai1B7tFvpEs  Prof.Ševčík o demokratuře globalistické mediokracie a jejím globalistickém válečném štvaní....,petr_pavel
 2023-01-21,200,CZK,Okamžitá příchozí platba,Mědílek Čeněk,DAR NA KAMPAŇ GENERÁLA PAVLA,0,,,Mědílek Čeněk,petr_pavel
 2023-01-21,-35000,CZK,Bezhotovostní platba,,,,202301,,"IČ: 08034397, moderace",petr_pavel
-2023-01-24,-5000,CZK,Platba převodem uvnitř banky,,,,,,propagace a podpora prezidentského kandidáta PP ve 2. kole - Brno 22.1.2023,marek_hilser
-2023-01-24,-15500,CZK,Okamžitá odchozí platba,,,,,,faktura 2023/001 - produkční práce + administrace webových stránek říjen-leden,marek_hilser
-2023-01-24,-20000,CZK,Platba převodem uvnitř banky,,,,220100019,,Faktura 220100019 - propagační materiály,marek_hilser
-2023-01-23,-25400,CZK,Okamžitá odchozí platba,,,,2023000092,,Faktura 2023000092 - Produkce volební štáb 14.1.2023,marek_hilser
-2023-01-22,-415.82,CZK,Karetní transakce,,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",,5298,,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",marek_hilser
-2023-01-26,-22385,CZK,Platba převodem uvnitř banky,,SP-Solutions s.r.o. - zajištění bezpečnosti na více akcích - prezidentská kampaň Jaroslava Bašty,308,2023002,,SP-Solutions s.r.o. - zajištění bezpečnosti na více akcích - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
-2023-01-26,-121304,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty- fotografie, správa webu, cloud atd.",,20232101,,"Cecílie Jílková prezidentská kampaň Jaroslava Bašty - fotografie, správa webu, cloud atd.",jaroslav_basta
-2023-01-26,22385,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-26,121304,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-26,25450,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-23,-17593.91,CZK,Karetní transakce,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",,4231,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",jaroslav_basta
 2023-01-20,1000,CZK,Platba převodem uvnitř banky,"Olejník, Jakub",Dar na kampan generala Pavla,,,,Dar na kampan generala Pavla,petr_pavel
 2023-01-20,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek",KRVAVÝ Generalissimus kandidát TOTALITÁŘSKÉ NORMALIZAČNÍ CENZURNÍ Fialové Banderovské junty   https://www.youtube.com/watch?v=QMwsJZqubVs,0,0,0,KRVAVÝ Generalissimus kandidát TOTALITÁŘSKÉ NORMALIZAČNÍ CENZURNÍ Fialové Banderovské junty   https://www.youtube.com/watch?v=QMwsJZqubVs,petr_pavel
 2023-01-20,200,CZK,Okamžitá příchozí platba,Jan Sigmund,"kdo,když ne my a kdy, když ne teď!",,,,Jan Sigmund,petr_pavel
