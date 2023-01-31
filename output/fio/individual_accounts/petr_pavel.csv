@@ -1,4 +1,14 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-31,-1820,CZK,Okamžitá odchozí platba,,,,,,"IČ: 61274925, produkční náklady",petr_pavel
+2023-01-31,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. CVSUFLBQ32, dat. 27.1.2023",petr_pavel
+2023-01-31,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. AM237KPQ32, dat. 26.1.2023",petr_pavel
+2023-01-31,-75000,CZK,Bezhotovostní platba,,,,323,,"IČ: 66870305, grafika",petr_pavel
+2023-01-31,-12100,CZK,Platba převodem uvnitř banky,,,,21230002,,"IČ: 62595156, supervize",petr_pavel
+2023-01-31,-45000,CZK,Bezhotovostní platba,,,,2023000002,,"IČ: 87556669, marketing",petr_pavel
+2023-01-31,-78650,CZK,Bezhotovostní platba,,,,2023101,,"IČ: 69219672, marketing",petr_pavel
+2023-01-31,-40778,CZK,Bezhotovostní platba,,,,20230001,,"IČ: 07185731, správa soc. sítí",petr_pavel
+2023-01-31,-84856,CZK,Bezhotovostní platba,,,,2023001,,"IČ: 14279851, sociální média",petr_pavel
+2023-01-31,-735219.3,CZK,Platba cizoměnová či zahraniční,,,,30012022,,"IČ: 48260045, marketing",petr_pavel
 2023-01-30,50,CZK,Platba převodem uvnitř banky,"Dřínek, Vratislav","Příspěvek na deratizaci hradu, zvládněte to! Gratuluji, věřím, že konečně budeme mít pořádného prezidenta!",,,,"Příspěvek na deratizaci hradu, zvládněte to! Gratuluji, věřím, že konečně budeme mít pořádného prezidenta!",petr_pavel
 2023-01-30,-5599.88,CZK,Bezhotovostní platba,,,,20230093,,"IČ: 25753771, tisk",petr_pavel
 2023-01-30,-254100,CZK,Bezhotovostní platba,,,,107327,,"IČ: 48587001, analýza",petr_pavel

@@ -1,4 +1,14 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-31,-1820,CZK,Okamžitá odchozí platba,,,,,,"IČ: 61274925, produkční náklady",petr_pavel
+2023-01-31,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. CVSUFLBQ32, dat. 27.1.2023",petr_pavel
+2023-01-31,-24200,CZK,Bezhotovostní platba,,,,1155,,"IČ: 05177880, FACEBK, ref.č. AM237KPQ32, dat. 26.1.2023",petr_pavel
+2023-01-31,-75000,CZK,Bezhotovostní platba,,,,323,,"IČ: 66870305, grafika",petr_pavel
+2023-01-31,-12100,CZK,Platba převodem uvnitř banky,,,,21230002,,"IČ: 62595156, supervize",petr_pavel
+2023-01-31,-45000,CZK,Bezhotovostní platba,,,,2023000002,,"IČ: 87556669, marketing",petr_pavel
+2023-01-31,-78650,CZK,Bezhotovostní platba,,,,2023101,,"IČ: 69219672, marketing",petr_pavel
+2023-01-31,-40778,CZK,Bezhotovostní platba,,,,20230001,,"IČ: 07185731, správa soc. sítí",petr_pavel
+2023-01-31,-84856,CZK,Bezhotovostní platba,,,,2023001,,"IČ: 14279851, sociální média",petr_pavel
+2023-01-31,-735219.3,CZK,Platba cizoměnová či zahraniční,,,,30012022,,"IČ: 48260045, marketing",petr_pavel
 2023-01-30,50,CZK,Platba převodem uvnitř banky,"Dřínek, Vratislav","Příspěvek na deratizaci hradu, zvládněte to! Gratuluji, věřím, že konečně budeme mít pořádného prezidenta!",,,,"Příspěvek na deratizaci hradu, zvládněte to! Gratuluji, věřím, že konečně budeme mít pořádného prezidenta!",petr_pavel
 2023-01-30,-5599.88,CZK,Bezhotovostní platba,,,,20230093,,"IČ: 25753771, tisk",petr_pavel
 2023-01-30,-254100,CZK,Bezhotovostní platba,,,,107327,,"IČ: 48587001, analýza",petr_pavel
@@ -194,6 +204,17 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2023-01-23,1,CZK,Bezhotovostní příjem,STEDRON RADOSLAV,"chci zachovat českou korunu,nechciválku vyvolanou NATO na Ukrajině,nechci být členem zločineckých  organizací EU a NATO, volím Bureše",,0,,STEDRON RADOSLAV,petr_pavel
 2023-01-23,6000,CZK,Bezhotovostní příjem,BROUK VLADIMIR,"Děkujeme,  že jste.  Vladimír Brouk",,0,,BROUK VLADIMIR,petr_pavel
 2023-01-23,1000,CZK,Bezhotovostní příjem,KOPECEK LIBOR,Jsem na Vas hrdý,,0,,KOPECEK LIBOR,petr_pavel
+2023-01-24,-5000,CZK,Platba převodem uvnitř banky,,,,,,propagace a podpora prezidentského kandidáta PP ve 2. kole - Brno 22.1.2023,marek_hilser
+2023-01-24,-15500,CZK,Okamžitá odchozí platba,,,,,,faktura 2023/001 - produkční práce + administrace webových stránek říjen-leden,marek_hilser
+2023-01-24,-20000,CZK,Platba převodem uvnitř banky,,,,220100019,,Faktura 220100019 - propagační materiály,marek_hilser
+2023-01-23,-25400,CZK,Okamžitá odchozí platba,,,,2023000092,,Faktura 2023000092 - Produkce volební štáb 14.1.2023,marek_hilser
+2023-01-30,10197,CZK,Platba převodem uvnitř banky,SPOLEČNĚ PRO LIDI z.s.,Společně pro lidi z.s.- dar,,20230130,,Společně pro lidi z.s.- dar,josef_stredula
+2023-01-26,-22385,CZK,Platba převodem uvnitř banky,,SP-Solutions s.r.o. - zajištění bezpečnosti na více akcích - prezidentská kampaň Jaroslava Bašty,308,2023002,,SP-Solutions s.r.o. - zajištění bezpečnosti na více akcích - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
+2023-01-26,-121304,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty- fotografie, správa webu, cloud atd.",,20232101,,"Cecílie Jílková prezidentská kampaň Jaroslava Bašty - fotografie, správa webu, cloud atd.",jaroslav_basta
+2023-01-26,22385,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-26,121304,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-26,25450,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
+2023-01-23,-17593.91,CZK,Karetní transakce,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",,4231,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",jaroslav_basta
 2023-01-22,99,CZK,Okamžitá příchozí platba,Patrík Keňo,"Skromný příspěvek pro velké vítězství, pane prezidente.",,,,Patrík Keňo,petr_pavel
 2023-01-22,100,CZK,Okamžitá příchozí platba,Cipra Petr,"Šťastný, typický volič Babiše. Proto Pavel prezidentem. :)",0,,,Cipra Petr,petr_pavel
 2023-01-22,1,CZK,Okamžitá příchozí platba,ŠŤASTNÝ JAROSLAV,"Ty špinavá vousatá lampasácká svině, vždycky si byl a budeš sračka a sluha nadřízených. Umíš jenom lízt do prdelí svých pánů. BABIŠ NA HRAD.",,,,ŠŤASTNÝ JAROSLAV,petr_pavel
@@ -214,18 +235,7 @@ date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,not
 2023-01-22,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","KRVAVÝ Generalissimus KRVAVÉHO Fialového Fialového ZLO režimu, který donutil energetickým ZLEM už desítky ožebračených lidí k sebevraždám!",0,0,0,"KRVAVÝ Generalissimus KRVAVÉHO Fialového Fialového ZLO režimu, který donutil energetickým ZLEM už desítky ožebračených lidí k sebevraždám!",petr_pavel
 2023-01-22,0.01,CZK,Platba převodem uvnitř banky,"Nedozrál, Marek","Vládní KRVAVÝ Generalissimus,Fialovi nazi ordneři měsíce bestiálně napadají lidi pravdy a jejich kandidáta.Nikdy takovému ZLU neustoupíme!!!",0,0,0,"Vládní KRVAVÝ Generalissimus,Fialovi nazi ordneři měsíce bestiálně napadají lidi pravdy a jejich kandidáta.Nikdy takovému ZLU neustoupíme!!!",petr_pavel
 2023-01-22,2500,CZK,Okamžitá příchozí platba,VERONIKA SVÁDOVÁ,Dar na kampaň generála Pavla. Cílová rovinka,,,,VERONIKA SVÁDOVÁ,petr_pavel
-2023-01-24,-5000,CZK,Platba převodem uvnitř banky,,,,,,propagace a podpora prezidentského kandidáta PP ve 2. kole - Brno 22.1.2023,marek_hilser
-2023-01-24,-15500,CZK,Okamžitá odchozí platba,,,,,,faktura 2023/001 - produkční práce + administrace webových stránek říjen-leden,marek_hilser
-2023-01-24,-20000,CZK,Platba převodem uvnitř banky,,,,220100019,,Faktura 220100019 - propagační materiály,marek_hilser
-2023-01-23,-25400,CZK,Okamžitá odchozí platba,,,,2023000092,,Faktura 2023000092 - Produkce volební štáb 14.1.2023,marek_hilser
 2023-01-22,-415.82,CZK,Karetní transakce,,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",,5298,,"Nákup: WIX.COM*1035823641,  40, HANAMAL ST, TEL AVIV, LUXEMBOURG, UNKNOWN, LUX, dne 18.1.2023, částka  16.94 EUR",marek_hilser
-2023-01-30,10197,CZK,Platba převodem uvnitř banky,SPOLEČNĚ PRO LIDI z.s.,Společně pro lidi z.s.- dar,,20230130,,Společně pro lidi z.s.- dar,josef_stredula
-2023-01-26,-22385,CZK,Platba převodem uvnitř banky,,SP-Solutions s.r.o. - zajištění bezpečnosti na více akcích - prezidentská kampaň Jaroslava Bašty,308,2023002,,SP-Solutions s.r.o. - zajištění bezpečnosti na více akcích - prezidentská kampaň Jaroslava Bašty,jaroslav_basta
-2023-01-26,-121304,CZK,Bezhotovostní platba,,"prezidentská kampaň Jaroslava Bašty- fotografie, správa webu, cloud atd.",,20232101,,"Cecílie Jílková prezidentská kampaň Jaroslava Bašty - fotografie, správa webu, cloud atd.",jaroslav_basta
-2023-01-26,22385,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-26,121304,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-26,25450,CZK,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Dar - prezidentská kampaň Jaroslav Bašta,,4134940,,Dar - prezidentská kampaň Jaroslav Bašta,jaroslav_basta
-2023-01-23,-17593.91,CZK,Karetní transakce,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",,4231,,"Nákup: FACEBK H54YXJXZ62, fb.me/ads, IE, dne 23.1.2023, částka  17593.91 CZK",jaroslav_basta
 2023-01-21,15.9,CZK,Okamžitá příchozí platba,Ciprys Štěpán,"Chábři z Moravy, swag.",0,,,Ciprys Štěpán,petr_pavel
 2023-01-21,200,CZK,Platba převodem uvnitř banky,"Centko, Pavol","1.kolo Fischer, 2. kolo Pavel ---- NE LHÁŘ  BABIŠ",,,,"1.kolo Fischer, 2. kolo Pavel ---- NE LHÁŘ  BABIŠ",petr_pavel
 2023-01-21,50,CZK,Okamžitá příchozí platba,Jiří Matula,"držím palce, ať potazite toho Slovenského StBaka",,7,,Jiří Matula,petr_pavel
