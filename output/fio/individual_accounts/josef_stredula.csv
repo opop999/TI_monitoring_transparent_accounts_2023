@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-31,-13849.38,CZK,Karetní transakce,,"Nákup: FACEBK 6ZT4ZJPF52, fb.me/ads, IE, dne 30.1.2023, částka  13849.38 CZK",,2172,,"Nákup: FACEBK 6ZT4ZJPF52, fb.me/ads, IE, dne 30.1.2023, částka  13849.38 CZK",josef_stredula
 2023-01-30,10197,CZK,Platba převodem uvnitř banky,SPOLEČNĚ PRO LIDI z.s.,Společně pro lidi z.s.- dar,,20230130,,Společně pro lidi z.s.- dar,josef_stredula
 2023-01-14,25,CZK,Okamžitá příchozí platba,STAVJAŘ MICHAEL,"mrzí mě, že máte na účtu míň než já... aby jste měl aspoň na chleba",,,,STAVJAŘ MICHAEL,josef_stredula
 2023-01-13,0.01,CZK,Okamžitá příchozí platba,VACH JAROSLAV,Zkousim jestli to funguje!,,,,VACH JAROSLAV,josef_stredula

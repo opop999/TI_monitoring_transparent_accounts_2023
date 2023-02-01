@@ -1,4 +1,35 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2023-02-01,-25,CZK,Poskytnutí debetní karty,8,,,-,,danuse_nerudova
+2023-02-01,0,CZK,Cena za vedení účtu,8,,,,,danuse_nerudova
+2023-01-31,-31763,CZK,Tuzemská odchozí úhrada,8,,,000000-2500207971/2010,"IČ:66452759, strategické poradenství",danuse_nerudova
+2023-01-31,-45000,CZK,Tuzemská odchozí úhrada,8,,,000000-2113136368/2700,"Jakub Trtík, Zajištění kontaktní kampaně",danuse_nerudova
+2023-01-31,-5042.07,CZK,Tuzemská odchozí úhrada,8,,,000019-0000235061/0100,"IČ:63839997, poskytnutí licence",danuse_nerudova
+2023-01-31,-6050,CZK,Tuzemská odchozí úhrada,8,,,000000-0272889077/0300,"IČ: 71532790, Výroba videa",danuse_nerudova
+2023-01-31,-59290,CZK,Tuzemská odchozí úhrada,8,,,000000-0367747071/0100,"IČ:43045006, občerstvení, nápoje",danuse_nerudova
+2023-01-31,-36300,CZK,Tuzemská odchozí úhrada,8,,,000000-3568672399/0800,"IČ:03299937, PR služby ",danuse_nerudova
+2023-01-31,-206305,CZK,Tuzemská odchozí úhrada,8,,,000000-5674048329/0800,"IČ: 27593690, strategické poradenství ",danuse_nerudova
+2023-01-31,-5000,CZK,Tuzemská odchozí úhrada,8,,,000000-1649207123/0800,"Zbyněk Vrba, Hudební produkce",danuse_nerudova
+2023-01-31,-654.61,CZK,Tuzemská odchozí úhrada,8,,,000019-0000235061/0100,"IČ :63839997, poskytnutí licence",danuse_nerudova
+2023-01-31,-16335,CZK,Tuzemská odchozí úhrada,8,,,000000-0367747071/0100,"IČ:43045006, šatna a servis volební štáb",danuse_nerudova
+2023-01-31,-488888.4,CZK,Tuzemská odchozí úhrada,8,,,000000-5674048329/0800,"IČO: 27593690, produkční práce, výzkumy ",danuse_nerudova
+2023-01-31,-92000,CZK,Tuzemská odchozí úhrada,8,,,000043-9351810217/0100,"IČ: 24817406, catering",danuse_nerudova
+2023-01-31,-414207.2,CZK,Tuzemská odchozí úhrada,8,,,000000-5674048329/0800,"IČ: 27593690, kreativní a grafické práce",danuse_nerudova
+2023-01-31,-1535,CZK,Tuzemská odchozí úhrada,8,,,000000-0949949028/5500,"IČ: 26168685, doplatek reklama Sklik",danuse_nerudova
+2023-01-30,-30000,CZK,Výběr hotovosti z bankomatu ČS,8,,,-,"XXXXXXXXXXXX7023 d.tran.30.01.2023146  Praha 3           ČS, TáboritCZK      30000.00 d.zúč.30.01.2023částka v Kč:      30000.00",danuse_nerudova
+2023-01-27,-12421,CZK,Tuzemská odchozí úhrada,8,,,000000-0279689086/0300,"IČ: 62930711, pronájem prostor",danuse_nerudova
+2023-01-27,-95590,CZK,Tuzemská odchozí úhrada,8,,,000000-0367747071/0100,"IČ:43045006, pronájem prostor a technického zabezpečení",danuse_nerudova
+2023-01-25,-30000,CZK,Tuzemská odchozí úhrada,8,,,670100-2209114497/6210,"IČ: 87666383, Produkční služby ",danuse_nerudova
+2023-01-25,-49047,CZK,Tuzemská odchozí úhrada,8,,,000000-0084694002/5500,"IČ: 06156550, pronájem prostor a služby",danuse_nerudova
+2023-01-25,-872773,CZK,Tuzemská odchozí úhrada,8,,,000000-5674048329/0800,"IČO: 27593690, kreativni a grafické práce, strategické poradenství, AV produkce, produkce",danuse_nerudova
+2023-01-25,-17240,CZK,Tuzemská odchozí úhrada,8,,,000035-6771280247/0100,"IČ:16164989, technické zajištění, požární dozor",danuse_nerudova
+2023-01-25,-217800,CZK,Tuzemská odchozí úhrada,8,,,000000-3568672399/0800,"IČ:03299937, Nákup marketingového prostoru",danuse_nerudova
+2023-01-25,-2500,CZK,Tuzemská odchozí úhrada,8,,,000000-0309485085/0300,"IČ:71217975, pronájem ",danuse_nerudova
+2023-01-25,-13007.5,CZK,Tuzemská odchozí úhrada,8,,,000000-0020010222/2010,"IČ: 03423379, personální zajištění volebního štábu",danuse_nerudova
+2023-01-25,-176176,CZK,Tuzemská odchozí úhrada,8,,,000000-1387919939/2700,"IČ: 09839194,  Technická produkce",danuse_nerudova
+2023-01-24,-10000,CZK,Tuzemská odchozí úhrada,8,,,000000-2401196154/2010,"IČ: 74688782, pronájem prostor",danuse_nerudova
+2023-01-24,-13220,CZK,Tuzemská odchozí úhrada,8,,,000000-1762460016/3030,"Sabina Horáková, koordinace kontaktní kampaně",danuse_nerudova
+2023-01-24,-7250.32,CZK,Tuzemská odchozí úhrada,8,,,000000-3440996319/0800,"IČ:44080697, koordinaci kontaktní kampaně",danuse_nerudova
+2023-01-24,-52000,CZK,Tuzemská odchozí úhrada,8,,,000000-7173506001/5500,"IČ:88862178, logistické služby",danuse_nerudova
 2023-01-30,-30000,CZK,Výběr hotovosti z bankomatu ČS,1178,30012023,4511617023,-,"XXXXXXXXXXXX7023 d.tran.30.01.2023146  Praha 3           ČS, TáboritCZK      30000.00 d.zúč.30.01.2023částka v Kč:      30000.00",danuse_nerudova
 2023-01-27,-95590,CZK,Tuzemská odchozí úhrada,1178,30012023,4511617023,000000-0367747071/0100,"IČ:43045006, pronájem prostor a technického zabezpečení",danuse_nerudova
 2023-01-27,-12421,CZK,Tuzemská odchozí úhrada,1178,30012023,4511617023,000000-0279689086/0300,"IČ: 62930711, pronájem prostor",danuse_nerudova

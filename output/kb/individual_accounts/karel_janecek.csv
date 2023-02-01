@@ -1,4 +1,8 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
+120-20230131 0033283841084,2023-02-01,1,Příchozí platba,Odborová organizace,"24. a 25.1. jsem Vám poslal e-mail. Proč chcete být prezident, když neráčíte ani odpovídat na dopisy?",CZK,0,0,0,karel_janecek
+001-31012023 1602 602020 924311,2023-01-31,120000,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek
+000-31012023-060-060-001065354,2023-01-31,-162,Poplatek,,,CZK,0,0,0,karel_janecek
+001-31012023 1602 602020 943551,2023-01-31,-121000,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-30012023 1602 602010 214621,2023-01-30,-42000,Odchozí platba,,,CZK,230100001,308,0,karel_janecek
 362-27012023 1602 602112 500326,2023-01-27,-6700,Odchozí platba,,Vklad do kampaně,CZK,0,0,0,karel_janecek
 001-26012023 1602 602011 060641,2023-01-26,50000,Příchozí platba,JANEČEK KAREL,Vklad do kampaně,CZK,0,0,0,karel_janecek

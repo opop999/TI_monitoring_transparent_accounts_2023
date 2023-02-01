@@ -1,4 +1,7 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2023-02-01,0,CZK,Cena za vedení účtu,8,,,,Děkujeme za aktivní využívání služeb.                                 ,pavel_fischer
+2023-01-29,-1200,CZK,Tuzemská odchozí úhrada,8,,,000000-0188784838/0300,Dopravní a přepravní služby,pavel_fischer
+2023-01-24,3150,CZK,Příchozí úhrada,8,,,Atkins a Langford De,"Pavel Fischer, DOBV 2315001 / FV2 2315003",pavel_fischer
 2023-01-29,-1200,CZK,Tuzemská odchozí úhrada,308,20230001,,000000-0188784838/0300,Dopravní a přepravní služby,pavel_fischer
 2023-01-24,3150,CZK,Příchozí úhrada,308,20230001,,Atkins a Langford De,"Pavel Fischer, DOBV 2315001 / FV2 2315003",pavel_fischer
 2023-01-23,-23958,CZK,Tuzemská odchozí úhrada,308,20230001,,000000-2000005505/8040,Pronájem auta,pavel_fischer

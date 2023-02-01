@@ -1,4 +1,5 @@
 date,amount,currency,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity
+2023-01-31,-282.83,CZK,Karetní transakce,,"Nákup: FACEBK ZVNW8KBJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.1.2023, částka  282.83 CZK",,5298,,"Nákup: FACEBK ZVNW8KBJ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.1.2023, částka  282.83 CZK",marek_hilser
 2023-01-24,-5000,CZK,Platba převodem uvnitř banky,,,,,,propagace a podpora prezidentského kandidáta PP ve 2. kole - Brno 22.1.2023,marek_hilser
 2023-01-24,-15500,CZK,Okamžitá odchozí platba,,,,,,faktura 2023/001 - produkční práce + administrace webových stránek říjen-leden,marek_hilser
 2023-01-24,-20000,CZK,Platba převodem uvnitř banky,,,,220100019,,Faktura 220100019 - propagační materiály,marek_hilser

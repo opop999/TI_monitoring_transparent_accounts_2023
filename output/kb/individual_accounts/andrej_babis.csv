@@ -1,13 +1,32 @@
 id,date,amount,type,contra_account_name,message_for_recipient,currency,vs,ks,ss,entity
+361-01022023 1086 086150 501922,2023-02-01,0.01,Příchozí platba,Michnová Marie,"Mejdan skončil, Babiši a spol., je čas vystavit fakturu, ze žádného lokálu se neodchází bez placení, jak sám dobře víš :-):-):-)",CZK,0,0,0,andrej_babis
+361-01022023 1086 086144 501861,2023-02-01,0.01,Příchozí platba,Michnová Marie,"Konec letitého triumvirátu K-Z-B, konečně :-):-):-)",CZK,0,0,0,andrej_babis
+361-01022023 1086 086150 501844,2023-02-01,0.01,Příchozí platba,Michnová Marie,"Poslové špatných zpráv, takoví jsou nejlepší, takových si moudří váží",CZK,0,0,0,andrej_babis
+361-01022023 1086 086148 101819,2023-02-01,0.01,Příchozí platba,Michnová Marie,"Do paláce nedoléhá hlas ulice, to si moudrý musí ohlídat a jít mezi lid",CZK,0,0,0,andrej_babis
+361-01022023 1086 086145 101789,2023-02-01,0.01,Příchozí platba,Michnová Marie,"Pamatuj, jen hloupý vládce dá se zavřít do zlaté klece :-):-):-)",CZK,0,0,0,andrej_babis
+361-01022023 1086 086146 501730,2023-02-01,0.01,Příchozí platba,Michnová Marie,"Čemu se tu divíš, když strach v nenávist přetavíš",CZK,0,0,0,andrej_babis
+361-01022023 1086 086145 101699,2023-02-01,0.01,Příchozí platba,Michnová Marie,"Každý žhář vždy musí počítat s tím, že sám v hořícím stohu uhoří",CZK,0,0,0,andrej_babis
+361-01022023 1086 086146 501211,2023-02-01,0.01,Příchozí platba,Ing. Tomáš Vondra,"AB ve čtvrtek: ""Vsaďte si 1000 Kč a přijďte všichni volit, vyhrajete 12.000 Kč."" AB v pondělí: ""Čekal jsem, že prohraju."" JE TO PODVODNÍK!!!",CZK,25085,25085,25085,andrej_babis
+361-01022023 1086 086148 501132,2023-02-01,0.01,Příchozí platba,Ing. Tomáš Vondra,"Ano, bez Babiše bude líp.",CZK,25085,25085,25085,andrej_babis
 120-20230130 185930533,2023-01-31,0.01,Příchozí platba,Michnová Marie,"Všechny vzkazy jsem poslala 28. 01. 2023, nikoli 30. 01. 2023. Čí prospěch? Lháře Babiše. Proč? Aby bylo jasno, tohle jasné je i dítěti",CZK,0,0,0,andrej_babis
-120-20230131 T02AR0HSGDPP9,2023-01-31,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+001-31012023 1602 602000 440521,2023-01-31,-1,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,9,558,0,andrej_babis
 120-20230131 T02AR0HSGDPP8,2023-01-31,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
-361-31012023 1086 086148 501066,2023-01-31,0.01,Příchozí platba,Milan Šmíd,"Keťas Babiš se mstí voličům: kilo mouky 21,90 (před válkou 4,20)",CZK,25085,666,88,andrej_babis
-361-31012023 1086 086149 500516,2023-01-31,0.01,Příchozí platba,Michnová Marie,"Dobrou noc, krasavče, rytíři smutné postavy, bez bázně a hany jdoucí vstříc své zkáze a to dobrovolně sám :-):-):-)",CZK,0,0,0,andrej_babis
-361-31012023 1086 086143 100509,2023-01-31,0.01,Příchozí platba,Michnová Marie,"Touha po moci to je to, po čem individua typu AB nezřízeně touží :-):-):-)",CZK,0,0,0,andrej_babis
+001-31012023 1602 602035 440501,2023-01-31,-1,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,9,558,0,andrej_babis
+120-20230131 T02AR0HSGDPP9,2023-01-31,0.01,Příchozí platba,ONDREJ SMID,"BUREŠI, SNAŽÍŠ SE O IMUNITU MARNĚ. TAK ČI ONAK SKONČÍŠ NA HRADĚ, ALE BUDE JÍM MÍROV!",CZK,25085,0,0,andrej_babis
+001-31012023 1602 602033 440481,2023-01-31,-3.44,Odchozí platba,,"odvod do statniho rozpoctu, nevyzadane platby",CZK,20230131,558,0,andrej_babis
 361-31012023 1086 086149 100490,2023-01-31,0.01,Příchozí platba,Michnová Marie,"Bezkonkurenčně chronický lháři, nebezpečný manipulátore, takhle naivně lhát, tomu nelze se nesmát :-):-):-)",CZK,0,0,0,andrej_babis
 361-31012023 1086 086142 500499,2023-01-31,0.01,Příchozí platba,Michnová Marie,"Ten výprask, to byla věc, to by chtělo repete vždy nejméně 5x denně :-):-):-)",CZK,0,0,0,andrej_babis
+361-31012023 1086 086143 100509,2023-01-31,0.01,Příchozí platba,Michnová Marie,"Touha po moci to je to, po čem individua typu AB nezřízeně touží :-):-):-)",CZK,0,0,0,andrej_babis
+361-31012023 1086 086149 500516,2023-01-31,0.01,Příchozí platba,Michnová Marie,"Dobrou noc, krasavče, rytíři smutné postavy, bez bázně a hany jdoucí vstříc své zkáze a to dobrovolně sám :-):-):-)",CZK,0,0,0,andrej_babis
 361-31012023 1086 086151 500526,2023-01-31,0.01,Příchozí platba,Michnová Marie,"Vážený pane prezidente Pavle, díky za to, že jste deklasoval AB až do nejhlubšího suterénu :-):-):-)",CZK,0,0,0,andrej_babis
+361-31012023 1086 086148 501066,2023-01-31,0.01,Příchozí platba,Milan Šmíd,"Keťas Babiš se mstí voličům: kilo mouky 21,90 (před válkou 4,20)",CZK,25085,666,88,andrej_babis
+361-31012023 1086 086145 105007,2023-01-31,0.01,Příchozí platba,Michnová Marie,"Zhasla světla, ztichl sál, koukej mazat, kráčej dál :-):-):-)",CZK,0,0,0,andrej_babis
+361-31012023 1086 086148 105018,2023-01-31,0.01,Příchozí platba,Michnová Marie,"To je ten nejlepší špás, když zákopníka vyhodí jeho vlastní nálož - Shakespeare :-):-):-)",CZK,0,0,0,andrej_babis
+361-31012023 1086 086151 505025,2023-01-31,0.01,Příchozí platba,Michnová Marie,"Detox, nápad za milion, ale chtělo by to detox doživotní :-):-):-)",CZK,0,0,0,andrej_babis
+361-31012023 1086 086146 505041,2023-01-31,0.01,Příchozí platba,Michnová Marie,"K čertu s penězi, v nich podstata štěstí nevězí :-):-):-)",CZK,0,0,0,andrej_babis
+361-31012023 1086 086148 105057,2023-01-31,0.01,Příchozí platba,Michnová Marie,"I kdybys za pravdu život dal, Babiš bude mlít svou dál :-):-):-)",CZK,0,0,0,andrej_babis
+361-31012023 1086 086147 505136,2023-01-31,0.01,Příchozí platba,Ing. Tomáš Vondra,"Ve čtvrtek oklamal tisíce lidí, v neděli zalezl do nory. Snad už odtamtud nikdy nevyleze.",CZK,25085,25085,25085,andrej_babis
+001-31012023 1602 602034 440491,2023-01-31,-10,Odchozí platba,,"Dekuji za podporu, vazim si ji.",CZK,9,558,0,andrej_babis
 120-20230130 2248314407,2023-01-30,0.01,Příchozí platba,Milan Šmíd,Dosáhli jsme famózního pokoření )),CZK,25085,666,88,andrej_babis
 120-20230128 T02AR0HSEKQC7,2023-01-30,0.01,Příchozí platba,JAN KUZELKA,MAREK VYPRCHAL,CZK,0,0,0,andrej_babis
 001-30012023 1602 602019 572911,2023-01-30,0.01,Příchozí platba,FOREJT PAVEL,Blahopřeji Vám ke skvělému druhému místu ve druhém kole prezidentských voleb. Příště už se ani nemusíte snažit kandidovat soudruhu Babiši.,CZK,0,0,0,andrej_babis
