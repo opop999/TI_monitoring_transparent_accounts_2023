@@ -1,4 +1,9 @@
 date,amount,currency,type,ks,vs,ss,contra_account_name,message_for_recipient,entity
+2023-02-02,2000,CZK,Úhrada z automatického zápočtu,,,,Zima Tomáš,,tomas_zima
+2023-02-01,-0.09,CZK,Daň z úroku,,,,-,,tomas_zima
+2023-02-01,0.63,CZK,Kreditní úrok,,,,,,tomas_zima
+2023-02-01,-2500,CZK,Cena za službu Erste Premier,,,,-,,tomas_zima
+2023-01-25,-7260,CZK,Tuzemská odchozí úhrada,,,,000000-1014979656/5500,Platba faktury FVT-257/2023,tomas_zima
 2023-02-01,-0.09,CZK,Daň z úroku,0,,0,-,,tomas_zima
 2023-02-01,0.63,CZK,Kreditní úrok,0,,0,,,tomas_zima
 2023-02-01,-2500,CZK,Cena za službu Erste Premier,0,,0,-,,tomas_zima
